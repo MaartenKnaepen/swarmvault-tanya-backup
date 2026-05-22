@@ -1,0 +1,18 @@
+{
+  "sourceId": "insights-1398dcf3",
+  "title": "Insights",
+  "originType": "file",
+  "sourceKind": "markdown",
+  "sourceClass": "first_party",
+  "originalPath": "/mnt/data/knowledge-tanya/wiki/insights/index.md",
+  "repoRelativePath": "wiki/insights/index.md",
+  "storedPath": "raw/sources/insights-1398dcf3.md",
+  "extractedTextPath": "state/extracts/insights-1398dcf3.md",
+  "extractedMetadataPath": "state/extracts/insights-1398dcf3.json",
+  "extractionHash": "b0275d136f0ba579c274fb5da17b7f659765c0ec54cf832eee57958a71da288e",
+  "mimeType": "text/markdown",
+  "contentHash": "1398dcf3b60f9b8faa272001e7763482c88e6daa261763cc6cfe6c3c4e4b38ce",
+  "semanticHash": "7ed98748976e1b249ce944a23513c98359945683c317056d0d40b761308abce6",
+  "createdAt": "2026-05-22T19:04:19.940Z",
+  "updatedAt": "2026-05-22T19:04:19.940Z"
+}

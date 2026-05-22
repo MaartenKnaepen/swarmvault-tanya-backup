@@ -1,0 +1,615 @@
+{
+  "generatedAt": "2026-05-22T19:04:20.572Z",
+  "graphHash": "8ce94f36378f4bcbf50a00ccb2aae19e333aea8346fabe0b5a723985f27c3355",
+  "overview": {
+    "nodes": 48,
+    "edges": 49,
+    "pages": 57,
+    "communities": 5
+  },
+  "firstPartyOverview": {
+    "nodes": 48,
+    "edges": 49,
+    "pages": 48,
+    "communities": 5
+  },
+  "sourceClassBreakdown": {
+    "first_party": {
+      "sources": 5,
+      "pages": 48,
+      "nodes": 48
+    },
+    "third_party": {
+      "sources": 0,
+      "pages": 0,
+      "nodes": 0
+    },
+    "resource": {
+      "sources": 0,
+      "pages": 0,
+      "nodes": 0
+    },
+    "generated": {
+      "sources": 0,
+      "pages": 0,
+      "nodes": 0
+    }
+  },
+  "warnings": [],
+  "benchmark": {
+    "generatedAt": "2026-05-22T19:04:20.383Z",
+    "stale": false,
+    "summary": {
+      "questionCount": 3,
+      "uniqueVisitedNodes": 12,
+      "finalContextTokens": 2315,
+      "naiveCorpusTokens": 517,
+      "avgReduction": -3.478,
+      "reductionRatio": -3.478
+    },
+    "questionCount": 3,
+    "byClass": {
+      "first_party": {
+        "sourceCount": 5,
+        "pageCount": 48,
+        "nodeCount": 48,
+        "godNodeCount": 26,
+        "finalContextTokens": 1698,
+        "naiveCorpusTokens": 517,
+        "reductionRatio": -2.284
+      },
+      "third_party": {
+        "sourceCount": 0,
+        "pageCount": 0,
+        "nodeCount": 0,
+        "godNodeCount": 0,
+        "finalContextTokens": 0,
+        "naiveCorpusTokens": 0,
+        "reductionRatio": 0
+      },
+      "resource": {
+        "sourceCount": 0,
+        "pageCount": 0,
+        "nodeCount": 0,
+        "godNodeCount": 0,
+        "finalContextTokens": 0,
+        "naiveCorpusTokens": 0,
+        "reductionRatio": 0
+      },
+      "generated": {
+        "sourceCount": 0,
+        "pageCount": 0,
+        "nodeCount": 0,
+        "godNodeCount": 0,
+        "finalContextTokens": 0,
+        "naiveCorpusTokens": 0,
+        "reductionRatio": 0
+      }
+    }
+  },
+  "godNodes": [
+    {
+      "nodeId": "concept:compile",
+      "label": "compile",
+      "pageId": "concept:compile",
+      "degree": 21,
+      "bridgeScore": 2,
+      "surpriseReason": "degree 21, across 3 communities, 3.7σ above mean"
+    },
+    {
+      "nodeId": "concept:index",
+      "label": "index",
+      "pageId": "concept:index",
+      "degree": 14,
+      "bridgeScore": 1,
+      "surpriseReason": "degree 14, bridges 2 communities"
+    },
+    {
+      "nodeId": "concept:object",
+      "label": "object",
+      "pageId": "concept:object",
+      "degree": 12,
+      "bridgeScore": 0,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "nodeId": "concept:keys",
+      "label": "keys",
+      "pageId": "concept:keys",
+      "degree": 12,
+      "bridgeScore": 0,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "nodeId": "concept:local",
+      "label": "local",
+      "pageId": "concept:local",
+      "degree": 12,
+      "bridgeScore": 0,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "nodeId": "concept:false",
+      "label": "false",
+      "pageId": "concept:false",
+      "degree": 12,
+      "bridgeScore": 0,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "nodeId": "concept:agents",
+      "label": "agents",
+      "pageId": "concept:agents",
+      "degree": 12,
+      "bridgeScore": 0,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "nodeId": "concept:heuristic",
+      "label": "heuristic",
+      "pageId": "concept:heuristic",
+      "degree": 12,
+      "bridgeScore": 0,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "nodeId": "concept:should",
+      "label": "should",
+      "pageId": "concept:should",
+      "degree": 12,
+      "bridgeScore": 0,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "nodeId": "concept:source",
+      "label": "source",
+      "pageId": "concept:source",
+      "degree": 12,
+      "bridgeScore": 0,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "nodeId": "concept:vault",
+      "label": "vault",
+      "pageId": "concept:vault",
+      "degree": 12,
+      "bridgeScore": 0,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "nodeId": "concept:claims",
+      "label": "claims",
+      "pageId": "concept:claims",
+      "degree": 12,
+      "bridgeScore": 0,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "nodeId": "concept:concept",
+      "label": "concept",
+      "pageId": "concept:concept",
+      "degree": 12,
+      "bridgeScore": 0,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "nodeId": "concept:domain",
+      "label": "domain",
+      "pageId": "concept:domain",
+      "degree": 12,
+      "bridgeScore": 0,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "nodeId": "entity:format",
+      "label": "Format:",
+      "pageId": "entity:format",
+      "degree": 12,
+      "bridgeScore": 0,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "nodeId": "entity:top",
+      "label": "Top-",
+      "pageId": "entity:top",
+      "degree": 12,
+      "bridgeScore": 0,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "nodeId": "entity:size",
+      "label": "Size:",
+      "pageId": "entity:size",
+      "degree": 12,
+      "bridgeScore": 0,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "nodeId": "entity:nested",
+      "label": "Nested",
+      "pageId": "entity:nested",
+      "degree": 12,
+      "bridgeScore": 0,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "nodeId": "entity:schema",
+      "label": "Schema -",
+      "pageId": "entity:schema",
+      "degree": 12,
+      "bridgeScore": 0,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "nodeId": "entity:preview",
+      "label": "Preview",
+      "pageId": "entity:preview",
+      "degree": 12,
+      "bridgeScore": 0,
+      "surpriseReason": "degree 12"
+    }
+  ],
+  "bridgeNodes": [
+    {
+      "nodeId": "source:candidates-5d9c2771",
+      "label": "Candidates",
+      "pageId": "source:candidates-5d9c2771",
+      "degree": 10,
+      "bridgeScore": 2
+    },
+    {
+      "nodeId": "source:insights-1398dcf3",
+      "label": "Insights",
+      "pageId": "source:insights-1398dcf3",
+      "degree": 9,
+      "bridgeScore": 2
+    },
+    {
+      "nodeId": "concept:compile",
+      "label": "compile",
+      "pageId": "concept:compile",
+      "degree": 21,
+      "bridgeScore": 2
+    },
+    {
+      "nodeId": "source:projects-acb5fd10",
+      "label": "Projects",
+      "pageId": "source:projects-acb5fd10",
+      "degree": 9,
+      "bridgeScore": 1
+    },
+    {
+      "nodeId": "source:swarmvault-config-a48adfce",
+      "label": "swarmvault.config",
+      "pageId": "source:swarmvault-config-a48adfce",
+      "degree": 12,
+      "bridgeScore": 1
+    },
+    {
+      "nodeId": "source:swarmvault-schema-b10ad2d9",
+      "label": "SwarmVault Schema",
+      "pageId": "source:swarmvault-schema-b10ad2d9",
+      "degree": 12,
+      "bridgeScore": 1
+    },
+    {
+      "nodeId": "concept:candidates",
+      "label": "candidates",
+      "pageId": "concept:candidates",
+      "degree": 8,
+      "bridgeScore": 1
+    },
+    {
+      "nodeId": "concept:candidate",
+      "label": "candidate",
+      "pageId": "concept:candidate",
+      "degree": 8,
+      "bridgeScore": 1
+    }
+  ],
+  "thinCommunities": [],
+  "surprisingConnections": [
+    {
+      "id": "similar:ad4cb01c9cdbdeff",
+      "sourceNodeId": "source:candidates-5d9c2771",
+      "sourceLabel": "Candidates",
+      "targetNodeId": "source:projects-acb5fd10",
+      "targetLabel": "Projects",
+      "relation": "semantically_similar_to",
+      "evidenceClass": "inferred",
+      "confidence": 0.7142398369521534,
+      "pathNodeIds": [
+        "source:candidates-5d9c2771",
+        "source:projects-acb5fd10"
+      ],
+      "pathEdgeIds": [
+        "similar:ad4cb01c9cdbdeff"
+      ],
+      "pathRelations": [
+        "semantically_similar_to"
+      ],
+      "pathEvidenceClasses": [
+        "inferred"
+      ],
+      "pathSummary": "Candidates -> Projects",
+      "why": "it crosses communities community:candidates-4 and community:compile-3; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern",
+      "explanation": "Candidates connects to Projects because it crosses communities community:candidates-4 and community:compile-3; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern."
+    },
+    {
+      "id": "similar:320c5f8d7ed72f3a",
+      "sourceNodeId": "source:candidates-5d9c2771",
+      "sourceLabel": "Candidates",
+      "targetNodeId": "source:insights-1398dcf3",
+      "targetLabel": "Insights",
+      "relation": "semantically_similar_to",
+      "evidenceClass": "inferred",
+      "confidence": 0.6465139497297556,
+      "pathNodeIds": [
+        "source:candidates-5d9c2771",
+        "source:insights-1398dcf3"
+      ],
+      "pathEdgeIds": [
+        "similar:320c5f8d7ed72f3a"
+      ],
+      "pathRelations": [
+        "semantically_similar_to"
+      ],
+      "pathEvidenceClasses": [
+        "inferred"
+      ],
+      "pathSummary": "Candidates -> Insights",
+      "why": "it crosses communities community:candidates-4 and community:insights-5; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern",
+      "explanation": "Candidates connects to Insights because it crosses communities community:candidates-4 and community:insights-5; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern."
+    },
+    {
+      "id": "similar:d62b10b89cd1cb6c",
+      "sourceNodeId": "source:insights-1398dcf3",
+      "sourceLabel": "Insights",
+      "targetNodeId": "source:projects-acb5fd10",
+      "targetLabel": "Projects",
+      "relation": "semantically_similar_to",
+      "evidenceClass": "inferred",
+      "confidence": 0.6465139497297556,
+      "pathNodeIds": [
+        "source:insights-1398dcf3",
+        "source:projects-acb5fd10"
+      ],
+      "pathEdgeIds": [
+        "similar:d62b10b89cd1cb6c"
+      ],
+      "pathRelations": [
+        "semantically_similar_to"
+      ],
+      "pathEvidenceClasses": [
+        "inferred"
+      ],
+      "pathSummary": "Insights -> Projects",
+      "why": "it crosses communities community:insights-5 and community:compile-3; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern",
+      "explanation": "Insights connects to Projects because it crosses communities community:insights-5 and community:compile-3; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern."
+    },
+    {
+      "id": "candidates-5d9c2771->concept:compile",
+      "sourceNodeId": "source:candidates-5d9c2771",
+      "sourceLabel": "Candidates",
+      "targetNodeId": "concept:compile",
+      "targetLabel": "compile",
+      "relation": "mentions",
+      "evidenceClass": "extracted",
+      "confidence": 0.55,
+      "pathNodeIds": [
+        "source:candidates-5d9c2771",
+        "concept:compile"
+      ],
+      "pathEdgeIds": [
+        "candidates-5d9c2771->concept:compile"
+      ],
+      "pathRelations": [
+        "mentions"
+      ],
+      "pathEvidenceClasses": [
+        "extracted"
+      ],
+      "pathSummary": "Candidates -> compile",
+      "why": "it crosses communities community:candidates-4 and community:compile-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved; it also appears in 1 group pattern",
+      "explanation": "Candidates connects to compile because it crosses communities community:candidates-4 and community:compile-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved; it also appears in 1 group pattern."
+    },
+    {
+      "id": "insights-1398dcf3->concept:compile",
+      "sourceNodeId": "source:insights-1398dcf3",
+      "sourceLabel": "Insights",
+      "targetNodeId": "concept:compile",
+      "targetLabel": "compile",
+      "relation": "mentions",
+      "evidenceClass": "extracted",
+      "confidence": 0.55,
+      "pathNodeIds": [
+        "source:insights-1398dcf3",
+        "concept:compile"
+      ],
+      "pathEdgeIds": [
+        "insights-1398dcf3->concept:compile"
+      ],
+      "pathRelations": [
+        "mentions"
+      ],
+      "pathEvidenceClasses": [
+        "extracted"
+      ],
+      "pathSummary": "Insights -> compile",
+      "why": "it crosses communities community:insights-5 and community:compile-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved; it also appears in 1 group pattern",
+      "explanation": "Insights connects to compile because it crosses communities community:insights-5 and community:compile-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved; it also appears in 1 group pattern."
+    },
+    {
+      "id": "candidates-5d9c2771->concept:index",
+      "sourceNodeId": "source:candidates-5d9c2771",
+      "sourceLabel": "Candidates",
+      "targetNodeId": "concept:index",
+      "targetLabel": "index",
+      "relation": "mentions",
+      "evidenceClass": "extracted",
+      "confidence": 0.55,
+      "pathNodeIds": [
+        "source:candidates-5d9c2771",
+        "concept:index"
+      ],
+      "pathEdgeIds": [
+        "candidates-5d9c2771->concept:index"
+      ],
+      "pathRelations": [
+        "mentions"
+      ],
+      "pathEvidenceClasses": [
+        "extracted"
+      ],
+      "pathSummary": "Candidates -> index",
+      "why": "it crosses communities community:candidates-4 and community:compile-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved",
+      "explanation": "Candidates connects to index because it crosses communities community:candidates-4 and community:compile-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved."
+    },
+    {
+      "id": "projects-acb5fd10->concept:compile",
+      "sourceNodeId": "source:projects-acb5fd10",
+      "sourceLabel": "Projects",
+      "targetNodeId": "concept:compile",
+      "targetLabel": "compile",
+      "relation": "mentions",
+      "evidenceClass": "extracted",
+      "confidence": 0.55,
+      "pathNodeIds": [
+        "source:projects-acb5fd10",
+        "concept:compile"
+      ],
+      "pathEdgeIds": [
+        "projects-acb5fd10->concept:compile"
+      ],
+      "pathRelations": [
+        "mentions"
+      ],
+      "pathEvidenceClasses": [
+        "extracted"
+      ],
+      "pathSummary": "Projects -> compile",
+      "why": "it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved; it also appears in 1 group pattern",
+      "explanation": "Projects connects to compile because it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved; it also appears in 1 group pattern."
+    },
+    {
+      "id": "candidates-5d9c2771->concept:candidate",
+      "sourceNodeId": "source:candidates-5d9c2771",
+      "sourceLabel": "Candidates",
+      "targetNodeId": "concept:candidate",
+      "targetLabel": "candidate",
+      "relation": "mentions",
+      "evidenceClass": "extracted",
+      "confidence": 0.55,
+      "pathNodeIds": [
+        "source:candidates-5d9c2771",
+        "concept:candidate"
+      ],
+      "pathEdgeIds": [
+        "candidates-5d9c2771->concept:candidate"
+      ],
+      "pathRelations": [
+        "mentions"
+      ],
+      "pathEvidenceClasses": [
+        "extracted"
+      ],
+      "pathSummary": "Candidates -> candidate",
+      "why": "it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved",
+      "explanation": "Candidates connects to candidate because it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved."
+    }
+  ],
+  "groupPatterns": [
+    {
+      "id": "hyper:2c2e41328d459370",
+      "label": "compile",
+      "relation": "participate_in",
+      "nodeIds": [
+        "concept:compile",
+        "source:candidates-5d9c2771",
+        "source:insights-1398dcf3",
+        "source:projects-acb5fd10"
+      ],
+      "evidenceClass": "extracted",
+      "confidence": 0.8999999999999999,
+      "sourcePageIds": [
+        "concept:compile",
+        "source:candidates-5d9c2771",
+        "source:insights-1398dcf3",
+        "source:projects-acb5fd10"
+      ],
+      "why": "3 source nodes converge on compile through extracted mention edges."
+    }
+  ],
+  "suggestedQuestions": [
+    "Why does Candidates connect multiple communities in the vault?",
+    "Why does Insights connect multiple communities in the vault?",
+    "Why does compile connect multiple communities in the vault?"
+  ],
+  "communityPages": [
+    {
+      "id": "graph:community:object-1",
+      "path": "graph/communities/object-1.md",
+      "title": "Community: object"
+    },
+    {
+      "id": "graph:community:should-2",
+      "path": "graph/communities/should-2.md",
+      "title": "Community: should"
+    },
+    {
+      "id": "graph:community:compile-3",
+      "path": "graph/communities/compile-3.md",
+      "title": "Community: compile"
+    },
+    {
+      "id": "graph:community:candidates-4",
+      "path": "graph/communities/candidates-4.md",
+      "title": "Community: candidates"
+    },
+    {
+      "id": "graph:community:insights-5",
+      "path": "graph/communities/insights-5.md",
+      "title": "Community: insights"
+    }
+  ],
+  "recentResearchSources": [],
+  "contradictions": [],
+  "communityCohesion": [
+    {
+      "id": "community:object-1",
+      "label": "object",
+      "nodeCount": 12,
+      "cohesion": 0
+    },
+    {
+      "id": "community:should-2",
+      "label": "should",
+      "nodeCount": 12,
+      "cohesion": 0
+    },
+    {
+      "id": "community:compile-3",
+      "label": "compile",
+      "nodeCount": 7,
+      "cohesion": 0
+    },
+    {
+      "id": "community:candidates-4",
+      "label": "candidates",
+      "nodeCount": 6,
+      "cohesion": 0
+    },
+    {
+      "id": "community:insights-5",
+      "label": "insights",
+      "nodeCount": 6,
+      "cohesion": 0
+    }
+  ],
+  "knowledgeGaps": {
+    "isolatedNodes": [],
+    "thinCommunityCount": 0,
+    "ambiguousEdgeRatio": 0,
+    "warnings": []
+  }
+}

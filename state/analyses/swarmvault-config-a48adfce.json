@@ -1,0 +1,92 @@
+{
+  "analysisVersion": 8,
+  "sourceId": "swarmvault-config-a48adfce",
+  "sourceHash": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1",
+  "semanticHash": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1",
+  "extractionHash": "1d3c5c5f6df5663e3afecd09a28702213791bda57c3160892bff4ed576bb9350",
+  "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+  "title": "swarmvault.config",
+  "summary": "swarmvault.config Format: JSON Top-level: object Size: 13 Nested depth: 4 ## Schema - workspace: object (5 keys) - providers: object (1 keys) - tasks: object (5 keys) - viewer: object (1 keys) - profile: object (6 keys) - projects: object (0 keys) - agents: array (0 items) - schedules: object (0 keys) - orchestration: object (3 keys) - benchmark: object (3 keys) - repoAnalysis: object (2 keys) - graphSinks: object (0 keys) - retrieval: object (4 keys) ## Preview json { \"workspace\": { \"rawDir\": \"raw\", \"wikiDir\": \"wiki\", \"stateDir\": \"state\", \"agentDir\": \"agent\", \"inboxDir\": \"inbox\" }, \"providers\": { \"local\": { \"type\": \"heuristic\", \"model\": \"heuristic-v1\", \"capabilities\": [ \"chat\", \"structured\", \"vision\", \"local\" ] } }, \"tasks\": { \"compileProvider\": \"local\", \"queryProvider\": \"local\", \"lintProvider\": \"local\", \"visionProvider\": \"local\", \"imageProvider\": \"local\" }, \"viewer\": { \"port\": 4123 }, \"profile\": { \"presets\": [], \"dashboardPack\": \"default\", \"guidedSessionMode\": \"insights_only\", \"dataviewBlocks\": false, \"guidedIngestDefault\": false, \"deepLintDefault\": false }, \"projects\": {}, \"agents\": [], …",
+  "concepts": [
+    {
+      "id": "concept:object",
+      "name": "object",
+      "description": "Frequently referenced concept in swarmvault.config."
+    },
+    {
+      "id": "concept:keys",
+      "name": "keys",
+      "description": "Frequently referenced concept in swarmvault.config."
+    },
+    {
+      "id": "concept:local",
+      "name": "local",
+      "description": "Frequently referenced concept in swarmvault.config."
+    },
+    {
+      "id": "concept:false",
+      "name": "false",
+      "description": "Frequently referenced concept in swarmvault.config."
+    },
+    {
+      "id": "concept:agents",
+      "name": "agents",
+      "description": "Frequently referenced concept in swarmvault.config."
+    },
+    {
+      "id": "concept:heuristic",
+      "name": "heuristic",
+      "description": "Frequently referenced concept in swarmvault.config."
+    }
+  ],
+  "entities": [
+    {
+      "id": "entity:format",
+      "name": "Format:",
+      "description": "Named entity mentioned in swarmvault.config."
+    },
+    {
+      "id": "entity:top",
+      "name": "Top-",
+      "description": "Named entity mentioned in swarmvault.config."
+    },
+    {
+      "id": "entity:size",
+      "name": "Size:",
+      "description": "Named entity mentioned in swarmvault.config."
+    },
+    {
+      "id": "entity:nested",
+      "name": "Nested",
+      "description": "Named entity mentioned in swarmvault.config."
+    },
+    {
+      "id": "entity:schema",
+      "name": "Schema -",
+      "description": "Named entity mentioned in swarmvault.config."
+    },
+    {
+      "id": "entity:preview",
+      "name": "Preview",
+      "description": "Named entity mentioned in swarmvault.config."
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim:swarmvault-config-a48adfce:1",
+      "text": "swarmvault.config Format: JSON Top-level: object Size: 13 Nested depth: 4 ## Schema - workspace: object (5 keys) - providers: object (1 keys) - tasks: object (5 keys) - viewer: object (1 keys) - profile: object (6 keys) - projects: object (0 keys) - agents: array (0 items) - schedules: object (0 keys) - orchestration: object (3 keys) - benchmark: object (3 keys) - repoAnalysis: object (2 keys) - graphSinks: object (0 keys) - retrieval: object (4 keys) ## Preview json { \"workspace\": { \"rawDir\": \"raw\", \"wikiDir\": \"wiki\", \"stateDir\": \"state\", \"agentDir\": \"agent\", \"inboxDir\": \"inbox\" }, \"providers\": { \"local\": { \"type\": \"heuristic\", \"model\": \"heuristic-v1\", \"capabilities\": [ \"chat\", \"structured\", \"vision\", \"local\" ] } }, \"tasks\": { \"compileProvider\": \"local\", \"queryProvider\": \"local\", \"lintProvider\": \"local\", \"visionProvider\": \"local\", \"imageProvider\": \"local\" }, \"viewer\": { \"port\": 4123 }, \"profile\": { \"presets\": [], \"dashboardPack\": \"default\", \"guidedSessionMode\": \"insights_only\", \"dataviewBlocks\": false, \"guidedIngestDefault\": false, \"deepLintDefault\": false }, \"projects\": {}, \"agents\": [], …",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "swarmvault-config-a48adfce"
+    }
+  ],
+  "questions": [
+    "How does object relate to swarmvault.config?",
+    "How does keys relate to swarmvault.config?",
+    "How does local relate to swarmvault.config?"
+  ],
+  "tags": [],
+  "rationales": [],
+  "producedAt": "2026-05-22T19:04:20.035Z"
+}

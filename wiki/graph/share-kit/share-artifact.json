@@ -1,0 +1,116 @@
+{
+  "generatedAt": "2026-05-22T19:04:20.575Z",
+  "vaultName": "knowledge-tanya",
+  "tagline": "A local-first map of knowledge-tanya: 5 sources compiled into 48 graph nodes and 57 wiki pages.",
+  "overview": {
+    "sources": 5,
+    "nodes": 48,
+    "edges": 49,
+    "pages": 57,
+    "communities": 5
+  },
+  "firstPartyOverview": {
+    "nodes": 48,
+    "edges": 49,
+    "pages": 48,
+    "communities": 5
+  },
+  "highlights": {
+    "topHubs": [
+      {
+        "nodeId": "concept:compile",
+        "label": "compile",
+        "degree": 21
+      },
+      {
+        "nodeId": "concept:index",
+        "label": "index",
+        "degree": 14
+      },
+      {
+        "nodeId": "concept:object",
+        "label": "object",
+        "degree": 12
+      },
+      {
+        "nodeId": "concept:keys",
+        "label": "keys",
+        "degree": 12
+      },
+      {
+        "nodeId": "concept:local",
+        "label": "local",
+        "degree": 12
+      }
+    ],
+    "bridgeNodes": [
+      {
+        "nodeId": "source:candidates-5d9c2771",
+        "label": "Candidates",
+        "bridgeScore": 2
+      },
+      {
+        "nodeId": "source:insights-1398dcf3",
+        "label": "Insights",
+        "bridgeScore": 2
+      },
+      {
+        "nodeId": "concept:compile",
+        "label": "compile",
+        "bridgeScore": 2
+      }
+    ],
+    "surprisingConnections": [
+      {
+        "sourceLabel": "Candidates",
+        "targetLabel": "Projects",
+        "relation": "semantically_similar_to",
+        "why": "it crosses communities community:candidates-4 and community:compile-3; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts...."
+      },
+      {
+        "sourceLabel": "Candidates",
+        "targetLabel": "Insights",
+        "relation": "semantically_similar_to",
+        "why": "it crosses communities community:candidates-4 and community:insights-5; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts..."
+      },
+      {
+        "sourceLabel": "Insights",
+        "targetLabel": "Projects",
+        "relation": "semantically_similar_to",
+        "why": "it crosses communities community:insights-5 and community:compile-3; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; ..."
+      }
+    ],
+    "suggestedQuestions": [
+      "Why does Candidates connect multiple communities in the vault?",
+      "Why does Insights connect multiple communities in the vault?",
+      "Why does compile connect multiple communities in the vault?"
+    ]
+  },
+  "knowledgeGaps": [],
+  "shortPost": "I scanned knowledge-tanya with SwarmVault: 5 sources -> 57 wiki pages, 48 graph nodes, 49 edges.\nTop hubs: compile, index, and object.\nMost surprising link: Candidates semantically_similar_to Projects.\nEverything stays local. Try: npm install -g @swarmvaultai/cli && swarmvault quickstart ./your-repo",
+  "relatedNodeIds": [
+    "concept:compile",
+    "concept:index",
+    "concept:object",
+    "concept:keys",
+    "concept:local",
+    "source:candidates-5d9c2771",
+    "source:insights-1398dcf3"
+  ],
+  "relatedPageIds": [
+    "concept:compile",
+    "concept:index",
+    "concept:object",
+    "concept:keys",
+    "concept:local",
+    "source:candidates-5d9c2771",
+    "source:insights-1398dcf3"
+  ],
+  "relatedSourceIds": [
+    "candidates-5d9c2771",
+    "insights-1398dcf3",
+    "projects-acb5fd10",
+    "swarmvault-config-a48adfce",
+    "swarmvault-schema-b10ad2d9"
+  ]
+}

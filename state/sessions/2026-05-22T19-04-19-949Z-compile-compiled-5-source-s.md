@@ -1,0 +1,182 @@
+---
+session_id: 2026-05-22T19-04-19-949Z-compile-compiled-5-source-s
+operation: compile
+title: Compiled 5 source(s)
+started_at: '2026-05-22T19:04:19.949Z'
+finished_at: '2026-05-22T19:04:20.661Z'
+duration_ms: 712
+provider: local
+success: true
+related_source_ids:
+  - candidates-5d9c2771
+  - insights-1398dcf3
+  - projects-acb5fd10
+  - swarmvault-config-a48adfce
+  - swarmvault-schema-b10ad2d9
+related_page_ids:
+  - 'source:candidates-5d9c2771'
+  - 'source:insights-1398dcf3'
+  - 'source:projects-acb5fd10'
+  - 'source:swarmvault-config-a48adfce'
+  - 'source:swarmvault-schema-b10ad2d9'
+  - 'concept:candidates'
+  - 'concept:candidate'
+  - 'concept:compile'
+  - 'concept:index'
+  - 'concept:pages'
+  - 'concept:stage'
+  - 'concept:insights'
+  - 'concept:swarmvault'
+  - 'concept:applies'
+  - 'concept:authored'
+  - 'concept:during'
+  - 'concept:projects'
+  - 'concept:build'
+  - 'concept:project'
+  - 'concept:rollups'
+  - 'concept:object'
+  - 'concept:keys'
+  - 'concept:local'
+  - 'concept:false'
+  - 'concept:agents'
+  - 'concept:heuristic'
+  - 'concept:should'
+  - 'concept:source'
+  - 'concept:vault'
+  - 'concept:claims'
+  - 'concept:concept'
+  - 'concept:domain'
+  - 'entity:candidates'
+  - 'entity:candidates-run'
+  - 'entity:insights'
+  - 'entity:projects-run'
+  - 'entity:format'
+  - 'entity:top'
+  - 'entity:size'
+  - 'entity:nested'
+  - 'entity:schema'
+  - 'entity:preview'
+  - 'entity:schema-edit'
+  - 'entity:swarmvault'
+  - 'entity:vault-purpose-describe'
+  - 'entity:naming-conventions-prefer'
+  - 'entity:page-structure-rules-source'
+  - 'entity:categories-list'
+  - 'graph:report'
+  - 'graph:share-card'
+  - 'graph:community:object-1'
+  - 'graph:community:should-2'
+  - 'graph:community:compile-3'
+  - 'graph:community:candidates-4'
+  - 'graph:community:insights-5'
+  - 'dashboard:dashboards/index'
+  - 'dashboard:dashboards/recent-sources'
+  - 'dashboard:dashboards/reading-log'
+  - 'dashboard:dashboards/timeline'
+  - 'dashboard:dashboards/source-sessions'
+  - 'dashboard:dashboards/source-guides'
+  - 'dashboard:dashboards/research-map'
+  - 'dashboard:dashboards/contradictions'
+  - 'dashboard:dashboards/open-questions'
+related_node_ids: []
+changed_pages:
+  - sources/candidates-5d9c2771.md
+  - sources/insights-1398dcf3.md
+  - sources/projects-acb5fd10.md
+  - sources/swarmvault-config-a48adfce.md
+  - sources/swarmvault-schema-b10ad2d9.md
+  - candidates/concepts/candidates.md
+  - candidates/concepts/candidate.md
+  - candidates/concepts/compile.md
+  - candidates/concepts/index.md
+  - candidates/concepts/pages.md
+  - candidates/concepts/stage.md
+  - candidates/concepts/insights.md
+  - candidates/concepts/swarmvault.md
+  - candidates/concepts/applies.md
+  - candidates/concepts/authored.md
+  - candidates/concepts/during.md
+  - candidates/concepts/projects.md
+  - candidates/concepts/build.md
+  - candidates/concepts/project.md
+  - candidates/concepts/rollups.md
+  - candidates/concepts/object.md
+  - candidates/concepts/keys.md
+  - candidates/concepts/local.md
+  - candidates/concepts/false.md
+  - candidates/concepts/agents.md
+  - candidates/concepts/heuristic.md
+  - candidates/concepts/should.md
+  - candidates/concepts/source.md
+  - candidates/concepts/vault.md
+  - candidates/concepts/claims.md
+  - candidates/concepts/concept.md
+  - candidates/concepts/domain.md
+  - candidates/entities/candidates.md
+  - candidates/entities/candidates-run.md
+  - candidates/entities/insights.md
+  - candidates/entities/projects-run.md
+  - candidates/entities/format.md
+  - candidates/entities/top.md
+  - candidates/entities/size.md
+  - candidates/entities/nested.md
+  - candidates/entities/schema.md
+  - candidates/entities/preview.md
+  - candidates/entities/schema-edit.md
+  - candidates/entities/swarmvault.md
+  - candidates/entities/vault-purpose-describe.md
+  - candidates/entities/naming-conventions-prefer.md
+  - candidates/entities/page-structure-rules-source.md
+  - candidates/entities/categories-list.md
+  - graph/report.md
+  - graph/share-card.md
+  - graph/communities/object-1.md
+  - graph/communities/should-2.md
+  - graph/communities/compile-3.md
+  - graph/communities/candidates-4.md
+  - graph/communities/insights-5.md
+  - dashboards/index.md
+  - dashboards/recent-sources.md
+  - dashboards/reading-log.md
+  - dashboards/timeline.md
+  - dashboards/source-sessions.md
+  - dashboards/source-guides.md
+  - dashboards/research-map.md
+  - dashboards/contradictions.md
+  - dashboards/open-questions.md
+  - projects/index.md
+  - index.md
+  - sources/index.md
+  - code/index.md
+  - concepts/index.md
+  - entities/index.md
+  - outputs/index.md
+  - memory/index.md
+  - candidates/index.md
+  - graph/index.md
+citations: []
+---
+# Compile Session
+Title: Compiled 5 source(s)
+## Summary
+- provider=local
+- pages=64
+- dirty=5
+- clean=0
+- outputs=0
+- insights=0
+- memory=0
+- candidates=43
+- promoted=0
+- staged=false
+- postPassApproval=none
+- schema=874431dbbfde
+- benchmark=ok
+## Related
+- Sources: candidates-5d9c2771, insights-1398dcf3, projects-acb5fd10, swarmvault-config-a48adfce, swarmvault-schema-b10ad2d9
+- Pages: source:candidates-5d9c2771, source:insights-1398dcf3, source:projects-acb5fd10, source:swarmvault-config-a48adfce, source:swarmvault-schema-b10ad2d9, concept:candidates, concept:candidate, concept:compile, concept:index, concept:pages, concept:stage, concept:insights, concept:swarmvault, concept:applies, concept:authored, concept:during, concept:projects, concept:build, concept:project, concept:rollups, concept:object, concept:keys, concept:local, concept:false, concept:agents, concept:heuristic, concept:should, concept:source, concept:vault, concept:claims, concept:concept, concept:domain, entity:candidates, entity:candidates-run, entity:insights, entity:projects-run, entity:format, entity:top, entity:size, entity:nested, entity:schema, entity:preview, entity:schema-edit, entity:swarmvault, entity:vault-purpose-describe, entity:naming-conventions-prefer, entity:page-structure-rules-source, entity:categories-list, graph:report, graph:share-card, graph:community:object-1, graph:community:should-2, graph:community:compile-3, graph:community:candidates-4, graph:community:insights-5, dashboard:dashboards/index, dashboard:dashboards/recent-sources, dashboard:dashboards/reading-log, dashboard:dashboards/timeline, dashboard:dashboards/source-sessions, dashboard:dashboards/source-guides, dashboard:dashboards/research-map, dashboard:dashboards/contradictions, dashboard:dashboards/open-questions
+- Nodes: none
+- Changed pages: sources/candidates-5d9c2771.md, sources/insights-1398dcf3.md, sources/projects-acb5fd10.md, sources/swarmvault-config-a48adfce.md, sources/swarmvault-schema-b10ad2d9.md, candidates/concepts/candidates.md, candidates/concepts/candidate.md, candidates/concepts/compile.md, candidates/concepts/index.md, candidates/concepts/pages.md, candidates/concepts/stage.md, candidates/concepts/insights.md, candidates/concepts/swarmvault.md, candidates/concepts/applies.md, candidates/concepts/authored.md, candidates/concepts/during.md, candidates/concepts/projects.md, candidates/concepts/build.md, candidates/concepts/project.md, candidates/concepts/rollups.md, candidates/concepts/object.md, candidates/concepts/keys.md, candidates/concepts/local.md, candidates/concepts/false.md, candidates/concepts/agents.md, candidates/concepts/heuristic.md, candidates/concepts/should.md, candidates/concepts/source.md, candidates/concepts/vault.md, candidates/concepts/claims.md, candidates/concepts/concept.md, candidates/concepts/domain.md, candidates/entities/candidates.md, candidates/entities/candidates-run.md, candidates/entities/insights.md, candidates/entities/projects-run.md, candidates/entities/format.md, candidates/entities/top.md, candidates/entities/size.md, candidates/entities/nested.md, candidates/entities/schema.md, candidates/entities/preview.md, candidates/entities/schema-edit.md, candidates/entities/swarmvault.md, candidates/entities/vault-purpose-describe.md, candidates/entities/naming-conventions-prefer.md, candidates/entities/page-structure-rules-source.md, candidates/entities/categories-list.md, graph/report.md, graph/share-card.md, graph/communities/object-1.md, graph/communities/should-2.md, graph/communities/compile-3.md, graph/communities/candidates-4.md, graph/communities/insights-5.md, dashboards/index.md, dashboards/recent-sources.md, dashboards/reading-log.md, dashboards/timeline.md, dashboards/source-sessions.md, dashboards/source-guides.md, dashboards/research-map.md, dashboards/contradictions.md, dashboards/open-questions.md, projects/index.md, index.md, sources/index.md, code/index.md, concepts/index.md, entities/index.md, outputs/index.md, memory/index.md, candidates/index.md, graph/index.md
+- Citations: none
+- Provider: local
+- Success: true
