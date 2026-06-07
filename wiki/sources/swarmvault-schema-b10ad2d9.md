@@ -29,7 +29,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.076Z'
-updated_at: '2026-05-22T19:04:20.076Z'
+updated_at: '2026-06-06T23:29:52.441Z'
 compiled_from:
   - swarmvault-schema-b10ad2d9
 managed_by: system
@@ -46,13 +46,14 @@ backlinks:
   - 'entity:naming-conventions-prefer'
   - 'entity:page-structure-rules-source'
   - 'entity:categories-list'
-schema_hash: 874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720
+  - 'output:what-is-this-vault-about'
+schema_hash: 00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2
 source_hashes:
   swarmvault-schema-b10ad2d9: b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620
 source_semantic_hashes:
   swarmvault-schema-b10ad2d9: 9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19
 decay_score: 1
-last_confirmed_at: '2026-05-22T19:04:20.225Z'
+last_confirmed_at: '2026-06-06T23:29:53.725Z'
 ---
 # SwarmVault Schema
 
@@ -97,4 +98,8 @@ SwarmVault Schema Edit this file to teach SwarmVault how this vault should be or
 - How does should relate to SwarmVault Schema?
 - How does source relate to SwarmVault Schema?
 - How does vault relate to SwarmVault Schema?
+
+## Related Outputs
+
+- [[outputs/what-is-this-vault-about|What is this vault about?]]
 

@@ -22,13 +22,13 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.107Z'
-updated_at: '2026-05-22T19:04:20.107Z'
+updated_at: '2026-05-25T19:18:18.111Z'
 compiled_from:
   - insights-1398dcf3
 managed_by: system
 backlinks:
   - 'graph:report'
-schema_hash: 874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720
+schema_hash: 00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2
 source_hashes: {}
 source_semantic_hashes: {}
 related_page_ids:
@@ -46,23 +46,23 @@ related_source_ids: *ref_1
 
 ## Nodes
 
-- [[candidates/concepts/applies|applies]] (concept, degree=7, bridge=1)
-- [[candidates/concepts/authored|authored]] (concept, degree=7, bridge=1)
-- [[candidates/concepts/during|during]] (concept, degree=7, bridge=1)
-- [[candidates/concepts/insights|insights]] (concept, degree=7, bridge=1)
-- [[candidates/concepts/swarmvault|swarmvault]] (concept, degree=7, bridge=1)
-- [[candidates/entities/insights|Insights]] (entity, degree=7, bridge=1)
+- [[concepts/applies|applies]] (concept, degree=7, bridge=1)
+- [[concepts/authored|authored]] (concept, degree=7, bridge=1)
+- [[concepts/during|during]] (concept, degree=7, bridge=1)
+- [[concepts/insights|insights]] (concept, degree=7, bridge=1)
+- [[concepts/swarmvault|swarmvault]] (concept, degree=7, bridge=1)
+- [[entities/insights|Insights]] (entity, degree=7, bridge=1)
 
 ## Pages
 
-- [[candidates/concepts/applies|applies]]
-- [[candidates/concepts/authored|authored]]
-- [[candidates/concepts/during|during]]
-- [[candidates/concepts/insights|insights]]
-- [[candidates/concepts/swarmvault|swarmvault]]
-- [[candidates/entities/insights|Insights]]
+- [[concepts/applies|applies]]
+- [[concepts/authored|authored]]
+- [[concepts/during|during]]
+- [[concepts/insights|insights]]
+- [[concepts/swarmvault|swarmvault]]
+- [[entities/insights|Insights]]
 
 ## External Links
 
-- [[sources/insights-1398dcf3|Insights]] mentions [[candidates/concepts/compile|compile]] (extracted)
+- [[sources/insights-1398dcf3|Insights]] mentions [[concepts/compile|compile]] (extracted)
 - [[sources/insights-1398dcf3|Insights]] semantically_similar_to [[sources/projects-acb5fd10|Projects]] (inferred)

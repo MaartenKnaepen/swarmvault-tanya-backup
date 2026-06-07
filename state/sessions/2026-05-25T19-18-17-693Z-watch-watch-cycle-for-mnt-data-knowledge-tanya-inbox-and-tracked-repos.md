@@ -1,0 +1,169 @@
+---
+session_id: >-
+  2026-05-25T19-18-17-693Z-watch-watch-cycle-for-mnt-data-knowledge-tanya-inbox-and-tracked-repos
+operation: watch
+title: Watch cycle for /mnt/data/knowledge-tanya/inbox and tracked repos
+started_at: '2026-05-25T19:18:17.693Z'
+finished_at: '2026-05-25T19:34:27.736Z'
+duration_ms: 970043
+success: true
+related_source_ids: []
+related_page_ids: []
+related_node_ids: []
+changed_pages:
+  - sources/candidates-5d9c2771.md
+  - sources/insights-1398dcf3.md
+  - sources/projects-acb5fd10.md
+  - sources/seerr-media-requests-available-ef141443.md
+  - sources/swarmvault-config-a48adfce.md
+  - sources/swarmvault-schema-b10ad2d9.md
+  - concepts/candidates.md
+  - concepts/candidate.md
+  - concepts/compile.md
+  - concepts/index.md
+  - concepts/pages.md
+  - concepts/stage.md
+  - concepts/insights.md
+  - concepts/swarmvault.md
+  - concepts/applies.md
+  - concepts/authored.md
+  - concepts/during.md
+  - concepts/projects.md
+  - concepts/build.md
+  - concepts/project.md
+  - concepts/rollups.md
+  - candidates/concepts/available.md
+  - candidates/concepts/download.md
+  - candidates/concepts/shows.md
+  - candidates/concepts/hermes.md
+  - candidates/concepts/seerr.md
+  - candidates/concepts/dune.md
+  - concepts/object.md
+  - concepts/keys.md
+  - concepts/local.md
+  - concepts/false.md
+  - concepts/agents.md
+  - concepts/heuristic.md
+  - concepts/should.md
+  - concepts/source.md
+  - concepts/vault.md
+  - concepts/claims.md
+  - concepts/concept.md
+  - concepts/domain.md
+  - entities/candidates.md
+  - entities/candidates-run.md
+  - entities/insights.md
+  - entities/projects-run.md
+  - candidates/entities/seerr-media-requests-available-seerr.md
+  - candidates/entities/hermes.md
+  - candidates/entities/how.md
+  - candidates/entities/ask-hermes.md
+  - candidates/entities/dune-hermes.md
+  - candidates/entities/seerr.md
+  - entities/format.md
+  - entities/top.md
+  - entities/size.md
+  - entities/nested.md
+  - entities/schema.md
+  - entities/preview.md
+  - entities/schema-edit.md
+  - entities/swarmvault.md
+  - entities/vault-purpose-describe.md
+  - entities/naming-conventions-prefer.md
+  - entities/page-structure-rules-source.md
+  - entities/categories-list.md
+  - graph/report.md
+  - graph/share-card.md
+  - graph/communities/candidates-1.md
+  - graph/communities/available-2.md
+  - graph/communities/object-3.md
+  - graph/communities/should-4.md
+  - graph/communities/insights-5.md
+  - dashboards/index.md
+  - dashboards/recent-sources.md
+  - dashboards/reading-log.md
+  - dashboards/timeline.md
+  - dashboards/source-sessions.md
+  - dashboards/source-guides.md
+  - dashboards/research-map.md
+  - dashboards/contradictions.md
+  - dashboards/open-questions.md
+  - projects/index.md
+  - index.md
+  - sources/index.md
+  - code/index.md
+  - entities/index.md
+  - outputs/index.md
+  - memory/index.md
+  - candidates/index.md
+  - graph/index.md
+  - candidates/concepts/candidates.md
+  - candidates/concepts/candidate.md
+  - candidates/concepts/compile.md
+  - candidates/concepts/index.md
+  - candidates/concepts/pages.md
+  - candidates/concepts/stage.md
+  - candidates/concepts/insights.md
+  - candidates/concepts/swarmvault.md
+  - candidates/concepts/applies.md
+  - candidates/concepts/authored.md
+  - candidates/concepts/during.md
+  - candidates/concepts/projects.md
+  - candidates/concepts/build.md
+  - candidates/concepts/project.md
+  - candidates/concepts/rollups.md
+  - candidates/concepts/object.md
+  - candidates/concepts/keys.md
+  - candidates/concepts/local.md
+  - candidates/concepts/false.md
+  - candidates/concepts/agents.md
+  - candidates/concepts/heuristic.md
+  - candidates/concepts/should.md
+  - candidates/concepts/source.md
+  - candidates/concepts/vault.md
+  - candidates/concepts/claims.md
+  - candidates/concepts/concept.md
+  - candidates/concepts/domain.md
+  - candidates/entities/candidates.md
+  - candidates/entities/candidates-run.md
+  - candidates/entities/insights.md
+  - candidates/entities/projects-run.md
+  - candidates/entities/format.md
+  - candidates/entities/top.md
+  - candidates/entities/size.md
+  - candidates/entities/nested.md
+  - candidates/entities/schema.md
+  - candidates/entities/preview.md
+  - candidates/entities/schema-edit.md
+  - candidates/entities/swarmvault.md
+  - candidates/entities/vault-purpose-describe.md
+  - candidates/entities/naming-conventions-prefer.md
+  - candidates/entities/page-structure-rules-source.md
+  - candidates/entities/categories-list.md
+  - graph/communities/object-1.md
+  - graph/communities/should-2.md
+  - graph/communities/candidates-3.md
+  - graph/communities/compile-4.md
+  - outputs/what-is-this-vault-about.md
+citations: []
+---
+# Watch Session
+Title: Watch cycle for /mnt/data/knowledge-tanya/inbox and tracked repos
+## Summary
+- reasons=add:seerr-media-requests-available.md
+- code_only=true
+- imported=1
+- scanned=1
+- attachments=0
+- repo_scanned=0
+- repo_imported=0
+- repo_updated=0
+- repo_removed=0
+- lint=0
+## Related
+- Sources: none
+- Pages: none
+- Nodes: none
+- Changed pages: sources/candidates-5d9c2771.md, sources/insights-1398dcf3.md, sources/projects-acb5fd10.md, sources/seerr-media-requests-available-ef141443.md, sources/swarmvault-config-a48adfce.md, sources/swarmvault-schema-b10ad2d9.md, concepts/candidates.md, concepts/candidate.md, concepts/compile.md, concepts/index.md, concepts/pages.md, concepts/stage.md, concepts/insights.md, concepts/swarmvault.md, concepts/applies.md, concepts/authored.md, concepts/during.md, concepts/projects.md, concepts/build.md, concepts/project.md, concepts/rollups.md, candidates/concepts/available.md, candidates/concepts/download.md, candidates/concepts/shows.md, candidates/concepts/hermes.md, candidates/concepts/seerr.md, candidates/concepts/dune.md, concepts/object.md, concepts/keys.md, concepts/local.md, concepts/false.md, concepts/agents.md, concepts/heuristic.md, concepts/should.md, concepts/source.md, concepts/vault.md, concepts/claims.md, concepts/concept.md, concepts/domain.md, entities/candidates.md, entities/candidates-run.md, entities/insights.md, entities/projects-run.md, candidates/entities/seerr-media-requests-available-seerr.md, candidates/entities/hermes.md, candidates/entities/how.md, candidates/entities/ask-hermes.md, candidates/entities/dune-hermes.md, candidates/entities/seerr.md, entities/format.md, entities/top.md, entities/size.md, entities/nested.md, entities/schema.md, entities/preview.md, entities/schema-edit.md, entities/swarmvault.md, entities/vault-purpose-describe.md, entities/naming-conventions-prefer.md, entities/page-structure-rules-source.md, entities/categories-list.md, graph/report.md, graph/share-card.md, graph/communities/candidates-1.md, graph/communities/available-2.md, graph/communities/object-3.md, graph/communities/should-4.md, graph/communities/insights-5.md, dashboards/index.md, dashboards/recent-sources.md, dashboards/reading-log.md, dashboards/timeline.md, dashboards/source-sessions.md, dashboards/source-guides.md, dashboards/research-map.md, dashboards/contradictions.md, dashboards/open-questions.md, projects/index.md, index.md, sources/index.md, code/index.md, entities/index.md, outputs/index.md, memory/index.md, candidates/index.md, graph/index.md, candidates/concepts/candidates.md, candidates/concepts/candidate.md, candidates/concepts/compile.md, candidates/concepts/index.md, candidates/concepts/pages.md, candidates/concepts/stage.md, candidates/concepts/insights.md, candidates/concepts/swarmvault.md, candidates/concepts/applies.md, candidates/concepts/authored.md, candidates/concepts/during.md, candidates/concepts/projects.md, candidates/concepts/build.md, candidates/concepts/project.md, candidates/concepts/rollups.md, candidates/concepts/object.md, candidates/concepts/keys.md, candidates/concepts/local.md, candidates/concepts/false.md, candidates/concepts/agents.md, candidates/concepts/heuristic.md, candidates/concepts/should.md, candidates/concepts/source.md, candidates/concepts/vault.md, candidates/concepts/claims.md, candidates/concepts/concept.md, candidates/concepts/domain.md, candidates/entities/candidates.md, candidates/entities/candidates-run.md, candidates/entities/insights.md, candidates/entities/projects-run.md, candidates/entities/format.md, candidates/entities/top.md, candidates/entities/size.md, candidates/entities/nested.md, candidates/entities/schema.md, candidates/entities/preview.md, candidates/entities/schema-edit.md, candidates/entities/swarmvault.md, candidates/entities/vault-purpose-describe.md, candidates/entities/naming-conventions-prefer.md, candidates/entities/page-structure-rules-source.md, candidates/entities/categories-list.md, graph/communities/object-1.md, graph/communities/should-2.md, graph/communities/candidates-3.md, graph/communities/compile-4.md, outputs/what-is-this-vault-about.md
+- Citations: none
+- Success: true

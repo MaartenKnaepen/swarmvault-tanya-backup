@@ -1,0 +1,100 @@
+{
+  "analysisVersion": 8,
+  "sourceId": "seerr-media-requests-available-ef141443",
+  "sourceHash": "ef1414436310b49e8a4c3ff864b4f6c38c655d81fceb6c4cd8569b914cdfcff8",
+  "semanticHash": "4d259c0cd39e51ebb1d269e12021ebf86442f352be98a5160ee0da66036934ea",
+  "extractionHash": "e907e884f3f8520a4328f7415d9b59c05dd3434a95a98943a2318ff4967d7590",
+  "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+  "title": "Seerr — Media Requests Available",
+  "summary": "Seerr — Media Requests Available Seerr is now available via Hermes for requesting movies and TV shows! ## How it works - Ask Hermes to download a movie or show (e.g., \"download Dune\") - Hermes searches Seerr and shows you options with a picker - You pick what you want, and it gets requested to the *arr stack - Once downloaded, it becomes available in your media library ## Usage examples - \"download Dune\" - \"download The Bear\" - \"can you get me the movie Interstellar?\" ## What's available - Movies and TV shows via TMDB search - Season selection for TV shows - 4K request support",
+  "concepts": [
+    {
+      "id": "concept:available",
+      "name": "available",
+      "description": "Frequently referenced concept in Seerr — Media Requests Available."
+    },
+    {
+      "id": "concept:download",
+      "name": "download",
+      "description": "Frequently referenced concept in Seerr — Media Requests Available."
+    },
+    {
+      "id": "concept:shows",
+      "name": "shows",
+      "description": "Frequently referenced concept in Seerr — Media Requests Available."
+    },
+    {
+      "id": "concept:hermes",
+      "name": "hermes",
+      "description": "Frequently referenced concept in Seerr — Media Requests Available."
+    },
+    {
+      "id": "concept:seerr",
+      "name": "seerr",
+      "description": "Frequently referenced concept in Seerr — Media Requests Available."
+    },
+    {
+      "id": "concept:dune",
+      "name": "dune",
+      "description": "Frequently referenced concept in Seerr — Media Requests Available."
+    }
+  ],
+  "entities": [
+    {
+      "id": "entity:seerr-media-requests-available-seerr",
+      "name": "Seerr — Media Requests Available Seerr",
+      "description": "Named entity mentioned in Seerr — Media Requests Available."
+    },
+    {
+      "id": "entity:hermes",
+      "name": "Hermes",
+      "description": "Named entity mentioned in Seerr — Media Requests Available."
+    },
+    {
+      "id": "entity:how",
+      "name": "How",
+      "description": "Named entity mentioned in Seerr — Media Requests Available."
+    },
+    {
+      "id": "entity:ask-hermes",
+      "name": "Ask Hermes",
+      "description": "Named entity mentioned in Seerr — Media Requests Available."
+    },
+    {
+      "id": "entity:dune-hermes",
+      "name": "Dune\") - Hermes",
+      "description": "Named entity mentioned in Seerr — Media Requests Available."
+    },
+    {
+      "id": "entity:seerr",
+      "name": "Seerr",
+      "description": "Named entity mentioned in Seerr — Media Requests Available."
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim:seerr-media-requests-available-ef141443:1",
+      "text": "Seerr — Media Requests Available Seerr is now available via Hermes for requesting movies and TV shows!",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "positive",
+      "citation": "seerr-media-requests-available-ef141443"
+    },
+    {
+      "id": "claim:seerr-media-requests-available-ef141443:2",
+      "text": "## How it works - Ask Hermes to download a movie or show (e.g., \"download Dune\") - Hermes searches Seerr and shows you options with a picker - You pick what you want, and it gets requested to the *arr stack - Once downloaded, it becomes available in your media library ## Usage examples - \"download Dune\" - \"download The Bear\" - \"can you get me the movie Interstellar?\" ## What's available - Movies and TV shows via TMDB search - Season selection for TV shows - 4K request support",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "seerr-media-requests-available-ef141443"
+    }
+  ],
+  "questions": [
+    "How does available relate to Seerr — Media Requests Available?",
+    "How does download relate to Seerr — Media Requests Available?",
+    "How does shows relate to Seerr — Media Requests Available?"
+  ],
+  "tags": [],
+  "rationales": [],
+  "producedAt": "2026-05-25T19:18:17.812Z"
+}

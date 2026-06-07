@@ -1,15 +1,15 @@
 {
   "version": 1,
   "backend": "sqlite",
-  "generatedAt": "2026-05-22T19:04:20.661Z",
-  "graphGeneratedAt": "2026-05-22T19:04:20.103Z",
-  "graphHash": "54bf8760d5b418835313ceac51bd62cb163e9d2e7df4eb9f8f64ab1c299e315d",
+  "generatedAt": "2026-06-06T23:31:04.753Z",
+  "graphGeneratedAt": "2026-06-06T23:29:52.508Z",
+  "graphHash": "5c56df628702a51eae577b67dd0a8f325bb918d23ba283b81fda827cfaec713e",
   "shardCount": 1,
   "shards": [
     {
       "id": "fts-000",
       "path": "retrieval/fts-000.sqlite",
-      "pageCount": 64
+      "pageCount": 78
     }
   ]
 }

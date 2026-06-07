@@ -12,6 +12,7 @@ source_ids: &ref_1
   - candidates-5d9c2771
   - insights-1398dcf3
   - projects-acb5fd10
+  - seerr-media-requests-available-ef141443
   - swarmvault-config-a48adfce
   - swarmvault-schema-b10ad2d9
 project_ids: []
@@ -21,22 +22,24 @@ node_ids: &ref_0
   - 'concept:object'
   - 'concept:keys'
   - 'concept:local'
-  - 'source:candidates-5d9c2771'
   - 'source:insights-1398dcf3'
+  - 'source:candidates-5d9c2771'
+  - 'source:projects-acb5fd10'
 freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.119Z'
-updated_at: '2026-05-22T19:04:20.396Z'
+updated_at: '2026-06-06T23:31:04.482Z'
 compiled_from:
   - candidates-5d9c2771
   - insights-1398dcf3
   - projects-acb5fd10
+  - seerr-media-requests-available-ef141443
   - swarmvault-config-a48adfce
   - swarmvault-schema-b10ad2d9
 managed_by: system
 backlinks: []
-schema_hash: 874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720
+schema_hash: 00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2
 source_hashes: {}
 source_semantic_hashes: {}
 related_page_ids:
@@ -45,44 +48,45 @@ related_page_ids:
   - 'concept:object'
   - 'concept:keys'
   - 'concept:local'
-  - 'source:candidates-5d9c2771'
   - 'source:insights-1398dcf3'
+  - 'source:candidates-5d9c2771'
+  - 'source:projects-acb5fd10'
 related_node_ids: *ref_0
 related_source_ids: *ref_1
 ---
 # SwarmVault Share Card
 
-> A local-first map of knowledge-tanya: 5 sources compiled into 48 graph nodes and 57 wiki pages.
+> A local-first map of knowledge-tanya: 6 sources compiled into 61 graph nodes and 71 wiki pages.
 
 ## Snapshot
 
-- Sources: 5
-- Wiki pages: 57
-- Graph nodes: 48
-- Graph edges: 49
+- Sources: 6
+- Wiki pages: 71
+- Graph nodes: 61
+- Graph edges: 62
 - Communities: 5
-- First-party focus: 48 nodes, 49 edges, 48 pages
+- First-party focus: 48 nodes, 50 edges, 48 pages
 
 ## Highlights
 
 - Top hubs: compile (21), index (14), object (12), keys (12), and local (12)
-- Bridge nodes: Candidates, Insights, and compile
-- Surprising link: Candidates semantically_similar_to Projects. it crosses communities community:candidates-4 and community:compile-3; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts....
-- Surprising link: Candidates semantically_similar_to Insights. it crosses communities community:candidates-4 and community:insights-5; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts...
-- Surprising link: Insights semantically_similar_to Projects. it crosses communities community:insights-5 and community:compile-3; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; ...
+- Bridge nodes: Insights, Candidates, and Projects
+- Surprising link: Candidates semantically_similar_to Insights. it crosses communities community:candidates-1 and community:insights-5; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts...
+- Surprising link: Insights semantically_similar_to Projects. it crosses communities community:insights-5 and community:candidates-1; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts...
+- Surprising link: swarmvault.config semantically_similar_to SwarmVault Schema. it crosses communities community:object-3 and community:should-4; it spans different canonical pages; a bridge node is involved; This link is inferred from shared tags.
 
 ## Ask Next
 
-- Why does Candidates connect multiple communities in the vault?
 - Why does Insights connect multiple communities in the vault?
-- Why does compile connect multiple communities in the vault?
+- Why does Candidates connect multiple communities in the vault?
+- Why does Projects connect multiple communities in the vault?
 
 ## Share Post
 
 ```text
-I scanned knowledge-tanya with SwarmVault: 5 sources -> 57 wiki pages, 48 graph nodes, 49 edges.
+I scanned knowledge-tanya with SwarmVault: 6 sources -> 71 wiki pages, 61 graph nodes, 62 edges.
 Top hubs: compile, index, and object.
-Most surprising link: Candidates semantically_similar_to Projects.
+Most surprising link: Candidates semantically_similar_to Insights.
 Everything stays local. Try: npm install -g @swarmvaultai/cli && swarmvault quickstart ./your-repo
 ```
 

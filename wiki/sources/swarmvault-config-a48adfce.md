@@ -29,7 +29,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.072Z'
-updated_at: '2026-05-22T19:04:20.072Z'
+updated_at: '2026-06-06T23:29:52.440Z'
 compiled_from:
   - swarmvault-config-a48adfce
 managed_by: system
@@ -46,13 +46,13 @@ backlinks:
   - 'entity:nested'
   - 'entity:schema'
   - 'entity:preview'
-schema_hash: 874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720
+schema_hash: 00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2
 source_hashes:
   swarmvault-config-a48adfce: a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1
 source_semantic_hashes:
   swarmvault-config-a48adfce: a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1
 decay_score: 1
-last_confirmed_at: '2026-05-22T19:04:20.225Z'
+last_confirmed_at: '2026-06-06T23:29:53.725Z'
 ---
 # swarmvault.config
 

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T19:04:20.103Z",
+  "generatedAt": "2026-06-06T23:29:52.508Z",
   "nodes": [
     {
       "id": "source:candidates-5d9c2771",
@@ -14,11 +14,11 @@
       "projectIds": [],
       "sourceClass": "first_party",
       "tags": [],
-      "communityId": "community:candidates-4",
+      "normLabel": "candidates",
+      "communityId": "community:candidates-1",
       "degree": 10,
-      "bridgeScore": 2,
-      "isGodNode": false,
-      "normLabel": "candidates"
+      "bridgeScore": 1,
+      "isGodNode": false
     },
     {
       "id": "source:insights-1398dcf3",
@@ -33,11 +33,11 @@
       "projectIds": [],
       "sourceClass": "first_party",
       "tags": [],
+      "normLabel": "insights",
       "communityId": "community:insights-5",
       "degree": 9,
       "bridgeScore": 2,
-      "isGodNode": false,
-      "normLabel": "insights"
+      "isGodNode": false
     },
     {
       "id": "source:projects-acb5fd10",
@@ -52,11 +52,29 @@
       "projectIds": [],
       "sourceClass": "first_party",
       "tags": [],
-      "communityId": "community:compile-3",
+      "normLabel": "projects",
+      "communityId": "community:candidates-1",
       "degree": 9,
       "bridgeScore": 1,
-      "isGodNode": false,
-      "normLabel": "projects"
+      "isGodNode": false
+    },
+    {
+      "id": "source:seerr-media-requests-available-ef141443",
+      "type": "source",
+      "label": "Seerr — Media Requests Available",
+      "pageId": "source:seerr-media-requests-available-ef141443",
+      "freshness": "fresh",
+      "confidence": 1,
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "tags": [],
+      "normLabel": "seerr — media requests available",
+      "communityId": "community:available-2",
+      "degree": 12,
+      "bridgeScore": 1,
+      "isGodNode": false
     },
     {
       "id": "source:swarmvault-config-a48adfce",
@@ -71,11 +89,11 @@
       "projectIds": [],
       "sourceClass": "first_party",
       "tags": [],
-      "communityId": "community:object-1",
-      "degree": 12,
+      "normLabel": "swarmvault.config",
+      "communityId": "community:object-3",
+      "degree": 13,
       "bridgeScore": 1,
-      "isGodNode": false,
-      "normLabel": "swarmvault.config"
+      "isGodNode": false
     },
     {
       "id": "source:swarmvault-schema-b10ad2d9",
@@ -90,11 +108,11 @@
       "projectIds": [],
       "sourceClass": "first_party",
       "tags": [],
-      "communityId": "community:should-2",
-      "degree": 12,
+      "normLabel": "swarmvault schema",
+      "communityId": "community:should-4",
+      "degree": 13,
       "bridgeScore": 1,
-      "isGodNode": false,
-      "normLabel": "swarmvault schema"
+      "isGodNode": false
     },
     {
       "id": "concept:candidates",
@@ -108,11 +126,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:candidates-4",
+      "normLabel": "candidates",
+      "communityId": "community:candidates-1",
       "degree": 8,
-      "bridgeScore": 1,
-      "isGodNode": false,
-      "normLabel": "candidates"
+      "bridgeScore": 0,
+      "isGodNode": false
     },
     {
       "id": "concept:candidate",
@@ -126,11 +144,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:candidates-4",
+      "normLabel": "candidate",
+      "communityId": "community:candidates-1",
       "degree": 8,
-      "bridgeScore": 1,
-      "isGodNode": false,
-      "normLabel": "candidate"
+      "bridgeScore": 0,
+      "isGodNode": false
     },
     {
       "id": "concept:compile",
@@ -146,12 +164,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:compile-3",
+      "normLabel": "compile",
+      "communityId": "community:candidates-1",
       "degree": 21,
-      "bridgeScore": 2,
+      "bridgeScore": 1,
       "isGodNode": true,
-      "surpriseReason": "degree 21, across 3 communities, 3.7σ above mean",
-      "normLabel": "compile"
+      "surpriseReason": "degree 21, bridges 2 communities, 3.9σ above mean"
     },
     {
       "id": "concept:index",
@@ -166,12 +184,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:compile-3",
+      "normLabel": "index",
+      "communityId": "community:candidates-1",
       "degree": 14,
-      "bridgeScore": 1,
+      "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 14, bridges 2 communities",
-      "normLabel": "index"
+      "surpriseReason": "degree 14"
     },
     {
       "id": "concept:pages",
@@ -185,11 +203,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:candidates-4",
+      "normLabel": "pages",
+      "communityId": "community:candidates-1",
       "degree": 8,
-      "bridgeScore": 1,
-      "isGodNode": false,
-      "normLabel": "pages"
+      "bridgeScore": 0,
+      "isGodNode": false
     },
     {
       "id": "concept:stage",
@@ -203,11 +221,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:candidates-4",
+      "normLabel": "stage",
+      "communityId": "community:candidates-1",
       "degree": 8,
-      "bridgeScore": 1,
-      "isGodNode": false,
-      "normLabel": "stage"
+      "bridgeScore": 0,
+      "isGodNode": false
     },
     {
       "id": "concept:insights",
@@ -221,11 +239,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
+      "normLabel": "insights",
       "communityId": "community:insights-5",
       "degree": 7,
       "bridgeScore": 1,
-      "isGodNode": false,
-      "normLabel": "insights"
+      "isGodNode": false
     },
     {
       "id": "concept:swarmvault",
@@ -239,11 +257,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
+      "normLabel": "swarmvault",
       "communityId": "community:insights-5",
       "degree": 7,
       "bridgeScore": 1,
-      "isGodNode": false,
-      "normLabel": "swarmvault"
+      "isGodNode": false
     },
     {
       "id": "concept:applies",
@@ -257,11 +275,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
+      "normLabel": "applies",
       "communityId": "community:insights-5",
       "degree": 7,
       "bridgeScore": 1,
-      "isGodNode": false,
-      "normLabel": "applies"
+      "isGodNode": false
     },
     {
       "id": "concept:authored",
@@ -275,11 +293,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
+      "normLabel": "authored",
       "communityId": "community:insights-5",
       "degree": 7,
       "bridgeScore": 1,
-      "isGodNode": false,
-      "normLabel": "authored"
+      "isGodNode": false
     },
     {
       "id": "concept:during",
@@ -293,11 +311,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
+      "normLabel": "during",
       "communityId": "community:insights-5",
       "degree": 7,
       "bridgeScore": 1,
-      "isGodNode": false,
-      "normLabel": "during"
+      "isGodNode": false
     },
     {
       "id": "concept:projects",
@@ -311,11 +329,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:compile-3",
+      "normLabel": "projects",
+      "communityId": "community:candidates-1",
       "degree": 7,
       "bridgeScore": 0,
-      "isGodNode": false,
-      "normLabel": "projects"
+      "isGodNode": false
     },
     {
       "id": "concept:build",
@@ -329,11 +347,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:compile-3",
+      "normLabel": "build",
+      "communityId": "community:candidates-1",
       "degree": 7,
       "bridgeScore": 0,
-      "isGodNode": false,
-      "normLabel": "build"
+      "isGodNode": false
     },
     {
       "id": "concept:project",
@@ -347,11 +365,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:compile-3",
+      "normLabel": "project",
+      "communityId": "community:candidates-1",
       "degree": 7,
       "bridgeScore": 0,
-      "isGodNode": false,
-      "normLabel": "project"
+      "isGodNode": false
     },
     {
       "id": "concept:rollups",
@@ -365,11 +383,119 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:compile-3",
+      "normLabel": "rollups",
+      "communityId": "community:candidates-1",
       "degree": 7,
       "bridgeScore": 0,
-      "isGodNode": false,
-      "normLabel": "rollups"
+      "isGodNode": false
+    },
+    {
+      "id": "concept:available",
+      "type": "concept",
+      "label": "available",
+      "pageId": "concept:available",
+      "freshness": "fresh",
+      "confidence": 0.65,
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "normLabel": "available",
+      "communityId": "community:available-2",
+      "degree": 12,
+      "bridgeScore": 0,
+      "isGodNode": true,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "id": "concept:download",
+      "type": "concept",
+      "label": "download",
+      "pageId": "concept:download",
+      "freshness": "fresh",
+      "confidence": 0.65,
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "normLabel": "download",
+      "communityId": "community:available-2",
+      "degree": 12,
+      "bridgeScore": 0,
+      "isGodNode": true,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "id": "concept:shows",
+      "type": "concept",
+      "label": "shows",
+      "pageId": "concept:shows",
+      "freshness": "fresh",
+      "confidence": 0.65,
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "normLabel": "shows",
+      "communityId": "community:available-2",
+      "degree": 12,
+      "bridgeScore": 0,
+      "isGodNode": true,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "id": "concept:hermes",
+      "type": "concept",
+      "label": "hermes",
+      "pageId": "concept:hermes",
+      "freshness": "fresh",
+      "confidence": 0.65,
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "normLabel": "hermes",
+      "communityId": "community:available-2",
+      "degree": 12,
+      "bridgeScore": 0,
+      "isGodNode": true,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "id": "concept:seerr",
+      "type": "concept",
+      "label": "seerr",
+      "pageId": "concept:seerr",
+      "freshness": "fresh",
+      "confidence": 0.65,
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "normLabel": "seerr",
+      "communityId": "community:available-2",
+      "degree": 12,
+      "bridgeScore": 0,
+      "isGodNode": true,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "id": "concept:dune",
+      "type": "concept",
+      "label": "dune",
+      "pageId": "concept:dune",
+      "freshness": "fresh",
+      "confidence": 0.65,
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "normLabel": "dune",
+      "communityId": "community:available-2",
+      "degree": 12,
+      "bridgeScore": 0,
+      "isGodNode": true,
+      "surpriseReason": "degree 12"
     },
     {
       "id": "concept:object",
@@ -383,12 +509,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:object-1",
+      "normLabel": "object",
+      "communityId": "community:object-3",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "object"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "concept:keys",
@@ -402,12 +528,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:object-1",
+      "normLabel": "keys",
+      "communityId": "community:object-3",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "keys"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "concept:local",
@@ -421,12 +547,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:object-1",
+      "normLabel": "local",
+      "communityId": "community:object-3",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "local"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "concept:false",
@@ -440,12 +566,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:object-1",
+      "normLabel": "false",
+      "communityId": "community:object-3",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "false"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "concept:agents",
@@ -459,12 +585,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:object-1",
+      "normLabel": "agents",
+      "communityId": "community:object-3",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "agents"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "concept:heuristic",
@@ -478,12 +604,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:object-1",
+      "normLabel": "heuristic",
+      "communityId": "community:object-3",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "heuristic"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "concept:should",
@@ -497,12 +623,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:should-2",
+      "normLabel": "should",
+      "communityId": "community:should-4",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "should"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "concept:source",
@@ -516,12 +642,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:should-2",
+      "normLabel": "source",
+      "communityId": "community:should-4",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "source"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "concept:vault",
@@ -535,12 +661,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:should-2",
+      "normLabel": "vault",
+      "communityId": "community:should-4",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "vault"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "concept:claims",
@@ -554,12 +680,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:should-2",
+      "normLabel": "claims",
+      "communityId": "community:should-4",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "claims"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "concept:concept",
@@ -573,12 +699,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:should-2",
+      "normLabel": "concept",
+      "communityId": "community:should-4",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "concept"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "concept:domain",
@@ -592,12 +718,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:should-2",
+      "normLabel": "domain",
+      "communityId": "community:should-4",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "domain"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "entity:candidates",
@@ -611,11 +737,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:candidates-4",
+      "normLabel": "candidates",
+      "communityId": "community:candidates-1",
       "degree": 8,
-      "bridgeScore": 1,
-      "isGodNode": false,
-      "normLabel": "candidates"
+      "bridgeScore": 0,
+      "isGodNode": false
     },
     {
       "id": "entity:candidates-run",
@@ -629,11 +755,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:candidates-4",
+      "normLabel": "candidates - run",
+      "communityId": "community:candidates-1",
       "degree": 8,
-      "bridgeScore": 1,
-      "isGodNode": false,
-      "normLabel": "candidates - run"
+      "bridgeScore": 0,
+      "isGodNode": false
     },
     {
       "id": "entity:insights",
@@ -647,11 +773,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
+      "normLabel": "insights",
       "communityId": "community:insights-5",
       "degree": 7,
       "bridgeScore": 1,
-      "isGodNode": false,
-      "normLabel": "insights"
+      "isGodNode": false
     },
     {
       "id": "entity:projects-run",
@@ -665,11 +791,119 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:compile-3",
+      "normLabel": "projects - run",
+      "communityId": "community:candidates-1",
       "degree": 7,
       "bridgeScore": 0,
-      "isGodNode": false,
-      "normLabel": "projects - run"
+      "isGodNode": false
+    },
+    {
+      "id": "entity:seerr-media-requests-available-seerr",
+      "type": "entity",
+      "label": "Seerr — Media Requests Available Seerr",
+      "pageId": "entity:seerr-media-requests-available-seerr",
+      "freshness": "fresh",
+      "confidence": 0.65,
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "normLabel": "seerr — media requests available seerr",
+      "communityId": "community:available-2",
+      "degree": 12,
+      "bridgeScore": 0,
+      "isGodNode": true,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "id": "entity:hermes",
+      "type": "entity",
+      "label": "Hermes",
+      "pageId": "entity:hermes",
+      "freshness": "fresh",
+      "confidence": 0.65,
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "normLabel": "hermes",
+      "communityId": "community:available-2",
+      "degree": 12,
+      "bridgeScore": 0,
+      "isGodNode": true,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "id": "entity:how",
+      "type": "entity",
+      "label": "How",
+      "pageId": "entity:how",
+      "freshness": "fresh",
+      "confidence": 0.65,
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "normLabel": "how",
+      "communityId": "community:available-2",
+      "degree": 12,
+      "bridgeScore": 0,
+      "isGodNode": true,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "id": "entity:ask-hermes",
+      "type": "entity",
+      "label": "Ask Hermes",
+      "pageId": "entity:ask-hermes",
+      "freshness": "fresh",
+      "confidence": 0.65,
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "normLabel": "ask hermes",
+      "communityId": "community:available-2",
+      "degree": 12,
+      "bridgeScore": 0,
+      "isGodNode": true,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "id": "entity:dune-hermes",
+      "type": "entity",
+      "label": "Dune\") - Hermes",
+      "pageId": "entity:dune-hermes",
+      "freshness": "fresh",
+      "confidence": 0.65,
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "normLabel": "dune\") - hermes",
+      "communityId": "community:available-2",
+      "degree": 12,
+      "bridgeScore": 0,
+      "isGodNode": true,
+      "surpriseReason": "degree 12"
+    },
+    {
+      "id": "entity:seerr",
+      "type": "entity",
+      "label": "Seerr",
+      "pageId": "entity:seerr",
+      "freshness": "fresh",
+      "confidence": 0.65,
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "normLabel": "seerr",
+      "communityId": "community:available-2",
+      "degree": 12,
+      "bridgeScore": 0,
+      "isGodNode": true,
+      "surpriseReason": "degree 12"
     },
     {
       "id": "entity:format",
@@ -683,12 +917,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:object-1",
+      "normLabel": "format:",
+      "communityId": "community:object-3",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "format:"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "entity:top",
@@ -702,12 +936,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:object-1",
+      "normLabel": "top-",
+      "communityId": "community:object-3",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "top-"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "entity:size",
@@ -721,12 +955,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:object-1",
+      "normLabel": "size:",
+      "communityId": "community:object-3",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "size:"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "entity:nested",
@@ -740,12 +974,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:object-1",
+      "normLabel": "nested",
+      "communityId": "community:object-3",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "nested"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "entity:schema",
@@ -759,12 +993,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:object-1",
+      "normLabel": "schema -",
+      "communityId": "community:object-3",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "schema -"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "entity:preview",
@@ -778,12 +1012,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:object-1",
+      "normLabel": "preview",
+      "communityId": "community:object-3",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "preview"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "entity:schema-edit",
@@ -797,12 +1031,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:should-2",
+      "normLabel": "schema edit",
+      "communityId": "community:should-4",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "schema edit"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "entity:swarmvault",
@@ -816,12 +1050,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:should-2",
+      "normLabel": "swarmvault",
+      "communityId": "community:should-4",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "swarmvault"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "entity:vault-purpose-describe",
@@ -835,12 +1069,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:should-2",
+      "normLabel": "vault purpose - describe",
+      "communityId": "community:should-4",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "vault purpose - describe"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "entity:naming-conventions-prefer",
@@ -854,12 +1088,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:should-2",
+      "normLabel": "naming conventions - prefer",
+      "communityId": "community:should-4",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "naming conventions - prefer"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "entity:page-structure-rules-source",
@@ -873,12 +1107,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:should-2",
+      "normLabel": "page structure rules - source",
+      "communityId": "community:should-4",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "page structure rules - source"
+      "surpriseReason": "degree 12"
     },
     {
       "id": "entity:categories-list",
@@ -892,12 +1126,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "communityId": "community:should-2",
+      "normLabel": "categories - list",
+      "communityId": "community:should-4",
       "degree": 12,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 12",
-      "normLabel": "categories - list"
+      "surpriseReason": "degree 12"
     }
   ],
   "edges": [
@@ -1166,13 +1400,174 @@
       ]
     },
     {
+      "id": "seerr-media-requests-available-ef141443->concept:available",
+      "source": "source:seerr-media-requests-available-ef141443",
+      "target": "concept:available",
+      "relation": "mentions",
+      "status": "extracted",
+      "evidenceClass": "extracted",
+      "confidence": 0.55,
+      "provenance": [
+        "seerr-media-requests-available-ef141443"
+      ]
+    },
+    {
+      "id": "seerr-media-requests-available-ef141443->concept:download",
+      "source": "source:seerr-media-requests-available-ef141443",
+      "target": "concept:download",
+      "relation": "mentions",
+      "status": "extracted",
+      "evidenceClass": "extracted",
+      "confidence": 0.55,
+      "provenance": [
+        "seerr-media-requests-available-ef141443"
+      ]
+    },
+    {
+      "id": "seerr-media-requests-available-ef141443->concept:dune",
+      "source": "source:seerr-media-requests-available-ef141443",
+      "target": "concept:dune",
+      "relation": "mentions",
+      "status": "extracted",
+      "evidenceClass": "extracted",
+      "confidence": 0.55,
+      "provenance": [
+        "seerr-media-requests-available-ef141443"
+      ]
+    },
+    {
+      "id": "seerr-media-requests-available-ef141443->concept:hermes",
+      "source": "source:seerr-media-requests-available-ef141443",
+      "target": "concept:hermes",
+      "relation": "mentions",
+      "status": "extracted",
+      "evidenceClass": "extracted",
+      "confidence": 0.55,
+      "provenance": [
+        "seerr-media-requests-available-ef141443"
+      ]
+    },
+    {
+      "id": "seerr-media-requests-available-ef141443->concept:seerr",
+      "source": "source:seerr-media-requests-available-ef141443",
+      "target": "concept:seerr",
+      "relation": "mentions",
+      "status": "extracted",
+      "evidenceClass": "extracted",
+      "confidence": 0.55,
+      "provenance": [
+        "seerr-media-requests-available-ef141443"
+      ]
+    },
+    {
+      "id": "seerr-media-requests-available-ef141443->concept:shows",
+      "source": "source:seerr-media-requests-available-ef141443",
+      "target": "concept:shows",
+      "relation": "mentions",
+      "status": "extracted",
+      "evidenceClass": "extracted",
+      "confidence": 0.55,
+      "provenance": [
+        "seerr-media-requests-available-ef141443"
+      ]
+    },
+    {
+      "id": "seerr-media-requests-available-ef141443->entity:ask-hermes",
+      "source": "source:seerr-media-requests-available-ef141443",
+      "target": "entity:ask-hermes",
+      "relation": "mentions",
+      "status": "extracted",
+      "evidenceClass": "extracted",
+      "confidence": 0.55,
+      "provenance": [
+        "seerr-media-requests-available-ef141443"
+      ]
+    },
+    {
+      "id": "seerr-media-requests-available-ef141443->entity:dune-hermes",
+      "source": "source:seerr-media-requests-available-ef141443",
+      "target": "entity:dune-hermes",
+      "relation": "mentions",
+      "status": "extracted",
+      "evidenceClass": "extracted",
+      "confidence": 0.55,
+      "provenance": [
+        "seerr-media-requests-available-ef141443"
+      ]
+    },
+    {
+      "id": "seerr-media-requests-available-ef141443->entity:hermes",
+      "source": "source:seerr-media-requests-available-ef141443",
+      "target": "entity:hermes",
+      "relation": "mentions",
+      "status": "extracted",
+      "evidenceClass": "extracted",
+      "confidence": 0.55,
+      "provenance": [
+        "seerr-media-requests-available-ef141443"
+      ]
+    },
+    {
+      "id": "seerr-media-requests-available-ef141443->entity:how",
+      "source": "source:seerr-media-requests-available-ef141443",
+      "target": "entity:how",
+      "relation": "mentions",
+      "status": "extracted",
+      "evidenceClass": "extracted",
+      "confidence": 0.55,
+      "provenance": [
+        "seerr-media-requests-available-ef141443"
+      ]
+    },
+    {
+      "id": "seerr-media-requests-available-ef141443->entity:seerr",
+      "source": "source:seerr-media-requests-available-ef141443",
+      "target": "entity:seerr",
+      "relation": "mentions",
+      "status": "extracted",
+      "evidenceClass": "extracted",
+      "confidence": 0.55,
+      "provenance": [
+        "seerr-media-requests-available-ef141443"
+      ]
+    },
+    {
+      "id": "seerr-media-requests-available-ef141443->entity:seerr-media-requests-available-seerr",
+      "source": "source:seerr-media-requests-available-ef141443",
+      "target": "entity:seerr-media-requests-available-seerr",
+      "relation": "mentions",
+      "status": "extracted",
+      "evidenceClass": "extracted",
+      "confidence": 0.55,
+      "provenance": [
+        "seerr-media-requests-available-ef141443"
+      ]
+    },
+    {
+      "id": "similar-embed:dc892e6dedbdfc1f",
+      "source": "source:swarmvault-config-a48adfce",
+      "target": "source:swarmvault-schema-b10ad2d9",
+      "relation": "semantically_similar_to",
+      "status": "inferred",
+      "evidenceClass": "inferred",
+      "confidence": 0.834,
+      "provenance": [
+        "swarmvault-config-a48adfce",
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "similarityReasons": [
+        "shared_tag"
+      ],
+      "similarityBasis": "embeddings"
+    },
+    {
       "id": "similar:320c5f8d7ed72f3a",
       "source": "source:candidates-5d9c2771",
       "target": "source:insights-1398dcf3",
       "relation": "semantically_similar_to",
       "status": "inferred",
       "evidenceClass": "inferred",
-      "confidence": 0.6465139497297556,
+      "confidence": 0.7174232624502944,
       "provenance": [
         "candidates-5d9c2771",
         "insights-1398dcf3"
@@ -1189,7 +1584,7 @@
       "relation": "semantically_similar_to",
       "status": "inferred",
       "evidenceClass": "inferred",
-      "confidence": 0.7142398369521534,
+      "confidence": 0.7913151768657826,
       "provenance": [
         "candidates-5d9c2771",
         "projects-acb5fd10"
@@ -1206,7 +1601,7 @@
       "relation": "semantically_similar_to",
       "status": "inferred",
       "evidenceClass": "inferred",
-      "confidence": 0.6465139497297556,
+      "confidence": 0.7174232624502944,
       "provenance": [
         "insights-1398dcf3",
         "projects-acb5fd10"
@@ -1529,7 +1924,44 @@
   ],
   "communities": [
     {
-      "id": "community:object-1",
+      "id": "community:candidates-1",
+      "label": "candidates",
+      "nodeIds": [
+        "concept:build",
+        "concept:candidate",
+        "concept:candidates",
+        "concept:compile",
+        "concept:index",
+        "concept:pages",
+        "concept:project",
+        "concept:projects",
+        "concept:rollups",
+        "concept:stage",
+        "entity:candidates",
+        "entity:candidates-run",
+        "entity:projects-run"
+      ]
+    },
+    {
+      "id": "community:available-2",
+      "label": "available",
+      "nodeIds": [
+        "concept:available",
+        "concept:download",
+        "concept:dune",
+        "concept:hermes",
+        "concept:seerr",
+        "concept:shows",
+        "entity:ask-hermes",
+        "entity:dune-hermes",
+        "entity:hermes",
+        "entity:how",
+        "entity:seerr",
+        "entity:seerr-media-requests-available-seerr"
+      ]
+    },
+    {
+      "id": "community:object-3",
       "label": "object",
       "nodeIds": [
         "concept:agents",
@@ -1547,7 +1979,7 @@
       ]
     },
     {
-      "id": "community:should-2",
+      "id": "community:should-4",
       "label": "should",
       "nodeIds": [
         "concept:claims",
@@ -1562,31 +1994,6 @@
         "entity:schema-edit",
         "entity:swarmvault",
         "entity:vault-purpose-describe"
-      ]
-    },
-    {
-      "id": "community:compile-3",
-      "label": "compile",
-      "nodeIds": [
-        "concept:build",
-        "concept:compile",
-        "concept:index",
-        "concept:project",
-        "concept:projects",
-        "concept:rollups",
-        "entity:projects-run"
-      ]
-    },
-    {
-      "id": "community:candidates-4",
-      "label": "candidates",
-      "nodeIds": [
-        "concept:candidate",
-        "concept:candidates",
-        "concept:pages",
-        "concept:stage",
-        "entity:candidates",
-        "entity:candidates-run"
       ]
     },
     {
@@ -1658,6 +2065,22 @@
       "updatedAt": "2026-05-22T19:04:19.945Z"
     },
     {
+      "sourceId": "seerr-media-requests-available-ef141443",
+      "title": "Seerr — Media Requests Available",
+      "originType": "file",
+      "sourceKind": "markdown",
+      "originalPath": "/mnt/data/knowledge-tanya/inbox/seerr-media-requests-available.md",
+      "storedPath": "raw/sources/seerr-media-requests-available-ef141443.md",
+      "extractedTextPath": "state/extracts/seerr-media-requests-available-ef141443.md",
+      "extractedMetadataPath": "state/extracts/seerr-media-requests-available-ef141443.json",
+      "extractionHash": "e907e884f3f8520a4328f7415d9b59c05dd3434a95a98943a2318ff4967d7590",
+      "mimeType": "text/markdown",
+      "contentHash": "ef1414436310b49e8a4c3ff864b4f6c38c655d81fceb6c4cd8569b914cdfcff8",
+      "semanticHash": "4d259c0cd39e51ebb1d269e12021ebf86442f352be98a5160ee0da66036934ea",
+      "createdAt": "2026-05-25T19:18:17.713Z",
+      "updatedAt": "2026-06-06T05:25:01.837Z"
+    },
+    {
       "sourceId": "swarmvault-config-a48adfce",
       "title": "swarmvault.config",
       "originType": "file",
@@ -1703,7 +2126,7 @@
   "pages": [
     {
       "id": "concept:agents",
-      "path": "candidates/concepts/agents.md",
+      "path": "concepts/agents.md",
       "title": "agents",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -1715,12 +2138,12 @@
         "concept:agents"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
         "source:swarmvault-config-a48adfce"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
       },
@@ -1731,7 +2154,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.086Z",
-      "updatedAt": "2026-05-22T19:04:20.086Z",
+      "updatedAt": "2026-06-06T23:29:52.473Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -1739,7 +2162,7 @@
     },
     {
       "id": "concept:applies",
-      "path": "candidates/concepts/applies.md",
+      "path": "concepts/applies.md",
       "title": "applies",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -1751,12 +2174,12 @@
         "concept:applies"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
         "source:insights-1398dcf3"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "insights-1398dcf3": "1398dcf3b60f9b8faa272001e7763482c88e6daa261763cc6cfe6c3c4e4b38ce"
       },
@@ -1767,7 +2190,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.082Z",
-      "updatedAt": "2026-05-22T19:04:20.082Z",
+      "updatedAt": "2026-06-06T23:29:52.462Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
@@ -1775,7 +2198,7 @@
     },
     {
       "id": "concept:authored",
-      "path": "candidates/concepts/authored.md",
+      "path": "concepts/authored.md",
       "title": "authored",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -1787,12 +2210,12 @@
         "concept:authored"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
         "source:insights-1398dcf3"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "insights-1398dcf3": "1398dcf3b60f9b8faa272001e7763482c88e6daa261763cc6cfe6c3c4e4b38ce"
       },
@@ -1803,15 +2226,50 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.082Z",
-      "updatedAt": "2026-05-22T19:04:20.082Z",
+      "updatedAt": "2026-06-06T23:29:52.462Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
       "managedBy": "system"
     },
     {
+      "id": "concept:available",
+      "path": "concepts/available.md",
+      "title": "available",
+      "kind": "concept",
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "concept:available"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:seerr-media-requests-available-ef141443"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "seerr-media-requests-available-ef141443": "ef1414436310b49e8a4c3ff864b4f6c38c655d81fceb6c4cd8569b914cdfcff8"
+      },
+      "sourceSemanticHashes": {
+        "seerr-media-requests-available-ef141443": "4d259c0cd39e51ebb1d269e12021ebf86442f352be98a5160ee0da66036934ea"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-25T19:18:17.865Z",
+      "updatedAt": "2026-06-06T23:29:52.467Z",
+      "compiledFrom": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "managedBy": "system"
+    },
+    {
       "id": "concept:build",
-      "path": "candidates/concepts/build.md",
+      "path": "concepts/build.md",
       "title": "build",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -1823,12 +2281,12 @@
         "concept:build"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
         "source:projects-acb5fd10"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "projects-acb5fd10": "acb5fd105279caeb54f2f482c30234121bcf90180e5968dd5d82fc5924b8caf8"
       },
@@ -1839,7 +2297,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.083Z",
-      "updatedAt": "2026-05-22T19:04:20.083Z",
+      "updatedAt": "2026-06-06T23:29:52.465Z",
       "compiledFrom": [
         "projects-acb5fd10"
       ],
@@ -1847,7 +2305,7 @@
     },
     {
       "id": "concept:candidate",
-      "path": "candidates/concepts/candidate.md",
+      "path": "concepts/candidate.md",
       "title": "candidate",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -1859,12 +2317,12 @@
         "concept:candidate"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
         "source:candidates-5d9c2771"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "candidates-5d9c2771": "5d9c2771efe014874ceeec9297ffbfaf92e420bf567785847f1f8f5471d096d6"
       },
@@ -1875,7 +2333,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.078Z",
-      "updatedAt": "2026-05-22T19:04:20.078Z",
+      "updatedAt": "2026-06-06T23:29:52.444Z",
       "compiledFrom": [
         "candidates-5d9c2771"
       ],
@@ -1883,7 +2341,7 @@
     },
     {
       "id": "concept:candidates",
-      "path": "candidates/concepts/candidates.md",
+      "path": "concepts/candidates.md",
       "title": "candidates",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -1895,12 +2353,12 @@
         "concept:candidates"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
         "source:candidates-5d9c2771"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "candidates-5d9c2771": "5d9c2771efe014874ceeec9297ffbfaf92e420bf567785847f1f8f5471d096d6"
       },
@@ -1911,7 +2369,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.077Z",
-      "updatedAt": "2026-05-22T19:04:20.077Z",
+      "updatedAt": "2026-06-06T23:29:52.443Z",
       "compiledFrom": [
         "candidates-5d9c2771"
       ],
@@ -1919,7 +2377,7 @@
     },
     {
       "id": "concept:claims",
-      "path": "candidates/concepts/claims.md",
+      "path": "concepts/claims.md",
       "title": "claims",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -1931,23 +2389,26 @@
         "concept:claims"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
-        "source:swarmvault-schema-b10ad2d9"
+        "source:swarmvault-schema-b10ad2d9",
+        "output:what-is-this-vault-about"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
       },
       "sourceSemanticHashes": {
         "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
       },
-      "relatedPageIds": [],
+      "relatedPageIds": [
+        "output:what-is-this-vault-about"
+      ],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.088Z",
-      "updatedAt": "2026-05-22T19:04:20.088Z",
+      "updatedAt": "2026-06-06T23:29:52.477Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
@@ -1955,7 +2416,7 @@
     },
     {
       "id": "concept:compile",
-      "path": "candidates/concepts/compile.md",
+      "path": "concepts/compile.md",
       "title": "compile",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -1969,14 +2430,14 @@
         "concept:compile"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.95,
       "backlinks": [
         "source:candidates-5d9c2771",
         "source:insights-1398dcf3",
         "source:projects-acb5fd10"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "candidates-5d9c2771": "5d9c2771efe014874ceeec9297ffbfaf92e420bf567785847f1f8f5471d096d6",
         "insights-1398dcf3": "1398dcf3b60f9b8faa272001e7763482c88e6daa261763cc6cfe6c3c4e4b38ce",
@@ -1991,7 +2452,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.079Z",
-      "updatedAt": "2026-05-22T19:04:20.079Z",
+      "updatedAt": "2026-06-06T23:29:52.445Z",
       "compiledFrom": [
         "candidates-5d9c2771",
         "insights-1398dcf3",
@@ -2001,7 +2462,7 @@
     },
     {
       "id": "concept:concept",
-      "path": "candidates/concepts/concept.md",
+      "path": "concepts/concept.md",
       "title": "concept",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -2013,23 +2474,26 @@
         "concept:concept"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
-        "source:swarmvault-schema-b10ad2d9"
+        "source:swarmvault-schema-b10ad2d9",
+        "output:what-is-this-vault-about"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
       },
       "sourceSemanticHashes": {
         "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
       },
-      "relatedPageIds": [],
+      "relatedPageIds": [
+        "output:what-is-this-vault-about"
+      ],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.088Z",
-      "updatedAt": "2026-05-22T19:04:20.088Z",
+      "updatedAt": "2026-06-06T23:29:52.477Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
@@ -2037,7 +2501,7 @@
     },
     {
       "id": "concept:domain",
-      "path": "candidates/concepts/domain.md",
+      "path": "concepts/domain.md",
       "title": "domain",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -2049,31 +2513,104 @@
         "concept:domain"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
-        "source:swarmvault-schema-b10ad2d9"
+        "source:swarmvault-schema-b10ad2d9",
+        "output:what-is-this-vault-about"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
       },
       "sourceSemanticHashes": {
         "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
       },
-      "relatedPageIds": [],
+      "relatedPageIds": [
+        "output:what-is-this-vault-about"
+      ],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.088Z",
-      "updatedAt": "2026-05-22T19:04:20.088Z",
+      "updatedAt": "2026-06-06T23:29:52.478Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
       "managedBy": "system"
     },
     {
+      "id": "concept:download",
+      "path": "concepts/download.md",
+      "title": "download",
+      "kind": "concept",
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "concept:download"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:seerr-media-requests-available-ef141443"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "seerr-media-requests-available-ef141443": "ef1414436310b49e8a4c3ff864b4f6c38c655d81fceb6c4cd8569b914cdfcff8"
+      },
+      "sourceSemanticHashes": {
+        "seerr-media-requests-available-ef141443": "4d259c0cd39e51ebb1d269e12021ebf86442f352be98a5160ee0da66036934ea"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-25T19:18:17.866Z",
+      "updatedAt": "2026-06-06T23:29:52.468Z",
+      "compiledFrom": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "concept:dune",
+      "path": "concepts/dune.md",
+      "title": "dune",
+      "kind": "concept",
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "concept:dune"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:seerr-media-requests-available-ef141443"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "seerr-media-requests-available-ef141443": "ef1414436310b49e8a4c3ff864b4f6c38c655d81fceb6c4cd8569b914cdfcff8"
+      },
+      "sourceSemanticHashes": {
+        "seerr-media-requests-available-ef141443": "4d259c0cd39e51ebb1d269e12021ebf86442f352be98a5160ee0da66036934ea"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-25T19:18:17.867Z",
+      "updatedAt": "2026-06-06T23:29:52.470Z",
+      "compiledFrom": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "managedBy": "system"
+    },
+    {
       "id": "concept:during",
-      "path": "candidates/concepts/during.md",
+      "path": "concepts/during.md",
       "title": "during",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -2085,12 +2622,12 @@
         "concept:during"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
         "source:insights-1398dcf3"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "insights-1398dcf3": "1398dcf3b60f9b8faa272001e7763482c88e6daa261763cc6cfe6c3c4e4b38ce"
       },
@@ -2101,7 +2638,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.083Z",
-      "updatedAt": "2026-05-22T19:04:20.083Z",
+      "updatedAt": "2026-06-06T23:29:52.463Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
@@ -2109,7 +2646,7 @@
     },
     {
       "id": "concept:false",
-      "path": "candidates/concepts/false.md",
+      "path": "concepts/false.md",
       "title": "false",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -2121,12 +2658,12 @@
         "concept:false"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
         "source:swarmvault-config-a48adfce"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
       },
@@ -2137,15 +2674,50 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.086Z",
-      "updatedAt": "2026-05-22T19:04:20.086Z",
+      "updatedAt": "2026-06-06T23:29:52.473Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
       "managedBy": "system"
     },
     {
+      "id": "concept:hermes",
+      "path": "concepts/hermes.md",
+      "title": "hermes",
+      "kind": "concept",
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "concept:hermes"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:seerr-media-requests-available-ef141443"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "seerr-media-requests-available-ef141443": "ef1414436310b49e8a4c3ff864b4f6c38c655d81fceb6c4cd8569b914cdfcff8"
+      },
+      "sourceSemanticHashes": {
+        "seerr-media-requests-available-ef141443": "4d259c0cd39e51ebb1d269e12021ebf86442f352be98a5160ee0da66036934ea"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-25T19:18:17.866Z",
+      "updatedAt": "2026-06-06T23:29:52.469Z",
+      "compiledFrom": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "managedBy": "system"
+    },
+    {
       "id": "concept:heuristic",
-      "path": "candidates/concepts/heuristic.md",
+      "path": "concepts/heuristic.md",
       "title": "heuristic",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -2157,12 +2729,12 @@
         "concept:heuristic"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
         "source:swarmvault-config-a48adfce"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
       },
@@ -2173,7 +2745,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.086Z",
-      "updatedAt": "2026-05-22T19:04:20.086Z",
+      "updatedAt": "2026-06-06T23:29:52.474Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -2181,7 +2753,7 @@
     },
     {
       "id": "concept:index",
-      "path": "candidates/concepts/index.md",
+      "path": "concepts/index.md",
       "title": "index",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -2194,13 +2766,13 @@
         "concept:index"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.8,
       "backlinks": [
         "source:candidates-5d9c2771",
         "source:projects-acb5fd10"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "candidates-5d9c2771": "5d9c2771efe014874ceeec9297ffbfaf92e420bf567785847f1f8f5471d096d6",
         "projects-acb5fd10": "acb5fd105279caeb54f2f482c30234121bcf90180e5968dd5d82fc5924b8caf8"
@@ -2212,8 +2784,8 @@
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.079Z",
-      "updatedAt": "2026-05-22T19:04:20.079Z",
+      "createdAt": "2026-05-22T19:04:20.128Z",
+      "updatedAt": "2026-06-06T23:29:52.457Z",
       "compiledFrom": [
         "candidates-5d9c2771",
         "projects-acb5fd10"
@@ -2222,7 +2794,7 @@
     },
     {
       "id": "concept:insights",
-      "path": "candidates/concepts/insights.md",
+      "path": "concepts/insights.md",
       "title": "insights",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -2234,12 +2806,12 @@
         "concept:insights"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
         "source:insights-1398dcf3"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "insights-1398dcf3": "1398dcf3b60f9b8faa272001e7763482c88e6daa261763cc6cfe6c3c4e4b38ce"
       },
@@ -2250,7 +2822,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.081Z",
-      "updatedAt": "2026-05-22T19:04:20.081Z",
+      "updatedAt": "2026-06-06T23:29:52.460Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
@@ -2258,7 +2830,7 @@
     },
     {
       "id": "concept:keys",
-      "path": "candidates/concepts/keys.md",
+      "path": "concepts/keys.md",
       "title": "keys",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -2270,12 +2842,12 @@
         "concept:keys"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
         "source:swarmvault-config-a48adfce"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
       },
@@ -2286,7 +2858,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.085Z",
-      "updatedAt": "2026-05-22T19:04:20.085Z",
+      "updatedAt": "2026-06-06T23:29:52.472Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -2294,7 +2866,7 @@
     },
     {
       "id": "concept:local",
-      "path": "candidates/concepts/local.md",
+      "path": "concepts/local.md",
       "title": "local",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -2306,12 +2878,12 @@
         "concept:local"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
         "source:swarmvault-config-a48adfce"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
       },
@@ -2322,7 +2894,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.085Z",
-      "updatedAt": "2026-05-22T19:04:20.085Z",
+      "updatedAt": "2026-06-06T23:29:52.472Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -2330,7 +2902,7 @@
     },
     {
       "id": "concept:object",
-      "path": "candidates/concepts/object.md",
+      "path": "concepts/object.md",
       "title": "object",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -2342,12 +2914,12 @@
         "concept:object"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
         "source:swarmvault-config-a48adfce"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
       },
@@ -2358,7 +2930,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.084Z",
-      "updatedAt": "2026-05-22T19:04:20.084Z",
+      "updatedAt": "2026-06-06T23:29:52.471Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -2366,7 +2938,7 @@
     },
     {
       "id": "concept:pages",
-      "path": "candidates/concepts/pages.md",
+      "path": "concepts/pages.md",
       "title": "pages",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -2378,12 +2950,12 @@
         "concept:pages"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
         "source:candidates-5d9c2771"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "candidates-5d9c2771": "5d9c2771efe014874ceeec9297ffbfaf92e420bf567785847f1f8f5471d096d6"
       },
@@ -2394,7 +2966,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.080Z",
-      "updatedAt": "2026-05-22T19:04:20.080Z",
+      "updatedAt": "2026-06-06T23:29:52.458Z",
       "compiledFrom": [
         "candidates-5d9c2771"
       ],
@@ -2402,7 +2974,7 @@
     },
     {
       "id": "concept:project",
-      "path": "candidates/concepts/project.md",
+      "path": "concepts/project.md",
       "title": "project",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -2414,12 +2986,12 @@
         "concept:project"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
         "source:projects-acb5fd10"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "projects-acb5fd10": "acb5fd105279caeb54f2f482c30234121bcf90180e5968dd5d82fc5924b8caf8"
       },
@@ -2430,7 +3002,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.084Z",
-      "updatedAt": "2026-05-22T19:04:20.084Z",
+      "updatedAt": "2026-06-06T23:29:52.466Z",
       "compiledFrom": [
         "projects-acb5fd10"
       ],
@@ -2438,7 +3010,7 @@
     },
     {
       "id": "concept:projects",
-      "path": "candidates/concepts/projects.md",
+      "path": "concepts/projects.md",
       "title": "projects",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -2450,12 +3022,12 @@
         "concept:projects"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
         "source:projects-acb5fd10"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "projects-acb5fd10": "acb5fd105279caeb54f2f482c30234121bcf90180e5968dd5d82fc5924b8caf8"
       },
@@ -2466,7 +3038,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.083Z",
-      "updatedAt": "2026-05-22T19:04:20.083Z",
+      "updatedAt": "2026-06-06T23:29:52.464Z",
       "compiledFrom": [
         "projects-acb5fd10"
       ],
@@ -2474,7 +3046,7 @@
     },
     {
       "id": "concept:rollups",
-      "path": "candidates/concepts/rollups.md",
+      "path": "concepts/rollups.md",
       "title": "rollups",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -2486,12 +3058,12 @@
         "concept:rollups"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
         "source:projects-acb5fd10"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "projects-acb5fd10": "acb5fd105279caeb54f2f482c30234121bcf90180e5968dd5d82fc5924b8caf8"
       },
@@ -2502,15 +3074,50 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.084Z",
-      "updatedAt": "2026-05-22T19:04:20.084Z",
+      "updatedAt": "2026-06-06T23:29:52.466Z",
       "compiledFrom": [
         "projects-acb5fd10"
       ],
       "managedBy": "system"
     },
     {
+      "id": "concept:seerr",
+      "path": "concepts/seerr.md",
+      "title": "seerr",
+      "kind": "concept",
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "concept:seerr"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:seerr-media-requests-available-ef141443"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "seerr-media-requests-available-ef141443": "ef1414436310b49e8a4c3ff864b4f6c38c655d81fceb6c4cd8569b914cdfcff8"
+      },
+      "sourceSemanticHashes": {
+        "seerr-media-requests-available-ef141443": "4d259c0cd39e51ebb1d269e12021ebf86442f352be98a5160ee0da66036934ea"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-25T19:18:17.867Z",
+      "updatedAt": "2026-06-06T23:29:52.470Z",
+      "compiledFrom": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "managedBy": "system"
+    },
+    {
       "id": "concept:should",
-      "path": "candidates/concepts/should.md",
+      "path": "concepts/should.md",
       "title": "should",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -2522,31 +3129,69 @@
         "concept:should"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
-        "source:swarmvault-schema-b10ad2d9"
+        "source:swarmvault-schema-b10ad2d9",
+        "output:what-is-this-vault-about"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
       },
       "sourceSemanticHashes": {
         "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
       },
-      "relatedPageIds": [],
+      "relatedPageIds": [
+        "output:what-is-this-vault-about"
+      ],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.087Z",
-      "updatedAt": "2026-05-22T19:04:20.087Z",
+      "updatedAt": "2026-06-06T23:29:52.475Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
       "managedBy": "system"
     },
     {
+      "id": "concept:shows",
+      "path": "concepts/shows.md",
+      "title": "shows",
+      "kind": "concept",
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "concept:shows"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:seerr-media-requests-available-ef141443"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "seerr-media-requests-available-ef141443": "ef1414436310b49e8a4c3ff864b4f6c38c655d81fceb6c4cd8569b914cdfcff8"
+      },
+      "sourceSemanticHashes": {
+        "seerr-media-requests-available-ef141443": "4d259c0cd39e51ebb1d269e12021ebf86442f352be98a5160ee0da66036934ea"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-25T19:18:17.866Z",
+      "updatedAt": "2026-06-06T23:29:52.468Z",
+      "compiledFrom": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "managedBy": "system"
+    },
+    {
       "id": "concept:source",
-      "path": "candidates/concepts/source.md",
+      "path": "concepts/source.md",
       "title": "source",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -2558,23 +3203,26 @@
         "concept:source"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
-        "source:swarmvault-schema-b10ad2d9"
+        "source:swarmvault-schema-b10ad2d9",
+        "output:what-is-this-vault-about"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
       },
       "sourceSemanticHashes": {
         "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
       },
-      "relatedPageIds": [],
+      "relatedPageIds": [
+        "output:what-is-this-vault-about"
+      ],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.087Z",
-      "updatedAt": "2026-05-22T19:04:20.087Z",
+      "updatedAt": "2026-06-06T23:29:52.475Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
@@ -2582,7 +3230,7 @@
     },
     {
       "id": "concept:stage",
-      "path": "candidates/concepts/stage.md",
+      "path": "concepts/stage.md",
       "title": "stage",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -2594,12 +3242,12 @@
         "concept:stage"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
         "source:candidates-5d9c2771"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "candidates-5d9c2771": "5d9c2771efe014874ceeec9297ffbfaf92e420bf567785847f1f8f5471d096d6"
       },
@@ -2610,7 +3258,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.080Z",
-      "updatedAt": "2026-05-22T19:04:20.080Z",
+      "updatedAt": "2026-06-06T23:29:52.459Z",
       "compiledFrom": [
         "candidates-5d9c2771"
       ],
@@ -2618,7 +3266,7 @@
     },
     {
       "id": "concept:swarmvault",
-      "path": "candidates/concepts/swarmvault.md",
+      "path": "concepts/swarmvault.md",
       "title": "swarmvault",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -2630,12 +3278,12 @@
         "concept:swarmvault"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
         "source:insights-1398dcf3"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "insights-1398dcf3": "1398dcf3b60f9b8faa272001e7763482c88e6daa261763cc6cfe6c3c4e4b38ce"
       },
@@ -2646,7 +3294,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.081Z",
-      "updatedAt": "2026-05-22T19:04:20.081Z",
+      "updatedAt": "2026-06-06T23:29:52.461Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
@@ -2654,7 +3302,7 @@
     },
     {
       "id": "concept:vault",
-      "path": "candidates/concepts/vault.md",
+      "path": "concepts/vault.md",
       "title": "vault",
       "kind": "concept",
       "sourceClass": "first_party",
@@ -2666,599 +3314,26 @@
         "concept:vault"
       ],
       "freshness": "fresh",
-      "status": "candidate",
+      "status": "active",
       "confidence": 0.65,
       "backlinks": [
-        "source:swarmvault-schema-b10ad2d9"
+        "source:swarmvault-schema-b10ad2d9",
+        "output:what-is-this-vault-about"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
       },
       "sourceSemanticHashes": {
         "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
       },
-      "relatedPageIds": [],
+      "relatedPageIds": [
+        "output:what-is-this-vault-about"
+      ],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.088Z",
-      "updatedAt": "2026-05-22T19:04:20.088Z",
-      "compiledFrom": [
-        "swarmvault-schema-b10ad2d9"
-      ],
-      "managedBy": "system"
-    },
-    {
-      "id": "entity:candidates-run",
-      "path": "candidates/entities/candidates-run.md",
-      "title": "Candidates - Run",
-      "kind": "entity",
-      "sourceClass": "first_party",
-      "sourceIds": [
-        "candidates-5d9c2771"
-      ],
-      "projectIds": [],
-      "nodeIds": [
-        "entity:candidates-run"
-      ],
-      "freshness": "fresh",
-      "status": "candidate",
-      "confidence": 0.65,
-      "backlinks": [
-        "source:candidates-5d9c2771"
-      ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
-      "sourceHashes": {
-        "candidates-5d9c2771": "5d9c2771efe014874ceeec9297ffbfaf92e420bf567785847f1f8f5471d096d6"
-      },
-      "sourceSemanticHashes": {
-        "candidates-5d9c2771": "43d036fc05d2fd6bfb3308e4e69a2b82269412569f2bbcc5df27a9201f73c51a"
-      },
-      "relatedPageIds": [],
-      "relatedNodeIds": [],
-      "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.089Z",
-      "updatedAt": "2026-05-22T19:04:20.089Z",
-      "compiledFrom": [
-        "candidates-5d9c2771"
-      ],
-      "managedBy": "system"
-    },
-    {
-      "id": "entity:candidates",
-      "path": "candidates/entities/candidates.md",
-      "title": "Candidates",
-      "kind": "entity",
-      "sourceClass": "first_party",
-      "sourceIds": [
-        "candidates-5d9c2771"
-      ],
-      "projectIds": [],
-      "nodeIds": [
-        "entity:candidates"
-      ],
-      "freshness": "fresh",
-      "status": "candidate",
-      "confidence": 0.65,
-      "backlinks": [
-        "source:candidates-5d9c2771"
-      ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
-      "sourceHashes": {
-        "candidates-5d9c2771": "5d9c2771efe014874ceeec9297ffbfaf92e420bf567785847f1f8f5471d096d6"
-      },
-      "sourceSemanticHashes": {
-        "candidates-5d9c2771": "43d036fc05d2fd6bfb3308e4e69a2b82269412569f2bbcc5df27a9201f73c51a"
-      },
-      "relatedPageIds": [],
-      "relatedNodeIds": [],
-      "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.089Z",
-      "updatedAt": "2026-05-22T19:04:20.089Z",
-      "compiledFrom": [
-        "candidates-5d9c2771"
-      ],
-      "managedBy": "system"
-    },
-    {
-      "id": "entity:categories-list",
-      "path": "candidates/entities/categories-list.md",
-      "title": "Categories - List",
-      "kind": "entity",
-      "sourceClass": "first_party",
-      "sourceIds": [
-        "swarmvault-schema-b10ad2d9"
-      ],
-      "projectIds": [],
-      "nodeIds": [
-        "entity:categories-list"
-      ],
-      "freshness": "fresh",
-      "status": "candidate",
-      "confidence": 0.65,
-      "backlinks": [
-        "source:swarmvault-schema-b10ad2d9"
-      ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
-      "sourceHashes": {
-        "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
-      },
-      "sourceSemanticHashes": {
-        "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
-      },
-      "relatedPageIds": [],
-      "relatedNodeIds": [],
-      "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.093Z",
-      "updatedAt": "2026-05-22T19:04:20.093Z",
-      "compiledFrom": [
-        "swarmvault-schema-b10ad2d9"
-      ],
-      "managedBy": "system"
-    },
-    {
-      "id": "entity:format",
-      "path": "candidates/entities/format.md",
-      "title": "Format:",
-      "kind": "entity",
-      "sourceClass": "first_party",
-      "sourceIds": [
-        "swarmvault-config-a48adfce"
-      ],
-      "projectIds": [],
-      "nodeIds": [
-        "entity:format"
-      ],
-      "freshness": "fresh",
-      "status": "candidate",
-      "confidence": 0.65,
-      "backlinks": [
-        "source:swarmvault-config-a48adfce"
-      ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
-      "sourceHashes": {
-        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
-      },
-      "sourceSemanticHashes": {
-        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
-      },
-      "relatedPageIds": [],
-      "relatedNodeIds": [],
-      "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.090Z",
-      "updatedAt": "2026-05-22T19:04:20.090Z",
-      "compiledFrom": [
-        "swarmvault-config-a48adfce"
-      ],
-      "managedBy": "system"
-    },
-    {
-      "id": "entity:insights",
-      "path": "candidates/entities/insights.md",
-      "title": "Insights",
-      "kind": "entity",
-      "sourceClass": "first_party",
-      "sourceIds": [
-        "insights-1398dcf3"
-      ],
-      "projectIds": [],
-      "nodeIds": [
-        "entity:insights"
-      ],
-      "freshness": "fresh",
-      "status": "candidate",
-      "confidence": 0.65,
-      "backlinks": [
-        "source:insights-1398dcf3"
-      ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
-      "sourceHashes": {
-        "insights-1398dcf3": "1398dcf3b60f9b8faa272001e7763482c88e6daa261763cc6cfe6c3c4e4b38ce"
-      },
-      "sourceSemanticHashes": {
-        "insights-1398dcf3": "7ed98748976e1b249ce944a23513c98359945683c317056d0d40b761308abce6"
-      },
-      "relatedPageIds": [],
-      "relatedNodeIds": [],
-      "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.090Z",
-      "updatedAt": "2026-05-22T19:04:20.090Z",
-      "compiledFrom": [
-        "insights-1398dcf3"
-      ],
-      "managedBy": "system"
-    },
-    {
-      "id": "entity:naming-conventions-prefer",
-      "path": "candidates/entities/naming-conventions-prefer.md",
-      "title": "Naming Conventions - Prefer",
-      "kind": "entity",
-      "sourceClass": "first_party",
-      "sourceIds": [
-        "swarmvault-schema-b10ad2d9"
-      ],
-      "projectIds": [],
-      "nodeIds": [
-        "entity:naming-conventions-prefer"
-      ],
-      "freshness": "fresh",
-      "status": "candidate",
-      "confidence": 0.65,
-      "backlinks": [
-        "source:swarmvault-schema-b10ad2d9"
-      ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
-      "sourceHashes": {
-        "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
-      },
-      "sourceSemanticHashes": {
-        "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
-      },
-      "relatedPageIds": [],
-      "relatedNodeIds": [],
-      "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.092Z",
-      "updatedAt": "2026-05-22T19:04:20.092Z",
-      "compiledFrom": [
-        "swarmvault-schema-b10ad2d9"
-      ],
-      "managedBy": "system"
-    },
-    {
-      "id": "entity:nested",
-      "path": "candidates/entities/nested.md",
-      "title": "Nested",
-      "kind": "entity",
-      "sourceClass": "first_party",
-      "sourceIds": [
-        "swarmvault-config-a48adfce"
-      ],
-      "projectIds": [],
-      "nodeIds": [
-        "entity:nested"
-      ],
-      "freshness": "fresh",
-      "status": "candidate",
-      "confidence": 0.65,
-      "backlinks": [
-        "source:swarmvault-config-a48adfce"
-      ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
-      "sourceHashes": {
-        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
-      },
-      "sourceSemanticHashes": {
-        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
-      },
-      "relatedPageIds": [],
-      "relatedNodeIds": [],
-      "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.091Z",
-      "updatedAt": "2026-05-22T19:04:20.091Z",
-      "compiledFrom": [
-        "swarmvault-config-a48adfce"
-      ],
-      "managedBy": "system"
-    },
-    {
-      "id": "entity:page-structure-rules-source",
-      "path": "candidates/entities/page-structure-rules-source.md",
-      "title": "Page Structure Rules - Source",
-      "kind": "entity",
-      "sourceClass": "first_party",
-      "sourceIds": [
-        "swarmvault-schema-b10ad2d9"
-      ],
-      "projectIds": [],
-      "nodeIds": [
-        "entity:page-structure-rules-source"
-      ],
-      "freshness": "fresh",
-      "status": "candidate",
-      "confidence": 0.65,
-      "backlinks": [
-        "source:swarmvault-schema-b10ad2d9"
-      ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
-      "sourceHashes": {
-        "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
-      },
-      "sourceSemanticHashes": {
-        "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
-      },
-      "relatedPageIds": [],
-      "relatedNodeIds": [],
-      "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.093Z",
-      "updatedAt": "2026-05-22T19:04:20.093Z",
-      "compiledFrom": [
-        "swarmvault-schema-b10ad2d9"
-      ],
-      "managedBy": "system"
-    },
-    {
-      "id": "entity:preview",
-      "path": "candidates/entities/preview.md",
-      "title": "Preview",
-      "kind": "entity",
-      "sourceClass": "first_party",
-      "sourceIds": [
-        "swarmvault-config-a48adfce"
-      ],
-      "projectIds": [],
-      "nodeIds": [
-        "entity:preview"
-      ],
-      "freshness": "fresh",
-      "status": "candidate",
-      "confidence": 0.65,
-      "backlinks": [
-        "source:swarmvault-config-a48adfce"
-      ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
-      "sourceHashes": {
-        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
-      },
-      "sourceSemanticHashes": {
-        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
-      },
-      "relatedPageIds": [],
-      "relatedNodeIds": [],
-      "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.091Z",
-      "updatedAt": "2026-05-22T19:04:20.091Z",
-      "compiledFrom": [
-        "swarmvault-config-a48adfce"
-      ],
-      "managedBy": "system"
-    },
-    {
-      "id": "entity:projects-run",
-      "path": "candidates/entities/projects-run.md",
-      "title": "Projects - Run",
-      "kind": "entity",
-      "sourceClass": "first_party",
-      "sourceIds": [
-        "projects-acb5fd10"
-      ],
-      "projectIds": [],
-      "nodeIds": [
-        "entity:projects-run"
-      ],
-      "freshness": "fresh",
-      "status": "candidate",
-      "confidence": 0.65,
-      "backlinks": [
-        "source:projects-acb5fd10"
-      ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
-      "sourceHashes": {
-        "projects-acb5fd10": "acb5fd105279caeb54f2f482c30234121bcf90180e5968dd5d82fc5924b8caf8"
-      },
-      "sourceSemanticHashes": {
-        "projects-acb5fd10": "c17f3824f10f7496c534034df6643e9aab08bdb9431f5d9bfa9f2ac000bf6187"
-      },
-      "relatedPageIds": [],
-      "relatedNodeIds": [],
-      "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.090Z",
-      "updatedAt": "2026-05-22T19:04:20.090Z",
-      "compiledFrom": [
-        "projects-acb5fd10"
-      ],
-      "managedBy": "system"
-    },
-    {
-      "id": "entity:schema-edit",
-      "path": "candidates/entities/schema-edit.md",
-      "title": "Schema Edit",
-      "kind": "entity",
-      "sourceClass": "first_party",
-      "sourceIds": [
-        "swarmvault-schema-b10ad2d9"
-      ],
-      "projectIds": [],
-      "nodeIds": [
-        "entity:schema-edit"
-      ],
-      "freshness": "fresh",
-      "status": "candidate",
-      "confidence": 0.65,
-      "backlinks": [
-        "source:swarmvault-schema-b10ad2d9"
-      ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
-      "sourceHashes": {
-        "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
-      },
-      "sourceSemanticHashes": {
-        "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
-      },
-      "relatedPageIds": [],
-      "relatedNodeIds": [],
-      "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.092Z",
-      "updatedAt": "2026-05-22T19:04:20.092Z",
-      "compiledFrom": [
-        "swarmvault-schema-b10ad2d9"
-      ],
-      "managedBy": "system"
-    },
-    {
-      "id": "entity:schema",
-      "path": "candidates/entities/schema.md",
-      "title": "Schema -",
-      "kind": "entity",
-      "sourceClass": "first_party",
-      "sourceIds": [
-        "swarmvault-config-a48adfce"
-      ],
-      "projectIds": [],
-      "nodeIds": [
-        "entity:schema"
-      ],
-      "freshness": "fresh",
-      "status": "candidate",
-      "confidence": 0.65,
-      "backlinks": [
-        "source:swarmvault-config-a48adfce"
-      ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
-      "sourceHashes": {
-        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
-      },
-      "sourceSemanticHashes": {
-        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
-      },
-      "relatedPageIds": [],
-      "relatedNodeIds": [],
-      "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.091Z",
-      "updatedAt": "2026-05-22T19:04:20.091Z",
-      "compiledFrom": [
-        "swarmvault-config-a48adfce"
-      ],
-      "managedBy": "system"
-    },
-    {
-      "id": "entity:size",
-      "path": "candidates/entities/size.md",
-      "title": "Size:",
-      "kind": "entity",
-      "sourceClass": "first_party",
-      "sourceIds": [
-        "swarmvault-config-a48adfce"
-      ],
-      "projectIds": [],
-      "nodeIds": [
-        "entity:size"
-      ],
-      "freshness": "fresh",
-      "status": "candidate",
-      "confidence": 0.65,
-      "backlinks": [
-        "source:swarmvault-config-a48adfce"
-      ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
-      "sourceHashes": {
-        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
-      },
-      "sourceSemanticHashes": {
-        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
-      },
-      "relatedPageIds": [],
-      "relatedNodeIds": [],
-      "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.091Z",
-      "updatedAt": "2026-05-22T19:04:20.091Z",
-      "compiledFrom": [
-        "swarmvault-config-a48adfce"
-      ],
-      "managedBy": "system"
-    },
-    {
-      "id": "entity:swarmvault",
-      "path": "candidates/entities/swarmvault.md",
-      "title": "SwarmVault",
-      "kind": "entity",
-      "sourceClass": "first_party",
-      "sourceIds": [
-        "swarmvault-schema-b10ad2d9"
-      ],
-      "projectIds": [],
-      "nodeIds": [
-        "entity:swarmvault"
-      ],
-      "freshness": "fresh",
-      "status": "candidate",
-      "confidence": 0.65,
-      "backlinks": [
-        "source:swarmvault-schema-b10ad2d9"
-      ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
-      "sourceHashes": {
-        "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
-      },
-      "sourceSemanticHashes": {
-        "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
-      },
-      "relatedPageIds": [],
-      "relatedNodeIds": [],
-      "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.092Z",
-      "updatedAt": "2026-05-22T19:04:20.092Z",
-      "compiledFrom": [
-        "swarmvault-schema-b10ad2d9"
-      ],
-      "managedBy": "system"
-    },
-    {
-      "id": "entity:top",
-      "path": "candidates/entities/top.md",
-      "title": "Top-",
-      "kind": "entity",
-      "sourceClass": "first_party",
-      "sourceIds": [
-        "swarmvault-config-a48adfce"
-      ],
-      "projectIds": [],
-      "nodeIds": [
-        "entity:top"
-      ],
-      "freshness": "fresh",
-      "status": "candidate",
-      "confidence": 0.65,
-      "backlinks": [
-        "source:swarmvault-config-a48adfce"
-      ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
-      "sourceHashes": {
-        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
-      },
-      "sourceSemanticHashes": {
-        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
-      },
-      "relatedPageIds": [],
-      "relatedNodeIds": [],
-      "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.090Z",
-      "updatedAt": "2026-05-22T19:04:20.090Z",
-      "compiledFrom": [
-        "swarmvault-config-a48adfce"
-      ],
-      "managedBy": "system"
-    },
-    {
-      "id": "entity:vault-purpose-describe",
-      "path": "candidates/entities/vault-purpose-describe.md",
-      "title": "Vault Purpose - Describe",
-      "kind": "entity",
-      "sourceClass": "first_party",
-      "sourceIds": [
-        "swarmvault-schema-b10ad2d9"
-      ],
-      "projectIds": [],
-      "nodeIds": [
-        "entity:vault-purpose-describe"
-      ],
-      "freshness": "fresh",
-      "status": "candidate",
-      "confidence": 0.65,
-      "backlinks": [
-        "source:swarmvault-schema-b10ad2d9"
-      ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
-      "sourceHashes": {
-        "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
-      },
-      "sourceSemanticHashes": {
-        "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
-      },
-      "relatedPageIds": [],
-      "relatedNodeIds": [],
-      "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.092Z",
-      "updatedAt": "2026-05-22T19:04:20.092Z",
+      "updatedAt": "2026-06-06T23:29:52.476Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
@@ -3276,14 +3351,14 @@
       "status": "active",
       "confidence": 1,
       "backlinks": [],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {},
       "sourceSemanticHashes": {},
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.582Z",
-      "updatedAt": "2026-05-22T19:04:20.582Z",
+      "createdAt": "2026-06-06T23:31:04.619Z",
+      "updatedAt": "2026-06-06T23:31:04.619Z",
       "compiledFrom": [],
       "managedBy": "system"
     },
@@ -3299,14 +3374,14 @@
       "status": "active",
       "confidence": 1,
       "backlinks": [],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {},
       "sourceSemanticHashes": {},
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.579Z",
-      "updatedAt": "2026-05-22T19:04:20.579Z",
+      "createdAt": "2026-06-06T23:31:04.616Z",
+      "updatedAt": "2026-06-06T23:31:04.616Z",
       "compiledFrom": [],
       "managedBy": "system"
     },
@@ -3322,14 +3397,14 @@
       "status": "active",
       "confidence": 1,
       "backlinks": [],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {},
       "sourceSemanticHashes": {},
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.583Z",
-      "updatedAt": "2026-05-22T19:04:20.583Z",
+      "createdAt": "2026-06-06T23:31:04.620Z",
+      "updatedAt": "2026-06-06T23:31:04.620Z",
       "compiledFrom": [],
       "managedBy": "system"
     },
@@ -3345,14 +3420,14 @@
       "status": "active",
       "confidence": 1,
       "backlinks": [],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {},
       "sourceSemanticHashes": {},
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.580Z",
-      "updatedAt": "2026-05-22T19:04:20.580Z",
+      "createdAt": "2026-06-06T23:31:04.617Z",
+      "updatedAt": "2026-06-06T23:31:04.617Z",
       "compiledFrom": [],
       "managedBy": "system"
     },
@@ -3363,8 +3438,9 @@
       "kind": "index",
       "sourceIds": [
         "swarmvault-schema-b10ad2d9",
-        "projects-acb5fd10",
         "swarmvault-config-a48adfce",
+        "seerr-media-requests-available-ef141443",
+        "projects-acb5fd10",
         "insights-1398dcf3",
         "candidates-5d9c2771"
       ],
@@ -3374,18 +3450,19 @@
       "status": "active",
       "confidence": 1,
       "backlinks": [],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {},
       "sourceSemanticHashes": {},
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.580Z",
-      "updatedAt": "2026-05-22T19:04:20.580Z",
+      "createdAt": "2026-06-06T23:31:04.617Z",
+      "updatedAt": "2026-06-06T23:31:04.617Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9",
-        "projects-acb5fd10",
         "swarmvault-config-a48adfce",
+        "seerr-media-requests-available-ef141443",
+        "projects-acb5fd10",
         "insights-1398dcf3",
         "candidates-5d9c2771"
       ],
@@ -3403,14 +3480,14 @@
       "status": "active",
       "confidence": 1,
       "backlinks": [],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {},
       "sourceSemanticHashes": {},
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.582Z",
-      "updatedAt": "2026-05-22T19:04:20.582Z",
+      "createdAt": "2026-06-06T23:31:04.619Z",
+      "updatedAt": "2026-06-06T23:31:04.619Z",
       "compiledFrom": [],
       "managedBy": "system"
     },
@@ -3426,14 +3503,14 @@
       "status": "active",
       "confidence": 1,
       "backlinks": [],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {},
       "sourceSemanticHashes": {},
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.582Z",
-      "updatedAt": "2026-05-22T19:04:20.582Z",
+      "createdAt": "2026-06-06T23:31:04.619Z",
+      "updatedAt": "2026-06-06T23:31:04.619Z",
       "compiledFrom": [],
       "managedBy": "system"
     },
@@ -3449,14 +3526,14 @@
       "status": "active",
       "confidence": 1,
       "backlinks": [],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {},
       "sourceSemanticHashes": {},
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.581Z",
-      "updatedAt": "2026-05-22T19:04:20.581Z",
+      "createdAt": "2026-06-06T23:31:04.618Z",
+      "updatedAt": "2026-06-06T23:31:04.618Z",
       "compiledFrom": [],
       "managedBy": "system"
     },
@@ -3472,74 +3549,896 @@
       "status": "active",
       "confidence": 1,
       "backlinks": [],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {},
       "sourceSemanticHashes": {},
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-05-22T19:04:20.581Z",
-      "updatedAt": "2026-05-22T19:04:20.581Z",
+      "createdAt": "2026-06-06T23:31:04.618Z",
+      "updatedAt": "2026-06-06T23:31:04.618Z",
       "compiledFrom": [],
       "managedBy": "system"
     },
     {
-      "id": "graph:community:candidates-4",
-      "path": "graph/communities/candidates-4.md",
-      "title": "Community: candidates",
-      "kind": "community_summary",
+      "id": "entity:ask-hermes",
+      "path": "entities/ask-hermes.md",
+      "title": "Ask Hermes",
+      "kind": "entity",
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:ask-hermes"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:seerr-media-requests-available-ef141443"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "seerr-media-requests-available-ef141443": "ef1414436310b49e8a4c3ff864b4f6c38c655d81fceb6c4cd8569b914cdfcff8"
+      },
+      "sourceSemanticHashes": {
+        "seerr-media-requests-available-ef141443": "4d259c0cd39e51ebb1d269e12021ebf86442f352be98a5160ee0da66036934ea"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-25T19:18:17.881Z",
+      "updatedAt": "2026-06-06T23:29:52.482Z",
+      "compiledFrom": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "entity:candidates-run",
+      "path": "entities/candidates-run.md",
+      "title": "Candidates - Run",
+      "kind": "entity",
+      "sourceClass": "first_party",
       "sourceIds": [
         "candidates-5d9c2771"
       ],
       "projectIds": [],
       "nodeIds": [
-        "concept:candidate",
-        "concept:candidates",
-        "concept:pages",
-        "concept:stage",
-        "entity:candidates",
         "entity:candidates-run"
       ],
       "freshness": "fresh",
       "status": "active",
-      "confidence": 1,
+      "confidence": 0.65,
       "backlinks": [
-        "graph:report"
+        "source:candidates-5d9c2771"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
-      "sourceHashes": {},
-      "sourceSemanticHashes": {},
-      "relatedPageIds": [
-        "graph:report",
-        "concept:candidate",
-        "concept:candidates",
-        "concept:pages",
-        "concept:stage",
-        "entity:candidates",
-        "entity:candidates-run"
-      ],
-      "relatedNodeIds": [
-        "concept:candidate",
-        "concept:candidates",
-        "concept:pages",
-        "concept:stage",
-        "entity:candidates",
-        "entity:candidates-run"
-      ],
-      "relatedSourceIds": [
-        "candidates-5d9c2771"
-      ],
-      "createdAt": "2026-05-22T19:04:20.107Z",
-      "updatedAt": "2026-05-22T19:04:20.107Z",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "candidates-5d9c2771": "5d9c2771efe014874ceeec9297ffbfaf92e420bf567785847f1f8f5471d096d6"
+      },
+      "sourceSemanticHashes": {
+        "candidates-5d9c2771": "43d036fc05d2fd6bfb3308e4e69a2b82269412569f2bbcc5df27a9201f73c51a"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-22T19:04:20.089Z",
+      "updatedAt": "2026-06-06T23:29:52.479Z",
       "compiledFrom": [
         "candidates-5d9c2771"
       ],
       "managedBy": "system"
     },
     {
-      "id": "graph:community:compile-3",
-      "path": "graph/communities/compile-3.md",
-      "title": "Community: compile",
+      "id": "entity:candidates",
+      "path": "entities/candidates.md",
+      "title": "Candidates",
+      "kind": "entity",
+      "sourceClass": "first_party",
+      "sourceIds": [
+        "candidates-5d9c2771"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:candidates"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:candidates-5d9c2771"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "candidates-5d9c2771": "5d9c2771efe014874ceeec9297ffbfaf92e420bf567785847f1f8f5471d096d6"
+      },
+      "sourceSemanticHashes": {
+        "candidates-5d9c2771": "43d036fc05d2fd6bfb3308e4e69a2b82269412569f2bbcc5df27a9201f73c51a"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-22T19:04:20.089Z",
+      "updatedAt": "2026-06-06T23:29:52.478Z",
+      "compiledFrom": [
+        "candidates-5d9c2771"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "entity:categories-list",
+      "path": "entities/categories-list.md",
+      "title": "Categories - List",
+      "kind": "entity",
+      "sourceClass": "first_party",
+      "sourceIds": [
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:categories-list"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:swarmvault-schema-b10ad2d9",
+        "output:what-is-this-vault-about"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
+      },
+      "sourceSemanticHashes": {
+        "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
+      },
+      "relatedPageIds": [
+        "output:what-is-this-vault-about"
+      ],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-22T19:04:20.093Z",
+      "updatedAt": "2026-06-06T23:29:52.490Z",
+      "compiledFrom": [
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "entity:dune-hermes",
+      "path": "entities/dune-hermes.md",
+      "title": "Dune\") - Hermes",
+      "kind": "entity",
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:dune-hermes"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:seerr-media-requests-available-ef141443"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "seerr-media-requests-available-ef141443": "ef1414436310b49e8a4c3ff864b4f6c38c655d81fceb6c4cd8569b914cdfcff8"
+      },
+      "sourceSemanticHashes": {
+        "seerr-media-requests-available-ef141443": "4d259c0cd39e51ebb1d269e12021ebf86442f352be98a5160ee0da66036934ea"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-25T19:18:17.881Z",
+      "updatedAt": "2026-06-06T23:29:52.483Z",
+      "compiledFrom": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "entity:format",
+      "path": "entities/format.md",
+      "title": "Format:",
+      "kind": "entity",
+      "sourceClass": "first_party",
+      "sourceIds": [
+        "swarmvault-config-a48adfce"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:format"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:swarmvault-config-a48adfce"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
+      },
+      "sourceSemanticHashes": {
+        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-22T19:04:20.090Z",
+      "updatedAt": "2026-06-06T23:29:52.484Z",
+      "compiledFrom": [
+        "swarmvault-config-a48adfce"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "entity:hermes",
+      "path": "entities/hermes.md",
+      "title": "Hermes",
+      "kind": "entity",
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:hermes"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:seerr-media-requests-available-ef141443"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "seerr-media-requests-available-ef141443": "ef1414436310b49e8a4c3ff864b4f6c38c655d81fceb6c4cd8569b914cdfcff8"
+      },
+      "sourceSemanticHashes": {
+        "seerr-media-requests-available-ef141443": "4d259c0cd39e51ebb1d269e12021ebf86442f352be98a5160ee0da66036934ea"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-25T19:18:17.880Z",
+      "updatedAt": "2026-06-06T23:29:52.481Z",
+      "compiledFrom": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "entity:how",
+      "path": "entities/how.md",
+      "title": "How",
+      "kind": "entity",
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:how"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:seerr-media-requests-available-ef141443"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "seerr-media-requests-available-ef141443": "ef1414436310b49e8a4c3ff864b4f6c38c655d81fceb6c4cd8569b914cdfcff8"
+      },
+      "sourceSemanticHashes": {
+        "seerr-media-requests-available-ef141443": "4d259c0cd39e51ebb1d269e12021ebf86442f352be98a5160ee0da66036934ea"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-25T19:18:17.880Z",
+      "updatedAt": "2026-06-06T23:29:52.482Z",
+      "compiledFrom": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "entity:insights",
+      "path": "entities/insights.md",
+      "title": "Insights",
+      "kind": "entity",
+      "sourceClass": "first_party",
+      "sourceIds": [
+        "insights-1398dcf3"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:insights"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:insights-1398dcf3"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "insights-1398dcf3": "1398dcf3b60f9b8faa272001e7763482c88e6daa261763cc6cfe6c3c4e4b38ce"
+      },
+      "sourceSemanticHashes": {
+        "insights-1398dcf3": "7ed98748976e1b249ce944a23513c98359945683c317056d0d40b761308abce6"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-22T19:04:20.090Z",
+      "updatedAt": "2026-06-06T23:29:52.479Z",
+      "compiledFrom": [
+        "insights-1398dcf3"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "entity:naming-conventions-prefer",
+      "path": "entities/naming-conventions-prefer.md",
+      "title": "Naming Conventions - Prefer",
+      "kind": "entity",
+      "sourceClass": "first_party",
+      "sourceIds": [
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:naming-conventions-prefer"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:swarmvault-schema-b10ad2d9",
+        "output:what-is-this-vault-about"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
+      },
+      "sourceSemanticHashes": {
+        "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
+      },
+      "relatedPageIds": [
+        "output:what-is-this-vault-about"
+      ],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-22T19:04:20.092Z",
+      "updatedAt": "2026-06-06T23:29:52.489Z",
+      "compiledFrom": [
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "entity:nested",
+      "path": "entities/nested.md",
+      "title": "Nested",
+      "kind": "entity",
+      "sourceClass": "first_party",
+      "sourceIds": [
+        "swarmvault-config-a48adfce"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:nested"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:swarmvault-config-a48adfce"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
+      },
+      "sourceSemanticHashes": {
+        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-22T19:04:20.091Z",
+      "updatedAt": "2026-06-06T23:29:52.486Z",
+      "compiledFrom": [
+        "swarmvault-config-a48adfce"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "entity:page-structure-rules-source",
+      "path": "entities/page-structure-rules-source.md",
+      "title": "Page Structure Rules - Source",
+      "kind": "entity",
+      "sourceClass": "first_party",
+      "sourceIds": [
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:page-structure-rules-source"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:swarmvault-schema-b10ad2d9",
+        "output:what-is-this-vault-about"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
+      },
+      "sourceSemanticHashes": {
+        "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
+      },
+      "relatedPageIds": [
+        "output:what-is-this-vault-about"
+      ],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-22T19:04:20.093Z",
+      "updatedAt": "2026-06-06T23:29:52.490Z",
+      "compiledFrom": [
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "entity:preview",
+      "path": "entities/preview.md",
+      "title": "Preview",
+      "kind": "entity",
+      "sourceClass": "first_party",
+      "sourceIds": [
+        "swarmvault-config-a48adfce"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:preview"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:swarmvault-config-a48adfce"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
+      },
+      "sourceSemanticHashes": {
+        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-22T19:04:20.091Z",
+      "updatedAt": "2026-06-06T23:29:52.487Z",
+      "compiledFrom": [
+        "swarmvault-config-a48adfce"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "entity:projects-run",
+      "path": "entities/projects-run.md",
+      "title": "Projects - Run",
+      "kind": "entity",
+      "sourceClass": "first_party",
+      "sourceIds": [
+        "projects-acb5fd10"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:projects-run"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:projects-acb5fd10"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "projects-acb5fd10": "acb5fd105279caeb54f2f482c30234121bcf90180e5968dd5d82fc5924b8caf8"
+      },
+      "sourceSemanticHashes": {
+        "projects-acb5fd10": "c17f3824f10f7496c534034df6643e9aab08bdb9431f5d9bfa9f2ac000bf6187"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-22T19:04:20.090Z",
+      "updatedAt": "2026-06-06T23:29:52.480Z",
+      "compiledFrom": [
+        "projects-acb5fd10"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "entity:schema-edit",
+      "path": "entities/schema-edit.md",
+      "title": "Schema Edit",
+      "kind": "entity",
+      "sourceClass": "first_party",
+      "sourceIds": [
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:schema-edit"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:swarmvault-schema-b10ad2d9",
+        "output:what-is-this-vault-about"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
+      },
+      "sourceSemanticHashes": {
+        "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
+      },
+      "relatedPageIds": [
+        "output:what-is-this-vault-about"
+      ],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-22T19:04:20.092Z",
+      "updatedAt": "2026-06-06T23:29:52.488Z",
+      "compiledFrom": [
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "entity:schema",
+      "path": "entities/schema.md",
+      "title": "Schema -",
+      "kind": "entity",
+      "sourceClass": "first_party",
+      "sourceIds": [
+        "swarmvault-config-a48adfce"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:schema"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:swarmvault-config-a48adfce"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
+      },
+      "sourceSemanticHashes": {
+        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-22T19:04:20.091Z",
+      "updatedAt": "2026-06-06T23:29:52.486Z",
+      "compiledFrom": [
+        "swarmvault-config-a48adfce"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "entity:seerr-media-requests-available-seerr",
+      "path": "entities/seerr-media-requests-available-seerr.md",
+      "title": "Seerr — Media Requests Available Seerr",
+      "kind": "entity",
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:seerr-media-requests-available-seerr"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:seerr-media-requests-available-ef141443"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "seerr-media-requests-available-ef141443": "ef1414436310b49e8a4c3ff864b4f6c38c655d81fceb6c4cd8569b914cdfcff8"
+      },
+      "sourceSemanticHashes": {
+        "seerr-media-requests-available-ef141443": "4d259c0cd39e51ebb1d269e12021ebf86442f352be98a5160ee0da66036934ea"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-25T19:18:17.880Z",
+      "updatedAt": "2026-06-06T23:29:52.481Z",
+      "compiledFrom": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "entity:seerr",
+      "path": "entities/seerr.md",
+      "title": "Seerr",
+      "kind": "entity",
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:seerr"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:seerr-media-requests-available-ef141443"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "seerr-media-requests-available-ef141443": "ef1414436310b49e8a4c3ff864b4f6c38c655d81fceb6c4cd8569b914cdfcff8"
+      },
+      "sourceSemanticHashes": {
+        "seerr-media-requests-available-ef141443": "4d259c0cd39e51ebb1d269e12021ebf86442f352be98a5160ee0da66036934ea"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-25T19:18:17.881Z",
+      "updatedAt": "2026-06-06T23:29:52.484Z",
+      "compiledFrom": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "entity:size",
+      "path": "entities/size.md",
+      "title": "Size:",
+      "kind": "entity",
+      "sourceClass": "first_party",
+      "sourceIds": [
+        "swarmvault-config-a48adfce"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:size"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:swarmvault-config-a48adfce"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
+      },
+      "sourceSemanticHashes": {
+        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-22T19:04:20.091Z",
+      "updatedAt": "2026-06-06T23:29:52.485Z",
+      "compiledFrom": [
+        "swarmvault-config-a48adfce"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "entity:swarmvault",
+      "path": "entities/swarmvault.md",
+      "title": "SwarmVault",
+      "kind": "entity",
+      "sourceClass": "first_party",
+      "sourceIds": [
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:swarmvault"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:swarmvault-schema-b10ad2d9",
+        "output:what-is-this-vault-about"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
+      },
+      "sourceSemanticHashes": {
+        "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
+      },
+      "relatedPageIds": [
+        "output:what-is-this-vault-about"
+      ],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-22T19:04:20.092Z",
+      "updatedAt": "2026-06-06T23:29:52.488Z",
+      "compiledFrom": [
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "entity:top",
+      "path": "entities/top.md",
+      "title": "Top-",
+      "kind": "entity",
+      "sourceClass": "first_party",
+      "sourceIds": [
+        "swarmvault-config-a48adfce"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:top"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:swarmvault-config-a48adfce"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
+      },
+      "sourceSemanticHashes": {
+        "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-22T19:04:20.090Z",
+      "updatedAt": "2026-06-06T23:29:52.485Z",
+      "compiledFrom": [
+        "swarmvault-config-a48adfce"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "entity:vault-purpose-describe",
+      "path": "entities/vault-purpose-describe.md",
+      "title": "Vault Purpose - Describe",
+      "kind": "entity",
+      "sourceClass": "first_party",
+      "sourceIds": [
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "entity:vault-purpose-describe"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.65,
+      "backlinks": [
+        "source:swarmvault-schema-b10ad2d9",
+        "output:what-is-this-vault-about"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
+      },
+      "sourceSemanticHashes": {
+        "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
+      },
+      "relatedPageIds": [
+        "output:what-is-this-vault-about"
+      ],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-22T19:04:20.092Z",
+      "updatedAt": "2026-06-06T23:29:52.489Z",
+      "compiledFrom": [
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "graph:community:available-2",
+      "path": "graph/communities/available-2.md",
+      "title": "Community: available",
+      "kind": "community_summary",
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "concept:available",
+        "concept:download",
+        "concept:dune",
+        "concept:hermes",
+        "concept:seerr",
+        "concept:shows",
+        "entity:ask-hermes",
+        "entity:dune-hermes",
+        "entity:hermes",
+        "entity:how",
+        "entity:seerr",
+        "entity:seerr-media-requests-available-seerr"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 1,
+      "backlinks": [
+        "graph:report"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {},
+      "sourceSemanticHashes": {},
+      "relatedPageIds": [
+        "graph:report",
+        "concept:available",
+        "concept:download",
+        "concept:dune",
+        "concept:hermes",
+        "concept:seerr",
+        "concept:shows",
+        "entity:ask-hermes",
+        "entity:dune-hermes",
+        "entity:hermes",
+        "entity:how",
+        "entity:seerr",
+        "entity:seerr-media-requests-available-seerr"
+      ],
+      "relatedNodeIds": [
+        "concept:available",
+        "concept:download",
+        "concept:dune",
+        "concept:hermes",
+        "concept:seerr",
+        "concept:shows",
+        "entity:ask-hermes",
+        "entity:dune-hermes",
+        "entity:hermes",
+        "entity:how",
+        "entity:seerr",
+        "entity:seerr-media-requests-available-seerr"
+      ],
+      "relatedSourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "createdAt": "2026-05-25T19:18:18.109Z",
+      "updatedAt": "2026-05-25T19:34:27.914Z",
+      "compiledFrom": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "graph:community:candidates-1",
+      "path": "graph/communities/candidates-1.md",
+      "title": "Community: candidates",
       "kind": "community_summary",
       "sourceIds": [
         "projects-acb5fd10",
@@ -3549,11 +4448,17 @@
       "projectIds": [],
       "nodeIds": [
         "concept:build",
+        "concept:candidate",
+        "concept:candidates",
         "concept:compile",
         "concept:index",
+        "concept:pages",
         "concept:project",
         "concept:projects",
         "concept:rollups",
+        "concept:stage",
+        "entity:candidates",
+        "entity:candidates-run",
         "entity:projects-run"
       ],
       "freshness": "fresh",
@@ -3562,26 +4467,38 @@
       "backlinks": [
         "graph:report"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {},
       "sourceSemanticHashes": {},
       "relatedPageIds": [
         "graph:report",
         "concept:build",
+        "concept:candidate",
+        "concept:candidates",
         "concept:compile",
         "concept:index",
+        "concept:pages",
         "concept:project",
         "concept:projects",
         "concept:rollups",
+        "concept:stage",
+        "entity:candidates",
+        "entity:candidates-run",
         "entity:projects-run"
       ],
       "relatedNodeIds": [
         "concept:build",
+        "concept:candidate",
+        "concept:candidates",
         "concept:compile",
         "concept:index",
+        "concept:pages",
         "concept:project",
         "concept:projects",
         "concept:rollups",
+        "concept:stage",
+        "entity:candidates",
+        "entity:candidates-run",
         "entity:projects-run"
       ],
       "relatedSourceIds": [
@@ -3589,8 +4506,8 @@
         "candidates-5d9c2771",
         "insights-1398dcf3"
       ],
-      "createdAt": "2026-05-22T19:04:20.106Z",
-      "updatedAt": "2026-05-22T19:04:20.106Z",
+      "createdAt": "2026-05-25T19:18:18.108Z",
+      "updatedAt": "2026-05-25T19:18:18.108Z",
       "compiledFrom": [
         "projects-acb5fd10",
         "candidates-5d9c2771",
@@ -3621,7 +4538,7 @@
       "backlinks": [
         "graph:report"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {},
       "sourceSemanticHashes": {},
       "relatedPageIds": [
@@ -3645,15 +4562,15 @@
         "insights-1398dcf3"
       ],
       "createdAt": "2026-05-22T19:04:20.107Z",
-      "updatedAt": "2026-05-22T19:04:20.107Z",
+      "updatedAt": "2026-05-25T19:18:18.111Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
       "managedBy": "system"
     },
     {
-      "id": "graph:community:object-1",
-      "path": "graph/communities/object-1.md",
+      "id": "graph:community:object-3",
+      "path": "graph/communities/object-3.md",
       "title": "Community: object",
       "kind": "community_summary",
       "sourceIds": [
@@ -3680,7 +4597,7 @@
       "backlinks": [
         "graph:report"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {},
       "sourceSemanticHashes": {},
       "relatedPageIds": [
@@ -3715,16 +4632,16 @@
       "relatedSourceIds": [
         "swarmvault-config-a48adfce"
       ],
-      "createdAt": "2026-05-22T19:04:20.105Z",
-      "updatedAt": "2026-05-22T19:04:20.105Z",
+      "createdAt": "2026-05-25T19:18:18.109Z",
+      "updatedAt": "2026-06-05T23:18:14.749Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
       "managedBy": "system"
     },
     {
-      "id": "graph:community:should-2",
-      "path": "graph/communities/should-2.md",
+      "id": "graph:community:should-4",
+      "path": "graph/communities/should-4.md",
       "title": "Community: should",
       "kind": "community_summary",
       "sourceIds": [
@@ -3751,7 +4668,7 @@
       "backlinks": [
         "graph:report"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {},
       "sourceSemanticHashes": {},
       "relatedPageIds": [
@@ -3786,8 +4703,8 @@
       "relatedSourceIds": [
         "swarmvault-schema-b10ad2d9"
       ],
-      "createdAt": "2026-05-22T19:04:20.106Z",
-      "updatedAt": "2026-05-22T19:04:20.106Z",
+      "createdAt": "2026-05-25T19:18:18.110Z",
+      "updatedAt": "2026-05-25T19:18:18.110Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
@@ -3827,19 +4744,20 @@
         "entity:nested",
         "entity:schema",
         "entity:preview",
-        "source:candidates-5d9c2771",
         "source:insights-1398dcf3",
+        "source:candidates-5d9c2771",
         "source:projects-acb5fd10",
         "source:swarmvault-config-a48adfce",
         "source:swarmvault-schema-b10ad2d9",
-        "concept:candidates",
+        "concept:insights",
+        "concept:swarmvault",
         "concept:candidate"
       ],
       "freshness": "fresh",
       "status": "active",
       "confidence": 1,
       "backlinks": [],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {},
       "sourceSemanticHashes": {},
       "relatedPageIds": [
@@ -3863,17 +4781,17 @@
         "entity:nested",
         "entity:schema",
         "entity:preview",
-        "source:candidates-5d9c2771",
         "source:insights-1398dcf3",
+        "source:candidates-5d9c2771",
         "source:projects-acb5fd10",
         "source:swarmvault-config-a48adfce",
         "source:swarmvault-schema-b10ad2d9",
-        "concept:candidates",
-        "concept:candidate",
-        "graph:community:object-1",
-        "graph:community:should-2",
-        "graph:community:compile-3",
-        "graph:community:candidates-4",
+        "concept:insights",
+        "concept:swarmvault",
+        "graph:community:candidates-1",
+        "graph:community:available-2",
+        "graph:community:object-3",
+        "graph:community:should-4",
         "graph:community:insights-5"
       ],
       "relatedNodeIds": [
@@ -3897,12 +4815,13 @@
         "entity:nested",
         "entity:schema",
         "entity:preview",
-        "source:candidates-5d9c2771",
         "source:insights-1398dcf3",
+        "source:candidates-5d9c2771",
         "source:projects-acb5fd10",
         "source:swarmvault-config-a48adfce",
         "source:swarmvault-schema-b10ad2d9",
-        "concept:candidates",
+        "concept:insights",
+        "concept:swarmvault",
         "concept:candidate"
       ],
       "relatedSourceIds": [
@@ -3913,11 +4832,12 @@
         "swarmvault-schema-b10ad2d9"
       ],
       "createdAt": "2026-05-22T19:04:20.117Z",
-      "updatedAt": "2026-05-22T19:04:20.395Z",
+      "updatedAt": "2026-06-06T23:31:04.480Z",
       "compiledFrom": [
         "candidates-5d9c2771",
         "insights-1398dcf3",
         "projects-acb5fd10",
+        "seerr-media-requests-available-ef141443",
         "swarmvault-config-a48adfce",
         "swarmvault-schema-b10ad2d9"
       ],
@@ -3932,6 +4852,7 @@
         "candidates-5d9c2771",
         "insights-1398dcf3",
         "projects-acb5fd10",
+        "seerr-media-requests-available-ef141443",
         "swarmvault-config-a48adfce",
         "swarmvault-schema-b10ad2d9"
       ],
@@ -3942,14 +4863,15 @@
         "concept:object",
         "concept:keys",
         "concept:local",
+        "source:insights-1398dcf3",
         "source:candidates-5d9c2771",
-        "source:insights-1398dcf3"
+        "source:projects-acb5fd10"
       ],
       "freshness": "fresh",
       "status": "active",
       "confidence": 1,
       "backlinks": [],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {},
       "sourceSemanticHashes": {},
       "relatedPageIds": [
@@ -3958,8 +4880,9 @@
         "concept:object",
         "concept:keys",
         "concept:local",
+        "source:insights-1398dcf3",
         "source:candidates-5d9c2771",
-        "source:insights-1398dcf3"
+        "source:projects-acb5fd10"
       ],
       "relatedNodeIds": [
         "concept:compile",
@@ -3967,26 +4890,102 @@
         "concept:object",
         "concept:keys",
         "concept:local",
+        "source:insights-1398dcf3",
         "source:candidates-5d9c2771",
-        "source:insights-1398dcf3"
+        "source:projects-acb5fd10"
       ],
       "relatedSourceIds": [
         "candidates-5d9c2771",
         "insights-1398dcf3",
         "projects-acb5fd10",
+        "seerr-media-requests-available-ef141443",
         "swarmvault-config-a48adfce",
         "swarmvault-schema-b10ad2d9"
       ],
       "createdAt": "2026-05-22T19:04:20.119Z",
-      "updatedAt": "2026-05-22T19:04:20.396Z",
+      "updatedAt": "2026-06-06T23:31:04.482Z",
       "compiledFrom": [
         "candidates-5d9c2771",
         "insights-1398dcf3",
         "projects-acb5fd10",
+        "seerr-media-requests-available-ef141443",
         "swarmvault-config-a48adfce",
         "swarmvault-schema-b10ad2d9"
       ],
       "managedBy": "system"
+    },
+    {
+      "id": "output:what-is-this-vault-about",
+      "path": "outputs/what-is-this-vault-about.md",
+      "title": "What is this vault about?",
+      "kind": "output",
+      "sourceIds": [
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "source:swarmvault-schema-b10ad2d9",
+        "concept:should",
+        "concept:source",
+        "concept:vault",
+        "concept:claims",
+        "concept:concept",
+        "concept:domain",
+        "entity:schema-edit",
+        "entity:swarmvault",
+        "entity:vault-purpose-describe",
+        "entity:naming-conventions-prefer",
+        "entity:page-structure-rules-source",
+        "entity:categories-list"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 0.74,
+      "backlinks": [
+        "source:swarmvault-schema-b10ad2d9",
+        "concept:vault",
+        "entity:vault-purpose-describe",
+        "entity:swarmvault",
+        "concept:domain"
+      ],
+      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "sourceHashes": {},
+      "sourceSemanticHashes": {},
+      "relatedPageIds": [
+        "source:swarmvault-schema-b10ad2d9",
+        "concept:vault",
+        "entity:vault-purpose-describe",
+        "entity:swarmvault",
+        "concept:domain"
+      ],
+      "relatedNodeIds": [
+        "source:swarmvault-schema-b10ad2d9",
+        "concept:should",
+        "concept:source",
+        "concept:vault",
+        "concept:claims",
+        "concept:concept",
+        "concept:domain",
+        "entity:schema-edit",
+        "entity:swarmvault",
+        "entity:vault-purpose-describe",
+        "entity:naming-conventions-prefer",
+        "entity:page-structure-rules-source",
+        "entity:categories-list"
+      ],
+      "relatedSourceIds": [
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "createdAt": "2026-05-24T15:39:42.001Z",
+      "updatedAt": "2026-05-24T15:39:42.001Z",
+      "compiledFrom": [
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "managedBy": "system",
+      "origin": "query",
+      "question": "What is this vault about?",
+      "outputFormat": "markdown",
+      "outputAssets": []
     },
     {
       "id": "source:candidates-5d9c2771",
@@ -4022,7 +5021,7 @@
         "entity:candidates",
         "entity:candidates-run"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "candidates-5d9c2771": "5d9c2771efe014874ceeec9297ffbfaf92e420bf567785847f1f8f5471d096d6"
       },
@@ -4033,7 +5032,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.070Z",
-      "updatedAt": "2026-05-22T19:04:20.070Z",
+      "updatedAt": "2026-06-06T23:29:52.433Z",
       "compiledFrom": [
         "candidates-5d9c2771"
       ],
@@ -4071,7 +5070,7 @@
         "concept:during",
         "entity:insights"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "insights-1398dcf3": "1398dcf3b60f9b8faa272001e7763482c88e6daa261763cc6cfe6c3c4e4b38ce"
       },
@@ -4082,7 +5081,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.071Z",
-      "updatedAt": "2026-05-22T19:04:20.071Z",
+      "updatedAt": "2026-06-06T23:29:52.435Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
@@ -4120,7 +5119,7 @@
         "concept:rollups",
         "entity:projects-run"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "projects-acb5fd10": "acb5fd105279caeb54f2f482c30234121bcf90180e5968dd5d82fc5924b8caf8"
       },
@@ -4131,9 +5130,67 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.072Z",
-      "updatedAt": "2026-05-22T19:04:20.072Z",
+      "updatedAt": "2026-06-06T23:29:52.436Z",
       "compiledFrom": [
         "projects-acb5fd10"
+      ],
+      "managedBy": "system"
+    },
+    {
+      "id": "source:seerr-media-requests-available-ef141443",
+      "path": "sources/seerr-media-requests-available-ef141443.md",
+      "title": "Seerr — Media Requests Available",
+      "kind": "source",
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "projectIds": [],
+      "nodeIds": [
+        "source:seerr-media-requests-available-ef141443",
+        "concept:available",
+        "concept:download",
+        "concept:shows",
+        "concept:hermes",
+        "concept:seerr",
+        "concept:dune",
+        "entity:seerr-media-requests-available-seerr",
+        "entity:hermes",
+        "entity:how",
+        "entity:ask-hermes",
+        "entity:dune-hermes",
+        "entity:seerr"
+      ],
+      "freshness": "fresh",
+      "status": "active",
+      "confidence": 1,
+      "backlinks": [
+        "concept:available",
+        "concept:download",
+        "concept:shows",
+        "concept:hermes",
+        "concept:seerr",
+        "concept:dune",
+        "entity:seerr-media-requests-available-seerr",
+        "entity:hermes",
+        "entity:how",
+        "entity:ask-hermes",
+        "entity:dune-hermes",
+        "entity:seerr"
+      ],
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+      "sourceHashes": {
+        "seerr-media-requests-available-ef141443": "ef1414436310b49e8a4c3ff864b4f6c38c655d81fceb6c4cd8569b914cdfcff8"
+      },
+      "sourceSemanticHashes": {
+        "seerr-media-requests-available-ef141443": "4d259c0cd39e51ebb1d269e12021ebf86442f352be98a5160ee0da66036934ea"
+      },
+      "relatedPageIds": [],
+      "relatedNodeIds": [],
+      "relatedSourceIds": [],
+      "createdAt": "2026-05-25T19:18:17.829Z",
+      "updatedAt": "2026-06-06T23:29:52.438Z",
+      "compiledFrom": [
+        "seerr-media-requests-available-ef141443"
       ],
       "managedBy": "system"
     },
@@ -4179,7 +5236,7 @@
         "entity:schema",
         "entity:preview"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1"
       },
@@ -4190,7 +5247,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.072Z",
-      "updatedAt": "2026-05-22T19:04:20.072Z",
+      "updatedAt": "2026-06-06T23:29:52.440Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -4236,20 +5293,23 @@
         "entity:vault-purpose-describe",
         "entity:naming-conventions-prefer",
         "entity:page-structure-rules-source",
-        "entity:categories-list"
+        "entity:categories-list",
+        "output:what-is-this-vault-about"
       ],
-      "schemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+      "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
       "sourceHashes": {
         "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
       },
       "sourceSemanticHashes": {
         "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
       },
-      "relatedPageIds": [],
+      "relatedPageIds": [
+        "output:what-is-this-vault-about"
+      ],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.076Z",
-      "updatedAt": "2026-05-22T19:04:20.076Z",
+      "updatedAt": "2026-06-06T23:29:52.441Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],

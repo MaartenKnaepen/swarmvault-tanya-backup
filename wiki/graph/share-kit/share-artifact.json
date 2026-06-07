@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-05-22T19:04:20.575Z",
+  "generatedAt": "2026-06-06T23:31:04.614Z",
   "vaultName": "knowledge-tanya",
-  "tagline": "A local-first map of knowledge-tanya: 5 sources compiled into 48 graph nodes and 57 wiki pages.",
+  "tagline": "A local-first map of knowledge-tanya: 6 sources compiled into 61 graph nodes and 71 wiki pages.",
   "overview": {
-    "sources": 5,
-    "nodes": 48,
-    "edges": 49,
-    "pages": 57,
+    "sources": 6,
+    "nodes": 61,
+    "edges": 62,
+    "pages": 71,
     "communities": 5
   },
   "firstPartyOverview": {
     "nodes": 48,
-    "edges": 49,
+    "edges": 50,
     "pages": 48,
-    "communities": 5
+    "communities": 4
   },
   "highlights": {
     "topHubs": [
@@ -45,57 +45,58 @@
     ],
     "bridgeNodes": [
       {
-        "nodeId": "source:candidates-5d9c2771",
-        "label": "Candidates",
-        "bridgeScore": 2
-      },
-      {
         "nodeId": "source:insights-1398dcf3",
         "label": "Insights",
         "bridgeScore": 2
       },
       {
-        "nodeId": "concept:compile",
-        "label": "compile",
-        "bridgeScore": 2
+        "nodeId": "source:candidates-5d9c2771",
+        "label": "Candidates",
+        "bridgeScore": 1
+      },
+      {
+        "nodeId": "source:projects-acb5fd10",
+        "label": "Projects",
+        "bridgeScore": 1
       }
     ],
     "surprisingConnections": [
       {
         "sourceLabel": "Candidates",
-        "targetLabel": "Projects",
-        "relation": "semantically_similar_to",
-        "why": "it crosses communities community:candidates-4 and community:compile-3; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts...."
-      },
-      {
-        "sourceLabel": "Candidates",
         "targetLabel": "Insights",
         "relation": "semantically_similar_to",
-        "why": "it crosses communities community:candidates-4 and community:insights-5; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts..."
+        "why": "it crosses communities community:candidates-1 and community:insights-5; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts..."
       },
       {
         "sourceLabel": "Insights",
         "targetLabel": "Projects",
         "relation": "semantically_similar_to",
-        "why": "it crosses communities community:insights-5 and community:compile-3; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; ..."
+        "why": "it crosses communities community:insights-5 and community:candidates-1; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts..."
+      },
+      {
+        "sourceLabel": "swarmvault.config",
+        "targetLabel": "SwarmVault Schema",
+        "relation": "semantically_similar_to",
+        "why": "it crosses communities community:object-3 and community:should-4; it spans different canonical pages; a bridge node is involved; This link is inferred from shared tags."
       }
     ],
     "suggestedQuestions": [
-      "Why does Candidates connect multiple communities in the vault?",
       "Why does Insights connect multiple communities in the vault?",
-      "Why does compile connect multiple communities in the vault?"
+      "Why does Candidates connect multiple communities in the vault?",
+      "Why does Projects connect multiple communities in the vault?"
     ]
   },
   "knowledgeGaps": [],
-  "shortPost": "I scanned knowledge-tanya with SwarmVault: 5 sources -> 57 wiki pages, 48 graph nodes, 49 edges.\nTop hubs: compile, index, and object.\nMost surprising link: Candidates semantically_similar_to Projects.\nEverything stays local. Try: npm install -g @swarmvaultai/cli && swarmvault quickstart ./your-repo",
+  "shortPost": "I scanned knowledge-tanya with SwarmVault: 6 sources -> 71 wiki pages, 61 graph nodes, 62 edges.\nTop hubs: compile, index, and object.\nMost surprising link: Candidates semantically_similar_to Insights.\nEverything stays local. Try: npm install -g @swarmvaultai/cli && swarmvault quickstart ./your-repo",
   "relatedNodeIds": [
     "concept:compile",
     "concept:index",
     "concept:object",
     "concept:keys",
     "concept:local",
+    "source:insights-1398dcf3",
     "source:candidates-5d9c2771",
-    "source:insights-1398dcf3"
+    "source:projects-acb5fd10"
   ],
   "relatedPageIds": [
     "concept:compile",
@@ -103,13 +104,15 @@
     "concept:object",
     "concept:keys",
     "concept:local",
+    "source:insights-1398dcf3",
     "source:candidates-5d9c2771",
-    "source:insights-1398dcf3"
+    "source:projects-acb5fd10"
   ],
   "relatedSourceIds": [
     "candidates-5d9c2771",
     "insights-1398dcf3",
     "projects-acb5fd10",
+    "seerr-media-requests-available-ef141443",
     "swarmvault-config-a48adfce",
     "swarmvault-schema-b10ad2d9"
   ]

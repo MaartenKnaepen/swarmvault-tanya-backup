@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-22T19:04:20.103Z",
-  "rootSchemaHash": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+  "generatedAt": "2026-06-06T23:29:52.508Z",
+  "rootSchemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
   "projectSchemaHashes": {},
   "effectiveSchemaHashes": {
-    "global": "874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720",
+    "global": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
     "projects": {}
   },
   "projectConfigHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
@@ -11,6 +11,7 @@
     "candidates-5d9c2771": "3d6a9a0bdc75c498b16aff3727c1ed5cd8d56b0e26ce606386d2e3d25b9de8c7",
     "insights-1398dcf3": "f77a0514b9ee3a39850d96e1e5929187777935d445f8959a77589b05adffe143",
     "projects-acb5fd10": "8931bfe0b5dd44ce22de071bce773f83f44a558b1448552f338ef5fdb7080065",
+    "seerr-media-requests-available-ef141443": "6d8f825226996ce0a8ca654f62482dbc332617205684bee1529c330277c135c4",
     "swarmvault-config-a48adfce": "aa150e72b7b86109e3f56f3a1172186e143dc8b1560f6c1eda370b279713857d",
     "swarmvault-schema-b10ad2d9": "086d73834a877e0bf0d83b7da33b33c25752e3024f96b10b62dcd30ff8213eaf"
   },
@@ -18,6 +19,7 @@
     "candidates-5d9c2771": "5d9c2771efe014874ceeec9297ffbfaf92e420bf567785847f1f8f5471d096d6",
     "insights-1398dcf3": "1398dcf3b60f9b8faa272001e7763482c88e6daa261763cc6cfe6c3c4e4b38ce",
     "projects-acb5fd10": "acb5fd105279caeb54f2f482c30234121bcf90180e5968dd5d82fc5924b8caf8",
+    "seerr-media-requests-available-ef141443": "ef1414436310b49e8a4c3ff864b4f6c38c655d81fceb6c4cd8569b914cdfcff8",
     "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1",
     "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
   },
@@ -25,6 +27,7 @@
     "candidates-5d9c2771": "43d036fc05d2fd6bfb3308e4e69a2b82269412569f2bbcc5df27a9201f73c51a",
     "insights-1398dcf3": "7ed98748976e1b249ce944a23513c98359945683c317056d0d40b761308abce6",
     "projects-acb5fd10": "c17f3824f10f7496c534034df6643e9aab08bdb9431f5d9bfa9f2ac000bf6187",
+    "seerr-media-requests-available-ef141443": "4d259c0cd39e51ebb1d269e12021ebf86442f352be98a5160ee0da66036934ea",
     "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1",
     "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
   },
@@ -32,10 +35,13 @@
     "candidates-5d9c2771": null,
     "insights-1398dcf3": null,
     "projects-acb5fd10": null,
+    "seerr-media-requests-available-ef141443": null,
     "swarmvault-config-a48adfce": null,
     "swarmvault-schema-b10ad2d9": null
   },
-  "outputHashes": {},
+  "outputHashes": {
+    "output:what-is-this-vault-about": "7c165ebc5a24abeb4ed53190793b9559b050a5e0178245466ac8a06bcab4a491"
+  },
   "insightHashes": {},
   "memoryHashes": {},
   "candidateHistory": {
@@ -43,13 +49,13 @@
       "sourceIds": [
         "candidates-5d9c2771"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:candidate": {
       "sourceIds": [
         "candidates-5d9c2771"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:compile": {
       "sourceIds": [
@@ -57,248 +63,320 @@
         "insights-1398dcf3",
         "projects-acb5fd10"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:index": {
       "sourceIds": [
         "candidates-5d9c2771",
         "projects-acb5fd10"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:pages": {
       "sourceIds": [
         "candidates-5d9c2771"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:stage": {
       "sourceIds": [
         "candidates-5d9c2771"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:insights": {
       "sourceIds": [
         "insights-1398dcf3"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:swarmvault": {
       "sourceIds": [
         "insights-1398dcf3"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:applies": {
       "sourceIds": [
         "insights-1398dcf3"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:authored": {
       "sourceIds": [
         "insights-1398dcf3"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:during": {
       "sourceIds": [
         "insights-1398dcf3"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:projects": {
       "sourceIds": [
         "projects-acb5fd10"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:build": {
       "sourceIds": [
         "projects-acb5fd10"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:project": {
       "sourceIds": [
         "projects-acb5fd10"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:rollups": {
       "sourceIds": [
         "projects-acb5fd10"
       ],
-      "status": "candidate"
+      "status": "active"
+    },
+    "concept:available": {
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "status": "active"
+    },
+    "concept:download": {
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "status": "active"
+    },
+    "concept:shows": {
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "status": "active"
+    },
+    "concept:hermes": {
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "status": "active"
+    },
+    "concept:seerr": {
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "status": "active"
+    },
+    "concept:dune": {
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "status": "active"
     },
     "concept:object": {
       "sourceIds": [
         "swarmvault-config-a48adfce"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:keys": {
       "sourceIds": [
         "swarmvault-config-a48adfce"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:local": {
       "sourceIds": [
         "swarmvault-config-a48adfce"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:false": {
       "sourceIds": [
         "swarmvault-config-a48adfce"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:agents": {
       "sourceIds": [
         "swarmvault-config-a48adfce"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:heuristic": {
       "sourceIds": [
         "swarmvault-config-a48adfce"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:should": {
       "sourceIds": [
         "swarmvault-schema-b10ad2d9"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:source": {
       "sourceIds": [
         "swarmvault-schema-b10ad2d9"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:vault": {
       "sourceIds": [
         "swarmvault-schema-b10ad2d9"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:claims": {
       "sourceIds": [
         "swarmvault-schema-b10ad2d9"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:concept": {
       "sourceIds": [
         "swarmvault-schema-b10ad2d9"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "concept:domain": {
       "sourceIds": [
         "swarmvault-schema-b10ad2d9"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "entity:candidates": {
       "sourceIds": [
         "candidates-5d9c2771"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "entity:candidates-run": {
       "sourceIds": [
         "candidates-5d9c2771"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "entity:insights": {
       "sourceIds": [
         "insights-1398dcf3"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "entity:projects-run": {
       "sourceIds": [
         "projects-acb5fd10"
       ],
-      "status": "candidate"
+      "status": "active"
+    },
+    "entity:seerr-media-requests-available-seerr": {
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "status": "active"
+    },
+    "entity:hermes": {
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "status": "active"
+    },
+    "entity:how": {
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "status": "active"
+    },
+    "entity:ask-hermes": {
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "status": "active"
+    },
+    "entity:dune-hermes": {
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "status": "active"
+    },
+    "entity:seerr": {
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "status": "active"
     },
     "entity:format": {
       "sourceIds": [
         "swarmvault-config-a48adfce"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "entity:top": {
       "sourceIds": [
         "swarmvault-config-a48adfce"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "entity:size": {
       "sourceIds": [
         "swarmvault-config-a48adfce"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "entity:nested": {
       "sourceIds": [
         "swarmvault-config-a48adfce"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "entity:schema": {
       "sourceIds": [
         "swarmvault-config-a48adfce"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "entity:preview": {
       "sourceIds": [
         "swarmvault-config-a48adfce"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "entity:schema-edit": {
       "sourceIds": [
         "swarmvault-schema-b10ad2d9"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "entity:swarmvault": {
       "sourceIds": [
         "swarmvault-schema-b10ad2d9"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "entity:vault-purpose-describe": {
       "sourceIds": [
         "swarmvault-schema-b10ad2d9"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "entity:naming-conventions-prefer": {
       "sourceIds": [
         "swarmvault-schema-b10ad2d9"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "entity:page-structure-rules-source": {
       "sourceIds": [
         "swarmvault-schema-b10ad2d9"
       ],
-      "status": "candidate"
+      "status": "active"
     },
     "entity:categories-list": {
       "sourceIds": [
         "swarmvault-schema-b10ad2d9"
       ],
-      "status": "candidate"
+      "status": "active"
     }
   }
 }

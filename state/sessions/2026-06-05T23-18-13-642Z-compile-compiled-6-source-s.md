@@ -1,0 +1,194 @@
+---
+session_id: 2026-06-05T23-18-13-642Z-compile-compiled-6-source-s
+operation: compile
+title: Compiled 6 source(s)
+started_at: '2026-06-05T23:18:13.642Z'
+finished_at: '2026-06-05T23:19:25.948Z'
+duration_ms: 72306
+provider: local
+success: true
+related_source_ids:
+  - candidates-5d9c2771
+  - insights-1398dcf3
+  - projects-acb5fd10
+  - seerr-media-requests-available-ef141443
+  - swarmvault-config-a48adfce
+  - swarmvault-schema-b10ad2d9
+related_page_ids:
+  - 'source:candidates-5d9c2771'
+  - 'source:insights-1398dcf3'
+  - 'source:projects-acb5fd10'
+  - 'source:seerr-media-requests-available-ef141443'
+  - 'source:swarmvault-config-a48adfce'
+  - 'source:swarmvault-schema-b10ad2d9'
+  - 'concept:candidates'
+  - 'concept:candidate'
+  - 'concept:compile'
+  - 'concept:index'
+  - 'concept:pages'
+  - 'concept:stage'
+  - 'concept:insights'
+  - 'concept:swarmvault'
+  - 'concept:applies'
+  - 'concept:authored'
+  - 'concept:during'
+  - 'concept:projects'
+  - 'concept:build'
+  - 'concept:project'
+  - 'concept:rollups'
+  - 'concept:available'
+  - 'concept:download'
+  - 'concept:shows'
+  - 'concept:hermes'
+  - 'concept:seerr'
+  - 'concept:dune'
+  - 'concept:object'
+  - 'concept:keys'
+  - 'concept:local'
+  - 'concept:false'
+  - 'concept:agents'
+  - 'concept:heuristic'
+  - 'concept:should'
+  - 'concept:source'
+  - 'concept:vault'
+  - 'concept:claims'
+  - 'concept:concept'
+  - 'concept:domain'
+  - 'entity:candidates'
+  - 'entity:candidates-run'
+  - 'entity:insights'
+  - 'entity:projects-run'
+  - 'entity:seerr-media-requests-available-seerr'
+  - 'entity:hermes'
+  - 'entity:how'
+  - 'entity:ask-hermes'
+  - 'entity:dune-hermes'
+  - 'entity:seerr'
+  - 'entity:format'
+  - 'entity:top'
+  - 'entity:size'
+  - 'entity:nested'
+  - 'entity:schema'
+  - 'entity:preview'
+  - 'entity:schema-edit'
+  - 'entity:swarmvault'
+  - 'entity:vault-purpose-describe'
+  - 'entity:naming-conventions-prefer'
+  - 'entity:page-structure-rules-source'
+  - 'entity:categories-list'
+  - 'output:what-is-this-vault-about'
+  - 'graph:report'
+  - 'graph:share-card'
+  - 'graph:community:candidates-1'
+  - 'graph:community:available-2'
+  - 'graph:community:object-3'
+  - 'graph:community:should-4'
+  - 'graph:community:insights-5'
+  - 'dashboard:dashboards/index'
+  - 'dashboard:dashboards/recent-sources'
+  - 'dashboard:dashboards/reading-log'
+  - 'dashboard:dashboards/timeline'
+  - 'dashboard:dashboards/source-sessions'
+  - 'dashboard:dashboards/source-guides'
+  - 'dashboard:dashboards/research-map'
+  - 'dashboard:dashboards/contradictions'
+  - 'dashboard:dashboards/open-questions'
+related_node_ids: []
+changed_pages:
+  - sources/candidates-5d9c2771.md
+  - sources/insights-1398dcf3.md
+  - sources/projects-acb5fd10.md
+  - sources/seerr-media-requests-available-ef141443.md
+  - sources/swarmvault-config-a48adfce.md
+  - sources/swarmvault-schema-b10ad2d9.md
+  - concepts/candidates.md
+  - concepts/candidate.md
+  - concepts/compile.md
+  - concepts/index.md
+  - concepts/pages.md
+  - concepts/stage.md
+  - concepts/insights.md
+  - concepts/swarmvault.md
+  - concepts/applies.md
+  - concepts/authored.md
+  - concepts/during.md
+  - concepts/projects.md
+  - concepts/build.md
+  - concepts/project.md
+  - concepts/rollups.md
+  - concepts/available.md
+  - concepts/download.md
+  - concepts/shows.md
+  - concepts/hermes.md
+  - concepts/seerr.md
+  - concepts/dune.md
+  - concepts/object.md
+  - concepts/keys.md
+  - concepts/local.md
+  - concepts/false.md
+  - concepts/agents.md
+  - concepts/heuristic.md
+  - concepts/should.md
+  - concepts/source.md
+  - concepts/vault.md
+  - concepts/claims.md
+  - concepts/concept.md
+  - concepts/domain.md
+  - entities/candidates.md
+  - entities/candidates-run.md
+  - entities/insights.md
+  - entities/projects-run.md
+  - entities/seerr-media-requests-available-seerr.md
+  - entities/hermes.md
+  - entities/how.md
+  - entities/ask-hermes.md
+  - entities/dune-hermes.md
+  - entities/seerr.md
+  - entities/format.md
+  - entities/top.md
+  - entities/size.md
+  - entities/nested.md
+  - entities/schema.md
+  - entities/preview.md
+  - entities/schema-edit.md
+  - entities/swarmvault.md
+  - entities/vault-purpose-describe.md
+  - entities/naming-conventions-prefer.md
+  - entities/page-structure-rules-source.md
+  - entities/categories-list.md
+  - graph/report.md
+  - graph/share-card.md
+  - graph/communities/object-3.md
+  - dashboards/recent-sources.md
+  - dashboards/reading-log.md
+  - index.md
+  - entities/index.md
+  - dashboards/index.md
+  - graph/index.md
+  - outputs/what-is-this-vault-about.md
+citations: []
+---
+# Compile Session
+Title: Compiled 6 source(s)
+## Summary
+- provider=local
+- pages=78
+- dirty=0
+- clean=6
+- outputs=1
+- insights=0
+- memory=0
+- candidates=0
+- promoted=0
+- staged=false
+- postPassApproval=none
+- schema=00d64cfa850a
+- benchmark=ok
+## Related
+- Sources: candidates-5d9c2771, insights-1398dcf3, projects-acb5fd10, seerr-media-requests-available-ef141443, swarmvault-config-a48adfce, swarmvault-schema-b10ad2d9
+- Pages: source:candidates-5d9c2771, source:insights-1398dcf3, source:projects-acb5fd10, source:seerr-media-requests-available-ef141443, source:swarmvault-config-a48adfce, source:swarmvault-schema-b10ad2d9, concept:candidates, concept:candidate, concept:compile, concept:index, concept:pages, concept:stage, concept:insights, concept:swarmvault, concept:applies, concept:authored, concept:during, concept:projects, concept:build, concept:project, concept:rollups, concept:available, concept:download, concept:shows, concept:hermes, concept:seerr, concept:dune, concept:object, concept:keys, concept:local, concept:false, concept:agents, concept:heuristic, concept:should, concept:source, concept:vault, concept:claims, concept:concept, concept:domain, entity:candidates, entity:candidates-run, entity:insights, entity:projects-run, entity:seerr-media-requests-available-seerr, entity:hermes, entity:how, entity:ask-hermes, entity:dune-hermes, entity:seerr, entity:format, entity:top, entity:size, entity:nested, entity:schema, entity:preview, entity:schema-edit, entity:swarmvault, entity:vault-purpose-describe, entity:naming-conventions-prefer, entity:page-structure-rules-source, entity:categories-list, output:what-is-this-vault-about, graph:report, graph:share-card, graph:community:candidates-1, graph:community:available-2, graph:community:object-3, graph:community:should-4, graph:community:insights-5, dashboard:dashboards/index, dashboard:dashboards/recent-sources, dashboard:dashboards/reading-log, dashboard:dashboards/timeline, dashboard:dashboards/source-sessions, dashboard:dashboards/source-guides, dashboard:dashboards/research-map, dashboard:dashboards/contradictions, dashboard:dashboards/open-questions
+- Nodes: none
+- Changed pages: sources/candidates-5d9c2771.md, sources/insights-1398dcf3.md, sources/projects-acb5fd10.md, sources/seerr-media-requests-available-ef141443.md, sources/swarmvault-config-a48adfce.md, sources/swarmvault-schema-b10ad2d9.md, concepts/candidates.md, concepts/candidate.md, concepts/compile.md, concepts/index.md, concepts/pages.md, concepts/stage.md, concepts/insights.md, concepts/swarmvault.md, concepts/applies.md, concepts/authored.md, concepts/during.md, concepts/projects.md, concepts/build.md, concepts/project.md, concepts/rollups.md, concepts/available.md, concepts/download.md, concepts/shows.md, concepts/hermes.md, concepts/seerr.md, concepts/dune.md, concepts/object.md, concepts/keys.md, concepts/local.md, concepts/false.md, concepts/agents.md, concepts/heuristic.md, concepts/should.md, concepts/source.md, concepts/vault.md, concepts/claims.md, concepts/concept.md, concepts/domain.md, entities/candidates.md, entities/candidates-run.md, entities/insights.md, entities/projects-run.md, entities/seerr-media-requests-available-seerr.md, entities/hermes.md, entities/how.md, entities/ask-hermes.md, entities/dune-hermes.md, entities/seerr.md, entities/format.md, entities/top.md, entities/size.md, entities/nested.md, entities/schema.md, entities/preview.md, entities/schema-edit.md, entities/swarmvault.md, entities/vault-purpose-describe.md, entities/naming-conventions-prefer.md, entities/page-structure-rules-source.md, entities/categories-list.md, graph/report.md, graph/share-card.md, graph/communities/object-3.md, dashboards/recent-sources.md, dashboards/reading-log.md, index.md, entities/index.md, dashboards/index.md, graph/index.md, outputs/what-is-this-vault-about.md
+- Citations: none
+- Provider: local
+- Success: true

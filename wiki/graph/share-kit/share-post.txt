@@ -1,4 +1,4 @@
-I scanned knowledge-tanya with SwarmVault: 5 sources -> 57 wiki pages, 48 graph nodes, 49 edges.
+I scanned knowledge-tanya with SwarmVault: 6 sources -> 71 wiki pages, 61 graph nodes, 62 edges.
 Top hubs: compile, index, and object.
-Most surprising link: Candidates semantically_similar_to Projects.
+Most surprising link: Candidates semantically_similar_to Insights.
 Everything stays local. Try: npm install -g @swarmvaultai/cli && swarmvault quickstart ./your-repo

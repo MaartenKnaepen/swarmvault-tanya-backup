@@ -10,6 +10,7 @@ source_ids:
   - candidates-5d9c2771
   - insights-1398dcf3
   - projects-acb5fd10
+  - seerr-media-requests-available-ef141443
   - swarmvault-config-a48adfce
   - swarmvault-schema-b10ad2d9
 project_ids: []
@@ -18,16 +19,17 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.125Z'
-updated_at: '2026-05-22T19:04:20.125Z'
+updated_at: '2026-05-25T19:18:18.134Z'
 compiled_from:
   - candidates-5d9c2771
   - insights-1398dcf3
   - projects-acb5fd10
+  - seerr-media-requests-available-ef141443
   - swarmvault-config-a48adfce
   - swarmvault-schema-b10ad2d9
 managed_by: system
 backlinks: []
-schema_hash: 874431dbbfdec0b254a4aa1bf002900574c9b485735a883690c2becb5f717720
+schema_hash: 00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2
 source_hashes: {}
 source_semantic_hashes: {}
 profile_presets: []
@@ -43,6 +45,9 @@ profile_presets: []
 - Projects: How does projects relate to Projects?
 - Projects: How does build relate to Projects?
 - Projects: How does compile relate to Projects?
+- Seerr — Media Requests Available: How does available relate to Seerr — Media Requests Available?
+- Seerr — Media Requests Available: How does download relate to Seerr — Media Requests Available?
+- Seerr — Media Requests Available: How does shows relate to Seerr — Media Requests Available?
 - swarmvault.config: How does object relate to swarmvault.config?
 - swarmvault.config: How does keys relate to swarmvault.config?
 - swarmvault.config: How does local relate to swarmvault.config?
