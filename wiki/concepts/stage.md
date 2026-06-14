@@ -17,7 +17,7 @@ freshness: fresh
 status: active
 confidence: 0.65
 created_at: '2026-05-22T19:04:20.080Z'
-updated_at: '2026-06-06T23:29:52.459Z'
+updated_at: '2026-06-13T23:55:23.800Z'
 compiled_from:
   - candidates-5d9c2771
 managed_by: system
@@ -29,7 +29,7 @@ source_hashes:
 source_semantic_hashes:
   candidates-5d9c2771: 43d036fc05d2fd6bfb3308e4e69a2b82269412569f2bbcc5df27a9201f73c51a
 decay_score: 1
-last_confirmed_at: '2026-06-06T23:29:53.725Z'
+last_confirmed_at: '2026-06-13T23:55:25.015Z'
 ---
 # stage
 

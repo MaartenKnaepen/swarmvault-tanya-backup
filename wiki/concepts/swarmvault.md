@@ -17,7 +17,7 @@ freshness: fresh
 status: active
 confidence: 0.65
 created_at: '2026-05-22T19:04:20.081Z'
-updated_at: '2026-06-06T23:29:52.461Z'
+updated_at: '2026-06-13T23:55:23.802Z'
 compiled_from:
   - insights-1398dcf3
 managed_by: system
@@ -29,7 +29,7 @@ source_hashes:
 source_semantic_hashes:
   insights-1398dcf3: 7ed98748976e1b249ce944a23513c98359945683c317056d0d40b761308abce6
 decay_score: 1
-last_confirmed_at: '2026-06-06T23:29:53.725Z'
+last_confirmed_at: '2026-06-13T23:55:25.015Z'
 ---
 # swarmvault
 

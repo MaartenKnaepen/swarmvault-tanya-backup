@@ -70,7 +70,7 @@ question: What is this vault about?
 output_format: markdown
 output_assets: []
 decay_score: 1
-last_confirmed_at: '2026-06-06T23:29:53.725Z'
+last_confirmed_at: '2026-06-13T23:55:25.015Z'
 ---
 # What is this vault about?
 

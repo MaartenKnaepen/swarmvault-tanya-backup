@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T23:31:04.459Z",
+  "generatedAt": "2026-06-13T23:56:35.717Z",
   "graphHash": "534421593d8b784515564bc7e198cd6dc5af8b3f46ded6bb86aa6cf4c9c50597",
   "corpusWords": 496,
   "corpusTokens": 661,
@@ -196,8 +196,8 @@
       "godNodeCount": 26,
       "corpusWords": 496,
       "corpusTokens": 661,
-      "finalContextTokens": 1717,
-      "reductionRatio": -1.598,
+      "finalContextTokens": 1689,
+      "reductionRatio": -1.555,
       "perQuestion": [
         {
           "question": "How does this vault connect the main concepts?",
@@ -252,8 +252,8 @@
         },
         {
           "question": "Which pages bridge the biggest communities?",
-          "queryTokens": 1735,
-          "reduction": -1.625,
+          "queryTokens": 1649,
+          "reduction": -1.495,
           "visitedNodeIds": [
             "source:insights-1398dcf3",
             "concept:insights",
@@ -297,7 +297,6 @@
             "concept:swarmvault",
             "entity:page-structure-rules-source",
             "concept:stage",
-            "concept:candidates",
             "concept:insights",
             "concept:applies",
             "concept:authored",

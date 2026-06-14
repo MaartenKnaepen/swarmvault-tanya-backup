@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "directory-knowledge-tanya-92684042",
+      "kind": "directory",
+      "title": "knowledge-tanya",
+      "path": "/mnt/data/knowledge-tanya",
+      "repoRoot": "/mnt/data/knowledge-tanya",
+      "createdAt": "2026-05-22T19:04:19.901Z",
+      "updatedAt": "2026-05-22T19:04:19.945Z",
+      "status": "ready",
+      "sourceIds": [
+        "candidates-5d9c2771",
+        "insights-1398dcf3",
+        "projects-acb5fd10",
+        "swarmvault-config-a48adfce",
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "lastSyncAt": "2026-05-22T19:04:19.945Z",
+      "lastSyncStatus": "success",
+      "lastSyncCounts": {
+        "scannedCount": 5,
+        "importedCount": 5,
+        "updatedCount": 0,
+        "removedCount": 0,
+        "skippedCount": 0
+      }
+    }
+  ]
+}

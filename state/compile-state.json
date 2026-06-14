@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T23:29:52.508Z",
+  "generatedAt": "2026-06-13T23:55:23.853Z",
   "rootSchemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
   "projectSchemaHashes": {},
   "effectiveSchemaHashes": {
@@ -40,7 +40,7 @@
     "swarmvault-schema-b10ad2d9": null
   },
   "outputHashes": {
-    "output:what-is-this-vault-about": "7c165ebc5a24abeb4ed53190793b9559b050a5e0178245466ac8a06bcab4a491"
+    "output:what-is-this-vault-about": "a61169ce44709718428a5747809f8ce9dee555966cca77b9c77ea72a2856e576"
   },
   "insightHashes": {},
   "memoryHashes": {},

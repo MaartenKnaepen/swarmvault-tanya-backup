@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T23:31:04.613Z",
+  "generatedAt": "2026-06-13T23:56:35.862Z",
   "graphHash": "534421593d8b784515564bc7e198cd6dc5af8b3f46ded6bb86aa6cf4c9c50597",
   "overview": {
     "nodes": 61,
@@ -37,7 +37,7 @@
   },
   "warnings": [],
   "benchmark": {
-    "generatedAt": "2026-06-06T23:31:04.459Z",
+    "generatedAt": "2026-06-13T23:56:35.717Z",
     "stale": false,
     "summary": {
       "questionCount": 3,
@@ -54,9 +54,9 @@
         "pageCount": 48,
         "nodeCount": 48,
         "godNodeCount": 26,
-        "finalContextTokens": 1717,
+        "finalContextTokens": 1689,
         "naiveCorpusTokens": 661,
-        "reductionRatio": -1.598
+        "reductionRatio": -1.555
       },
       "third_party": {
         "sourceCount": 0,
