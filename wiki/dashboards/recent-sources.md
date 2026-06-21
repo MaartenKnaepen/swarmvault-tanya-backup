@@ -19,7 +19,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.123Z'
-updated_at: '2026-06-13T23:55:24.873Z'
+updated_at: '2026-06-21T01:55:40.644Z'
 compiled_from:
   - swarmvault-schema-b10ad2d9
   - swarmvault-config-a48adfce
@@ -36,9 +36,9 @@ profile_presets: []
 ---
 # Recent Sources
 
-- 2026-06-13T23:55:23.777Z: [[sources/swarmvault-schema-b10ad2d9|SwarmVault Schema]]
-- 2026-06-13T23:55:23.775Z: [[sources/swarmvault-config-a48adfce|swarmvault.config]]
-- 2026-06-13T23:55:23.774Z: [[sources/seerr-media-requests-available-ef141443|Seerr — Media Requests Available]]
-- 2026-06-13T23:55:23.772Z: [[sources/projects-acb5fd10|Projects]]
-- 2026-06-13T23:55:23.770Z: [[sources/insights-1398dcf3|Insights]]
-- 2026-06-13T23:55:23.769Z: [[sources/candidates-5d9c2771|Candidates]]
+- 2026-06-21T01:55:39.600Z: [[sources/swarmvault-schema-b10ad2d9|SwarmVault Schema]]
+- 2026-06-21T01:55:39.598Z: [[sources/swarmvault-config-a48adfce|swarmvault.config]]
+- 2026-06-21T01:55:39.596Z: [[sources/seerr-media-requests-available-ef141443|Seerr — Media Requests Available]]
+- 2026-06-21T01:55:39.594Z: [[sources/projects-acb5fd10|Projects]]
+- 2026-06-21T01:55:39.593Z: [[sources/insights-1398dcf3|Insights]]
+- 2026-06-21T01:55:39.590Z: [[sources/candidates-5d9c2771|Candidates]]

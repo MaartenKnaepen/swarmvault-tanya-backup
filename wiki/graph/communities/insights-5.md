@@ -21,8 +21,8 @@ node_ids: &ref_0
 freshness: fresh
 status: active
 confidence: 1
-created_at: '2026-05-22T19:04:20.107Z'
-updated_at: '2026-05-25T19:18:18.111Z'
+created_at: '2026-06-20T23:55:45.247Z'
+updated_at: '2026-06-20T23:55:45.247Z'
 compiled_from:
   - insights-1398dcf3
 managed_by: system

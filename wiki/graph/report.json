@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T23:56:35.862Z",
+  "generatedAt": "2026-06-21T01:56:51.773Z",
   "graphHash": "534421593d8b784515564bc7e198cd6dc5af8b3f46ded6bb86aa6cf4c9c50597",
   "overview": {
     "nodes": 61,
@@ -37,15 +37,15 @@
   },
   "warnings": [],
   "benchmark": {
-    "generatedAt": "2026-06-13T23:56:35.717Z",
+    "generatedAt": "2026-06-21T01:56:51.639Z",
     "stale": false,
     "summary": {
       "questionCount": 3,
       "uniqueVisitedNodes": 24,
-      "finalContextTokens": 2178,
+      "finalContextTokens": 2149,
       "naiveCorpusTokens": 661,
-      "avgReduction": -2.295,
-      "reductionRatio": -2.295
+      "avgReduction": -2.251,
+      "reductionRatio": -2.251
     },
     "questionCount": 3,
     "byClass": {
