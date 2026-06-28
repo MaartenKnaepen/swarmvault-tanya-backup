@@ -48,7 +48,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.117Z'
-updated_at: '2026-06-21T01:56:51.654Z'
+updated_at: '2026-06-28T01:57:55.377Z'
 compiled_from:
   - candidates-5d9c2771
   - insights-1398dcf3
@@ -120,7 +120,7 @@ related_source_ids: *ref_1
 
 ## Benchmark Summary
 
-- Generated At: 2026-06-21T01:56:51.639Z
+- Generated At: 2026-06-28T01:57:55.361Z
 - Status: Fresh
 - Naive Corpus Tokens: 661
 - Final Context Tokens: 2149
@@ -132,7 +132,7 @@ related_source_ids: *ref_1
 
 | Class | Sources | Pages | Nodes | God Nodes | Naive Tokens | Guided Tokens | Reduction |
 | ----- | ------- | ----- | ----- | --------- | ------------ | ------------- | --------- |
-| First-party | 5 | 48 | 48 | 26 | 661 | 1689 | -155.5% |
+| First-party | 5 | 48 | 48 | 26 | 661 | 1717 | -159.8% |
 | Third-party | 0 | 0 | 0 | 0 | 0 | 0 | 0.0% |
 | Resource | 0 | 0 | 0 | 0 | 0 | 0 | 0.0% |
 | Generated | 0 | 0 | 0 | 0 | 0 | 0 | 0.0% |

@@ -531,3 +531,187 @@
 - schema=00d64cfa850a
 - benchmark=ok
 
+## [2026-06-21 02:01:19] lint | Linted 78 page(s)
+- session: `state/sessions/2026-06-21T02-01-19-941Z-lint-linted-78-page-s.md`
+- findings=3
+- deep=false
+- web=false
+- conflicts=false
+- decay=false
+
+## [2026-06-21 23:55:50] inbox_import | inbox
+- scanned=1
+- imported=0
+- attachments=0
+- skipped=1
+
+## [2026-06-21 23:55:52] compile | Compiled 6 source(s)
+- session: `state/sessions/2026-06-21T23-55-52-202Z-compile-compiled-6-source-s.md`
+- provider=local
+- pages=78
+- dirty=0
+- clean=6
+- outputs=1
+- insights=0
+- memory=0
+- candidates=0
+- promoted=0
+- staged=false
+- postPassApproval=none
+- schema=00d64cfa850a
+- benchmark=ok
+
+## [2026-06-22 23:55:14] inbox_import | inbox
+- scanned=1
+- imported=0
+- attachments=0
+- skipped=1
+
+## [2026-06-22 23:55:16] compile | Compiled 6 source(s)
+- session: `state/sessions/2026-06-22T23-55-16-055Z-compile-compiled-6-source-s.md`
+- provider=local
+- pages=78
+- dirty=0
+- clean=6
+- outputs=1
+- insights=0
+- memory=0
+- candidates=0
+- promoted=0
+- staged=false
+- postPassApproval=none
+- schema=00d64cfa850a
+- benchmark=ok
+
+## [2026-06-23 23:55:46] inbox_import | inbox
+- scanned=1
+- imported=0
+- attachments=0
+- skipped=1
+
+## [2026-06-23 23:55:47] compile | Compiled 6 source(s)
+- session: `state/sessions/2026-06-23T23-55-47-387Z-compile-compiled-6-source-s.md`
+- provider=local
+- pages=78
+- dirty=0
+- clean=6
+- outputs=1
+- insights=0
+- memory=0
+- candidates=0
+- promoted=0
+- staged=false
+- postPassApproval=none
+- schema=00d64cfa850a
+- benchmark=ok
+
+## [2026-06-24 23:56:44] inbox_import | inbox
+- scanned=1
+- imported=0
+- attachments=0
+- skipped=1
+
+## [2026-06-24 23:56:45] compile | Compiled 6 source(s)
+- session: `state/sessions/2026-06-24T23-56-45-537Z-compile-compiled-6-source-s.md`
+- provider=local
+- pages=78
+- dirty=0
+- clean=6
+- outputs=1
+- insights=0
+- memory=0
+- candidates=0
+- promoted=0
+- staged=false
+- postPassApproval=none
+- schema=00d64cfa850a
+- benchmark=ok
+
+## [2026-06-25 23:56:40] inbox_import | inbox
+- scanned=1
+- imported=0
+- attachments=0
+- skipped=1
+
+## [2026-06-25 23:56:42] compile | Compiled 6 source(s)
+- session: `state/sessions/2026-06-25T23-56-42-069Z-compile-compiled-6-source-s.md`
+- provider=local
+- pages=79
+- dirty=0
+- clean=6
+- outputs=1
+- insights=0
+- memory=0
+- candidates=0
+- promoted=0
+- staged=false
+- postPassApproval=none
+- schema=00d64cfa850a
+- benchmark=ok
+
+## [2026-06-26 23:56:53] inbox_import | inbox
+- scanned=1
+- imported=0
+- attachments=0
+- skipped=1
+
+## [2026-06-26 23:56:54] compile | Compiled 6 source(s)
+- session: `state/sessions/2026-06-26T23-56-54-477Z-compile-compiled-6-source-s.md`
+- provider=local
+- pages=79
+- dirty=0
+- clean=6
+- outputs=1
+- insights=0
+- memory=0
+- candidates=0
+- promoted=0
+- staged=false
+- postPassApproval=none
+- schema=00d64cfa850a
+- benchmark=ok
+
+## [2026-06-27 23:56:58] inbox_import | inbox
+- scanned=1
+- imported=0
+- attachments=0
+- skipped=1
+
+## [2026-06-27 23:56:59] compile | Compiled 6 source(s)
+- session: `state/sessions/2026-06-27T23-56-59-700Z-compile-compiled-6-source-s.md`
+- provider=local
+- pages=78
+- dirty=0
+- clean=6
+- outputs=1
+- insights=0
+- memory=0
+- candidates=0
+- promoted=0
+- staged=false
+- postPassApproval=none
+- schema=00d64cfa850a
+- benchmark=ok
+
+## [2026-06-28 01:56:42] inbox_import | inbox
+- scanned=1
+- imported=0
+- attachments=0
+- skipped=1
+
+## [2026-06-28 01:56:43] compile | Compiled 6 source(s)
+- session: `state/sessions/2026-06-28T01-56-43-261Z-compile-compiled-6-source-s.md`
+- provider=local
+- pages=78
+- dirty=0
+- clean=6
+- outputs=1
+- insights=0
+- memory=0
+- candidates=0
+- promoted=0
+- staged=false
+- postPassApproval=none
+- schema=00d64cfa850a
+- benchmark=ok
+

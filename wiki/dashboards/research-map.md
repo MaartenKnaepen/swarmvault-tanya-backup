@@ -18,7 +18,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.124Z'
-updated_at: '2026-06-20T23:55:45.267Z'
+updated_at: '2026-06-27T23:57:00.847Z'
 compiled_from:
   - candidates-5d9c2771
   - insights-1398dcf3

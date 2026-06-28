@@ -15,7 +15,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.128Z'
-updated_at: '2026-06-21T01:56:51.668Z'
+updated_at: '2026-06-28T01:57:55.391Z'
 compiled_from:
   - swarmvault-config-a48adfce
   - insights-1398dcf3

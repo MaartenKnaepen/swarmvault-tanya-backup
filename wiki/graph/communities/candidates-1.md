@@ -30,8 +30,8 @@ node_ids: &ref_0
 freshness: fresh
 status: active
 confidence: 1
-created_at: '2026-06-20T23:55:45.245Z'
-updated_at: '2026-06-20T23:55:45.245Z'
+created_at: '2026-06-27T23:57:00.824Z'
+updated_at: '2026-06-27T23:57:00.824Z'
 compiled_from:
   - projects-acb5fd10
   - candidates-5d9c2771
