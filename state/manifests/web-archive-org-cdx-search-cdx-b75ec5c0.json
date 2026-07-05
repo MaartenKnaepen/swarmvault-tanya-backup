@@ -1,0 +1,13 @@
+{
+  "sourceId": "web-archive-org-cdx-search-cdx-b75ec5c0",
+  "title": "web.archive.org/cdx/search/cdx",
+  "originType": "url",
+  "sourceKind": "data",
+  "url": "https://web.archive.org/cdx/search/cdx?url=www.immoweb.be&matchType=domain&limit=100&fl=original,timestamp&output=json&filter=statuscode:200",
+  "storedPath": "raw/sources/web-archive-org-cdx-search-cdx-b75ec5c0.json",
+  "mimeType": "application/json",
+  "contentHash": "b75ec5c023ce05a74a1f7d63cb1ea34244729e8f271df0ba1f67a61c262f4bab",
+  "semanticHash": "b75ec5c023ce05a74a1f7d63cb1ea34244729e8f271df0ba1f67a61c262f4bab",
+  "createdAt": "2026-07-03T09:25:06.938Z",
+  "updatedAt": "2026-07-03T09:25:06.938Z"
+}

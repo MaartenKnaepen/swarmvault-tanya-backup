@@ -1,0 +1,16 @@
+{
+  "sourceId": "www-google-com-d149a56e",
+  "title": "www.google.com",
+  "originType": "url",
+  "sourceKind": "markdown",
+  "url": "https://www.google.com/search?q=%22Mizerikstraat%22+%22Diepenbeek%22+%22te+koop%22+%22kavel%22&ucbcb=1",
+  "storedPath": "raw/sources/www-google-com-d149a56e.md",
+  "extractedTextPath": "state/extracts/www-google-com-d149a56e.md",
+  "extractedMetadataPath": "state/extracts/www-google-com-d149a56e.json",
+  "extractionHash": "aab3fa0bb1241ffdd57ab714e625a6678c5fcf229212f41f31dedc33c9b55b29",
+  "mimeType": "text/markdown",
+  "contentHash": "d149a56e484e570f99ada59f9a46018f3c98c950c266aee2693dcb0b72efb77f",
+  "semanticHash": "b28038d0acf7fb157380d913880960340cd5a578ef3c22b160abaee49af46368",
+  "createdAt": "2026-07-03T09:25:10.499Z",
+  "updatedAt": "2026-07-03T09:25:10.499Z"
+}

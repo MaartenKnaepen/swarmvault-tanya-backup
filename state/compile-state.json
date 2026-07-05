@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T01:56:43.364Z",
+  "generatedAt": "2026-07-05T02:00:36.598Z",
   "rootSchemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
   "projectSchemaHashes": {},
   "effectiveSchemaHashes": {
@@ -8,43 +8,249 @@
   },
   "projectConfigHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
   "analyses": {
+    "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2": "ad260b4df519a4494fd86240aebb7e9094e60fade152e02dc7aca0b5ed245472",
+    "bouwinfo-f8d17c05": "f5891cfcd49ac7a4c6da260352feecc2c27c01f5f555000d84ade653dcc026dc",
     "candidates-5d9c2771": "3d6a9a0bdc75c498b16aff3727c1ed5cd8d56b0e26ce606386d2e3d25b9de8c7",
+    "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da": "b4ef1881567a8f3f1f3e8d86931b52f2d7609ab42c8803957138c5b53af63a1c",
+    "de-notaris-notaris-be-8b0bd2a4": "e4c38c4c303a0c1e74d760392b65c3ac15815ffa2e45f8b11a5ca8e0abc45cdb",
+    "default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3": "28e65fbb4b0347838c3aa34d1c0964f820bd71ff2ba004112090aa6e12859e7d",
+    "dovendi-domain-for-sale-2d012a62": "e5ee32235b4be4b1b4d394d05f4487eb6296b5cc8dc3f22253acae74a061832a",
+    "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72": "13cdad9a8f0bcf5e9fb5a9c08464f03bffab46d3d81f9d2e73cb0f627b801856",
+    "erfbelasting-b24e8569": "a884f5342b5c01f771af65448f9f405ff85afbaeef84a9e30ba88c32c1866dc3",
+    "home-kepler-7ece3282": "4a8fb21e83d51ed9f3229be7e83a2ab89eafdd10ae6b172c9e4b362c9d028183",
+    "home-kepler-938b95f3": "23ac249696510b2c1e347d27f1bb0c1e1b29890da594c06bbdb21729ad92246e",
+    "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11": "67b425d790707f96f64df93b32442ba522b44609ae1b3afa57ac14ef348cba3c",
     "insights-1398dcf3": "f77a0514b9ee3a39850d96e1e5929187777935d445f8959a77589b05adffe143",
+    "myprivacy-dpgmedia-be-16f062da": "3de21c83241aacc6be93e97040cd3fcf5634f9ad4416c09562850d04de7bfc21",
     "projects-acb5fd10": "8931bfe0b5dd44ce22de071bce773f83f44a558b1448552f338ef5fdb7080065",
+    "schenkbelasting-da146a89": "3fb8a425dac09b27809f10bb56c0fc3e0c6374189751c43f6a1fc1a2aeab847d",
     "seerr-media-requests-available-ef141443": "6d8f825226996ce0a8ca654f62482dbc332617205684bee1529c330277c135c4",
     "swarmvault-config-a48adfce": "aa150e72b7b86109e3f56f3a1172186e143dc8b1560f6c1eda370b279713857d",
-    "swarmvault-schema-b10ad2d9": "086d73834a877e0bf0d83b7da33b33c25752e3024f96b10b62dcd30ff8213eaf"
+    "swarmvault-schema-b10ad2d9": "086d73834a877e0bf0d83b7da33b33c25752e3024f96b10b62dcd30ff8213eaf",
+    "web-archive-org-cdx-search-cdx-368de9df": "91c039dc2280034da28dc9647acf72188513a898bc3d730a3fc2e04e46c6c170",
+    "web-archive-org-cdx-search-cdx-37517e5f": "698e7a497a27d348233e0877c301259ce786d40d9527b65884ae55777d4fbf44",
+    "web-archive-org-cdx-search-cdx-66fd206b": "f254cefda9848819e4912375113100ceb1d3f2563cc004c105e96511f7d186bd",
+    "web-archive-org-cdx-search-cdx-81e7194d": "f6cb769d651f1204d4fd1404ebb2504813638092b251097abb7bbe81a1aa906e",
+    "web-archive-org-cdx-search-cdx-b75ec5c0": "b63d9f0bbe786a8d99711fe7690f796de36a6d1de219e9e41e15a7170f249d77",
+    "web-archive-org-cdx-search-cdx-c633b882": "b5ebc9df0f0b6a555019106e9b7e3ac31cfcccddbd034444b4408db3e3e7ff30",
+    "web-archive-org-cdx-search-cdx-e3b0c442": "7eca226553c8b7b2f726117b1dbad11d6d82d2da334d2bdaf422964bdc9a9aca",
+    "web-archive-org-cdx-search-cdx-eb0bd1b9": "af7136684c01b1d3d056a31029272d52e442b49ad3465a1075f9450759fd664b",
+    "web-archive-org-cdx-search-cdx-f3370364": "72daf74b14e344d3b7d142bd6926a5cdc984ab49a5596021dedba3b8fb7d749d",
+    "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4": "74e38929023f76184051f0568fc2d4d2943079a8187f7c179150091411977f5e",
+    "www-google-com-30f04687": "b31e2d9d60eb46880430828a5b05015ffe2c38c67445e16262bc5687fc7a82e1",
+    "www-google-com-3d8570f8": "ed143e7840ab978fc3c605aec4c8ec4d7c72892ee71c1b408a154a899d9fa62a",
+    "www-google-com-8ca38364": "75eaa3f378fd50b57c3b13836b806b265c9e0aefc0a5e417c807c267e37583fb",
+    "www-google-com-a1e017e6": "26d65134b1a9183c5deffc57704b92efe28e9baf635d3243947bcadfc6a01197",
+    "www-google-com-d149a56e": "57d73edb7f692b9c2c7269322151fedf9981e9a048f42458f46af8e9b10242f9",
+    "www-google-com-efab024d": "c5faead9dd090f56674057ecb0aed7d14ffc1db157b8c5d676a72f95a13d8ebe",
+    "zoeken-notaris-be-832736a2": "3cc63fe61098c6fbebfbda976e2f719e7506f04b4f4466d8bd955b76b7f4c069"
   },
   "sourceHashes": {
+    "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2": "4e3cc1d2437451cf9b239f0d7cb5e1666449c22e2254829017498a80b2434bae",
+    "bouwinfo-f8d17c05": "f8d17c0565c144b235eba8065c05755afef40c525375c5b1683762cd7420171a",
     "candidates-5d9c2771": "5d9c2771efe014874ceeec9297ffbfaf92e420bf567785847f1f8f5471d096d6",
+    "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da": "139f25da3b4febd931bb78fbab748d58fa801d16c3bb0f038d79694b641788ca",
+    "de-notaris-notaris-be-8b0bd2a4": "8b0bd2a4b4207b87aed343f58869f33f5bede5fa2d9bed85c2b7014c76e4911e",
+    "default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3": "f81e91f3e4a64f06e8847dc2b72fa5039c6167b690ee160502a4481720619774",
+    "dovendi-domain-for-sale-2d012a62": "2d012a627e60a5036843f6dfe80d9a8d90bc4fbf971fd493d4c94909f4b158eb",
+    "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72": "182f7a72f1fe1a85fe99e3680756f6e38145888dce96883dc3041cc839a643bb",
+    "erfbelasting-b24e8569": "b24e8569994fd6e36dfb9d723cde4866acc8eb59355130fb0c2935bc7ef258d5",
+    "home-kepler-7ece3282": "7ece3282cc40c9f25bc1b7f7f1b001cc3a4d4052fa2486b9f8ed1c5d5f3badb5",
+    "home-kepler-938b95f3": "938b95f3fff37c889eb0c165b9cb53c5aca4a6579bf63296543f2e15f7ec40f6",
+    "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11": "6f7c1e114c02adfd2f7011f119cff597f2319362c4d9751ea4a6ca5bd68ff2f3",
     "insights-1398dcf3": "1398dcf3b60f9b8faa272001e7763482c88e6daa261763cc6cfe6c3c4e4b38ce",
+    "myprivacy-dpgmedia-be-16f062da": "16f062dac30223340e1f0c681ed0cabd4af73c7c78afa0484bf615462a23c139",
     "projects-acb5fd10": "acb5fd105279caeb54f2f482c30234121bcf90180e5968dd5d82fc5924b8caf8",
+    "schenkbelasting-da146a89": "da146a89c0491a1bd65f497f38f305c20fe6df7c9d30c8dd2bc709b212917b50",
     "seerr-media-requests-available-ef141443": "ef1414436310b49e8a4c3ff864b4f6c38c655d81fceb6c4cd8569b914cdfcff8",
-    "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1",
-    "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620"
+    "swarmvault-config-a48adfce": "d990f0f9af83271b3348716bcb324a06635bb8dd79b84322aedda483365be4d9",
+    "swarmvault-schema-b10ad2d9": "b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620",
+    "web-archive-org-cdx-search-cdx-368de9df": "368de9df3b7e0b39bd3a110f0990e53c7af087d3ac87ed158a4003267259711a",
+    "web-archive-org-cdx-search-cdx-37517e5f": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "web-archive-org-cdx-search-cdx-66fd206b": "66fd206b6eb48f9552bae13016df0e722f67977eb8a2330ca070513524896e7e",
+    "web-archive-org-cdx-search-cdx-81e7194d": "81e7194d6301b1a1a64bd38cda39b2ac998b5d3e9742a5de168e8e84932fbf2a",
+    "web-archive-org-cdx-search-cdx-b75ec5c0": "b75ec5c023ce05a74a1f7d63cb1ea34244729e8f271df0ba1f67a61c262f4bab",
+    "web-archive-org-cdx-search-cdx-c633b882": "c633b8826abb7d1e409e12ebc80ada1dd82714fab0e5293ec0aa74c94ab1d794",
+    "web-archive-org-cdx-search-cdx-e3b0c442": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "web-archive-org-cdx-search-cdx-eb0bd1b9": "eb0bd1b96fef1a750de92156afe2bea27cd3b8e11a5c69391530050a98c6cd5b",
+    "web-archive-org-cdx-search-cdx-f3370364": "f337036496c1a06481893d8e34eba2023f26085761e6f58bf6529e1b4cf8ced1",
+    "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4": "a003e9d4630abb475441db204ecfbad38ed02341cf4202bd5c944b39c549696a",
+    "www-google-com-30f04687": "30f04687c1d527e5c10aea72676c2a63bdf79d73afeac946f1ea4bf33da02c3f",
+    "www-google-com-3d8570f8": "3d8570f8bef9953cd37577c25909e880d74d907334128a1aa20cfad61ed8a742",
+    "www-google-com-8ca38364": "8ca38364362e37984b56693b6b5ab2cd708cacae8ada0bd768f4b85407d5d6e0",
+    "www-google-com-a1e017e6": "a1e017e6197dd0b2086fba272b20ed6d8a057f562269ae92cf51a3c1ec63dee9",
+    "www-google-com-d149a56e": "d149a56e484e570f99ada59f9a46018f3c98c950c266aee2693dcb0b72efb77f",
+    "www-google-com-efab024d": "efab024d76f0aa207c1465899fe9b6bf53b5015107ce28c00e9becee7e8c2273",
+    "zoeken-notaris-be-832736a2": "832736a237dc99fc14613a6ca4ac2009fcf3ecb3f6f7d858e67fc314caf6929e"
   },
   "sourceSemanticHashes": {
+    "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2": "84da8c2c215fb998f2f628931b7bac2de8502b532123edddc9fd69244ce33820",
+    "bouwinfo-f8d17c05": "6ae5e47ea0baf0ab91e731ea68175f8e877a947683392e4fd0dab98621da003d",
     "candidates-5d9c2771": "43d036fc05d2fd6bfb3308e4e69a2b82269412569f2bbcc5df27a9201f73c51a",
+    "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da": "3a34dbee82e703c756cfc0f5ffd2d5759beae7d655e2dd2eebcd4d50723914c0",
+    "de-notaris-notaris-be-8b0bd2a4": "bfec2bbc213f9cd567eeef295b7a0e90cee83d884137e179c03030e0d96d2b14",
+    "default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3": "f81e91f3e4a64f06e8847dc2b72fa5039c6167b690ee160502a4481720619774",
+    "dovendi-domain-for-sale-2d012a62": "0979f70eeaa4787b525071dcbea4382b89c0ef9609e35b6559cae5ba7e232116",
+    "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72": "eb3d4fbc940fc08335028bb7251ff40dc8b30b5fea6ed7a36fcfc682569453b2",
+    "erfbelasting-b24e8569": "a98141e022fec13c05396570c335351d5280ea0a14b15d508fddbae5f544d67e",
+    "home-kepler-7ece3282": "665069c8e59f9196370cdb6684ee8a334190c7075c914603d3c7e9e54c59ef4e",
+    "home-kepler-938b95f3": "e35503d6434f23ccdcf06919fdf6a2052f0c1b11748ca25f731fc10cee87c09c",
+    "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11": "d12b1daec6aa3ec63ebcf23055350a2608b22c3d83e2b36b9a0e7759dc2f48fa",
     "insights-1398dcf3": "7ed98748976e1b249ce944a23513c98359945683c317056d0d40b761308abce6",
+    "myprivacy-dpgmedia-be-16f062da": "10b4caa9acea4744e758c4cf68f562e4a81c29966defb99e702b4a00773a284d",
     "projects-acb5fd10": "c17f3824f10f7496c534034df6643e9aab08bdb9431f5d9bfa9f2ac000bf6187",
+    "schenkbelasting-da146a89": "69e03a7fa46084aa8608c8a9b41ce8dce4fc79a0687245fe4a8f8a7c0964506e",
     "seerr-media-requests-available-ef141443": "4d259c0cd39e51ebb1d269e12021ebf86442f352be98a5160ee0da66036934ea",
-    "swarmvault-config-a48adfce": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1",
-    "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19"
+    "swarmvault-config-a48adfce": "d990f0f9af83271b3348716bcb324a06635bb8dd79b84322aedda483365be4d9",
+    "swarmvault-schema-b10ad2d9": "9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19",
+    "web-archive-org-cdx-search-cdx-368de9df": "368de9df3b7e0b39bd3a110f0990e53c7af087d3ac87ed158a4003267259711a",
+    "web-archive-org-cdx-search-cdx-37517e5f": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "web-archive-org-cdx-search-cdx-66fd206b": "66fd206b6eb48f9552bae13016df0e722f67977eb8a2330ca070513524896e7e",
+    "web-archive-org-cdx-search-cdx-81e7194d": "81e7194d6301b1a1a64bd38cda39b2ac998b5d3e9742a5de168e8e84932fbf2a",
+    "web-archive-org-cdx-search-cdx-b75ec5c0": "b75ec5c023ce05a74a1f7d63cb1ea34244729e8f271df0ba1f67a61c262f4bab",
+    "web-archive-org-cdx-search-cdx-c633b882": "c633b8826abb7d1e409e12ebc80ada1dd82714fab0e5293ec0aa74c94ab1d794",
+    "web-archive-org-cdx-search-cdx-e3b0c442": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "web-archive-org-cdx-search-cdx-eb0bd1b9": "eb0bd1b96fef1a750de92156afe2bea27cd3b8e11a5c69391530050a98c6cd5b",
+    "web-archive-org-cdx-search-cdx-f3370364": "f337036496c1a06481893d8e34eba2023f26085761e6f58bf6529e1b4cf8ced1",
+    "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4": "eedccd1d19f2c19a1e8ae013b81609b3e26bcb1361cc29bad8be43cea8c0f858",
+    "www-google-com-30f04687": "18277a004df4387da4eb5d673fb5c46def1a602cf0822be41aa8d334c5306585",
+    "www-google-com-3d8570f8": "476afd9b4724675be5cb1e486d1dfc74cde636654b94ac91bf054375443847f6",
+    "www-google-com-8ca38364": "2b3e751328c3791368c48e7dbecc19601a4d0e07e37ee8ab8165d08093289a59",
+    "www-google-com-a1e017e6": "594befc835fff60efbf9e35219708443cfbc3b900321fa289ac8d93638a47cc6",
+    "www-google-com-d149a56e": "b28038d0acf7fb157380d913880960340cd5a578ef3c22b160abaee49af46368",
+    "www-google-com-efab024d": "61281301b6d3cf951c0530af777c5e23f2d188e6cf78846edcdbca0b76b24fc0",
+    "zoeken-notaris-be-832736a2": "aa5cb7958df88c2a01d172f22fc33e2409e3fae730135d59e74d5fe76fa43530"
   },
   "sourceProjects": {
+    "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2": null,
+    "bouwinfo-f8d17c05": null,
     "candidates-5d9c2771": null,
+    "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da": null,
+    "de-notaris-notaris-be-8b0bd2a4": null,
+    "default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3": null,
+    "dovendi-domain-for-sale-2d012a62": null,
+    "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72": null,
+    "erfbelasting-b24e8569": null,
+    "home-kepler-7ece3282": null,
+    "home-kepler-938b95f3": null,
+    "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11": null,
     "insights-1398dcf3": null,
+    "myprivacy-dpgmedia-be-16f062da": null,
     "projects-acb5fd10": null,
+    "schenkbelasting-da146a89": null,
     "seerr-media-requests-available-ef141443": null,
     "swarmvault-config-a48adfce": null,
-    "swarmvault-schema-b10ad2d9": null
+    "swarmvault-schema-b10ad2d9": null,
+    "web-archive-org-cdx-search-cdx-368de9df": null,
+    "web-archive-org-cdx-search-cdx-37517e5f": null,
+    "web-archive-org-cdx-search-cdx-66fd206b": null,
+    "web-archive-org-cdx-search-cdx-81e7194d": null,
+    "web-archive-org-cdx-search-cdx-b75ec5c0": null,
+    "web-archive-org-cdx-search-cdx-c633b882": null,
+    "web-archive-org-cdx-search-cdx-e3b0c442": null,
+    "web-archive-org-cdx-search-cdx-eb0bd1b9": null,
+    "web-archive-org-cdx-search-cdx-f3370364": null,
+    "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4": null,
+    "www-google-com-30f04687": null,
+    "www-google-com-3d8570f8": null,
+    "www-google-com-8ca38364": null,
+    "www-google-com-a1e017e6": null,
+    "www-google-com-d149a56e": null,
+    "www-google-com-efab024d": null,
+    "zoeken-notaris-be-832736a2": null
   },
   "outputHashes": {
-    "output:what-is-this-vault-about": "d6c983c73e23859c1a950763fa56be1e039fdab3b9276b670f24bdbd1263cfd8"
+    "output:belgian-inheritance-tax-flanders-stocks-valuation-erfbelasting-aandelen": "3d2c101d86ecf3326716e422236a02c53af808e1ec5b9f9b2f665b213c79cfd8",
+    "output:extract-all-text-from-the-following-pages-specifically-about-parents-helping-chi": "faa6962f4d8075548e18a9aa0a9b5ed4c58bae4ac35e5fbadbc9694e74dedac1",
+    "output:highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p": "96acf2bc27c7e2c3ddfec817ad884ded87b203ca2ee53985b6ff34cab670fe3f",
+    "output:list-the-full-content-and-metadata-of-all-recently-ingested-source-files-about-d": "b4461fe918294affd040ab76ce41c489392e3c8a8372566c79a8f2da119ded50",
+    "output:search-the-ingested-content-for-any-results-related-to-mizerikstraat-33-diepenbe": "7df8f4416a6205162e1b4a29c1c10f50fc08cb8af9111feef7c1db9f547d3b5b",
+    "output:show-me-the-full-text-content-of-the-kepler-homepage-from-web-archive-org": "351978b69b677cc245cf8731093c0a32217335d6e459aaf0598cd1aaa5914b60",
+    "output:show-me-the-raw-content-of-the-google-search-results-for-mizerikstraat-33-diepen": "20f89122a5e74087e3692711a58953806af5e284959ef1f97fa2549cc019da99",
+    "output:what-are-the-gift-tax-schenkbelasting-rates-in-vlaanderen-for-parents-gifting-mo": "4ac1e2c7c8c259fb7225fec05ab2b282318865fe3db7be913b1fd0e918bf70a0",
+    "output:what-are-the-legal-requirements-for-selling-a-rental-property-in-belgium-flander": "cea755f200dfca5152aa402bed136420241bc253d44fe9f005a1485abe790fc4",
+    "output:what-does-the-nbb-nationale-bank-van-belgi-page-about-the-centrale-voor-krediete": "a95c29be2c8c8b81e2f82ccb894dbf2159125c79672b53a77f85d3fd8ea28fd4",
+    "output:what-is-this-vault-about": "7eb24952ce799c82b7d794a344e408f538ae7c0c521cdd9ef98bdb7e59102194"
   },
   "insightHashes": {},
-  "memoryHashes": {},
+  "memoryHashes": {
+    "memory:2026-06-30T20-22-45-745Z-write-highway-noise-reduction-guide-to-workspace": "925df7643c7e608d465638d3c9ada686da1a590085457c96113f9e16e212bc4b"
+  },
   "candidateHistory": {
+    "concept:diepenbeek": {
+      "sourceIds": [
+        "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2",
+        "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
+      ],
+      "status": "active"
+    },
+    "concept:3590": {
+      "sourceIds": [
+        "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2",
+        "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
+      ],
+      "status": "active"
+    },
+    "concept:house": {
+      "sourceIds": [
+        "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
+      ],
+      "status": "active"
+    },
+    "concept:hasselt": {
+      "sourceIds": [
+        "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
+      ],
+      "status": "active"
+    },
+    "concept:excluding": {
+      "sourceIds": [
+        "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
+      ],
+      "status": "active"
+    },
+    "concept:taxes": {
+      "sourceIds": [
+        "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
+      ],
+      "status": "active"
+    },
+    "concept:2026": {
+      "sourceIds": [
+        "bouwinfo-f8d17c05"
+      ],
+      "status": "active"
+    },
+    "concept:bericht": {
+      "sourceIds": [
+        "bouwinfo-f8d17c05"
+      ],
+      "status": "active"
+    },
+    "concept:berichten": {
+      "sourceIds": [
+        "bouwinfo-f8d17c05"
+      ],
+      "status": "active"
+    },
+    "concept:categorie": {
+      "sourceIds": [
+        "bouwinfo-f8d17c05"
+      ],
+      "status": "active"
+    },
+    "concept:door": {
+      "sourceIds": [
+        "bouwinfo-f8d17c05"
+      ],
+      "status": "active"
+    },
+    "concept:laatste": {
+      "sourceIds": [
+        "bouwinfo-f8d17c05"
+      ],
+      "status": "active"
+    },
     "concept:candidates": {
       "sourceIds": [
         "candidates-5d9c2771"
@@ -84,6 +290,238 @@
       ],
       "status": "active"
     },
+    "concept:particulieren": {
+      "sourceIds": [
+        "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
+      ],
+      "status": "active"
+    },
+    "concept:voor": {
+      "sourceIds": [
+        "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da",
+        "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72",
+        "home-kepler-7ece3282",
+        "home-kepler-938b95f3"
+      ],
+      "status": "active"
+    },
+    "concept:kredieten": {
+      "sourceIds": [
+        "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
+      ],
+      "status": "active"
+    },
+    "concept:gegevens": {
+      "sourceIds": [
+        "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
+      ],
+      "status": "active"
+    },
+    "concept:info": {
+      "sourceIds": [
+        "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
+      ],
+      "status": "active"
+    },
+    "concept:informatiegerechtigden": {
+      "sourceIds": [
+        "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
+      ],
+      "status": "active"
+    },
+    "concept:jouw": {
+      "sourceIds": [
+        "de-notaris-notaris-be-8b0bd2a4",
+        "home-kepler-7ece3282",
+        "home-kepler-938b95f3"
+      ],
+      "status": "active"
+    },
+    "concept:vragen": {
+      "sourceIds": [
+        "de-notaris-notaris-be-8b0bd2a4"
+      ],
+      "status": "active"
+    },
+    "concept:antwoord": {
+      "sourceIds": [
+        "de-notaris-notaris-be-8b0bd2a4"
+      ],
+      "status": "active"
+    },
+    "concept:campagne": {
+      "sourceIds": [
+        "de-notaris-notaris-be-8b0bd2a4"
+      ],
+      "status": "active"
+    },
+    "concept:onze": {
+      "sourceIds": [
+        "de-notaris-notaris-be-8b0bd2a4"
+      ],
+      "status": "active"
+    },
+    "concept:persoonlijke": {
+      "sourceIds": [
+        "de-notaris-notaris-be-8b0bd2a4"
+      ],
+      "status": "active"
+    },
+    "concept:dovendi": {
+      "sourceIds": [
+        "dovendi-domain-for-sale-2d012a62"
+      ],
+      "status": "active"
+    },
+    "concept:names": {
+      "sourceIds": [
+        "dovendi-domain-for-sale-2d012a62"
+      ],
+      "status": "active"
+    },
+    "concept:about": {
+      "sourceIds": [
+        "dovendi-domain-for-sale-2d012a62"
+      ],
+      "status": "active"
+    },
+    "concept:achieving": {
+      "sourceIds": [
+        "dovendi-domain-for-sale-2d012a62"
+      ],
+      "status": "active"
+    },
+    "concept:brings": {
+      "sourceIds": [
+        "dovendi-domain-for-sale-2d012a62"
+      ],
+      "status": "active"
+    },
+    "concept:buyers": {
+      "sourceIds": [
+        "dovendi-domain-for-sale-2d012a62"
+      ],
+      "status": "active"
+    },
+    "concept:kepler": {
+      "sourceIds": [
+        "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72",
+        "web-archive-org-cdx-search-cdx-c633b882"
+      ],
+      "status": "active"
+    },
+    "concept:woning": {
+      "sourceIds": [
+        "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
+      ],
+      "status": "active"
+    },
+    "concept:stap": {
+      "sourceIds": [
+        "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
+      ],
+      "status": "active"
+    },
+    "concept:wonen": {
+      "sourceIds": [
+        "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
+      ],
+      "status": "active"
+    },
+    "concept:niet": {
+      "sourceIds": [
+        "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
+      ],
+      "status": "active"
+    },
+    "concept:erfbelasting": {
+      "sourceIds": [
+        "erfbelasting-b24e8569"
+      ],
+      "status": "active"
+    },
+    "concept:nalatenschap": {
+      "sourceIds": [
+        "erfbelasting-b24e8569"
+      ],
+      "status": "active"
+    },
+    "concept:wordt": {
+      "sourceIds": [
+        "erfbelasting-b24e8569"
+      ],
+      "status": "active"
+    },
+    "concept:aangifte": {
+      "sourceIds": [
+        "erfbelasting-b24e8569"
+      ],
+      "status": "active"
+    },
+    "concept:overledene": {
+      "sourceIds": [
+        "erfbelasting-b24e8569"
+      ],
+      "status": "active"
+    },
+    "concept:berekend": {
+      "sourceIds": [
+        "erfbelasting-b24e8569"
+      ],
+      "status": "active"
+    },
+    "concept:bouwen": {
+      "sourceIds": [
+        "home-kepler-7ece3282",
+        "home-kepler-938b95f3"
+      ],
+      "status": "active"
+    },
+    "concept:naar": {
+      "sourceIds": [
+        "home-kepler-7ece3282",
+        "home-kepler-938b95f3"
+      ],
+      "status": "active"
+    },
+    "concept:nieuwe": {
+      "sourceIds": [
+        "home-kepler-7ece3282",
+        "home-kepler-938b95f3"
+      ],
+      "status": "active"
+    },
+    "concept:productieproces": {
+      "sourceIds": [
+        "home-kepler-7ece3282",
+        "home-kepler-938b95f3"
+      ],
+      "status": "active"
+    },
+    "concept:albert": {
+      "sourceIds": [
+        "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
+      ],
+      "status": "active"
+    },
+    "concept:expansion": {
+      "sourceIds": [
+        "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
+      ],
+      "status": "active"
+    },
+    "concept:floor": {
+      "sourceIds": [
+        "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
+      ],
+      "status": "active"
+    },
+    "concept:ground": {
+      "sourceIds": [
+        "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
+      ],
+      "status": "active"
+    },
     "concept:insights": {
       "sourceIds": [
         "insights-1398dcf3"
@@ -114,6 +552,18 @@
       ],
       "status": "active"
     },
+    "concept:logo": {
+      "sourceIds": [
+        "myprivacy-dpgmedia-be-16f062da"
+      ],
+      "status": "active"
+    },
+    "concept:media": {
+      "sourceIds": [
+        "myprivacy-dpgmedia-be-16f062da"
+      ],
+      "status": "active"
+    },
     "concept:projects": {
       "sourceIds": [
         "projects-acb5fd10"
@@ -135,6 +585,42 @@
     "concept:rollups": {
       "sourceIds": [
         "projects-acb5fd10"
+      ],
+      "status": "active"
+    },
+    "concept:schenkbelasting": {
+      "sourceIds": [
+        "schenkbelasting-da146a89"
+      ],
+      "status": "active"
+    },
+    "concept:schenking": {
+      "sourceIds": [
+        "schenkbelasting-da146a89"
+      ],
+      "status": "active"
+    },
+    "concept:genieten": {
+      "sourceIds": [
+        "schenkbelasting-da146a89"
+      ],
+      "status": "active"
+    },
+    "concept:goederen": {
+      "sourceIds": [
+        "schenkbelasting-da146a89"
+      ],
+      "status": "active"
+    },
+    "concept:verschuldigd": {
+      "sourceIds": [
+        "schenkbelasting-da146a89"
+      ],
+      "status": "active"
+    },
+    "concept:vindt": {
+      "sourceIds": [
+        "schenkbelasting-da146a89"
       ],
       "status": "active"
     },
@@ -246,6 +732,246 @@
       ],
       "status": "active"
     },
+    "concept:http": {
+      "sourceIds": [
+        "web-archive-org-cdx-search-cdx-c633b882"
+      ],
+      "status": "active"
+    },
+    "concept:20040904163039": {
+      "sourceIds": [
+        "web-archive-org-cdx-search-cdx-c633b882"
+      ],
+      "status": "active"
+    },
+    "concept:20040906074751": {
+      "sourceIds": [
+        "web-archive-org-cdx-search-cdx-c633b882"
+      ],
+      "status": "active"
+    },
+    "concept:20040928094111": {
+      "sourceIds": [
+        "web-archive-org-cdx-search-cdx-c633b882"
+      ],
+      "status": "active"
+    },
+    "concept:20041202021608": {
+      "sourceIds": [
+        "web-archive-org-cdx-search-cdx-c633b882"
+      ],
+      "status": "active"
+    },
+    "concept:verkeer": {
+      "sourceIds": [
+        "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
+      ],
+      "status": "active"
+    },
+    "concept:augustus": {
+      "sourceIds": [
+        "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
+      ],
+      "status": "active"
+    },
+    "concept:brug": {
+      "sourceIds": [
+        "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
+      ],
+      "status": "active"
+    },
+    "concept:n446": {
+      "sourceIds": [
+        "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
+      ],
+      "status": "active"
+    },
+    "concept:2027": {
+      "sourceIds": [
+        "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
+      ],
+      "status": "active"
+    },
+    "concept:durmebrug": {
+      "sourceIds": [
+        "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
+      ],
+      "status": "active"
+    },
+    "concept:feedback": {
+      "sourceIds": [
+        "www-google-com-30f04687",
+        "www-google-com-3d8570f8",
+        "www-google-com-8ca38364",
+        "www-google-com-a1e017e6",
+        "www-google-com-d149a56e",
+        "www-google-com-efab024d"
+      ],
+      "status": "active"
+    },
+    "concept:google": {
+      "sourceIds": [
+        "www-google-com-30f04687",
+        "www-google-com-3d8570f8",
+        "www-google-com-8ca38364",
+        "www-google-com-a1e017e6",
+        "www-google-com-d149a56e",
+        "www-google-com-efab024d"
+      ],
+      "status": "active"
+    },
+    "concept:hebt": {
+      "sourceIds": [
+        "www-google-com-30f04687",
+        "www-google-com-3d8570f8",
+        "www-google-com-8ca38364",
+        "www-google-com-a1e017e6",
+        "www-google-com-d149a56e",
+        "www-google-com-efab024d"
+      ],
+      "status": "active"
+    },
+    "concept:hier": {
+      "sourceIds": [
+        "www-google-com-30f04687",
+        "www-google-com-3d8570f8",
+        "www-google-com-8ca38364",
+        "www-google-com-a1e017e6",
+        "www-google-com-d149a56e",
+        "www-google-com-efab024d"
+      ],
+      "status": "active"
+    },
+    "concept:klikken": {
+      "sourceIds": [
+        "www-google-com-30f04687",
+        "www-google-com-3d8570f8",
+        "www-google-com-8ca38364",
+        "www-google-com-a1e017e6",
+        "www-google-com-d149a56e",
+        "www-google-com-efab024d"
+      ],
+      "status": "active"
+    },
+    "concept:problemen": {
+      "sourceIds": [
+        "www-google-com-30f04687",
+        "www-google-com-3d8570f8",
+        "www-google-com-8ca38364",
+        "www-google-com-a1e017e6",
+        "www-google-com-d149a56e",
+        "www-google-com-efab024d"
+      ],
+      "status": "active"
+    },
+    "concept:over": {
+      "sourceIds": [
+        "zoeken-notaris-be-832736a2"
+      ],
+      "status": "active"
+    },
+    "concept:erfenis": {
+      "sourceIds": [
+        "zoeken-notaris-be-832736a2"
+      ],
+      "status": "active"
+    },
+    "concept:scheiden": {
+      "sourceIds": [
+        "zoeken-notaris-be-832736a2"
+      ],
+      "status": "active"
+    },
+    "concept:alles": {
+      "sourceIds": [
+        "zoeken-notaris-be-832736a2"
+      ],
+      "status": "active"
+    },
+    "concept:berekenen": {
+      "sourceIds": [
+        "zoeken-notaris-be-832736a2"
+      ],
+      "status": "active"
+    },
+    "concept:erven": {
+      "sourceIds": [
+        "zoeken-notaris-be-832736a2"
+      ],
+      "status": "active"
+    },
+    "entity:woning-immo-top-invest": {
+      "sourceIds": [
+        "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
+      ],
+      "status": "active"
+    },
+    "entity:house": {
+      "sourceIds": [
+        "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
+      ],
+      "status": "active"
+    },
+    "entity:diepenbeek-house-heylen-vastgoed-hasselt": {
+      "sourceIds": [
+        "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
+      ],
+      "status": "active"
+    },
+    "entity:diepenbeek-plot-heylen-vastgoed-hasselt": {
+      "sourceIds": [
+        "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
+      ],
+      "status": "active"
+    },
+    "entity:villa": {
+      "sourceIds": [
+        "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
+      ],
+      "status": "active"
+    },
+    "entity:diepenbeek-karaktervolle": {
+      "sourceIds": [
+        "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
+      ],
+      "status": "active"
+    },
+    "entity:verbouwen-categorie-topics-berichten-laatste": {
+      "sourceIds": [
+        "bouwinfo-f8d17c05"
+      ],
+      "status": "active"
+    },
+    "entity:ver-bouwdagboeken-wil": {
+      "sourceIds": [
+        "bouwinfo-f8d17c05"
+      ],
+      "status": "active"
+    },
+    "entity:dit": {
+      "sourceIds": [
+        "bouwinfo-f8d17c05"
+      ],
+      "status": "active"
+    },
+    "entity:door": {
+      "sourceIds": [
+        "bouwinfo-f8d17c05"
+      ],
+      "status": "active"
+    },
+    "entity:ruwbouw-categorie-topics-berichten-laatste": {
+      "sourceIds": [
+        "bouwinfo-f8d17c05"
+      ],
+      "status": "active"
+    },
+    "entity:tuin-categorie-topics-berichten-laatste": {
+      "sourceIds": [
+        "bouwinfo-f8d17c05"
+      ],
+      "status": "active"
+    },
     "entity:candidates": {
       "sourceIds": [
         "candidates-5d9c2771"
@@ -258,6 +984,183 @@
       ],
       "status": "active"
     },
+    "entity:centrale": {
+      "sourceIds": [
+        "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
+      ],
+      "status": "active"
+    },
+    "entity:belgi": {
+      "sourceIds": [
+        "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
+      ],
+      "status": "active"
+    },
+    "entity:particulieren-iedere": {
+      "sourceIds": [
+        "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
+      ],
+      "status": "active"
+    },
+    "entity:professionelen": {
+      "sourceIds": [
+        "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
+      ],
+      "status": "active"
+    },
+    "entity:een": {
+      "sourceIds": [
+        "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da",
+        "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
+      ],
+      "status": "active"
+    },
+    "entity:onze": {
+      "sourceIds": [
+        "de-notaris-notaris-be-8b0bd2a4"
+      ],
+      "status": "active"
+    },
+    "entity:not": {
+      "sourceIds": [
+        "de-notaris-notaris-be-8b0bd2a4"
+      ],
+      "status": "active"
+    },
+    "entity:frequently-asked-questions": {
+      "sourceIds": [
+        "de-notaris-notaris-be-8b0bd2a4"
+      ],
+      "status": "active"
+    },
+    "entity:want": {
+      "sourceIds": [
+        "de-notaris-notaris-be-8b0bd2a4"
+      ],
+      "status": "active"
+    },
+    "entity:mensen": {
+      "sourceIds": [
+        "de-notaris-notaris-be-8b0bd2a4",
+        "home-kepler-7ece3282",
+        "home-kepler-938b95f3"
+      ],
+      "status": "active"
+    },
+    "entity:dovendi-dovendi": {
+      "sourceIds": [
+        "dovendi-domain-for-sale-2d012a62"
+      ],
+      "status": "active"
+    },
+    "entity:al-stel": {
+      "sourceIds": [
+        "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
+      ],
+      "status": "active"
+    },
+    "entity:norm-van-duurzaamheid": {
+      "sourceIds": [
+        "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
+      ],
+      "status": "active"
+    },
+    "entity:belgische": {
+      "sourceIds": [
+        "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
+      ],
+      "status": "active"
+    },
+    "entity:dan": {
+      "sourceIds": [
+        "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
+      ],
+      "status": "active"
+    },
+    "entity:klaar": {
+      "sourceIds": [
+        "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
+      ],
+      "status": "active"
+    },
+    "entity:erfbelasting": {
+      "sourceIds": [
+        "erfbelasting-b24e8569"
+      ],
+      "status": "active"
+    },
+    "entity:vlaamse": {
+      "sourceIds": [
+        "erfbelasting-b24e8569"
+      ],
+      "status": "active"
+    },
+    "entity:aangifte-van-nalatenschap": {
+      "sourceIds": [
+        "erfbelasting-b24e8569"
+      ],
+      "status": "active"
+    },
+    "entity:vlaamse-belastingdienst": {
+      "sourceIds": [
+        "erfbelasting-b24e8569"
+      ],
+      "status": "active"
+    },
+    "entity:wijziging": {
+      "sourceIds": [
+        "erfbelasting-b24e8569",
+        "schenkbelasting-da146a89"
+      ],
+      "status": "active"
+    },
+    "entity:familiale": {
+      "sourceIds": [
+        "erfbelasting-b24e8569",
+        "schenkbelasting-da146a89"
+      ],
+      "status": "active"
+    },
+    "entity:vlak-van-technologie": {
+      "sourceIds": [
+        "home-kepler-7ece3282",
+        "home-kepler-938b95f3"
+      ],
+      "status": "active"
+    },
+    "entity:ontdek": {
+      "sourceIds": [
+        "home-kepler-7ece3282",
+        "home-kepler-938b95f3"
+      ],
+      "status": "active"
+    },
+    "entity:hoogwaardig": {
+      "sourceIds": [
+        "home-kepler-7ece3282",
+        "home-kepler-938b95f3"
+      ],
+      "status": "active"
+    },
+    "entity:we": {
+      "sourceIds": [
+        "home-kepler-7ece3282",
+        "home-kepler-938b95f3"
+      ],
+      "status": "active"
+    },
+    "entity:diepenbeek-ground": {
+      "sourceIds": [
+        "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
+      ],
+      "status": "active"
+    },
+    "entity:albert": {
+      "sourceIds": [
+        "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
+      ],
+      "status": "active"
+    },
     "entity:insights": {
       "sourceIds": [
         "insights-1398dcf3"
@@ -267,6 +1170,30 @@
     "entity:projects-run": {
       "sourceIds": [
         "projects-acb5fd10"
+      ],
+      "status": "active"
+    },
+    "entity:schenkbelasting-als": {
+      "sourceIds": [
+        "schenkbelasting-da146a89"
+      ],
+      "status": "active"
+    },
+    "entity:wanneer": {
+      "sourceIds": [
+        "schenkbelasting-da146a89"
+      ],
+      "status": "active"
+    },
+    "entity:eigendom-van-een": {
+      "sourceIds": [
+        "schenkbelasting-da146a89"
+      ],
+      "status": "active"
+    },
+    "entity:heeft-van-rijksinwoner": {
+      "sourceIds": [
+        "schenkbelasting-da146a89"
       ],
       "status": "active"
     },
@@ -375,6 +1302,100 @@
     "entity:categories-list": {
       "sourceIds": [
         "swarmvault-schema-b10ad2d9"
+      ],
+      "status": "active"
+    },
+    "entity:durmebrug": {
+      "sourceIds": [
+        "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
+      ],
+      "status": "active"
+    },
+    "entity:augustus-de": {
+      "sourceIds": [
+        "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
+      ],
+      "status": "active"
+    },
+    "entity:waasmunster": {
+      "sourceIds": [
+        "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
+      ],
+      "status": "active"
+    },
+    "entity:augustus-start": {
+      "sourceIds": [
+        "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
+      ],
+      "status": "active"
+    },
+    "entity:agentschap-wegen": {
+      "sourceIds": [
+        "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
+      ],
+      "status": "active"
+    },
+    "entity:verkeer": {
+      "sourceIds": [
+        "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
+      ],
+      "status": "active"
+    },
+    "entity:google-zoeken": {
+      "sourceIds": [
+        "www-google-com-30f04687",
+        "www-google-com-3d8570f8",
+        "www-google-com-8ca38364",
+        "www-google-com-a1e017e6",
+        "www-google-com-d149a56e",
+        "www-google-com-efab024d"
+      ],
+      "status": "active"
+    },
+    "entity:google": {
+      "sourceIds": [
+        "www-google-com-30f04687",
+        "www-google-com-3d8570f8",
+        "www-google-com-8ca38364",
+        "www-google-com-a1e017e6",
+        "www-google-com-d149a56e",
+        "www-google-com-efab024d"
+      ],
+      "status": "active"
+    },
+    "entity:rekenmodules-aankoopkosten-van-een": {
+      "sourceIds": [
+        "zoeken-notaris-be-832736a2"
+      ],
+      "status": "active"
+    },
+    "entity:kosten": {
+      "sourceIds": [
+        "zoeken-notaris-be-832736a2"
+      ],
+      "status": "active"
+    },
+    "entity:biddit-relatie": {
+      "sourceIds": [
+        "zoeken-notaris-be-832736a2"
+      ],
+      "status": "active"
+    },
+    "entity:scheiden-apart": {
+      "sourceIds": [
+        "zoeken-notaris-be-832736a2"
+      ],
+      "status": "active"
+    },
+    "entity:scheiden": {
+      "sourceIds": [
+        "zoeken-notaris-be-832736a2"
+      ],
+      "status": "active"
+    },
+    "entity:grond-van-onherstelbare": {
+      "sourceIds": [
+        "zoeken-notaris-be-832736a2"
       ],
       "status": "active"
     }

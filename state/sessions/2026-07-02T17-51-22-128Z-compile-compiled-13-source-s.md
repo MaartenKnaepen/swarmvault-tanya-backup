@@ -1,0 +1,362 @@
+---
+session_id: 2026-07-02T17-51-22-128Z-compile-compiled-13-source-s
+operation: compile
+title: Compiled 13 source(s)
+started_at: '2026-07-02T17:51:22.128Z'
+finished_at: '2026-07-02T17:53:52.647Z'
+duration_ms: 150519
+provider: local
+success: true
+related_source_ids:
+  - bouwinfo-f8d17c05
+  - candidates-5d9c2771
+  - default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3
+  - erfbelasting-b24e8569
+  - insights-1398dcf3
+  - myprivacy-dpgmedia-be-16f062da
+  - projects-acb5fd10
+  - schenkbelasting-da146a89
+  - seerr-media-requests-available-ef141443
+  - swarmvault-config-a48adfce
+  - swarmvault-schema-b10ad2d9
+  - wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4
+  - www-google-com-a1e017e6
+related_page_ids:
+  - 'source:bouwinfo-f8d17c05'
+  - 'source:candidates-5d9c2771'
+  - >-
+    source:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3
+  - >-
+    module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3
+  - 'source:erfbelasting-b24e8569'
+  - 'source:insights-1398dcf3'
+  - 'source:myprivacy-dpgmedia-be-16f062da'
+  - 'source:projects-acb5fd10'
+  - 'source:schenkbelasting-da146a89'
+  - 'source:seerr-media-requests-available-ef141443'
+  - 'source:swarmvault-config-a48adfce'
+  - 'source:swarmvault-schema-b10ad2d9'
+  - 'source:wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4'
+  - 'source:www-google-com-a1e017e6'
+  - 'concept:schenkbelasting'
+  - 'concept:schenking'
+  - 'concept:genieten'
+  - 'concept:goederen'
+  - 'concept:verschuldigd'
+  - 'concept:vindt'
+  - 'concept:2026'
+  - 'concept:bericht'
+  - 'concept:berichten'
+  - 'concept:categorie'
+  - 'concept:door'
+  - 'concept:laatste'
+  - 'concept:candidates'
+  - 'concept:candidate'
+  - 'concept:compile'
+  - 'concept:index'
+  - 'concept:pages'
+  - 'concept:stage'
+  - 'concept:erfbelasting'
+  - 'concept:nalatenschap'
+  - 'concept:wordt'
+  - 'concept:aangifte'
+  - 'concept:overledene'
+  - 'concept:berekend'
+  - 'concept:insights'
+  - 'concept:swarmvault'
+  - 'concept:applies'
+  - 'concept:authored'
+  - 'concept:during'
+  - 'concept:logo'
+  - 'concept:media'
+  - 'concept:projects'
+  - 'concept:build'
+  - 'concept:project'
+  - 'concept:rollups'
+  - 'concept:available'
+  - 'concept:download'
+  - 'concept:shows'
+  - 'concept:hermes'
+  - 'concept:seerr'
+  - 'concept:dune'
+  - 'concept:object'
+  - 'concept:keys'
+  - 'concept:local'
+  - 'concept:false'
+  - 'concept:agents'
+  - 'concept:heuristic'
+  - 'concept:should'
+  - 'concept:source'
+  - 'concept:vault'
+  - 'concept:claims'
+  - 'concept:concept'
+  - 'concept:domain'
+  - 'concept:verkeer'
+  - 'concept:augustus'
+  - 'concept:brug'
+  - 'concept:n446'
+  - 'concept:2027'
+  - 'concept:durmebrug'
+  - 'concept:feedback'
+  - 'concept:google'
+  - 'concept:hebt'
+  - 'concept:hier'
+  - 'concept:klikken'
+  - 'concept:problemen'
+  - 'entity:schenkbelasting-als'
+  - 'entity:wijziging'
+  - 'entity:familiale'
+  - 'entity:wanneer'
+  - 'entity:eigendom-van-een'
+  - 'entity:heeft-van-rijksinwoner'
+  - 'entity:verbouwen-categorie-topics-berichten-laatste'
+  - 'entity:ver-bouwdagboeken-wil'
+  - 'entity:dit'
+  - 'entity:door'
+  - 'entity:ruwbouw-categorie-topics-berichten-laatste'
+  - 'entity:tuin-categorie-topics-berichten-laatste'
+  - 'entity:candidates'
+  - 'entity:candidates-run'
+  - 'entity:erfbelasting'
+  - 'entity:vlaamse'
+  - 'entity:aangifte-van-nalatenschap'
+  - 'entity:vlaamse-belastingdienst'
+  - 'entity:insights'
+  - 'entity:projects-run'
+  - 'entity:seerr-media-requests-available-seerr'
+  - 'entity:hermes'
+  - 'entity:how'
+  - 'entity:ask-hermes'
+  - 'entity:dune-hermes'
+  - 'entity:seerr'
+  - 'entity:format'
+  - 'entity:top'
+  - 'entity:size'
+  - 'entity:nested'
+  - 'entity:schema'
+  - 'entity:preview'
+  - 'entity:schema-edit'
+  - 'entity:swarmvault'
+  - 'entity:vault-purpose-describe'
+  - 'entity:naming-conventions-prefer'
+  - 'entity:page-structure-rules-source'
+  - 'entity:categories-list'
+  - 'entity:durmebrug'
+  - 'entity:augustus-de'
+  - 'entity:waasmunster'
+  - 'entity:augustus-start'
+  - 'entity:agentschap-wegen'
+  - 'entity:verkeer'
+  - 'entity:google-zoeken'
+  - 'entity:google'
+  - >-
+    output:belgian-inheritance-tax-flanders-stocks-valuation-erfbelasting-aandelen
+  - >-
+    output:highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p
+  - 'output:what-is-this-vault-about'
+  - >-
+    memory:2026-06-30T20-22-45-745Z-write-highway-noise-reduction-guide-to-workspace
+  - 'graph:report'
+  - 'graph:share-card'
+  - 'graph:community:schenkbelasting-1'
+  - 'graph:community:candidates-2'
+  - 'graph:community:should-3'
+  - 'graph:community:2026-4'
+  - 'graph:community:available-5'
+  - 'graph:community:object-6'
+  - 'graph:community:verkeer-7'
+  - 'graph:community:feedback-8'
+  - >-
+    graph:community:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-9
+  - 'graph:community:logo-10'
+  - 'dashboard:dashboards/index'
+  - 'dashboard:dashboards/recent-sources'
+  - 'dashboard:dashboards/reading-log'
+  - 'dashboard:dashboards/timeline'
+  - 'dashboard:dashboards/source-sessions'
+  - 'dashboard:dashboards/source-guides'
+  - 'dashboard:dashboards/research-map'
+  - 'dashboard:dashboards/contradictions'
+  - 'dashboard:dashboards/open-questions'
+related_node_ids: []
+changed_pages:
+  - sources/bouwinfo-f8d17c05.md
+  - sources/candidates-5d9c2771.md
+  - >-
+    sources/default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3.md
+  - >-
+    code/default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3.md
+  - sources/erfbelasting-b24e8569.md
+  - sources/insights-1398dcf3.md
+  - sources/myprivacy-dpgmedia-be-16f062da.md
+  - sources/projects-acb5fd10.md
+  - sources/schenkbelasting-da146a89.md
+  - sources/seerr-media-requests-available-ef141443.md
+  - sources/swarmvault-config-a48adfce.md
+  - sources/swarmvault-schema-b10ad2d9.md
+  - sources/wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4.md
+  - sources/www-google-com-a1e017e6.md
+  - candidates/concepts/schenkbelasting.md
+  - candidates/concepts/schenking.md
+  - candidates/concepts/genieten.md
+  - candidates/concepts/goederen.md
+  - candidates/concepts/verschuldigd.md
+  - candidates/concepts/vindt.md
+  - concepts/2026.md
+  - concepts/bericht.md
+  - concepts/berichten.md
+  - concepts/categorie.md
+  - concepts/door.md
+  - concepts/laatste.md
+  - concepts/candidates.md
+  - concepts/candidate.md
+  - concepts/compile.md
+  - concepts/index.md
+  - concepts/pages.md
+  - concepts/stage.md
+  - concepts/erfbelasting.md
+  - concepts/nalatenschap.md
+  - concepts/wordt.md
+  - concepts/aangifte.md
+  - concepts/overledene.md
+  - concepts/berekend.md
+  - concepts/insights.md
+  - concepts/swarmvault.md
+  - concepts/applies.md
+  - concepts/authored.md
+  - concepts/during.md
+  - concepts/logo.md
+  - concepts/media.md
+  - concepts/projects.md
+  - concepts/build.md
+  - concepts/project.md
+  - concepts/rollups.md
+  - concepts/available.md
+  - concepts/download.md
+  - concepts/shows.md
+  - concepts/hermes.md
+  - concepts/seerr.md
+  - concepts/dune.md
+  - concepts/object.md
+  - concepts/keys.md
+  - concepts/local.md
+  - concepts/false.md
+  - concepts/agents.md
+  - concepts/heuristic.md
+  - concepts/should.md
+  - concepts/source.md
+  - concepts/vault.md
+  - concepts/claims.md
+  - concepts/concept.md
+  - concepts/domain.md
+  - concepts/verkeer.md
+  - concepts/augustus.md
+  - concepts/brug.md
+  - concepts/n446.md
+  - concepts/2027.md
+  - concepts/durmebrug.md
+  - concepts/feedback.md
+  - concepts/google.md
+  - concepts/hebt.md
+  - concepts/hier.md
+  - concepts/klikken.md
+  - concepts/problemen.md
+  - candidates/entities/schenkbelasting-als.md
+  - entities/wijziging.md
+  - entities/familiale.md
+  - candidates/entities/wanneer.md
+  - candidates/entities/eigendom-van-een.md
+  - candidates/entities/heeft-van-rijksinwoner.md
+  - entities/verbouwen-categorie-topics-berichten-laatste.md
+  - entities/ver-bouwdagboeken-wil.md
+  - entities/dit.md
+  - entities/door.md
+  - entities/ruwbouw-categorie-topics-berichten-laatste.md
+  - entities/tuin-categorie-topics-berichten-laatste.md
+  - entities/candidates.md
+  - entities/candidates-run.md
+  - entities/erfbelasting.md
+  - entities/vlaamse.md
+  - entities/aangifte-van-nalatenschap.md
+  - entities/vlaamse-belastingdienst.md
+  - entities/insights.md
+  - entities/projects-run.md
+  - entities/seerr-media-requests-available-seerr.md
+  - entities/hermes.md
+  - entities/how.md
+  - entities/ask-hermes.md
+  - entities/dune-hermes.md
+  - entities/seerr.md
+  - entities/format.md
+  - entities/top.md
+  - entities/size.md
+  - entities/nested.md
+  - entities/schema.md
+  - entities/preview.md
+  - entities/schema-edit.md
+  - entities/swarmvault.md
+  - entities/vault-purpose-describe.md
+  - entities/naming-conventions-prefer.md
+  - entities/page-structure-rules-source.md
+  - entities/categories-list.md
+  - entities/durmebrug.md
+  - entities/augustus-de.md
+  - entities/waasmunster.md
+  - entities/augustus-start.md
+  - entities/agentschap-wegen.md
+  - entities/verkeer.md
+  - entities/google-zoeken.md
+  - entities/google.md
+  - graph/report.md
+  - graph/share-card.md
+  - graph/communities/schenkbelasting-1.md
+  - graph/communities/candidates-2.md
+  - graph/communities/should-3.md
+  - graph/communities/2026-4.md
+  - graph/communities/available-5.md
+  - dashboards/recent-sources.md
+  - dashboards/reading-log.md
+  - dashboards/research-map.md
+  - dashboards/open-questions.md
+  - index.md
+  - sources/index.md
+  - entities/index.md
+  - dashboards/index.md
+  - candidates/index.md
+  - graph/index.md
+  - graph/communities/2026-3.md
+  - graph/communities/available-4.md
+  - graph/communities/candidates-1.md
+  - graph/communities/erfbelasting-5.md
+  - graph/communities/should-2.md
+  - >-
+    outputs/belgian-inheritance-tax-flanders-stocks-valuation-erfbelasting-aandelen.md
+  - >-
+    outputs/highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p.md
+  - outputs/what-is-this-vault-about.md
+citations: []
+---
+# Compile Session
+Title: Compiled 13 source(s)
+## Summary
+- provider=local
+- pages=150
+- dirty=1
+- clean=12
+- outputs=3
+- insights=0
+- memory=1
+- candidates=10
+- promoted=0
+- staged=false
+- postPassApproval=none
+- schema=00d64cfa850a
+- benchmark=ok
+## Related
+- Sources: bouwinfo-f8d17c05, candidates-5d9c2771, default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3, erfbelasting-b24e8569, insights-1398dcf3, myprivacy-dpgmedia-be-16f062da, projects-acb5fd10, schenkbelasting-da146a89, seerr-media-requests-available-ef141443, swarmvault-config-a48adfce, swarmvault-schema-b10ad2d9, wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4, www-google-com-a1e017e6
+- Pages: source:bouwinfo-f8d17c05, source:candidates-5d9c2771, source:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3, module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3, source:erfbelasting-b24e8569, source:insights-1398dcf3, source:myprivacy-dpgmedia-be-16f062da, source:projects-acb5fd10, source:schenkbelasting-da146a89, source:seerr-media-requests-available-ef141443, source:swarmvault-config-a48adfce, source:swarmvault-schema-b10ad2d9, source:wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4, source:www-google-com-a1e017e6, concept:schenkbelasting, concept:schenking, concept:genieten, concept:goederen, concept:verschuldigd, concept:vindt, concept:2026, concept:bericht, concept:berichten, concept:categorie, concept:door, concept:laatste, concept:candidates, concept:candidate, concept:compile, concept:index, concept:pages, concept:stage, concept:erfbelasting, concept:nalatenschap, concept:wordt, concept:aangifte, concept:overledene, concept:berekend, concept:insights, concept:swarmvault, concept:applies, concept:authored, concept:during, concept:logo, concept:media, concept:projects, concept:build, concept:project, concept:rollups, concept:available, concept:download, concept:shows, concept:hermes, concept:seerr, concept:dune, concept:object, concept:keys, concept:local, concept:false, concept:agents, concept:heuristic, concept:should, concept:source, concept:vault, concept:claims, concept:concept, concept:domain, concept:verkeer, concept:augustus, concept:brug, concept:n446, concept:2027, concept:durmebrug, concept:feedback, concept:google, concept:hebt, concept:hier, concept:klikken, concept:problemen, entity:schenkbelasting-als, entity:wijziging, entity:familiale, entity:wanneer, entity:eigendom-van-een, entity:heeft-van-rijksinwoner, entity:verbouwen-categorie-topics-berichten-laatste, entity:ver-bouwdagboeken-wil, entity:dit, entity:door, entity:ruwbouw-categorie-topics-berichten-laatste, entity:tuin-categorie-topics-berichten-laatste, entity:candidates, entity:candidates-run, entity:erfbelasting, entity:vlaamse, entity:aangifte-van-nalatenschap, entity:vlaamse-belastingdienst, entity:insights, entity:projects-run, entity:seerr-media-requests-available-seerr, entity:hermes, entity:how, entity:ask-hermes, entity:dune-hermes, entity:seerr, entity:format, entity:top, entity:size, entity:nested, entity:schema, entity:preview, entity:schema-edit, entity:swarmvault, entity:vault-purpose-describe, entity:naming-conventions-prefer, entity:page-structure-rules-source, entity:categories-list, entity:durmebrug, entity:augustus-de, entity:waasmunster, entity:augustus-start, entity:agentschap-wegen, entity:verkeer, entity:google-zoeken, entity:google, output:belgian-inheritance-tax-flanders-stocks-valuation-erfbelasting-aandelen, output:highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p, output:what-is-this-vault-about, memory:2026-06-30T20-22-45-745Z-write-highway-noise-reduction-guide-to-workspace, graph:report, graph:share-card, graph:community:schenkbelasting-1, graph:community:candidates-2, graph:community:should-3, graph:community:2026-4, graph:community:available-5, graph:community:object-6, graph:community:verkeer-7, graph:community:feedback-8, graph:community:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-9, graph:community:logo-10, dashboard:dashboards/index, dashboard:dashboards/recent-sources, dashboard:dashboards/reading-log, dashboard:dashboards/timeline, dashboard:dashboards/source-sessions, dashboard:dashboards/source-guides, dashboard:dashboards/research-map, dashboard:dashboards/contradictions, dashboard:dashboards/open-questions
+- Nodes: none
+- Changed pages: sources/bouwinfo-f8d17c05.md, sources/candidates-5d9c2771.md, sources/default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3.md, code/default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3.md, sources/erfbelasting-b24e8569.md, sources/insights-1398dcf3.md, sources/myprivacy-dpgmedia-be-16f062da.md, sources/projects-acb5fd10.md, sources/schenkbelasting-da146a89.md, sources/seerr-media-requests-available-ef141443.md, sources/swarmvault-config-a48adfce.md, sources/swarmvault-schema-b10ad2d9.md, sources/wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4.md, sources/www-google-com-a1e017e6.md, candidates/concepts/schenkbelasting.md, candidates/concepts/schenking.md, candidates/concepts/genieten.md, candidates/concepts/goederen.md, candidates/concepts/verschuldigd.md, candidates/concepts/vindt.md, concepts/2026.md, concepts/bericht.md, concepts/berichten.md, concepts/categorie.md, concepts/door.md, concepts/laatste.md, concepts/candidates.md, concepts/candidate.md, concepts/compile.md, concepts/index.md, concepts/pages.md, concepts/stage.md, concepts/erfbelasting.md, concepts/nalatenschap.md, concepts/wordt.md, concepts/aangifte.md, concepts/overledene.md, concepts/berekend.md, concepts/insights.md, concepts/swarmvault.md, concepts/applies.md, concepts/authored.md, concepts/during.md, concepts/logo.md, concepts/media.md, concepts/projects.md, concepts/build.md, concepts/project.md, concepts/rollups.md, concepts/available.md, concepts/download.md, concepts/shows.md, concepts/hermes.md, concepts/seerr.md, concepts/dune.md, concepts/object.md, concepts/keys.md, concepts/local.md, concepts/false.md, concepts/agents.md, concepts/heuristic.md, concepts/should.md, concepts/source.md, concepts/vault.md, concepts/claims.md, concepts/concept.md, concepts/domain.md, concepts/verkeer.md, concepts/augustus.md, concepts/brug.md, concepts/n446.md, concepts/2027.md, concepts/durmebrug.md, concepts/feedback.md, concepts/google.md, concepts/hebt.md, concepts/hier.md, concepts/klikken.md, concepts/problemen.md, candidates/entities/schenkbelasting-als.md, entities/wijziging.md, entities/familiale.md, candidates/entities/wanneer.md, candidates/entities/eigendom-van-een.md, candidates/entities/heeft-van-rijksinwoner.md, entities/verbouwen-categorie-topics-berichten-laatste.md, entities/ver-bouwdagboeken-wil.md, entities/dit.md, entities/door.md, entities/ruwbouw-categorie-topics-berichten-laatste.md, entities/tuin-categorie-topics-berichten-laatste.md, entities/candidates.md, entities/candidates-run.md, entities/erfbelasting.md, entities/vlaamse.md, entities/aangifte-van-nalatenschap.md, entities/vlaamse-belastingdienst.md, entities/insights.md, entities/projects-run.md, entities/seerr-media-requests-available-seerr.md, entities/hermes.md, entities/how.md, entities/ask-hermes.md, entities/dune-hermes.md, entities/seerr.md, entities/format.md, entities/top.md, entities/size.md, entities/nested.md, entities/schema.md, entities/preview.md, entities/schema-edit.md, entities/swarmvault.md, entities/vault-purpose-describe.md, entities/naming-conventions-prefer.md, entities/page-structure-rules-source.md, entities/categories-list.md, entities/durmebrug.md, entities/augustus-de.md, entities/waasmunster.md, entities/augustus-start.md, entities/agentschap-wegen.md, entities/verkeer.md, entities/google-zoeken.md, entities/google.md, graph/report.md, graph/share-card.md, graph/communities/schenkbelasting-1.md, graph/communities/candidates-2.md, graph/communities/should-3.md, graph/communities/2026-4.md, graph/communities/available-5.md, dashboards/recent-sources.md, dashboards/reading-log.md, dashboards/research-map.md, dashboards/open-questions.md, index.md, sources/index.md, entities/index.md, dashboards/index.md, candidates/index.md, graph/index.md, graph/communities/2026-3.md, graph/communities/available-4.md, graph/communities/candidates-1.md, graph/communities/erfbelasting-5.md, graph/communities/should-2.md, outputs/belgian-inheritance-tax-flanders-stocks-valuation-erfbelasting-aandelen.md, outputs/highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p.md, outputs/what-is-this-vault-about.md
+- Citations: none
+- Provider: local
+- Success: true

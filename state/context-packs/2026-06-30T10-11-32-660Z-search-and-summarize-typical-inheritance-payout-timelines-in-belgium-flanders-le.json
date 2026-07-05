@@ -1,0 +1,1019 @@
+{
+  "id": "2026-06-30T10-11-32-660Z-search-and-summarize-typical-inheritance-payout-timelines-in-belgium-flanders-le",
+  "title": "Context Pack: Search and summarize typical inheritance payout timelines in Belgium ...",
+  "goal": "Search and summarize typical inheritance payout timelines in Belgium (Flanders) — legal steps from death to money in heirs' bank accounts. Include aangifte van nalatenschap deadline, publicatie periode, akte van verdeling, and payout timing. Search in Dutch.",
+  "createdAt": "2026-06-30T10:11:32.660Z",
+  "format": "markdown",
+  "budgetTokens": 5000,
+  "estimatedTokens": 4981,
+  "artifactPath": "/mnt/data/knowledge-tanya/state/context-packs/2026-06-30T10-11-32-660Z-search-and-summarize-typical-inheritance-payout-timelines-in-belgium-flanders-le.json",
+  "markdownPath": "/mnt/data/knowledge-tanya/wiki/context/2026-06-30T10-11-32-660Z-search-and-summarize-typical-inheritance-payout-timelines-in-belgium-flanders-le.md",
+  "citations": [
+    "seerr-media-requests-available-ef141443",
+    "swarmvault-schema-b10ad2d9",
+    "insights-1398dcf3",
+    "candidates-5d9c2771",
+    "projects-acb5fd10",
+    "swarmvault-config-a48adfce",
+    "myprivacy-dpgmedia-be-16f062da"
+  ],
+  "relatedPageIds": [
+    "source:seerr-media-requests-available-ef141443",
+    "source:swarmvault-schema-b10ad2d9",
+    "source:insights-1398dcf3",
+    "source:candidates-5d9c2771",
+    "source:projects-acb5fd10",
+    "source:swarmvault-config-a48adfce",
+    "source:myprivacy-dpgmedia-be-16f062da",
+    "output:what-is-this-vault-about",
+    "graph:share-card",
+    "graph:report",
+    "graph:community:insights-5",
+    "graph:community:object-3",
+    "graph:community:candidates-1",
+    "concept:download",
+    "concept:dune",
+    "dashboard:dashboards/timeline",
+    "concept:during",
+    "concept:available",
+    "concept:shows",
+    "concept:hermes",
+    "concept:seerr",
+    "entity:seerr-media-requests-available-seerr",
+    "entity:hermes",
+    "entity:how",
+    "entity:ask-hermes",
+    "entity:dune-hermes",
+    "entity:seerr",
+    "concept:should"
+  ],
+  "relatedNodeIds": [
+    "source:seerr-media-requests-available-ef141443",
+    "concept:available",
+    "concept:download",
+    "concept:shows",
+    "concept:hermes",
+    "concept:seerr",
+    "concept:dune",
+    "entity:seerr-media-requests-available-seerr",
+    "entity:hermes",
+    "entity:how",
+    "entity:ask-hermes",
+    "entity:dune-hermes",
+    "entity:seerr",
+    "source:swarmvault-schema-b10ad2d9",
+    "concept:should",
+    "concept:source",
+    "concept:vault",
+    "concept:claims",
+    "concept:concept",
+    "concept:domain",
+    "entity:schema-edit",
+    "entity:swarmvault",
+    "entity:vault-purpose-describe",
+    "entity:naming-conventions-prefer",
+    "entity:page-structure-rules-source",
+    "entity:categories-list",
+    "source:insights-1398dcf3",
+    "concept:insights",
+    "concept:swarmvault",
+    "concept:applies",
+    "concept:authored",
+    "concept:compile",
+    "concept:during",
+    "entity:insights",
+    "source:candidates-5d9c2771",
+    "concept:candidates",
+    "concept:candidate",
+    "concept:index",
+    "concept:pages",
+    "concept:stage",
+    "entity:candidates",
+    "entity:candidates-run",
+    "source:projects-acb5fd10",
+    "concept:projects",
+    "concept:build",
+    "concept:project",
+    "concept:rollups",
+    "entity:projects-run",
+    "source:swarmvault-config-a48adfce",
+    "concept:object",
+    "concept:keys",
+    "concept:local",
+    "concept:false",
+    "concept:agents",
+    "concept:heuristic",
+    "entity:format",
+    "entity:top",
+    "entity:size",
+    "entity:nested",
+    "entity:schema",
+    "entity:preview",
+    "source:myprivacy-dpgmedia-be-16f062da",
+    "concept:logo",
+    "concept:media"
+  ],
+  "relatedSourceIds": [
+    "seerr-media-requests-available-ef141443",
+    "swarmvault-schema-b10ad2d9",
+    "insights-1398dcf3",
+    "candidates-5d9c2771",
+    "projects-acb5fd10",
+    "swarmvault-config-a48adfce",
+    "myprivacy-dpgmedia-be-16f062da"
+  ],
+  "graphQuery": {
+    "question": "Search and summarize typical inheritance payout timelines in Belgium (Flanders) — legal steps from death to money in heirs' bank accounts. Include aangifte van nalatenschap deadline, publicatie periode, akte van verdeling, and payout timing. Search in Dutch.",
+    "traversal": "bfs",
+    "seedNodeIds": [
+      "source:seerr-media-requests-available-ef141443",
+      "concept:available",
+      "concept:download",
+      "concept:shows",
+      "concept:hermes",
+      "concept:seerr",
+      "concept:dune",
+      "entity:seerr-media-requests-available-seerr",
+      "entity:hermes",
+      "entity:how",
+      "entity:ask-hermes",
+      "entity:dune-hermes",
+      "entity:seerr",
+      "source:swarmvault-schema-b10ad2d9",
+      "concept:should",
+      "concept:source",
+      "concept:vault",
+      "concept:claims",
+      "concept:concept",
+      "concept:domain",
+      "entity:schema-edit",
+      "entity:swarmvault",
+      "entity:vault-purpose-describe",
+      "entity:naming-conventions-prefer",
+      "entity:page-structure-rules-source",
+      "entity:categories-list",
+      "source:insights-1398dcf3",
+      "concept:insights",
+      "concept:swarmvault",
+      "concept:applies",
+      "concept:authored",
+      "concept:compile",
+      "concept:during",
+      "entity:insights",
+      "source:candidates-5d9c2771",
+      "concept:candidates",
+      "concept:candidate",
+      "concept:index",
+      "concept:pages",
+      "concept:stage",
+      "entity:candidates",
+      "entity:candidates-run",
+      "source:projects-acb5fd10",
+      "concept:projects",
+      "concept:build",
+      "concept:project",
+      "concept:rollups",
+      "entity:projects-run",
+      "source:swarmvault-config-a48adfce",
+      "concept:object",
+      "concept:keys",
+      "concept:local",
+      "concept:false",
+      "concept:agents",
+      "concept:heuristic",
+      "entity:format",
+      "entity:top",
+      "entity:size",
+      "entity:nested",
+      "entity:schema",
+      "entity:preview",
+      "source:myprivacy-dpgmedia-be-16f062da",
+      "concept:logo",
+      "concept:media"
+    ],
+    "seedPageIds": [
+      "source:seerr-media-requests-available-ef141443",
+      "source:swarmvault-schema-b10ad2d9",
+      "source:insights-1398dcf3",
+      "source:candidates-5d9c2771",
+      "source:projects-acb5fd10",
+      "source:swarmvault-config-a48adfce",
+      "source:myprivacy-dpgmedia-be-16f062da",
+      "output:what-is-this-vault-about",
+      "graph:share-card",
+      "graph:report",
+      "graph:community:insights-5",
+      "graph:community:object-3",
+      "graph:community:candidates-1",
+      "concept:download",
+      "concept:dune",
+      "dashboard:dashboards/timeline",
+      "concept:during"
+    ],
+    "visitedNodeIds": [
+      "source:seerr-media-requests-available-ef141443",
+      "concept:available",
+      "concept:download",
+      "concept:shows",
+      "concept:hermes",
+      "concept:seerr",
+      "concept:dune",
+      "entity:seerr-media-requests-available-seerr",
+      "entity:hermes",
+      "entity:how",
+      "entity:ask-hermes",
+      "entity:dune-hermes",
+      "entity:seerr",
+      "source:swarmvault-schema-b10ad2d9",
+      "concept:should"
+    ],
+    "visitedEdgeIds": [
+      "seerr-media-requests-available-ef141443->concept:available",
+      "seerr-media-requests-available-ef141443->concept:download",
+      "seerr-media-requests-available-ef141443->concept:shows",
+      "seerr-media-requests-available-ef141443->concept:hermes",
+      "seerr-media-requests-available-ef141443->concept:seerr",
+      "seerr-media-requests-available-ef141443->concept:dune",
+      "seerr-media-requests-available-ef141443->entity:seerr-media-requests-available-seerr",
+      "seerr-media-requests-available-ef141443->entity:hermes",
+      "seerr-media-requests-available-ef141443->entity:how",
+      "seerr-media-requests-available-ef141443->entity:ask-hermes",
+      "seerr-media-requests-available-ef141443->entity:dune-hermes",
+      "seerr-media-requests-available-ef141443->entity:seerr",
+      "similar-embed:dc892e6dedbdfc1f",
+      "swarmvault-schema-b10ad2d9->concept:should"
+    ],
+    "hyperedgeIds": [],
+    "pageIds": [
+      "source:seerr-media-requests-available-ef141443",
+      "source:swarmvault-schema-b10ad2d9",
+      "source:insights-1398dcf3",
+      "source:candidates-5d9c2771",
+      "source:projects-acb5fd10",
+      "source:swarmvault-config-a48adfce",
+      "source:myprivacy-dpgmedia-be-16f062da",
+      "output:what-is-this-vault-about",
+      "graph:share-card",
+      "graph:report",
+      "graph:community:insights-5",
+      "graph:community:object-3",
+      "graph:community:candidates-1",
+      "concept:download",
+      "concept:dune",
+      "dashboard:dashboards/timeline",
+      "concept:during",
+      "concept:available",
+      "concept:shows",
+      "concept:hermes",
+      "concept:seerr",
+      "entity:seerr-media-requests-available-seerr",
+      "entity:hermes",
+      "entity:how",
+      "entity:ask-hermes",
+      "entity:dune-hermes",
+      "entity:seerr",
+      "concept:should"
+    ],
+    "communities": [
+      "community:available-2",
+      "community:should-4"
+    ],
+    "matches": [
+      {
+        "type": "page",
+        "id": "dashboard:dashboards/timeline",
+        "label": "Timeline",
+        "score": 21.93
+      },
+      {
+        "type": "node",
+        "id": "concept:during",
+        "label": "during",
+        "score": 18.1
+      },
+      {
+        "type": "page",
+        "id": "concept:during",
+        "label": "during",
+        "score": 18.05
+      },
+      {
+        "type": "page",
+        "id": "source:seerr-media-requests-available-ef141443",
+        "label": "Seerr — Media Requests Available",
+        "score": 10
+      },
+      {
+        "type": "node",
+        "id": "source:seerr-media-requests-available-ef141443",
+        "label": "Seerr — Media Requests Available",
+        "score": 10
+      },
+      {
+        "type": "node",
+        "id": "entity:seerr-media-requests-available-seerr",
+        "label": "Seerr — Media Requests Available Seerr",
+        "score": 10
+      }
+    ],
+    "topMatchPagePath": "dashboards/timeline.md",
+    "summary": "Top matches: Timeline (page, score 21.93, page dashboards/timeline.md); during (node, score 18.1, page concepts/during.md); during (page, score 18.05, page concepts/during.md); Seerr — Media Requests Available (page, score 10, page sources/seerr-media-requests-available-ef141443.md); Seerr — Media Requests Available (node, score 10, page sources/seerr-media-requests-available-ef141443.md); Seerr — Media Requests Available Seerr (node, score 10, page entities/seerr-media-requests-available-seerr.md)\nSeeds: source:seerr-media-requests-available-ef141443, concept:available, concept:download, concept:shows, concept:hermes, concept:seerr, concept:dune, entity:seerr-media-requests-available-seerr, entity:hermes, entity:how, entity:ask-hermes, entity:dune-hermes, entity:seerr, source:swarmvault-schema-b10ad2d9, concept:should (+49 more)\nVisited nodes: 15\nVisited edges: 14\nTouched group patterns: 0\nCommunities: community:available-2, community:should-4\nPages: source:seerr-media-requests-available-ef141443, source:swarmvault-schema-b10ad2d9, source:insights-1398dcf3, source:candidates-5d9c2771, source:projects-acb5fd10, source:swarmvault-config-a48adfce, source:myprivacy-dpgmedia-be-16f062da, output:what-is-this-vault-about, graph:share-card, graph:report, graph:community:insights-5, graph:community:object-3, graph:community:candidates-1, concept:download, concept:dune, dashboard:dashboards/timeline, concept:during, concept:available, concept:shows, concept:hermes, concept:seerr, entity:seerr-media-requests-available-seerr, entity:hermes, entity:how, entity:ask-hermes, entity:dune-hermes, entity:seerr, concept:should",
+    "filterStats": {
+      "active": false,
+      "droppedEdges": 0,
+      "droppedNodes": 0,
+      "expandedRelations": []
+    }
+  },
+  "items": [
+    {
+      "id": "page:source:seerr-media-requests-available-ef141443",
+      "kind": "page",
+      "title": "Seerr — Media Requests Available",
+      "reason": "graph traversal page",
+      "score": 100,
+      "excerpt": "# Seerr — Media Requests Available Source ID: `seerr-media-requests-available-ef141443` Source Kind: `markdown` Source Path: `/mnt/data/knowledge-tanya/inbox/seerr-media-requests-available.md` ## Summary Seerr — Media Requests Available Seerr is now available via Hermes for requesting movies and TV shows! ## How it works - Ask Hermes to download a movie or show (e.g., \"download Dune\") - Hermes searches Seerr and shows you options with a picker - You pick what you want, and it gets requested to the *arr stack - Once downloaded, it becomes available in your media library ## Usage examples - \"download Dune\" - \"download The Bear\" - \"can you get me the movie Interstellar?\" ## What's available - Movies and TV shows via TMDB search - Season selection for TV shows - 4K request support ## Concepts - [[concepts/available|available]]: Frequently referenced concept in Seerr — Media Requests Available. - [[concepts/download|download]]: Frequently referenced concept in Seerr — Media Requests Available. - [[concepts/shows|shows]]: Frequently referenced concept in Seerr — Media Requests Available. - [[concepts/hermes|hermes]]: Frequently referenced concept in Seerr — Media Requests Available. - [[concepts/seerr|seerr]]: Frequently referenced concept in Seerr — Media Requests Available. - [[concepts/dune|dune]]: Frequently referenced concept in Seerr — Media Requests Available. ## Entities - [[entities/seerr-media-requests-available-seerr|Seerr — Media Requests Available Seerr]]: Named entity mentioned in Seerr — Media Requests Available. - [[entities/hermes|Hermes]]: Named entity mentioned in Seerr — Media Requests Available. - [[entities/how|How]]: Named entity mentioned in Seerr — Media Requests Available. - [[entities/ask-hermes|Ask Hermes]]: Named entity mentioned in Seerr — Media Requests Available. - [[entities/dune-hermes|Dune\") - Hermes]]: Named entity mentioned in Seerr — Media Requests Available. - [[entities/seerr|Seerr]]: Named entity mentioned in Seerr — Media Requests Available. ## Claims - Seerr — Media Requests Available Seerr is now available via Hermes for requesting movies and TV shows! [source:seerr-media-requests-available-ef141443] - ## How it works - A...",
+      "path": "sources/seerr-media-requests-available-ef141443.md",
+      "pageId": "source:seerr-media-requests-available-ef141443",
+      "sourceIds": [
+        "seerr-media-requests-available-ef141443"
+      ],
+      "pageIds": [
+        "source:seerr-media-requests-available-ef141443"
+      ],
+      "nodeIds": [
+        "source:seerr-media-requests-available-ef141443",
+        "concept:available",
+        "concept:download",
+        "concept:shows",
+        "concept:hermes",
+        "concept:seerr",
+        "concept:dune",
+        "entity:seerr-media-requests-available-seerr",
+        "entity:hermes",
+        "entity:how",
+        "entity:ask-hermes",
+        "entity:dune-hermes",
+        "entity:seerr"
+      ],
+      "edgeIds": [],
+      "freshness": "fresh",
+      "confidence": 1,
+      "estimatedTokens": 619
+    },
+    {
+      "id": "page:source:swarmvault-schema-b10ad2d9",
+      "kind": "page",
+      "title": "SwarmVault Schema",
+      "reason": "graph traversal page",
+      "score": 99,
+      "excerpt": "# SwarmVault Schema Source ID: `swarmvault-schema-b10ad2d9` Source Kind: `markdown` Source Path: `/mnt/data/knowledge-tanya/swarmvault.schema.md` Source Class: `first_party` ## Summary SwarmVault Schema Edit this file to teach SwarmVault how this vault should be organized and maintained. ## Vault Purpose - Describe the domain this vault covers. - Note the intended audience and the kinds of questions the vault should answer well. ## Concepts - [[concepts/should|should]]: Frequently referenced concept in SwarmVault Schema. - [[concepts/source|source]]: Frequently referenced concept in SwarmVault Schema. - [[concepts/vault|vault]]: Frequently referenced concept in SwarmVault Schema. - [[concepts/claims|claims]]: Frequently referenced concept in SwarmVault Schema. - [[concepts/concept|concept]]: Frequently referenced concept in SwarmVault Schema. - [[concepts/domain|domain]]: Frequently referenced concept in SwarmVault Schema. ## Entities - [[entities/schema-edit|Schema Edit]]: Named entity mentioned in SwarmVault Schema. - [[entities/swarmvault|SwarmVault]]: Named entity mentioned in SwarmVault Schema. - [[entities/vault-purpose-describe|Vault Purpose - Describe]]: Named entity mentioned in SwarmVault Schema. - [[entities/naming-conventions-prefer|Naming Conventions - Prefer]]: Named entity mentioned in SwarmVault Schema. - [[entities/page-structure-rules-source|Page Structure Rules - Source]]: Named entity mentioned in SwarmVault Schema. - [[entities/categories-list|Categories - List]]: Named entity mentioned in SwarmVault Schema. ## Claims - SwarmVault Schema Edit this file to teach SwarmVault how this vault should be organized and maintained. [source:swarmvault-schema-b10ad2d9] - ## Vault Purpose - Describe the domain this vault covers. [source:swarmvault-schema-b10ad2d9] - - Note the intended audience and the kinds of questions the vault should answer well. [source:swarmvault-schema-b10ad2d9] - ## Naming Conventions - Prefer stable, descriptive page titles. [source:swarmvault-schema-b10ad2d9] ## Questions - How does should relate to SwarmVault Schema? - How does source relate to SwarmVault Schema? - How does vault relate to SwarmVault Schema? ## Related Outp...",
+      "path": "sources/swarmvault-schema-b10ad2d9.md",
+      "pageId": "source:swarmvault-schema-b10ad2d9",
+      "sourceIds": [
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "pageIds": [
+        "source:swarmvault-schema-b10ad2d9"
+      ],
+      "nodeIds": [
+        "source:swarmvault-schema-b10ad2d9",
+        "concept:should",
+        "concept:source",
+        "concept:vault",
+        "concept:claims",
+        "concept:concept",
+        "concept:domain",
+        "entity:schema-edit",
+        "entity:swarmvault",
+        "entity:vault-purpose-describe",
+        "entity:naming-conventions-prefer",
+        "entity:page-structure-rules-source",
+        "entity:categories-list"
+      ],
+      "edgeIds": [],
+      "freshness": "fresh",
+      "confidence": 1,
+      "estimatedTokens": 606
+    },
+    {
+      "id": "page:source:insights-1398dcf3",
+      "kind": "page",
+      "title": "Insights",
+      "reason": "graph traversal page",
+      "score": 98,
+      "excerpt": "# Insights Source ID: `insights-1398dcf3` Source Kind: `markdown` Source Path: `/mnt/data/knowledge-tanya/wiki/insights/index.md` Source Class: `first_party` ## Summary title: Insights tags: index, insights # Insights Human-authored notes live here. - SwarmVault can read these pages during compile and query. - SwarmVault can stage insight-page updates through guided sessions, but it never applies them without review. ## Concepts - [[concepts/insights|insights]]: Frequently referenced concept in Insights. - [[concepts/swarmvault|swarmvault]]: Frequently referenced concept in Insights. - [[concepts/applies|applies]]: Frequently referenced concept in Insights. - [[concepts/authored|authored]]: Frequently referenced concept in Insights. - [[concepts/compile|compile]]: Frequently referenced concept in Insights. - [[concepts/during|during]]: Frequently referenced concept in Insights. ## Entities - [[entities/insights|Insights]]: Named entity mentioned in Insights. ## Claims - title: Insights tags: index, insights # Insights Human-authored notes live here. [source:insights-1398dcf3] - - SwarmVault can read these pages during compile and query. [source:insights-1398dcf3] - - SwarmVault can stage insight-page updates through guided sessions, but it never applies them without review. [source:insights-1398dcf3] ## Questions - How does insights relate to Insights? - How does swarmvault relate to Insights? - How does applies relate to Insights?",
+      "path": "sources/insights-1398dcf3.md",
+      "pageId": "source:insights-1398dcf3",
+      "sourceIds": [
+        "insights-1398dcf3"
+      ],
+      "pageIds": [
+        "source:insights-1398dcf3"
+      ],
+      "nodeIds": [
+        "source:insights-1398dcf3",
+        "concept:insights",
+        "concept:swarmvault",
+        "concept:applies",
+        "concept:authored",
+        "concept:compile",
+        "concept:during",
+        "entity:insights"
+      ],
+      "edgeIds": [],
+      "freshness": "fresh",
+      "confidence": 1,
+      "estimatedTokens": 410
+    },
+    {
+      "id": "page:source:candidates-5d9c2771",
+      "kind": "page",
+      "title": "Candidates",
+      "reason": "graph traversal page",
+      "score": 97,
+      "excerpt": "# Candidates Source ID: `candidates-5d9c2771` Source Kind: `markdown` Source Path: `/mnt/data/knowledge-tanya/wiki/candidates/index.md` Source Class: `first_party` ## Summary title: Candidates tags: index, candidates # Candidates - Run swarmvault compile to stage candidate pages. ## Concepts - [[concepts/candidates|candidates]]: Frequently referenced concept in Candidates. - [[concepts/candidate|candidate]]: Frequently referenced concept in Candidates. - [[concepts/compile|compile]]: Frequently referenced concept in Candidates. - [[concepts/index|index]]: Frequently referenced concept in Candidates. - [[concepts/pages|pages]]: Frequently referenced concept in Candidates. - [[concepts/stage|stage]]: Frequently referenced concept in Candidates. ## Entities - [[entities/candidates|Candidates]]: Named entity mentioned in Candidates. - [[entities/candidates-run|Candidates - Run]]: Named entity mentioned in Candidates. ## Claims - title: Candidates tags: index, candidates # Candidates - Run swarmvault compile to stage candidate pages. [source:candidates-5d9c2771] ## Questions - How does candidates relate to Candidates? - How does candidate relate to Candidates? - How does compile relate to Candidates?",
+      "path": "sources/candidates-5d9c2771.md",
+      "pageId": "source:candidates-5d9c2771",
+      "sourceIds": [
+        "candidates-5d9c2771"
+      ],
+      "pageIds": [
+        "source:candidates-5d9c2771"
+      ],
+      "nodeIds": [
+        "source:candidates-5d9c2771",
+        "concept:candidates",
+        "concept:candidate",
+        "concept:compile",
+        "concept:index",
+        "concept:pages",
+        "concept:stage",
+        "entity:candidates",
+        "entity:candidates-run"
+      ],
+      "edgeIds": [],
+      "freshness": "fresh",
+      "confidence": 1,
+      "estimatedTokens": 352
+    },
+    {
+      "id": "page:source:projects-acb5fd10",
+      "kind": "page",
+      "title": "Projects",
+      "reason": "graph traversal page",
+      "score": 96,
+      "excerpt": "# Projects Source ID: `projects-acb5fd10` Source Kind: `markdown` Source Path: `/mnt/data/knowledge-tanya/wiki/projects/index.md` Source Class: `first_party` ## Summary title: Projects tags: index, projects # Projects - Run swarmvault compile to build project rollups. ## Concepts - [[concepts/projects|projects]]: Frequently referenced concept in Projects. - [[concepts/build|build]]: Frequently referenced concept in Projects. - [[concepts/compile|compile]]: Frequently referenced concept in Projects. - [[concepts/index|index]]: Frequently referenced concept in Projects. - [[concepts/project|project]]: Frequently referenced concept in Projects. - [[concepts/rollups|rollups]]: Frequently referenced concept in Projects. ## Entities - [[entities/projects-run|Projects - Run]]: Named entity mentioned in Projects. ## Claims - title: Projects tags: index, projects # Projects - Run swarmvault compile to build project rollups. [source:projects-acb5fd10] ## Questions - How does projects relate to Projects? - How does build relate to Projects? - How does compile relate to Projects?",
+      "path": "sources/projects-acb5fd10.md",
+      "pageId": "source:projects-acb5fd10",
+      "sourceIds": [
+        "projects-acb5fd10"
+      ],
+      "pageIds": [
+        "source:projects-acb5fd10"
+      ],
+      "nodeIds": [
+        "source:projects-acb5fd10",
+        "concept:projects",
+        "concept:build",
+        "concept:compile",
+        "concept:index",
+        "concept:project",
+        "concept:rollups",
+        "entity:projects-run"
+      ],
+      "edgeIds": [],
+      "freshness": "fresh",
+      "confidence": 1,
+      "estimatedTokens": 318
+    },
+    {
+      "id": "page:source:swarmvault-config-a48adfce",
+      "kind": "page",
+      "title": "swarmvault.config",
+      "reason": "graph traversal page",
+      "score": 95,
+      "excerpt": "# swarmvault.config Source ID: `swarmvault-config-a48adfce` Source Kind: `data` Source Path: `/mnt/data/knowledge-tanya/swarmvault.config.json` Source Class: `first_party` ## Source Details - format: json - top level type: object - top level size: 13 - nested depth: 4 ## Summary swarmvault.config Format: JSON Top-level: object Size: 13 Nested depth: 4 ## Schema - workspace: object (5 keys) - providers: object (1 keys) - tasks: object (5 keys) - viewer: object (1 keys) - profile: object (6 keys) - projects: object (0 keys) - agents: array (0 items) - schedules: object (0 keys) - orchestration: object (3 keys) - benchmark: object (3 keys) - repoAnalysis: object (2 keys) - graphSinks: object (0 keys) - retrieval: object (4 keys) ## Preview json { \"workspace\": { \"rawDir\": \"raw\", \"wikiDir\": \"wiki\", \"stateDir\": \"state\", \"agentDir\": \"agent\", \"inboxDir\": \"inbox\" }, \"providers\": { \"local\": { \"type\": \"heuristic\", \"model\": \"heuristic-v1\", \"capabilities\": [ \"chat\", \"structured\", \"vision\", \"local\" ] } }, \"tasks\": { \"compileProvider\": \"local\", \"queryProvider\": \"local\", \"lintProvider\": \"local\", \"visionProvider\": \"local\", \"imageProvider\": \"local\" }, \"viewer\": { \"port\": 4123 }, \"profile\": { \"presets\": [], \"dashboardPack\": \"default\", \"guidedSessionMode\": \"insights_only\", \"dataviewBlocks\": false, \"guidedIngestDefault\": false, \"deepLintDefault\": false }, \"projects\": {}, \"agents\": [], … ## Concepts - [[concepts/object|object]]: Frequently referenced concept in swarmvault.config. - [[concepts/keys|keys]]: Frequently referenced concept in swarmvault.config. - [[concepts/local|local]]: Frequently referenced concept in swarmvault.config. - [[concepts/false|false]]: Frequently referenced concept in swarmvault.config. - [[concepts/agents|agents]]: Frequently referenced concept in swarmvault.config. - [[concepts/heuristic|heuristic]]: Frequently referenced concept in swarmvault.config. ## Entities - [[entities/format|Format:]]: Named entity mentioned in swarmvault.config. - [[entities/top|Top-]]: Named entity mentioned in swarmvault.config. - [[entities/size|Size:]]: Named entity mentioned in swarmvault.config. - [[entities/nested|Nested]]: Named entity mentioned in swarmvault.config. -...",
+      "path": "sources/swarmvault-config-a48adfce.md",
+      "pageId": "source:swarmvault-config-a48adfce",
+      "sourceIds": [
+        "swarmvault-config-a48adfce"
+      ],
+      "pageIds": [
+        "source:swarmvault-config-a48adfce"
+      ],
+      "nodeIds": [
+        "source:swarmvault-config-a48adfce",
+        "concept:object",
+        "concept:keys",
+        "concept:local",
+        "concept:false",
+        "concept:agents",
+        "concept:heuristic",
+        "entity:format",
+        "entity:top",
+        "entity:size",
+        "entity:nested",
+        "entity:schema",
+        "entity:preview"
+      ],
+      "edgeIds": [],
+      "freshness": "fresh",
+      "confidence": 1,
+      "estimatedTokens": 606
+    },
+    {
+      "id": "page:source:myprivacy-dpgmedia-be-16f062da",
+      "kind": "page",
+      "title": "myprivacy.dpgmedia.be",
+      "reason": "graph traversal page",
+      "score": 94,
+      "excerpt": "# myprivacy.dpgmedia.be Source ID: `myprivacy-dpgmedia-be-16f062da` Source Kind: `markdown` Source URL: https://myprivacy.dpgmedia.be/consent?siteKey=31ykozebrulp6xor&callbackUrl=https%3A%2F%2Fwww.spaargids.be%2Fsparen%2Facceptnew%3FredirectUri%3D%252Fsparen%252Frente%252Ffamilielening-rente-2025.html&isLoggedIn=false ## Summary dpg media logo ## Concepts - [[concepts/logo|logo]]: Frequently referenced concept in myprivacy.dpgmedia.be. - [[concepts/media|media]]: Frequently referenced concept in myprivacy.dpgmedia.be. ## Entities - None detected. ## Claims - dpg media logo [source:myprivacy-dpgmedia-be-16f062da] ## Questions - How does logo relate to myprivacy.dpgmedia.be? - How does media relate to myprivacy.dpgmedia.be?",
+      "path": "sources/myprivacy-dpgmedia-be-16f062da.md",
+      "pageId": "source:myprivacy-dpgmedia-be-16f062da",
+      "sourceIds": [
+        "myprivacy-dpgmedia-be-16f062da"
+      ],
+      "pageIds": [
+        "source:myprivacy-dpgmedia-be-16f062da"
+      ],
+      "nodeIds": [
+        "source:myprivacy-dpgmedia-be-16f062da",
+        "concept:logo",
+        "concept:media"
+      ],
+      "edgeIds": [],
+      "freshness": "fresh",
+      "confidence": 1,
+      "estimatedTokens": 242
+    },
+    {
+      "id": "page:output:what-is-this-vault-about",
+      "kind": "page",
+      "title": "What is this vault about?",
+      "reason": "graph traversal page",
+      "score": 93,
+      "excerpt": "# What is this vault about? Question: What is this vault about? Relevant pages: - SwarmVault Schema (sources/swarmvault-schema-b10ad2d9.md) - vault (candidates/concepts/vault.md) - Vault Purpose - Describe (candidates/entities/vault-purpose-describe.md) - SwarmVault (candidates/entities/swarmvault.md) - domain (candidates/concepts/domain.md) # SwarmVault Schema # SwarmVault Schema Source ID: `swarmvault-schema-b10ad2d9` Source Kind: `markdown` Source Path: `/mnt/data/knowledge-tanya/swarmvault.schema.md` Source Class: `first_party` ## Summary SwarmVault Schema Edit this file to teach SwarmVault how this vault should be organized and maintained. ## Vault Purpose - Describe the domain this vault covers. - Note the intended audience and the kinds of questions the vault should answer well. ## Concepts - [[concepts/should|should]]: Frequently referenced concept in SwarmVault Schema. - [[concepts/source|source]]: Frequently referenced concept in SwarmVault Schema. - [[concepts/vault|vault]]: Frequently referenced concept in SwarmVault Schema. - [[concepts/claims|claims]]: Frequently referenced concept in SwarmVault Schema. - [[concepts/concept|concept]]: Frequently referenced concept in SwarmVault Schema. - [[concepts/domain|domain]]: Frequently referenced concept in SwarmVault Schema. ## Entities - [[entities/schema-edit|Schema Edit]]: Named entity mentioned in SwarmVault Schema. - [[entities/swarmvault|SwarmVault]]: Named entity mentioned in SwarmVault Schema. - [[entities/vault-purpose-describe|Vault Purpose - Describe]]: Named entity men... # vault # vault ## Summary Frequently referenced concept in SwarmVault Schema. ## Seen In - [[sources/swarmvault-schema-b10ad2d9|SwarmVault Schema]] ## Source Claims - SwarmVault Schema Edit this file to teach SwarmVault how this vault should be organized and maintained. [source:swarmvault-schema-b10ad2d9] - ## Vault Purpose - Describe the domain this vault covers. [source:swarmvault-schema-b10ad2d9] - - Note the intended audience and the kinds of questions the vault should answer well. [source:swarmvault-schema-b10ad2d9] # Vault Purpose - Describe # Vault Purpose - Describe ## Summary Named entity mentioned in SwarmVault Sc...",
+      "path": "outputs/what-is-this-vault-about.md",
+      "pageId": "output:what-is-this-vault-about",
+      "sourceIds": [
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "pageIds": [
+        "output:what-is-this-vault-about"
+      ],
+      "nodeIds": [
+        "source:swarmvault-schema-b10ad2d9",
+        "concept:should",
+        "concept:source",
+        "concept:vault",
+        "concept:claims",
+        "concept:concept",
+        "concept:domain",
+        "entity:schema-edit",
+        "entity:swarmvault",
+        "entity:vault-purpose-describe",
+        "entity:naming-conventions-prefer",
+        "entity:page-structure-rules-source",
+        "entity:categories-list"
+      ],
+      "edgeIds": [],
+      "freshness": "fresh",
+      "confidence": 0.74,
+      "estimatedTokens": 607
+    },
+    {
+      "id": "page:graph:share-card",
+      "kind": "page",
+      "title": "Share Card",
+      "reason": "graph traversal page",
+      "score": 92,
+      "excerpt": "# SwarmVault Share Card > A local-first map of knowledge-tanya: 7 sources compiled into 64 graph nodes and 74 wiki pages. ## Snapshot - Sources: 7 - Wiki pages: 74 - Graph nodes: 64 - Graph edges: 64 - Communities: 6 - First-party focus: 48 nodes, 50 edges, 48 pages ## Highlights - Top hubs: compile (21), index (14), object (12), keys (12), and local (12) - Bridge nodes: Insights, Candidates, and Projects - Surprising link: Candidates semantically_similar_to Insights. it crosses communities community:candidates-1 and community:insights-5; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts... - Surprising link: Insights semantically_similar_to Projects. it crosses communities community:insights-5 and community:candidates-1; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts... - Surprising link: swarmvault.config semantically_similar_to SwarmVault Schema. it crosses communities community:object-3 and community:should-4; it spans different canonical pages; a bridge node is involved; This link is inferred from shared tags. ## Gaps To Strengthen - Non-first-party material accounts for 25.0% of graph nodes. ## Ask Next - Why does Insights connect multiple communities in the vault? - Why does Candidates connect multiple communities in the vault? - Why does Projects connect multiple communities in the vault? ## Share Post ```text I scanned knowledge-tanya with SwarmVault: 7 sources -> 74 wiki pages, 64 graph nodes, 64 edges. Top hubs: compile, index, and object. Most surprising link: Candidates semantically_similar_to Insights. Everything stays local. Try: npm install -g @swarmvaultai/cli && swarmvault quickstart ./your-repo ``` ## Reproduce ```bash npm install -g @swarmvaultai/cli swarmvault quickstart ./your-repo swarmvault graph share --post ```",
+      "path": "graph/share-card.md",
+      "pageId": "graph:share-card",
+      "sourceIds": [
+        "candidates-5d9c2771",
+        "insights-1398dcf3",
+        "myprivacy-dpgmedia-be-16f062da",
+        "projects-acb5fd10",
+        "seerr-media-requests-available-ef141443",
+        "swarmvault-config-a48adfce",
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "pageIds": [
+        "graph:share-card"
+      ],
+      "nodeIds": [
+        "concept:compile",
+        "concept:index",
+        "concept:object",
+        "concept:keys",
+        "concept:local",
+        "source:insights-1398dcf3",
+        "source:candidates-5d9c2771",
+        "source:projects-acb5fd10"
+      ],
+      "edgeIds": [],
+      "freshness": "fresh",
+      "confidence": 1,
+      "estimatedTokens": 555
+    },
+    {
+      "id": "page:graph:report",
+      "kind": "page",
+      "title": "Graph Report",
+      "reason": "graph traversal page",
+      "score": 91,
+      "excerpt": "# Graph Report ## Overview - Nodes: 64 - Edges: 64 - Pages: 74 - Communities: 6 - Default Focus: First-party nodes/pages (48 nodes, 50 edges, 48 pages). ## Repo Quality Warnings - Non-first-party material accounts for 25.0% of graph nodes. ## Source Class Breakdown - First-party: 5 sources, 48 pages, 48 nodes - Third-party: 0 sources, 0 pages, 0 nodes - Resources: 0 sources, 0 pages, 0 nodes - Generated: 0 sources, 0 pages, 0 nodes ## Benchmark Summary - Generated At: 2026-06-29T23:58:05.733Z - Status: Fresh - Naive Corpus Tokens: 665 - Final Context Tokens: 2150 - Unique Nodes Considered: 24 - Reduction Ratio: -223.3% - Questions: 3 ### Benchmark By Source Class | Class | Sources | Pages | Nodes | God Nodes | Naive Tokens | Guided Tokens | Reduction | | ----- | ------- | ----- | ----- | --------- | ------------ | ------------- | --------- | | First-party | 5 | 48 | 48 | 26 | 665 | 1716 | -158.0% | | Third-party | 0 | 0 | 0 | 0 | 0 | 0 | 0.0% | | Resource | 0 | 0 | 0 | 0 | 0 | 0 | 0.0% | | Generated | 0 | 0 | 0 | 0 | 0 | 0 | 0.0% | ## Top God Nodes - [[concepts/compile|compile]] (concept, degree=21, bridge=1) - [[concepts/index|index]] (concept, degree=14, bridge=0) - [[concepts/object|object]] (concept, degree=12, bridge=0) - [[concepts/keys|keys]] (concept, degree=12, bridge=0) - [[concepts/local|local]] (concept, degree=12, bridge=0) - [[concepts/false|false]] (concept, degree=12, bridge=0) - [[concepts/agents|agents]] (concept, degree=12, bridge=0) - [[concepts/heuristic|heuristic]] (concept, degree=12, bridge=0) - [[concepts/should|should]] (concept, degree=12, bridge=0) - [[concepts/source|source]] (concept, degree=12, bridge=0) - [[concepts/vault|vault]] (concept, degree=12, bridge=0) - [[concepts/claims|claims]] (concept, degree=12, bridge=0) - [[concepts/concept|concept]] (concept, degree=12, bridge=0) - [[concepts/domain|domain]] (concept, degree=12, bridge=0) - [[entities/format|Format:]] (entity, degree=12, bridge=0) - [[entities/top|Top-]] (entity, degree=12, bridge=0) - [[entities/size|Size:]] (entity, degree=12, bridge=0) - [[entities/nested|Nested]] (entity, degree=12, bridge=0) - [[entities/schema|Schema -]] (entity, degree=12, bridge=0) - [[...",
+      "path": "graph/report.md",
+      "pageId": "graph:report",
+      "sourceIds": [
+        "candidates-5d9c2771",
+        "insights-1398dcf3",
+        "projects-acb5fd10",
+        "swarmvault-config-a48adfce",
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "pageIds": [
+        "graph:report"
+      ],
+      "nodeIds": [
+        "concept:compile",
+        "concept:index",
+        "concept:object",
+        "concept:keys",
+        "concept:local",
+        "concept:false",
+        "concept:agents",
+        "concept:heuristic",
+        "concept:should",
+        "concept:source",
+        "concept:vault",
+        "concept:claims",
+        "concept:concept",
+        "concept:domain",
+        "entity:format",
+        "entity:top",
+        "entity:size",
+        "entity:nested",
+        "entity:schema",
+        "entity:preview",
+        "source:insights-1398dcf3",
+        "source:candidates-5d9c2771",
+        "source:projects-acb5fd10",
+        "source:swarmvault-config-a48adfce",
+        "source:swarmvault-schema-b10ad2d9",
+        "concept:insights",
+        "concept:swarmvault",
+        "concept:candidate"
+      ],
+      "edgeIds": [],
+      "freshness": "fresh",
+      "confidence": 1,
+      "estimatedTokens": 615
+    },
+    {
+      "id": "page:dashboard:dashboards/timeline",
+      "kind": "page",
+      "title": "Timeline",
+      "reason": "graph traversal page",
+      "score": 85,
+      "excerpt": "# Timeline - No timeline-aware sources yet.",
+      "path": "dashboards/timeline.md",
+      "pageId": "dashboard:dashboards/timeline",
+      "sourceIds": [],
+      "pageIds": [
+        "dashboard:dashboards/timeline"
+      ],
+      "nodeIds": [],
+      "edgeIds": [],
+      "freshness": "fresh",
+      "confidence": 1,
+      "estimatedTokens": 54
+    }
+  ],
+  "omittedItems": [
+    {
+      "id": "page:graph:community:insights-5",
+      "kind": "page",
+      "title": "Community: insights",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 259
+    },
+    {
+      "id": "page:graph:community:object-3",
+      "kind": "page",
+      "title": "Community: object",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 366
+    },
+    {
+      "id": "page:graph:community:candidates-1",
+      "kind": "page",
+      "title": "Community: candidates",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 420
+    },
+    {
+      "id": "page:concept:download",
+      "kind": "page",
+      "title": "download",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 233
+    },
+    {
+      "id": "page:concept:dune",
+      "kind": "page",
+      "title": "dune",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 229
+    },
+    {
+      "id": "page:concept:during",
+      "kind": "page",
+      "title": "during",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 97
+    },
+    {
+      "id": "page:concept:available",
+      "kind": "page",
+      "title": "available",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 272
+    },
+    {
+      "id": "page:concept:shows",
+      "kind": "page",
+      "title": "shows",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 268
+    },
+    {
+      "id": "page:concept:hermes",
+      "kind": "page",
+      "title": "hermes",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 269
+    },
+    {
+      "id": "page:concept:seerr",
+      "kind": "page",
+      "title": "seerr",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 268
+    },
+    {
+      "id": "page:entity:seerr-media-requests-available-seerr",
+      "kind": "page",
+      "title": "Seerr — Media Requests Available Seerr",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 165
+    },
+    {
+      "id": "page:entity:hermes",
+      "kind": "page",
+      "title": "Hermes",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 267
+    },
+    {
+      "id": "page:entity:how",
+      "kind": "page",
+      "title": "How",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 264
+    },
+    {
+      "id": "page:entity:ask-hermes",
+      "kind": "page",
+      "title": "Ask Hermes",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 233
+    },
+    {
+      "id": "node:source:seerr-media-requests-available-ef141443",
+      "kind": "node",
+      "title": "Seerr — Media Requests Available",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 88
+    },
+    {
+      "id": "node:concept:available",
+      "kind": "node",
+      "title": "available",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 72
+    },
+    {
+      "id": "page:entity:dune-hermes",
+      "kind": "page",
+      "title": "Dune\") - Hermes",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 236
+    },
+    {
+      "id": "node:concept:download",
+      "kind": "node",
+      "title": "download",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 71
+    },
+    {
+      "id": "page:entity:seerr",
+      "kind": "page",
+      "title": "Seerr",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 266
+    },
+    {
+      "id": "page:concept:should",
+      "kind": "page",
+      "title": "should",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 171
+    },
+    {
+      "id": "node:concept:shows",
+      "kind": "node",
+      "title": "shows",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 69
+    },
+    {
+      "id": "node:concept:hermes",
+      "kind": "node",
+      "title": "hermes",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 69
+    },
+    {
+      "id": "node:concept:seerr",
+      "kind": "node",
+      "title": "seerr",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 69
+    },
+    {
+      "id": "node:concept:dune",
+      "kind": "node",
+      "title": "dune",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 68
+    },
+    {
+      "id": "edge:seerr-media-requests-available-ef141443->concept:available",
+      "kind": "edge",
+      "title": "Seerr — Media Requests Available mentions available",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 100
+    },
+    {
+      "id": "edge:seerr-media-requests-available-ef141443->concept:download",
+      "kind": "edge",
+      "title": "Seerr — Media Requests Available mentions download",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 99
+    },
+    {
+      "id": "node:entity:seerr-media-requests-available-seerr",
+      "kind": "node",
+      "title": "Seerr — Media Requests Available Seerr",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 92
+    },
+    {
+      "id": "node:entity:hermes",
+      "kind": "node",
+      "title": "Hermes",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 69
+    },
+    {
+      "id": "edge:seerr-media-requests-available-ef141443->concept:shows",
+      "kind": "edge",
+      "title": "Seerr — Media Requests Available mentions shows",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 98
+    },
+    {
+      "id": "node:entity:how",
+      "kind": "node",
+      "title": "How",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 66
+    },
+    {
+      "id": "edge:seerr-media-requests-available-ef141443->concept:hermes",
+      "kind": "edge",
+      "title": "Seerr — Media Requests Available mentions hermes",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 98
+    },
+    {
+      "id": "node:entity:ask-hermes",
+      "kind": "node",
+      "title": "Ask Hermes",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 72
+    },
+    {
+      "id": "edge:seerr-media-requests-available-ef141443->concept:seerr",
+      "kind": "edge",
+      "title": "Seerr — Media Requests Available mentions seerr",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 98
+    },
+    {
+      "id": "node:entity:dune-hermes",
+      "kind": "node",
+      "title": "Dune\") - Hermes",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 73
+    },
+    {
+      "id": "edge:seerr-media-requests-available-ef141443->concept:dune",
+      "kind": "edge",
+      "title": "Seerr — Media Requests Available mentions dune",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 97
+    },
+    {
+      "id": "node:entity:seerr",
+      "kind": "node",
+      "title": "Seerr",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 68
+    },
+    {
+      "id": "edge:seerr-media-requests-available-ef141443->entity:seerr-media-requests-available-seerr",
+      "kind": "edge",
+      "title": "Seerr — Media Requests Available mentions Seerr — Media Requests Available Seerr",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 113
+    },
+    {
+      "id": "edge:seerr-media-requests-available-ef141443->entity:hermes",
+      "kind": "edge",
+      "title": "Seerr — Media Requests Available mentions Hermes",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 98
+    },
+    {
+      "id": "node:source:swarmvault-schema-b10ad2d9",
+      "kind": "node",
+      "title": "SwarmVault Schema",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 74
+    },
+    {
+      "id": "edge:seerr-media-requests-available-ef141443->entity:how",
+      "kind": "edge",
+      "title": "Seerr — Media Requests Available mentions How",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 96
+    },
+    {
+      "id": "node:concept:should",
+      "kind": "node",
+      "title": "should",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 66
+    },
+    {
+      "id": "edge:seerr-media-requests-available-ef141443->entity:ask-hermes",
+      "kind": "edge",
+      "title": "Seerr — Media Requests Available mentions Ask Hermes",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 100
+    },
+    {
+      "id": "edge:seerr-media-requests-available-ef141443->entity:dune-hermes",
+      "kind": "edge",
+      "title": "Seerr — Media Requests Available mentions Dune\") - Hermes",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 101
+    },
+    {
+      "id": "edge:seerr-media-requests-available-ef141443->entity:seerr",
+      "kind": "edge",
+      "title": "Seerr — Media Requests Available mentions Seerr",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 97
+    },
+    {
+      "id": "edge:similar-embed:dc892e6dedbdfc1f",
+      "kind": "edge",
+      "title": "swarmvault.config semantically_similar_to SwarmVault Schema",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 108
+    },
+    {
+      "id": "edge:swarmvault-schema-b10ad2d9->concept:should",
+      "kind": "edge",
+      "title": "SwarmVault Schema mentions should",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 84
+    }
+  ]
+}

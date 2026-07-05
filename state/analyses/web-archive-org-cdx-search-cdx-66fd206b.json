@@ -1,0 +1,16 @@
+{
+  "analysisVersion": 8,
+  "sourceId": "web-archive-org-cdx-search-cdx-66fd206b",
+  "sourceHash": "66fd206b6eb48f9552bae13016df0e722f67977eb8a2330ca070513524896e7e",
+  "semanticHash": "66fd206b6eb48f9552bae13016df0e722f67977eb8a2330ca070513524896e7e",
+  "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+  "title": "web.archive.org/cdx/search/cdx",
+  "summary": "Imported data source. Text extraction is not yet available for this source.",
+  "concepts": [],
+  "entities": [],
+  "claims": [],
+  "questions": [],
+  "tags": [],
+  "rationales": [],
+  "producedAt": "2026-07-03T23:35:19.572Z"
+}

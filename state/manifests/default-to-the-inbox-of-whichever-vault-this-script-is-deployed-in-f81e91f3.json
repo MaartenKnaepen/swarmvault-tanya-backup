@@ -1,0 +1,19 @@
+{
+  "sourceId": "default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
+  "title": "Default to the inbox of whichever vault this script is deployed in",
+  "originType": "file",
+  "sourceKind": "code",
+  "sourceClass": "first_party",
+  "language": "python",
+  "originalPath": "/mnt/data/knowledge-tanya/scripts/sv_remember.py",
+  "repoRelativePath": "scripts/sv_remember.py",
+  "storedPath": "raw/sources/default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3.py",
+  "extractedTextPath": "state/extracts/default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3.md",
+  "extractedMetadataPath": "state/extracts/default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3.json",
+  "extractionHash": "b473d2d9e6ee7507ae4074985c4c9d1b92574524fa74829070794931553411cb",
+  "mimeType": "application/octet-stream",
+  "contentHash": "f81e91f3e4a64f06e8847dc2b72fa5039c6167b690ee160502a4481720619774",
+  "semanticHash": "f81e91f3e4a64f06e8847dc2b72fa5039c6167b690ee160502a4481720619774",
+  "createdAt": "2026-06-30T20:23:20.387Z",
+  "updatedAt": "2026-06-30T20:23:20.387Z"
+}

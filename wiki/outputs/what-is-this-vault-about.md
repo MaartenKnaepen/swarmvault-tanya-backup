@@ -30,7 +30,7 @@ freshness: fresh
 status: active
 confidence: 0.74
 created_at: '2026-05-24T15:39:42.001Z'
-updated_at: '2026-05-24T15:39:42.001Z'
+updated_at: '2026-06-30T20:25:37.409Z'
 compiled_from:
   - swarmvault-schema-b10ad2d9
 managed_by: system
@@ -70,7 +70,7 @@ question: What is this vault about?
 output_format: markdown
 output_assets: []
 decay_score: 1
-last_confirmed_at: '2026-06-28T01:56:44.477Z'
+last_confirmed_at: '2026-07-05T02:00:38.931Z'
 ---
 # What is this vault about?
 

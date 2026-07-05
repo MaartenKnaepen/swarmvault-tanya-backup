@@ -17,12 +17,18 @@ freshness: fresh
 status: active
 confidence: 0.65
 created_at: '2026-05-22T19:04:20.088Z'
-updated_at: '2026-06-28T01:56:43.318Z'
+updated_at: '2026-07-05T02:00:36.507Z'
 compiled_from:
   - swarmvault-schema-b10ad2d9
 managed_by: system
 backlinks:
   - 'source:swarmvault-schema-b10ad2d9'
+  - >-
+    output:highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p
+  - >-
+    output:what-are-the-legal-requirements-for-selling-a-rental-property-in-belgium-flander
+  - >-
+    output:what-does-the-nbb-nationale-bank-van-belgi-page-about-the-centrale-voor-krediete
   - 'output:what-is-this-vault-about'
 schema_hash: 00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2
 source_hashes:
@@ -30,7 +36,7 @@ source_hashes:
 source_semantic_hashes:
   swarmvault-schema-b10ad2d9: 9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19
 decay_score: 1
-last_confirmed_at: '2026-06-28T01:56:44.477Z'
+last_confirmed_at: '2026-07-05T02:00:38.931Z'
 ---
 # claims
 
@@ -47,5 +53,8 @@ Frequently referenced concept in SwarmVault Schema.
 
 ## Related Outputs
 
+- [[outputs/highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p|Highway noise reduction garden Belgium Flanders practical guide noise barriers plants regulations costs dB reduction]]
+- [[outputs/what-are-the-legal-requirements-for-selling-a-rental-property-in-belgium-flander|What are the legal requirements for selling a rental property in Belgium Flanders 2025-2026?]]
+- [[outputs/what-does-the-nbb-nationale-bank-van-belgi-page-about-the-centrale-voor-krediete|What does the NBB (Nationale Bank van België) page about the Centrale voor Kredieten aan Particulieren (CKP) say about how it works and what information it contains about consumer credit?]]
 - [[outputs/what-is-this-vault-about|What is this vault about?]]
 

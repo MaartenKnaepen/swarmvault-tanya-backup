@@ -1,0 +1,116 @@
+{
+  "analysisVersion": 8,
+  "sourceId": "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4",
+  "sourceHash": "a003e9d4630abb475441db204ecfbad38ed02341cf4202bd5c944b39c549696a",
+  "semanticHash": "eedccd1d19f2c19a1e8ae013b81609b3e26bcb1361cc29bad8be43cea8c0f858",
+  "extractionHash": "ef756eb0b633c8bd72edf6b3654baaacd754424d3e25261a85c888acd2a2710a",
+  "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+  "title": "Wegbeheerder van Vlaamse gewest- en snelwegen",
+  "summary": "Groen licht voor vernieuwing Durmebrug (N446): werken starten op 13 augustus De werken aan de Durmebrug (N446) in Waasmunster, de laatste schakel in de fietsverbinding langs de N446, kunnen eindelijk starten. Op donderdagochtend 13 augustus start het Agentschap Wegen en Verkeer met de aanleg van de nieuwe brug, die tegen het najaar van 2027 klaar zal zijn. Doorgaand verkeer op langere afstand moet omrijden via de E17 en de N41 via Hamme of de N47 via Zele.",
+  "concepts": [
+    {
+      "id": "concept:verkeer",
+      "name": "verkeer",
+      "description": "Frequently referenced concept in Wegbeheerder van Vlaamse gewest- en snelwegen."
+    },
+    {
+      "id": "concept:augustus",
+      "name": "augustus",
+      "description": "Frequently referenced concept in Wegbeheerder van Vlaamse gewest- en snelwegen."
+    },
+    {
+      "id": "concept:brug",
+      "name": "brug",
+      "description": "Frequently referenced concept in Wegbeheerder van Vlaamse gewest- en snelwegen."
+    },
+    {
+      "id": "concept:n446",
+      "name": "n446",
+      "description": "Frequently referenced concept in Wegbeheerder van Vlaamse gewest- en snelwegen."
+    },
+    {
+      "id": "concept:2027",
+      "name": "2027",
+      "description": "Frequently referenced concept in Wegbeheerder van Vlaamse gewest- en snelwegen."
+    },
+    {
+      "id": "concept:durmebrug",
+      "name": "durmebrug",
+      "description": "Frequently referenced concept in Wegbeheerder van Vlaamse gewest- en snelwegen."
+    }
+  ],
+  "entities": [
+    {
+      "id": "entity:durmebrug",
+      "name": "Durmebrug",
+      "description": "Named entity mentioned in Wegbeheerder van Vlaamse gewest- en snelwegen."
+    },
+    {
+      "id": "entity:augustus-de",
+      "name": "augustus De",
+      "description": "Named entity mentioned in Wegbeheerder van Vlaamse gewest- en snelwegen."
+    },
+    {
+      "id": "entity:waasmunster",
+      "name": "Waasmunster,",
+      "description": "Named entity mentioned in Wegbeheerder van Vlaamse gewest- en snelwegen."
+    },
+    {
+      "id": "entity:augustus-start",
+      "name": "augustus start",
+      "description": "Named entity mentioned in Wegbeheerder van Vlaamse gewest- en snelwegen."
+    },
+    {
+      "id": "entity:agentschap-wegen",
+      "name": "Agentschap Wegen",
+      "description": "Named entity mentioned in Wegbeheerder van Vlaamse gewest- en snelwegen."
+    },
+    {
+      "id": "entity:verkeer",
+      "name": "Verkeer",
+      "description": "Named entity mentioned in Wegbeheerder van Vlaamse gewest- en snelwegen."
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim:wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4:1",
+      "text": "Groen licht voor vernieuwing Durmebrug (N446): werken starten op 13 augustus De werken aan de Durmebrug (N446) in Waasmunster, de laatste schakel in de fietsverbinding langs de N446, kunnen eindelijk starten.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
+    },
+    {
+      "id": "claim:wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4:2",
+      "text": "Op donderdagochtend 13 augustus start het Agentschap Wegen en Verkeer met de aanleg van de nieuwe brug, die tegen het najaar van 2027 klaar zal zijn.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
+    },
+    {
+      "id": "claim:wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4:3",
+      "text": "Doorgaand verkeer op langere afstand moet omrijden via de E17 en de N41 via Hamme of de N47 via Zele.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
+    },
+    {
+      "id": "claim:wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4:4",
+      "text": "Lokaal verkeer kan nog tot eind april 2027 beurtelings over de bestaande brug.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
+    }
+  ],
+  "questions": [
+    "How does verkeer relate to Wegbeheerder van Vlaamse gewest- en snelwegen?",
+    "How does augustus relate to Wegbeheerder van Vlaamse gewest- en snelwegen?",
+    "How does brug relate to Wegbeheerder van Vlaamse gewest- en snelwegen?"
+  ],
+  "tags": [],
+  "rationales": [],
+  "producedAt": "2026-06-30T20:23:20.539Z"
+}

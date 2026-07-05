@@ -1,0 +1,116 @@
+{
+  "analysisVersion": 8,
+  "sourceId": "home-kepler-938b95f3",
+  "sourceHash": "938b95f3fff37c889eb0c165b9cb53c5aca4a6579bf63296543f2e15f7ec40f6",
+  "semanticHash": "e35503d6434f23ccdcf06919fdf6a2052f0c1b11748ca25f731fc10cee87c09c",
+  "extractionHash": "d013dd955b967da061276b0c7b22c175de805aa585b1e52f41338444467845af",
+  "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+  "title": "Home - Kepler",
+  "summary": "De naam die wetenschappers geven aan nieuw ontdekte planeten waar leven mogelijk is. Een naam die we ook onszelf toe-eigenen. Want, net als die wetenschappers, speuren wij naar een nieuwe horizon om mensen een eigen (t)huis te geven.",
+  "concepts": [
+    {
+      "id": "concept:voor",
+      "name": "voor",
+      "description": "Frequently referenced concept in Home - Kepler."
+    },
+    {
+      "id": "concept:bouwen",
+      "name": "bouwen",
+      "description": "Frequently referenced concept in Home - Kepler."
+    },
+    {
+      "id": "concept:jouw",
+      "name": "jouw",
+      "description": "Frequently referenced concept in Home - Kepler."
+    },
+    {
+      "id": "concept:naar",
+      "name": "naar",
+      "description": "Frequently referenced concept in Home - Kepler."
+    },
+    {
+      "id": "concept:nieuwe",
+      "name": "nieuwe",
+      "description": "Frequently referenced concept in Home - Kepler."
+    },
+    {
+      "id": "concept:productieproces",
+      "name": "productieproces",
+      "description": "Frequently referenced concept in Home - Kepler."
+    }
+  ],
+  "entities": [
+    {
+      "id": "entity:mensen",
+      "name": "mensen",
+      "description": "Named entity mentioned in Home - Kepler."
+    },
+    {
+      "id": "entity:vlak-van-technologie",
+      "name": "vlak van technologie",
+      "description": "Named entity mentioned in Home - Kepler."
+    },
+    {
+      "id": "entity:mensen",
+      "name": "mensen.",
+      "description": "Named entity mentioned in Home - Kepler."
+    },
+    {
+      "id": "entity:ontdek",
+      "name": "Ontdek",
+      "description": "Named entity mentioned in Home - Kepler."
+    },
+    {
+      "id": "entity:hoogwaardig",
+      "name": "Hoogwaardig",
+      "description": "Named entity mentioned in Home - Kepler."
+    },
+    {
+      "id": "entity:we",
+      "name": "We",
+      "description": "Named entity mentioned in Home - Kepler."
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim:home-kepler-938b95f3:1",
+      "text": "De naam die wetenschappers geven aan nieuw ontdekte planeten waar leven mogelijk is.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "positive",
+      "citation": "home-kepler-938b95f3"
+    },
+    {
+      "id": "claim:home-kepler-938b95f3:2",
+      "text": "Een naam die we ook onszelf toe-eigenen.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "home-kepler-938b95f3"
+    },
+    {
+      "id": "claim:home-kepler-938b95f3:3",
+      "text": "Want, net als die wetenschappers, speuren wij naar een nieuwe horizon om mensen een eigen (t)huis te geven.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "home-kepler-938b95f3"
+    },
+    {
+      "id": "claim:home-kepler-938b95f3:4",
+      "text": "Een kwalitatieve woning bouwen is vandaag complex en amper betaalbaar.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "positive",
+      "citation": "home-kepler-938b95f3"
+    }
+  ],
+  "questions": [
+    "How does voor relate to Home - Kepler?",
+    "How does bouwen relate to Home - Kepler?",
+    "How does jouw relate to Home - Kepler?"
+  ],
+  "tags": [],
+  "rationales": [],
+  "producedAt": "2026-07-03T23:35:19.539Z"
+}

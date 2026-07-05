@@ -1,0 +1,1 @@
+Als je problemen hebt met de toegang tot Google Zoeken, kun je�[hier klikken](/search?q=kepler+diepenbeek+mizerikstraat+prijs+kavel&sca_esv=79889ebc8ced77a2&ucbcb=1&ie=UTF-8&emsg=SG_REL&sei=vn9HasLaNvy4kdUP0Y_ysAo) of�[feedback](https://support.google.com/websearch) verzenden.

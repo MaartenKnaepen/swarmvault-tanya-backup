@@ -1,0 +1,72 @@
+{
+  "analysisVersion": 8,
+  "sourceId": "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11",
+  "sourceHash": "6f7c1e114c02adfd2f7011f119cff597f2319362c4d9751ea4a6ca5bd68ff2f3",
+  "semanticHash": "d12b1daec6aa3ec63ebcf23055350a2608b22c3d83e2b36b9a0e7759dc2f48fa",
+  "extractionHash": "302f8920e7db8193dcd55368eb694e995633aab4a52550f764c46b01882fcce5",
+  "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+  "title": "House for sale - diepenbeek (3590) - Immoweb",
+  "summary": "· 117 3590 Diepenbeek Ground floor house with lots of expansion possibilities on ALBERT",
+  "concepts": [
+    {
+      "id": "concept:3590",
+      "name": "3590",
+      "description": "Frequently referenced concept in House for sale - diepenbeek (3590) - Immoweb."
+    },
+    {
+      "id": "concept:albert",
+      "name": "albert",
+      "description": "Frequently referenced concept in House for sale - diepenbeek (3590) - Immoweb."
+    },
+    {
+      "id": "concept:diepenbeek",
+      "name": "diepenbeek",
+      "description": "Frequently referenced concept in House for sale - diepenbeek (3590) - Immoweb."
+    },
+    {
+      "id": "concept:expansion",
+      "name": "expansion",
+      "description": "Frequently referenced concept in House for sale - diepenbeek (3590) - Immoweb."
+    },
+    {
+      "id": "concept:floor",
+      "name": "floor",
+      "description": "Frequently referenced concept in House for sale - diepenbeek (3590) - Immoweb."
+    },
+    {
+      "id": "concept:ground",
+      "name": "ground",
+      "description": "Frequently referenced concept in House for sale - diepenbeek (3590) - Immoweb."
+    }
+  ],
+  "entities": [
+    {
+      "id": "entity:diepenbeek-ground",
+      "name": "Diepenbeek Ground",
+      "description": "Named entity mentioned in House for sale - diepenbeek (3590) - Immoweb."
+    },
+    {
+      "id": "entity:albert",
+      "name": "ALBERT",
+      "description": "Named entity mentioned in House for sale - diepenbeek (3590) - Immoweb."
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim:house-for-sale-diepenbeek-3590-immoweb-6f7c1e11:1",
+      "text": "· 117 3590 Diepenbeek Ground floor house with lots of expansion possibilities on ALBERT",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
+    }
+  ],
+  "questions": [
+    "How does 3590 relate to House for sale - diepenbeek (3590) - Immoweb?",
+    "How does albert relate to House for sale - diepenbeek (3590) - Immoweb?",
+    "How does diepenbeek relate to House for sale - diepenbeek (3590) - Immoweb?"
+  ],
+  "tags": [],
+  "rationales": [],
+  "producedAt": "2026-07-03T23:35:19.548Z"
+}

@@ -16,6 +16,13 @@
         "vision",
         "local"
       ]
+    },
+    "ollama-embed": {
+      "type": "openai",
+      "baseUrl": "http://localhost:11434/v1",
+      "apiKey": "ollama",
+      "model": "hf.co/jinaai/jina-embeddings-v5-text-small-retrieval-GGUF:Q4_K_M",
+      "capabilities": ["embeddings"]
     }
   },
   "tasks": {
@@ -23,10 +30,11 @@
     "queryProvider": "local",
     "lintProvider": "local",
     "visionProvider": "local",
-    "imageProvider": "local"
+    "imageProvider": "local",
+    "embeddingProvider": "ollama-embed"
   },
   "viewer": {
-    "port": 4123
+    "port": 4124
   },
   "profile": {
     "presets": [],

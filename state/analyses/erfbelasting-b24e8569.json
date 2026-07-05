@@ -1,0 +1,116 @@
+{
+  "analysisVersion": 8,
+  "sourceId": "erfbelasting-b24e8569",
+  "sourceHash": "b24e8569994fd6e36dfb9d723cde4866acc8eb59355130fb0c2935bc7ef258d5",
+  "semanticHash": "a98141e022fec13c05396570c335351d5280ea0a14b15d508fddbae5f544d67e",
+  "extractionHash": "be99a3f7bdcc4f8b9642e1cf4697c18505631bdc3d993f0b82534f93027870cb",
+  "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+  "title": "Erfbelasting",
+  "summary": "Gedaan met laden. U bevindt zich op: Erfbelasting De erfbelasting is de Vlaamse belasting op nalatenschappen. Deze wordt berekend op de waarde van de goederen die de overledene nalaat.",
+  "concepts": [
+    {
+      "id": "concept:erfbelasting",
+      "name": "erfbelasting",
+      "description": "Frequently referenced concept in Erfbelasting."
+    },
+    {
+      "id": "concept:nalatenschap",
+      "name": "nalatenschap",
+      "description": "Frequently referenced concept in Erfbelasting."
+    },
+    {
+      "id": "concept:wordt",
+      "name": "wordt",
+      "description": "Frequently referenced concept in Erfbelasting."
+    },
+    {
+      "id": "concept:aangifte",
+      "name": "aangifte",
+      "description": "Frequently referenced concept in Erfbelasting."
+    },
+    {
+      "id": "concept:overledene",
+      "name": "overledene",
+      "description": "Frequently referenced concept in Erfbelasting."
+    },
+    {
+      "id": "concept:berekend",
+      "name": "berekend",
+      "description": "Frequently referenced concept in Erfbelasting."
+    }
+  ],
+  "entities": [
+    {
+      "id": "entity:erfbelasting",
+      "name": "Erfbelasting",
+      "description": "Named entity mentioned in Erfbelasting."
+    },
+    {
+      "id": "entity:vlaamse",
+      "name": "Vlaamse",
+      "description": "Named entity mentioned in Erfbelasting."
+    },
+    {
+      "id": "entity:aangifte-van-nalatenschap",
+      "name": "aangifte van nalatenschap",
+      "description": "Named entity mentioned in Erfbelasting."
+    },
+    {
+      "id": "entity:vlaamse-belastingdienst",
+      "name": "Vlaamse Belastingdienst",
+      "description": "Named entity mentioned in Erfbelasting."
+    },
+    {
+      "id": "entity:wijziging",
+      "name": "Wijziging",
+      "description": "Named entity mentioned in Erfbelasting."
+    },
+    {
+      "id": "entity:familiale",
+      "name": "Familiale",
+      "description": "Named entity mentioned in Erfbelasting."
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim:erfbelasting-b24e8569:1",
+      "text": "Gedaan met laden.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "erfbelasting-b24e8569"
+    },
+    {
+      "id": "claim:erfbelasting-b24e8569:2",
+      "text": "U bevindt zich op: Erfbelasting De erfbelasting is de Vlaamse belasting op nalatenschappen.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "positive",
+      "citation": "erfbelasting-b24e8569"
+    },
+    {
+      "id": "claim:erfbelasting-b24e8569:3",
+      "text": "Deze wordt berekend op de waarde van de goederen die de overledene nalaat.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "erfbelasting-b24e8569"
+    },
+    {
+      "id": "claim:erfbelasting-b24e8569:4",
+      "text": "Als erfgenaam moet u een aangifte van nalatenschap indienen bij de Vlaamse Belastingdienst , op basis waarvan de erfbelasting wordt berekend.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "erfbelasting-b24e8569"
+    }
+  ],
+  "questions": [
+    "How does erfbelasting relate to Erfbelasting?",
+    "How does nalatenschap relate to Erfbelasting?",
+    "How does wordt relate to Erfbelasting?"
+  ],
+  "tags": [],
+  "rationales": [],
+  "producedAt": "2026-06-30T20:23:20.516Z"
+}

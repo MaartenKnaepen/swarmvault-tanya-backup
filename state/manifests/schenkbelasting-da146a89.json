@@ -1,0 +1,16 @@
+{
+  "sourceId": "schenkbelasting-da146a89",
+  "title": "Schenkbelasting",
+  "originType": "url",
+  "sourceKind": "markdown",
+  "url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/registratiebelasting/schenkbelasting",
+  "storedPath": "raw/sources/schenkbelasting-da146a89.md",
+  "extractedTextPath": "state/extracts/schenkbelasting-da146a89.md",
+  "extractedMetadataPath": "state/extracts/schenkbelasting-da146a89.json",
+  "extractionHash": "2bc3fe43511ca4527a8f7f47191d60127b17571115c0e467a77280da534985dc",
+  "mimeType": "text/markdown",
+  "contentHash": "da146a89c0491a1bd65f497f38f305c20fe6df7c9d30c8dd2bc709b212917b50",
+  "semanticHash": "69e03a7fa46084aa8608c8a9b41ce8dce4fc79a0687245fe4a8f8a7c0964506e",
+  "createdAt": "2026-07-02T17:43:34.006Z",
+  "updatedAt": "2026-07-02T17:43:34.006Z"
+}

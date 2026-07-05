@@ -1,0 +1,75 @@
+{
+  "analysisVersion": 8,
+  "sourceId": "dovendi-domain-for-sale-2d012a62",
+  "sourceHash": "2d012a627e60a5036843f6dfe80d9a8d90bc4fbf971fd493d4c94909f4b158eb",
+  "semanticHash": "0979f70eeaa4787b525071dcbea4382b89c0ef9609e35b6559cae5ba7e232116",
+  "extractionHash": "5e5bbcaf2aa01527e749a9d51a126f68f30f8628a10d4d263490fd83e932838a",
+  "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+  "title": "Dovendi - Domain for sale",
+  "summary": "About Dovendi Dovendi brings buyers and sellers together. We manage over 250,000 international domain names and mediate in the sale of these names with the aim of achieving a good deal for all parties.",
+  "concepts": [
+    {
+      "id": "concept:dovendi",
+      "name": "dovendi",
+      "description": "Frequently referenced concept in Dovendi - Domain for sale."
+    },
+    {
+      "id": "concept:names",
+      "name": "names",
+      "description": "Frequently referenced concept in Dovendi - Domain for sale."
+    },
+    {
+      "id": "concept:about",
+      "name": "about",
+      "description": "Frequently referenced concept in Dovendi - Domain for sale."
+    },
+    {
+      "id": "concept:achieving",
+      "name": "achieving",
+      "description": "Frequently referenced concept in Dovendi - Domain for sale."
+    },
+    {
+      "id": "concept:brings",
+      "name": "brings",
+      "description": "Frequently referenced concept in Dovendi - Domain for sale."
+    },
+    {
+      "id": "concept:buyers",
+      "name": "buyers",
+      "description": "Frequently referenced concept in Dovendi - Domain for sale."
+    }
+  ],
+  "entities": [
+    {
+      "id": "entity:dovendi-dovendi",
+      "name": "Dovendi Dovendi",
+      "description": "Named entity mentioned in Dovendi - Domain for sale."
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim:dovendi-domain-for-sale-2d012a62:1",
+      "text": "About Dovendi Dovendi brings buyers and sellers together.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "dovendi-domain-for-sale-2d012a62"
+    },
+    {
+      "id": "claim:dovendi-domain-for-sale-2d012a62:2",
+      "text": "We manage over 250,000 international domain names and mediate in the sale of these names with the aim of achieving a good deal for all parties.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "dovendi-domain-for-sale-2d012a62"
+    }
+  ],
+  "questions": [
+    "How does dovendi relate to Dovendi - Domain for sale?",
+    "How does names relate to Dovendi - Domain for sale?",
+    "How does about relate to Dovendi - Domain for sale?"
+  ],
+  "tags": [],
+  "rationales": [],
+  "producedAt": "2026-07-03T23:35:19.545Z"
+}

@@ -1,0 +1,16 @@
+{
+  "sourceId": "www-google-com-30f04687",
+  "title": "www.google.com",
+  "originType": "url",
+  "sourceKind": "markdown",
+  "url": "https://www.google.com/search?q=Mizerikstraat+33+3590+Diepenbeek+bouwgrond+kavel+prijs&ucbcb=1",
+  "storedPath": "raw/sources/www-google-com-30f04687.md",
+  "extractedTextPath": "state/extracts/www-google-com-30f04687.md",
+  "extractedMetadataPath": "state/extracts/www-google-com-30f04687.json",
+  "extractionHash": "50f3677a5ea98c95e2b74a1626ef79c45e7889d1562f9ccb3bd6ec71f9078a8f",
+  "mimeType": "text/markdown",
+  "contentHash": "30f04687c1d527e5c10aea72676c2a63bdf79d73afeac946f1ea4bf33da02c3f",
+  "semanticHash": "18277a004df4387da4eb5d673fb5c46def1a602cf0822be41aa8d334c5306585",
+  "createdAt": "2026-07-03T09:21:50.354Z",
+  "updatedAt": "2026-07-03T09:21:50.354Z"
+}

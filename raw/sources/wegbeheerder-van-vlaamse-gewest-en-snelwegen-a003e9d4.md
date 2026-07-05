@@ -1,0 +1,3 @@
+### Groen licht voor vernieuwing Durmebrug (N446): werken starten op 13 augustus
+
+De werken aan de Durmebrug (N446) in Waasmunster, de laatste schakel in de fietsverbinding langs de N446, kunnen eindelijk starten. Op donderdagochtend 13 augustus start het Agentschap Wegen en Verkeer met de aanleg van de nieuwe brug, die tegen het najaar van 2027 klaar zal zijn. Doorgaand verkeer op langere afstand moet omrijden via de E17 en de N41 via Hamme of de N47 via Zele. Lokaal verkeer kan nog tot eind april 2027 beurtelings over de bestaande brug. Op donderdag 13 en vrijdag 14 augustus is de brug uitzonderlijk volledig afgesloten om de weginrichting tijdens de 1e fase in te stellen. Ook lokaal verkeer tussen Waasmunster en Hamme rijdt dan tijdelijk om.

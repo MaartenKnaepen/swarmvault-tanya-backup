@@ -1,0 +1,111 @@
+{
+  "analysisVersion": 8,
+  "sourceId": "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da",
+  "sourceHash": "139f25da3b4febd931bb78fbab748d58fa801d16c3bb0f038d79694b641788ca",
+  "semanticHash": "3a34dbee82e703c756cfc0f5ffd2d5759beae7d655e2dd2eebcd4d50723914c0",
+  "extractionHash": "1b2e05569dc4a30feeea48ca755c5166655b18796f7d9aa99a080334d80c6e2a",
+  "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+  "title": "Centrale voor kredieten aan particulieren (CKP) | Nationale Bank van België",
+  "summary": "De Centrale voor kredieten aan particulieren (CKP) is een register van: * alle consumenten- en hypothecaire kredieten die in België door natuurlijke personen voor privédoeleinden worden afgesloten; * de eventuele wanbetalingen met betrekking tot deze kredieten (de zogenaamde “zwarte lijst”). De CKP is een van de hulpmiddelen in de strijd tegen overmatige schuldenlast bij particulieren in ons land. Lees meer ### Particulieren Iedere consument heeft de mogelijkheid om kosteloos de gegevens te raadplegen die op zijn of haar naam in de CKP geregistreerd staan.",
+  "concepts": [
+    {
+      "id": "concept:particulieren",
+      "name": "particulieren",
+      "description": "Frequently referenced concept in Centrale voor kredieten aan particulieren (CKP) | Nationale Bank van België."
+    },
+    {
+      "id": "concept:voor",
+      "name": "voor",
+      "description": "Frequently referenced concept in Centrale voor kredieten aan particulieren (CKP) | Nationale Bank van België."
+    },
+    {
+      "id": "concept:kredieten",
+      "name": "kredieten",
+      "description": "Frequently referenced concept in Centrale voor kredieten aan particulieren (CKP) | Nationale Bank van België."
+    },
+    {
+      "id": "concept:gegevens",
+      "name": "gegevens",
+      "description": "Frequently referenced concept in Centrale voor kredieten aan particulieren (CKP) | Nationale Bank van België."
+    },
+    {
+      "id": "concept:info",
+      "name": "info",
+      "description": "Frequently referenced concept in Centrale voor kredieten aan particulieren (CKP) | Nationale Bank van België."
+    },
+    {
+      "id": "concept:informatiegerechtigden",
+      "name": "informatiegerechtigden",
+      "description": "Frequently referenced concept in Centrale voor kredieten aan particulieren (CKP) | Nationale Bank van België."
+    }
+  ],
+  "entities": [
+    {
+      "id": "entity:centrale",
+      "name": "Centrale",
+      "description": "Named entity mentioned in Centrale voor kredieten aan particulieren (CKP) | Nationale Bank van België."
+    },
+    {
+      "id": "entity:belgi",
+      "name": "België",
+      "description": "Named entity mentioned in Centrale voor kredieten aan particulieren (CKP) | Nationale Bank van België."
+    },
+    {
+      "id": "entity:particulieren-iedere",
+      "name": "Particulieren Iedere",
+      "description": "Named entity mentioned in Centrale voor kredieten aan particulieren (CKP) | Nationale Bank van België."
+    },
+    {
+      "id": "entity:professionelen",
+      "name": "Professionelen -",
+      "description": "Named entity mentioned in Centrale voor kredieten aan particulieren (CKP) | Nationale Bank van België."
+    },
+    {
+      "id": "entity:een",
+      "name": "Een",
+      "description": "Named entity mentioned in Centrale voor kredieten aan particulieren (CKP) | Nationale Bank van België."
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim:centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da:1",
+      "text": "De Centrale voor kredieten aan particulieren (CKP) is een register van: * alle consumenten- en hypothecaire kredieten die in België door natuurlijke personen voor privédoeleinden worden afgesloten; * de eventuele wanbetalingen met betrekking tot deze kredieten (de zogenaamde “zwarte lijst”).",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "positive",
+      "citation": "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
+    },
+    {
+      "id": "claim:centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da:2",
+      "text": "De CKP is een van de hulpmiddelen in de strijd tegen overmatige schuldenlast bij particulieren in ons land.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "positive",
+      "citation": "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
+    },
+    {
+      "id": "claim:centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da:3",
+      "text": "Lees meer ### Particulieren Iedere consument heeft de mogelijkheid om kosteloos de gegevens te raadplegen die op zijn of haar naam in de CKP geregistreerd staan.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
+    },
+    {
+      "id": "claim:centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da:4",
+      "text": "Info voor particulieren ### Professionelen - informatiegerechtigden Een beperkt aantal personen is wettelijk gemachtigd om onder bepaalde voorwaarden als informatiegerechtigde gegevens in de CKP te raadplegen.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "positive",
+      "citation": "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
+    }
+  ],
+  "questions": [
+    "How does particulieren relate to Centrale voor kredieten aan particulieren (CKP) | Nationale Bank van België?",
+    "How does voor relate to Centrale voor kredieten aan particulieren (CKP) | Nationale Bank van België?",
+    "How does kredieten relate to Centrale voor kredieten aan particulieren (CKP) | Nationale Bank van België?"
+  ],
+  "tags": [],
+  "rationales": [],
+  "producedAt": "2026-07-02T18:00:14.680Z"
+}

@@ -1,0 +1,23 @@
+{
+  "sourceId": "myprivacy-dpgmedia-be-16f062da",
+  "title": "myprivacy.dpgmedia.be",
+  "originType": "url",
+  "sourceKind": "markdown",
+  "url": "https://myprivacy.dpgmedia.be/consent?siteKey=31ykozebrulp6xor&callbackUrl=https%3A%2F%2Fwww.spaargids.be%2Fsparen%2Facceptnew%3FredirectUri%3D%252Fsparen%252Frente%252Ffamilielening-rente-2025.html&isLoggedIn=false",
+  "storedPath": "raw/sources/myprivacy-dpgmedia-be-16f062da.md",
+  "extractedTextPath": "state/extracts/myprivacy-dpgmedia-be-16f062da.md",
+  "extractedMetadataPath": "state/extracts/myprivacy-dpgmedia-be-16f062da.json",
+  "extractionHash": "a879253d1a52443ab60230d380d92958a8afbce17e4b7ed3e118e6d1748e07ed",
+  "mimeType": "text/markdown",
+  "contentHash": "16f062dac30223340e1f0c681ed0cabd4af73c7c78afa0484bf615462a23c139",
+  "semanticHash": "10b4caa9acea4744e758c4cf68f562e4a81c29966defb99e702b4a00773a284d",
+  "createdAt": "2026-06-29T19:01:28.033Z",
+  "updatedAt": "2026-06-29T19:01:28.033Z",
+  "attachments": [
+    {
+      "path": "raw/assets/myprivacy-dpgmedia-be-16f062da/myprivacy-static.dpgmedia.net/consent/resources/logos/logo-dpgmedia-2a9d4903.svg",
+      "mimeType": "image/svg+xml",
+      "originalPath": "https://myprivacy-static.dpgmedia.net/consent/resources/logos/logo-dpgmedia.svg"
+    }
+  ]
+}

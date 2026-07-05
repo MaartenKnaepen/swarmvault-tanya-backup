@@ -1,0 +1,116 @@
+{
+  "analysisVersion": 8,
+  "sourceId": "zoeken-notaris-be-832736a2",
+  "sourceHash": "832736a237dc99fc14613a6ca4ac2009fcf3ecb3f6f7d858e67fc314caf6929e",
+  "semanticHash": "aa5cb7958df88c2a01d172f22fc33e2409e3fae730135d59e74d5fe76fa43530",
+  "extractionHash": "d77d84b8868fc963a3b5bba6b20e90c991ef19bd3047bf2c09bf818e2b38a9c7",
+  "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+  "title": "Zoeken | notaris.be",
+  "summary": "Back to the homepage * ## Rekenmodules * Aankoopkosten van een woning en/of bouwgrond berekenen * Kosten berekenen voor een standaardkrediet * Kosten berekenen van de aankoop bij een online openbare verkoop (Biddit) * Relatie & samenleven * Scheiden * Apart gaan wonen zonder te scheiden * Scheiden door onderlinge toestemming (EOT) * Scheiden op grond van onherstelbare ontwrichting (EOO) * Onderhoud ten opzichte van mijn ex-partner * Maatregelen over de kinderen, de gezinswoning en andere goederen * Wat met de kosten? * Beslissingen over de kinderen en onderhoud Alles over Scheiden Alles over Relatie & samenleven * Erven & schenken * Mijn erfenis * Wat moet je doen na een overlijden? * De blokkering van de rekeningen * De aangifte van nalatenschap * De successierechten of erfbelasting * In het bezit komen van de goederen * De akte van onroerende erfopvolging * Hoe wordt je erfenis verdeeld?",
+  "concepts": [
+    {
+      "id": "concept:over",
+      "name": "over",
+      "description": "Frequently referenced concept in Zoeken | notaris.be."
+    },
+    {
+      "id": "concept:erfenis",
+      "name": "erfenis",
+      "description": "Frequently referenced concept in Zoeken | notaris.be."
+    },
+    {
+      "id": "concept:scheiden",
+      "name": "scheiden",
+      "description": "Frequently referenced concept in Zoeken | notaris.be."
+    },
+    {
+      "id": "concept:alles",
+      "name": "alles",
+      "description": "Frequently referenced concept in Zoeken | notaris.be."
+    },
+    {
+      "id": "concept:berekenen",
+      "name": "berekenen",
+      "description": "Frequently referenced concept in Zoeken | notaris.be."
+    },
+    {
+      "id": "concept:erven",
+      "name": "erven",
+      "description": "Frequently referenced concept in Zoeken | notaris.be."
+    }
+  ],
+  "entities": [
+    {
+      "id": "entity:rekenmodules-aankoopkosten-van-een",
+      "name": "Rekenmodules * Aankoopkosten van een",
+      "description": "Named entity mentioned in Zoeken | notaris.be."
+    },
+    {
+      "id": "entity:kosten",
+      "name": "Kosten",
+      "description": "Named entity mentioned in Zoeken | notaris.be."
+    },
+    {
+      "id": "entity:biddit-relatie",
+      "name": "(Biddit) * Relatie",
+      "description": "Named entity mentioned in Zoeken | notaris.be."
+    },
+    {
+      "id": "entity:scheiden-apart",
+      "name": "Scheiden * Apart",
+      "description": "Named entity mentioned in Zoeken | notaris.be."
+    },
+    {
+      "id": "entity:scheiden",
+      "name": "Scheiden",
+      "description": "Named entity mentioned in Zoeken | notaris.be."
+    },
+    {
+      "id": "entity:grond-van-onherstelbare",
+      "name": "grond van onherstelbare",
+      "description": "Named entity mentioned in Zoeken | notaris.be."
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim:zoeken-notaris-be-832736a2:1",
+      "text": "Back to the homepage * ## Rekenmodules * Aankoopkosten van een woning en/of bouwgrond berekenen * Kosten berekenen voor een standaardkrediet * Kosten berekenen van de aankoop bij een online openbare verkoop (Biddit) * Relatie & samenleven * Scheiden * Apart gaan wonen zonder te scheiden * Scheiden door onderlinge toestemming (EOT) * Scheiden op grond van onherstelbare ontwrichting (EOO) * Onderhoud ten opzichte van mijn ex-partner * Maatregelen over de kinderen, de gezinswoning en andere goederen * Wat met de kosten?",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "zoeken-notaris-be-832736a2"
+    },
+    {
+      "id": "claim:zoeken-notaris-be-832736a2:2",
+      "text": "* Beslissingen over de kinderen en onderhoud Alles over Scheiden Alles over Relatie & samenleven * Erven & schenken * Mijn erfenis * Wat moet je doen na een overlijden?",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "zoeken-notaris-be-832736a2"
+    },
+    {
+      "id": "claim:zoeken-notaris-be-832736a2:3",
+      "text": "* De blokkering van de rekeningen * De aangifte van nalatenschap * De successierechten of erfbelasting * In het bezit komen van de goederen * De akte van onroerende erfopvolging * Hoe wordt je erfenis verdeeld?",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "zoeken-notaris-be-832736a2"
+    },
+    {
+      "id": "claim:zoeken-notaris-be-832736a2:4",
+      "text": "* Een erfenis uit het buitenland * De reservataire erfgenamen * Het vruchtgebruik helder uitgelegd * Samen erven * De gerechtelijke vereffening-verdeling van een erfenis * De rol van de notaris-vereffenaar Alles over Mijn erfenis Alles over Erven & schenken * ## Bedrijf beheren?",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "zoeken-notaris-be-832736a2"
+    }
+  ],
+  "questions": [
+    "How does over relate to Zoeken | notaris.be?",
+    "How does erfenis relate to Zoeken | notaris.be?",
+    "How does scheiden relate to Zoeken | notaris.be?"
+  ],
+  "tags": [],
+  "rationales": [],
+  "producedAt": "2026-07-02T18:00:14.712Z"
+}

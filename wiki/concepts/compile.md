@@ -19,7 +19,7 @@ freshness: fresh
 status: active
 confidence: 0.95
 created_at: '2026-05-22T19:04:20.079Z'
-updated_at: '2026-06-28T01:56:43.298Z'
+updated_at: '2026-07-05T02:00:36.449Z'
 compiled_from:
   - candidates-5d9c2771
   - insights-1398dcf3
@@ -29,6 +29,12 @@ backlinks:
   - 'source:candidates-5d9c2771'
   - 'source:insights-1398dcf3'
   - 'source:projects-acb5fd10'
+  - >-
+    output:highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p
+  - >-
+    output:what-are-the-legal-requirements-for-selling-a-rental-property-in-belgium-flander
+  - >-
+    output:what-does-the-nbb-nationale-bank-van-belgi-page-about-the-centrale-voor-krediete
 schema_hash: 00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2
 source_hashes:
   candidates-5d9c2771: 5d9c2771efe014874ceeec9297ffbfaf92e420bf567785847f1f8f5471d096d6
@@ -39,7 +45,7 @@ source_semantic_hashes:
   insights-1398dcf3: 7ed98748976e1b249ce944a23513c98359945683c317056d0d40b761308abce6
   projects-acb5fd10: c17f3824f10f7496c534034df6643e9aab08bdb9431f5d9bfa9f2ac000bf6187
 decay_score: 1
-last_confirmed_at: '2026-06-28T01:56:44.477Z'
+last_confirmed_at: '2026-07-05T02:00:38.931Z'
 ---
 # compile
 
@@ -58,4 +64,10 @@ Frequently referenced concept in Candidates.
 - title: Candidates tags: index, candidates # Candidates - Run swarmvault compile to stage candidate pages. [source:candidates-5d9c2771]
 - - SwarmVault can read these pages during compile and query. [source:insights-1398dcf3]
 - title: Projects tags: index, projects # Projects - Run swarmvault compile to build project rollups. [source:projects-acb5fd10]
+
+## Related Outputs
+
+- [[outputs/highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p|Highway noise reduction garden Belgium Flanders practical guide noise barriers plants regulations costs dB reduction]]
+- [[outputs/what-are-the-legal-requirements-for-selling-a-rental-property-in-belgium-flander|What are the legal requirements for selling a rental property in Belgium Flanders 2025-2026?]]
+- [[outputs/what-does-the-nbb-nationale-bank-van-belgi-page-about-the-centrale-voor-krediete|What does the NBB (Nationale Bank van België) page about the Centrale voor Kredieten aan Particulieren (CKP) say about how it works and what information it contains about consumer credit?]]
 

@@ -1,0 +1,33 @@
+{
+  "sourceId": "zoeken-notaris-be-832736a2",
+  "title": "Zoeken | notaris.be",
+  "originType": "url",
+  "sourceKind": "markdown",
+  "url": "https://www.notaris.be/zoeken?q=borgstelling",
+  "storedPath": "raw/sources/zoeken-notaris-be-832736a2.md",
+  "extractedTextPath": "state/extracts/zoeken-notaris-be-832736a2.md",
+  "extractedMetadataPath": "state/extracts/zoeken-notaris-be-832736a2.json",
+  "extractionHash": "d77d84b8868fc963a3b5bba6b20e90c991ef19bd3047bf2c09bf818e2b38a9c7",
+  "mimeType": "text/markdown",
+  "contentHash": "832736a237dc99fc14613a6ca4ac2009fcf3ecb3f6f7d858e67fc314caf6929e",
+  "semanticHash": "aa5cb7958df88c2a01d172f22fc33e2409e3fae730135d59e74d5fe76fa43530",
+  "createdAt": "2026-07-02T18:00:09.236Z",
+  "updatedAt": "2026-07-02T18:00:09.236Z",
+  "attachments": [
+    {
+      "path": "raw/assets/zoeken-notaris-be-832736a2/www.notaris.be/themes/custom/notaris/images/logos/logo--nl-c408b581.svg",
+      "mimeType": "image/svg+xml",
+      "originalPath": "https://www.notaris.be/themes/custom/notaris/images/logos/logo--nl.svg"
+    },
+    {
+      "path": "raw/assets/zoeken-notaris-be-832736a2/www.notaris.be/sites/default/files/styles/hero_sm/public/images/56%25%20%288%29.png-fb59470a.webp",
+      "mimeType": "image/webp",
+      "originalPath": "https://www.notaris.be/sites/default/files/styles/hero_sm/public/images/56%25%20%288%29.png.webp?itok=2549BFLW"
+    },
+    {
+      "path": "raw/assets/zoeken-notaris-be-832736a2/www.notaris.be/themes/custom/notaris/images/logos/logo--nl--white-edf79a2d.svg",
+      "mimeType": "image/svg+xml",
+      "originalPath": "https://www.notaris.be/themes/custom/notaris/images/logos/logo--nl--white.svg"
+    }
+  ]
+}

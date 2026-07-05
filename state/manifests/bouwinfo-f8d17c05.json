@@ -1,0 +1,63 @@
+{
+  "sourceId": "bouwinfo-f8d17c05",
+  "title": "BouwInfo",
+  "originType": "url",
+  "sourceKind": "markdown",
+  "url": "https://www.bouwinfo.be/bouwforum/",
+  "storedPath": "raw/sources/bouwinfo-f8d17c05.md",
+  "extractedTextPath": "state/extracts/bouwinfo-f8d17c05.md",
+  "extractedMetadataPath": "state/extracts/bouwinfo-f8d17c05.json",
+  "extractionHash": "2d27207b3691c0b0ac9691366ebbe4794c66a4a9edb1cbbd786b8738e65fc7da",
+  "mimeType": "text/markdown",
+  "contentHash": "f8d17c0565c144b235eba8065c05755afef40c525375c5b1683762cd7420171a",
+  "semanticHash": "6ae5e47ea0baf0ab91e731ea68175f8e877a947683392e4fd0dab98621da003d",
+  "createdAt": "2026-06-30T20:21:14.840Z",
+  "updatedAt": "2026-06-30T20:21:14.840Z",
+  "attachments": [
+    {
+      "path": "raw/assets/bouwinfo-f8d17c05/www.bouwinfo.be/bouwforum/images/darkmode/luminuis-wit-ff7f45cc.png",
+      "mimeType": "image/png",
+      "originalPath": "https://www.bouwinfo.be/bouwforum/images/darkmode/luminuis-wit.png"
+    },
+    {
+      "path": "raw/assets/bouwinfo-f8d17c05/www.bouwinfo.be/bouwforum/images/darkmode/colora-wit-52f8a70d.png",
+      "mimeType": "image/png",
+      "originalPath": "https://www.bouwinfo.be/bouwforum/images/darkmode/colora-wit.png"
+    },
+    {
+      "path": "raw/assets/bouwinfo-f8d17c05/www.bouwinfo.be/bouwforum/images/logos/logo_x2o_wit-d50e8b9f.png",
+      "mimeType": "image/png",
+      "originalPath": "https://www.bouwinfo.be/bouwforum/images/logos/logo_x2o_wit.png"
+    },
+    {
+      "path": "raw/assets/bouwinfo-f8d17c05/www.bouwinfo.be/sites/default/files/2026-06/DE_KEUKENBOUWER_LOGO_transp-8026e89b.png",
+      "mimeType": "image/png",
+      "originalPath": "https://www.bouwinfo.be/sites/default/files/2026-06/DE_KEUKENBOUWER_LOGO_transp.png"
+    },
+    {
+      "path": "raw/assets/bouwinfo-f8d17c05/www.bouwinfo.be/sites/default/files/banners/niko-logo-wit-a91770ad.png",
+      "mimeType": "image/png",
+      "originalPath": "https://www.bouwinfo.be/sites/default/files/banners/niko-logo-wit.png"
+    },
+    {
+      "path": "raw/assets/bouwinfo-f8d17c05/www.bouwinfo.be/bouwforum/images/darkmode/logo-wienerberger-a5e10c52.png",
+      "mimeType": "image/png",
+      "originalPath": "https://www.bouwinfo.be/bouwforum/images/darkmode/logo-wienerberger.png"
+    },
+    {
+      "path": "raw/assets/bouwinfo-f8d17c05/www.bouwinfo.be/sites/default/files/2024-01/logo%20dsm%20-150x100-a9728658.png",
+      "mimeType": "image/png",
+      "originalPath": "https://www.bouwinfo.be/sites/default/files/2024-01/logo%20dsm%20-150x100.png"
+    },
+    {
+      "path": "raw/assets/bouwinfo-f8d17c05/www.bouwinfo.be/bouwforum/images/facebook-ced844ed.png",
+      "mimeType": "image/png",
+      "originalPath": "https://www.bouwinfo.be/bouwforum/images/facebook.png"
+    },
+    {
+      "path": "raw/assets/bouwinfo-f8d17c05/www.bouwinfo.be/bouwforum/images/pinterest-f9dd6c28.png",
+      "mimeType": "image/png",
+      "originalPath": "https://www.bouwinfo.be/bouwforum/images/pinterest.png"
+    }
+  ]
+}

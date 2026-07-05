@@ -1,0 +1,72 @@
+{
+  "analysisVersion": 8,
+  "sourceId": "www-google-com-3d8570f8",
+  "sourceHash": "3d8570f8bef9953cd37577c25909e880d74d907334128a1aa20cfad61ed8a742",
+  "semanticHash": "476afd9b4724675be5cb1e486d1dfc74cde636654b94ac91bf054375443847f6",
+  "extractionHash": "571023b11bbe289a89e57818f648ee4d5787045e0c2d1b05253cd99d917a5c80",
+  "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+  "title": "www.google.com",
+  "summary": "Als je problemen hebt met de toegang tot Google Zoeken, kun je� hier klikken of� feedback verzenden.",
+  "concepts": [
+    {
+      "id": "concept:feedback",
+      "name": "feedback",
+      "description": "Frequently referenced concept in www.google.com."
+    },
+    {
+      "id": "concept:google",
+      "name": "google",
+      "description": "Frequently referenced concept in www.google.com."
+    },
+    {
+      "id": "concept:hebt",
+      "name": "hebt",
+      "description": "Frequently referenced concept in www.google.com."
+    },
+    {
+      "id": "concept:hier",
+      "name": "hier",
+      "description": "Frequently referenced concept in www.google.com."
+    },
+    {
+      "id": "concept:klikken",
+      "name": "klikken",
+      "description": "Frequently referenced concept in www.google.com."
+    },
+    {
+      "id": "concept:problemen",
+      "name": "problemen",
+      "description": "Frequently referenced concept in www.google.com."
+    }
+  ],
+  "entities": [
+    {
+      "id": "entity:google-zoeken",
+      "name": "Google Zoeken,",
+      "description": "Named entity mentioned in www.google.com."
+    },
+    {
+      "id": "entity:google",
+      "name": "Google",
+      "description": "Named entity mentioned in www.google.com."
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim:www-google-com-3d8570f8:1",
+      "text": "Als je problemen hebt met de toegang tot Google Zoeken, kun je� hier klikken of� feedback verzenden.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "www-google-com-3d8570f8"
+    }
+  ],
+  "questions": [
+    "How does feedback relate to www.google.com?",
+    "How does google relate to www.google.com?",
+    "How does hebt relate to www.google.com?"
+  ],
+  "tags": [],
+  "rationales": [],
+  "producedAt": "2026-07-03T23:35:19.584Z"
+}

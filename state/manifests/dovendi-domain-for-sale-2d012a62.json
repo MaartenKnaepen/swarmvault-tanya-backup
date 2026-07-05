@@ -1,0 +1,28 @@
+{
+  "sourceId": "dovendi-domain-for-sale-2d012a62",
+  "title": "Dovendi - Domain for sale",
+  "originType": "url",
+  "sourceKind": "markdown",
+  "url": "https://www.zimmerman.be/nl/aanbod?q=mizerikstraat+diepenbeek",
+  "storedPath": "raw/sources/dovendi-domain-for-sale-2d012a62.md",
+  "extractedTextPath": "state/extracts/dovendi-domain-for-sale-2d012a62.md",
+  "extractedMetadataPath": "state/extracts/dovendi-domain-for-sale-2d012a62.json",
+  "extractionHash": "5e5bbcaf2aa01527e749a9d51a126f68f30f8628a10d4d263490fd83e932838a",
+  "mimeType": "text/markdown",
+  "contentHash": "2d012a627e60a5036843f6dfe80d9a8d90bc4fbf971fd493d4c94909f4b158eb",
+  "semanticHash": "0979f70eeaa4787b525071dcbea4382b89c0ef9609e35b6559cae5ba7e232116",
+  "createdAt": "2026-07-03T09:24:36.849Z",
+  "updatedAt": "2026-07-03T09:24:36.849Z",
+  "attachments": [
+    {
+      "path": "raw/assets/dovendi-domain-for-sale-2d012a62/dovendi.b-cdn.net/src/assets/logo-dovendi-abc49f3f.png",
+      "mimeType": "image/png",
+      "originalPath": "https://dovendi.b-cdn.net/src/assets/logo-dovendi.png"
+    },
+    {
+      "path": "raw/assets/dovendi-domain-for-sale-2d012a62/dovendi.b-cdn.net/src/assets/dovendi-brand-icon-8e41525b.png",
+      "mimeType": "image/png",
+      "originalPath": "https://dovendi.b-cdn.net/src/assets/dovendi-brand-icon.png"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sourceId": "web-archive-org-cdx-search-cdx-e3b0c442",
+  "title": "web.archive.org/cdx/search/cdx",
+  "originType": "url",
+  "sourceKind": "text",
+  "url": "https://web.archive.org/cdx/search/cdx?url=*kepler*Diepenbeek*&output=text&limit=30",
+  "storedPath": "raw/sources/web-archive-org-cdx-search-cdx-e3b0c442.txt",
+  "extractedMetadataPath": "state/extracts/web-archive-org-cdx-search-cdx-e3b0c442.json",
+  "extractionHash": "ebe63a767bce9310aea814bd258e34fa066004e77598449f2688b4d3a1934960",
+  "mimeType": "text/plain",
+  "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "semanticHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "createdAt": "2026-07-03T09:23:57.859Z",
+  "updatedAt": "2026-07-03T09:23:57.859Z"
+}

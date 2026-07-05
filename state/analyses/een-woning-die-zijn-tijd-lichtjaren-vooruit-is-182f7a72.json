@@ -1,0 +1,116 @@
+{
+  "analysisVersion": 8,
+  "sourceId": "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72",
+  "sourceHash": "182f7a72f1fe1a85fe99e3680756f6e38145888dce96883dc3041cc839a643bb",
+  "semanticHash": "eb3d4fbc940fc08335028bb7251ff40dc8b30b5fea6ed7a36fcfc682569453b2",
+  "extractionHash": "d27cc40593b27789340326dd96a71e8360250695dc0d83c5fdbfb38caf7fdfdc",
+  "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+  "title": "een woning die zijn tijd lichtjaren vooruit is.",
+  "summary": "De KEPLER-woning. Wonen in de toekomst, vandaag al. Stel je een thuis voor die zijn tijd lichtjaren vooruit is.",
+  "concepts": [
+    {
+      "id": "concept:kepler",
+      "name": "kepler",
+      "description": "Frequently referenced concept in een woning die zijn tijd lichtjaren vooruit is.."
+    },
+    {
+      "id": "concept:woning",
+      "name": "woning",
+      "description": "Frequently referenced concept in een woning die zijn tijd lichtjaren vooruit is.."
+    },
+    {
+      "id": "concept:voor",
+      "name": "voor",
+      "description": "Frequently referenced concept in een woning die zijn tijd lichtjaren vooruit is.."
+    },
+    {
+      "id": "concept:stap",
+      "name": "stap",
+      "description": "Frequently referenced concept in een woning die zijn tijd lichtjaren vooruit is.."
+    },
+    {
+      "id": "concept:wonen",
+      "name": "wonen",
+      "description": "Frequently referenced concept in een woning die zijn tijd lichtjaren vooruit is.."
+    },
+    {
+      "id": "concept:niet",
+      "name": "niet",
+      "description": "Frequently referenced concept in een woning die zijn tijd lichtjaren vooruit is.."
+    }
+  ],
+  "entities": [
+    {
+      "id": "entity:al-stel",
+      "name": "al. Stel",
+      "description": "Named entity mentioned in een woning die zijn tijd lichtjaren vooruit is.."
+    },
+    {
+      "id": "entity:norm-van-duurzaamheid",
+      "name": "norm van duurzaamheid –",
+      "description": "Named entity mentioned in een woning die zijn tijd lichtjaren vooruit is.."
+    },
+    {
+      "id": "entity:belgische",
+      "name": "Belgische",
+      "description": "Named entity mentioned in een woning die zijn tijd lichtjaren vooruit is.."
+    },
+    {
+      "id": "entity:dan",
+      "name": "dan",
+      "description": "Named entity mentioned in een woning die zijn tijd lichtjaren vooruit is.."
+    },
+    {
+      "id": "entity:klaar",
+      "name": "Klaar",
+      "description": "Named entity mentioned in een woning die zijn tijd lichtjaren vooruit is.."
+    },
+    {
+      "id": "entity:een",
+      "name": "Een",
+      "description": "Named entity mentioned in een woning die zijn tijd lichtjaren vooruit is.."
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim:een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72:1",
+      "text": "De KEPLER-woning.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
+    },
+    {
+      "id": "claim:een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72:2",
+      "text": "Wonen in de toekomst, vandaag al.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
+    },
+    {
+      "id": "claim:een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72:3",
+      "text": "Stel je een thuis voor die zijn tijd lichtjaren vooruit is.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "positive",
+      "citation": "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
+    },
+    {
+      "id": "claim:een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72:4",
+      "text": "Een plek waar comfort, duurzaamheid en zorgeloos wonen naadloos samenkomen.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
+    }
+  ],
+  "questions": [
+    "How does kepler relate to een woning die zijn tijd lichtjaren vooruit is.?",
+    "How does woning relate to een woning die zijn tijd lichtjaren vooruit is.?",
+    "How does voor relate to een woning die zijn tijd lichtjaren vooruit is.?"
+  ],
+  "tags": [],
+  "rationales": [],
+  "producedAt": "2026-07-03T23:35:19.514Z"
+}

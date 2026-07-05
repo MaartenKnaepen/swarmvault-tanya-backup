@@ -1,0 +1,111 @@
+{
+  "analysisVersion": 8,
+  "sourceId": "de-notaris-notaris-be-8b0bd2a4",
+  "sourceHash": "8b0bd2a4b4207b87aed343f58869f33f5bede5fa2d9bed85c2b7014c76e4911e",
+  "semanticHash": "bfec2bbc213f9cd567eeef295b7a0e90cee83d884137e179c03030e0d96d2b14",
+  "extractionHash": "ae870ea096c17d7e91bf7ac2955ff6669116a354acdf97a7b2f84255c5cdef2a",
+  "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+  "title": "De notaris | notaris.be",
+  "summary": "Onze laatste campagne Onze campagne Not So Frequently Asked Questions moedigt je aan om alle vragen te stellen die je nooit durfde stellen... Want er bestaan geen overbodige vragen! Antwoorden vinden op je vragen is gemakkelijk.",
+  "concepts": [
+    {
+      "id": "concept:jouw",
+      "name": "jouw",
+      "description": "Frequently referenced concept in De notaris | notaris.be."
+    },
+    {
+      "id": "concept:vragen",
+      "name": "vragen",
+      "description": "Frequently referenced concept in De notaris | notaris.be."
+    },
+    {
+      "id": "concept:antwoord",
+      "name": "antwoord",
+      "description": "Frequently referenced concept in De notaris | notaris.be."
+    },
+    {
+      "id": "concept:campagne",
+      "name": "campagne",
+      "description": "Frequently referenced concept in De notaris | notaris.be."
+    },
+    {
+      "id": "concept:onze",
+      "name": "onze",
+      "description": "Frequently referenced concept in De notaris | notaris.be."
+    },
+    {
+      "id": "concept:persoonlijke",
+      "name": "persoonlijke",
+      "description": "Frequently referenced concept in De notaris | notaris.be."
+    }
+  ],
+  "entities": [
+    {
+      "id": "entity:onze",
+      "name": "Onze",
+      "description": "Named entity mentioned in De notaris | notaris.be."
+    },
+    {
+      "id": "entity:not",
+      "name": "Not",
+      "description": "Named entity mentioned in De notaris | notaris.be."
+    },
+    {
+      "id": "entity:frequently-asked-questions",
+      "name": "Frequently Asked Questions",
+      "description": "Named entity mentioned in De notaris | notaris.be."
+    },
+    {
+      "id": "entity:want",
+      "name": "Want",
+      "description": "Named entity mentioned in De notaris | notaris.be."
+    },
+    {
+      "id": "entity:mensen",
+      "name": "mensen",
+      "description": "Named entity mentioned in De notaris | notaris.be."
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim:de-notaris-notaris-be-8b0bd2a4:1",
+      "text": "Onze laatste campagne Onze campagne Not So Frequently Asked Questions moedigt je aan om alle vragen te stellen die je nooit durfde stellen...",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "negative",
+      "citation": "de-notaris-notaris-be-8b0bd2a4"
+    },
+    {
+      "id": "claim:de-notaris-notaris-be-8b0bd2a4:2",
+      "text": "Want er bestaan geen overbodige vragen!",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "de-notaris-notaris-be-8b0bd2a4"
+    },
+    {
+      "id": "claim:de-notaris-notaris-be-8b0bd2a4:3",
+      "text": "Antwoorden vinden op je vragen is gemakkelijk.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "positive",
+      "citation": "de-notaris-notaris-be-8b0bd2a4"
+    },
+    {
+      "id": "claim:de-notaris-notaris-be-8b0bd2a4:4",
+      "text": "Maar het vinden van het JUISTE antwoord, afgestemd op jouw persoonlijke situatie en rekening houdend met jouw belangen en die van de mensen rondom jou, is cruciaal.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "positive",
+      "citation": "de-notaris-notaris-be-8b0bd2a4"
+    }
+  ],
+  "questions": [
+    "How does jouw relate to De notaris | notaris.be?",
+    "How does vragen relate to De notaris | notaris.be?",
+    "How does antwoord relate to De notaris | notaris.be?"
+  ],
+  "tags": [],
+  "rationales": [],
+  "producedAt": "2026-07-03T23:35:19.373Z"
+}

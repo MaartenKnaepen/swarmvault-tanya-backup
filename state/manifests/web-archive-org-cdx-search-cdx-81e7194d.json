@@ -1,0 +1,13 @@
+{
+  "sourceId": "web-archive-org-cdx-search-cdx-81e7194d",
+  "title": "web.archive.org/cdx/search/cdx",
+  "originType": "url",
+  "sourceKind": "data",
+  "url": "https://web.archive.org/cdx/search/cdx?url=kepler.be&output=json&limit=100&matchType=domain&fl=original,timestamp",
+  "storedPath": "raw/sources/web-archive-org-cdx-search-cdx-81e7194d.json",
+  "mimeType": "application/json",
+  "contentHash": "81e7194d6301b1a1a64bd38cda39b2ac998b5d3e9742a5de168e8e84932fbf2a",
+  "semanticHash": "81e7194d6301b1a1a64bd38cda39b2ac998b5d3e9742a5de168e8e84932fbf2a",
+  "createdAt": "2026-07-03T09:24:12.282Z",
+  "updatedAt": "2026-07-03T09:24:12.282Z"
+}

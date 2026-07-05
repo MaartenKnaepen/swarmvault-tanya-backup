@@ -7,24 +7,30 @@ tags:
   - dashboard
   - research-map
 source_ids:
+  - 40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2
+  - house-for-sale-diepenbeek-3590-immoweb-6f7c1e11
+  - bouwinfo-f8d17c05
   - candidates-5d9c2771
   - insights-1398dcf3
   - projects-acb5fd10
-  - seerr-media-requests-available-ef141443
-  - swarmvault-config-a48adfce
+  - >-
+    centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da
 project_ids: []
 node_ids: []
 freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.124Z'
-updated_at: '2026-06-27T23:57:00.847Z'
+updated_at: '2026-07-04T23:59:26.027Z'
 compiled_from:
+  - 40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2
+  - house-for-sale-diepenbeek-3590-immoweb-6f7c1e11
+  - bouwinfo-f8d17c05
   - candidates-5d9c2771
   - insights-1398dcf3
   - projects-acb5fd10
-  - seerr-media-requests-available-ef141443
-  - swarmvault-config-a48adfce
+  - >-
+    centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da
 managed_by: system
 backlinks: []
 schema_hash: 00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2
@@ -36,41 +42,41 @@ profile_presets: []
 
 ## Canonical Concept Pages
 
+- [[concepts/diepenbeek|diepenbeek]]
+- [[concepts/3590|3590]]
+- [[concepts/house|house]]
+- [[concepts/hasselt|hasselt]]
+- [[concepts/excluding|excluding]]
+- [[concepts/taxes|taxes]]
+- [[concepts/2026|2026]]
+- [[concepts/bericht|bericht]]
+- [[concepts/berichten|berichten]]
+- [[concepts/categorie|categorie]]
+- [[concepts/door|door]]
+- [[concepts/laatste|laatste]]
 - [[concepts/candidates|candidates]]
 - [[concepts/candidate|candidate]]
 - [[concepts/compile|compile]]
 - [[concepts/index|index]]
-- [[concepts/pages|pages]]
-- [[concepts/stage|stage]]
-- [[concepts/insights|insights]]
-- [[concepts/swarmvault|swarmvault]]
-- [[concepts/applies|applies]]
-- [[concepts/authored|authored]]
-- [[concepts/during|during]]
-- [[concepts/projects|projects]]
-- [[concepts/build|build]]
-- [[concepts/project|project]]
-- [[concepts/rollups|rollups]]
-- [[concepts/available|available]]
 
 ## Canonical Entity Pages
 
+- [[entities/woning-immo-top-invest|Woning Immo Top Invest]]
+- [[entities/house|House]]
+- [[entities/diepenbeek-house-heylen-vastgoed-hasselt|Diepenbeek House Heylen Vastgoed Hasselt]]
+- [[entities/diepenbeek-plot-heylen-vastgoed-hasselt|Diepenbeek Plot Heylen Vastgoed Hasselt]]
+- [[entities/villa|Villa]]
+- [[entities/diepenbeek-karaktervolle|Diepenbeek Karaktervolle]]
+- [[entities/verbouwen-categorie-topics-berichten-laatste|Verbouwen Categorie Topics Berichten Laatste]]
+- [[entities/ver-bouwdagboeken-wil|(Ver)Bouwdagboeken Wil]]
+- [[entities/dit|Dit]]
+- [[entities/door|Door]]
+- [[entities/ruwbouw-categorie-topics-berichten-laatste|Ruwbouw Categorie Topics Berichten Laatste]]
+- [[entities/tuin-categorie-topics-berichten-laatste|Tuin Categorie Topics Berichten Laatste]]
 - [[entities/candidates|Candidates]]
 - [[entities/candidates-run|Candidates - Run]]
-- [[entities/insights|Insights]]
-- [[entities/projects-run|Projects - Run]]
-- [[entities/seerr-media-requests-available-seerr|Seerr — Media Requests Available Seerr]]
-- [[entities/hermes|Hermes]]
-- [[entities/how|How]]
-- [[entities/ask-hermes|Ask Hermes]]
-- [[entities/dune-hermes|Dune") - Hermes]]
-- [[entities/seerr|Seerr]]
-- [[entities/format|Format:]]
-- [[entities/top|Top-]]
-- [[entities/size|Size:]]
-- [[entities/nested|Nested]]
-- [[entities/schema|Schema -]]
-- [[entities/preview|Preview]]
+- [[entities/centrale|Centrale]]
+- [[entities/belgi|België]]
 
 ## Recently Guided Sources
 
@@ -82,6 +88,6 @@ profile_presets: []
 
 ## Suggested Questions
 
-- Why does Insights connect multiple communities in the vault?
-- Why does Candidates connect multiple communities in the vault?
 - Why does Projects connect multiple communities in the vault?
+- Why does Candidates connect multiple communities in the vault?
+- Why does Default to the inbox of whichever vault this script is deployed in connect multiple communities in the vault?

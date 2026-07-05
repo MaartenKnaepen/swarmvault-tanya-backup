@@ -1,4 +1,18 @@
 {
-  "generatedAt": "2026-06-28T01:56:43.279Z",
-  "entries": []
+  "generatedAt": "2026-07-05T02:00:36.362Z",
+  "entries": [
+    {
+      "sourceId": "default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
+      "moduleId": "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
+      "language": "python",
+      "repoRelativePath": "scripts/sv_remember.py",
+      "originalPath": "/mnt/data/knowledge-tanya/scripts/sv_remember.py",
+      "moduleName": "scripts.sv_remember",
+      "aliases": [
+        "scripts.sv_remember",
+        "scripts/sv_remember",
+        "scripts/sv_remember.py"
+      ]
+    }
+  ]
 }

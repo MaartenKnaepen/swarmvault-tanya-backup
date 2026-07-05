@@ -1,0 +1,1 @@
+![dpg media logo](../assets/myprivacy-dpgmedia-be-16f062da/myprivacy-static.dpgmedia.net/consent/resources/logos/logo-dpgmedia-2a9d4903.svg)

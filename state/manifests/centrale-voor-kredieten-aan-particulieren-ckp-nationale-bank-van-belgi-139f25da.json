@@ -1,0 +1,68 @@
+{
+  "sourceId": "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da",
+  "title": "Centrale voor kredieten aan particulieren (CKP) | Nationale Bank van België",
+  "originType": "url",
+  "sourceKind": "markdown",
+  "url": "https://www.nbb.be/nl/kredietcentrales/centrale-voor-kredieten-aan-particulieren-ckp",
+  "storedPath": "raw/sources/centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da.md",
+  "extractedTextPath": "state/extracts/centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da.md",
+  "extractedMetadataPath": "state/extracts/centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da.json",
+  "extractionHash": "1b2e05569dc4a30feeea48ca755c5166655b18796f7d9aa99a080334d80c6e2a",
+  "mimeType": "text/markdown",
+  "contentHash": "139f25da3b4febd931bb78fbab748d58fa801d16c3bb0f038d79694b641788ca",
+  "semanticHash": "3a34dbee82e703c756cfc0f5ffd2d5759beae7d655e2dd2eebcd4d50723914c0",
+  "createdAt": "2026-07-02T18:00:11.665Z",
+  "updatedAt": "2026-07-02T18:00:11.665Z",
+  "attachments": [
+    {
+      "path": "raw/assets/centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da/www.nbb.be/themes/custom/ocelot_nbbbe/assets/images/logo-nl-0c655123.svg",
+      "mimeType": "image/svg+xml",
+      "originalPath": "https://www.nbb.be/themes/custom/ocelot_nbbbe/assets/images/logo-nl.svg"
+    },
+    {
+      "path": "raw/assets/centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da/www.nbb.be/sites/default/files/styles/ausy_builder_3_4_zero/public/ausy-builder/2025-04/organogram.jpg-ad9c09ec.webp",
+      "mimeType": "image/jpeg",
+      "originalPath": "https://www.nbb.be/sites/default/files/styles/ausy_builder_3_4_zero/public/ausy-builder/2025-04/organogram.jpg.webp?h=2568e13e&itok=5WzuZLpr"
+    },
+    {
+      "path": "raw/assets/centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da/www.nbb.be/sites/default/files/styles/ausy_builder_3_4_zero/public/ausy-builder/2025-04/eurobiljetten.jpg-a8c9ecb4.webp",
+      "mimeType": "image/jpeg",
+      "originalPath": "https://www.nbb.be/sites/default/files/styles/ausy_builder_3_4_zero/public/ausy-builder/2025-04/eurobiljetten.jpg.webp?h=34d579a9&itok=XW6J3vZ8"
+    },
+    {
+      "path": "raw/assets/centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da/www.nbb.be/sites/default/files/styles/ausy_builder_3_4_zero/public/ausy-builder/2025-04/cover.jpeg-a7c94183.webp",
+      "mimeType": "image/jpeg",
+      "originalPath": "https://www.nbb.be/sites/default/files/styles/ausy_builder_3_4_zero/public/ausy-builder/2025-04/cover.jpeg.webp?h=94d256c8&itok=kfshNUEB"
+    },
+    {
+      "path": "raw/assets/centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da/www.nbb.be/sites/default/files/styles/ausy_builder_3_4_zero/public/ausy-builder/2025-04/DSC_9929.jpg-d416595d.webp",
+      "mimeType": "image/jpeg",
+      "originalPath": "https://www.nbb.be/sites/default/files/styles/ausy_builder_3_4_zero/public/ausy-builder/2025-04/DSC_9929.jpg.webp?h=1034089a&itok=YGCP4KQk"
+    },
+    {
+      "path": "raw/assets/centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da/www.nbb.be/sites/default/files/styles/ausy_builder_3_4_zero/public/ausy-builder/2025-05/Wunsch%20Pierre%20%20reportage020---17122018%20%28c%29%20Patrick%20Van%20den%20Branden%20NBB.jpg-6d9c82ce.webp",
+      "mimeType": "image/jpeg",
+      "originalPath": "https://www.nbb.be/sites/default/files/styles/ausy_builder_3_4_zero/public/ausy-builder/2025-05/Wunsch%20Pierre%20%20reportage020---17122018%20%28c%29%20Patrick%20Van%20den%20Branden%20NBB.jpg.webp?h=5d85b1d2&itok=mZF-MH26"
+    },
+    {
+      "path": "raw/assets/centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da/www.nbb.be/sites/default/files/styles/ausy_builder_16_9_zero/public/ausy-builder/2025-05/CKP-%28010%2914102022-%28c%29-Patrick-Van-den-Branden-NBB.jpg-1e4963cb.webp",
+      "mimeType": "image/webp",
+      "originalPath": "https://www.nbb.be/sites/default/files/styles/ausy_builder_16_9_zero/public/ausy-builder/2025-05/CKP-%28010%2914102022-%28c%29-Patrick-Van-den-Branden-NBB.jpg.webp?h=e8aa7de7&itok=3G4Eflak"
+    },
+    {
+      "path": "raw/assets/centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da/www.nbb.be/sites/default/files/styles/ausy_builder_16_9_zero/public/migration/pictures/sites/default/files/media/hands-agreement_0_1.jpg-3d3d46e2.webp",
+      "mimeType": "image/webp",
+      "originalPath": "https://www.nbb.be/sites/default/files/styles/ausy_builder_16_9_zero/public/migration/pictures/sites/default/files/media/hands-agreement_0_1.jpg.webp?h=c75a3f50&itok=IdUYl90t"
+    },
+    {
+      "path": "raw/assets/centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da/www.nbb.be/sites/default/files/styles/ausy_builder_16_9_zero/public/ausy-builder/2025-10/pexels-august-de-richelieu-4427503_2.jpg-1cc4fa32.webp",
+      "mimeType": "image/webp",
+      "originalPath": "https://www.nbb.be/sites/default/files/styles/ausy_builder_16_9_zero/public/ausy-builder/2025-10/pexels-august-de-richelieu-4427503_2.jpg.webp?h=86eea535&itok=ZUyJwV6E"
+    },
+    {
+      "path": "raw/assets/centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da/www.nbb.be/themes/custom/ocelot_nbbbe/assets/images/logo-doormat-462a55f1.svg",
+      "mimeType": "image/svg+xml",
+      "originalPath": "https://www.nbb.be/themes/custom/ocelot_nbbbe/assets/images/logo-doormat.svg"
+    }
+  ]
+}

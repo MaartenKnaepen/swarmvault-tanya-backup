@@ -1,0 +1,38 @@
+{
+  "sourceId": "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4",
+  "title": "Wegbeheerder van Vlaamse gewest- en snelwegen",
+  "originType": "url",
+  "sourceKind": "markdown",
+  "url": "https://wegenenverkeer.be/",
+  "storedPath": "raw/sources/wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4.md",
+  "extractedTextPath": "state/extracts/wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4.md",
+  "extractedMetadataPath": "state/extracts/wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4.json",
+  "extractionHash": "ef756eb0b633c8bd72edf6b3654baaacd754424d3e25261a85c888acd2a2710a",
+  "mimeType": "text/markdown",
+  "contentHash": "a003e9d4630abb475441db204ecfbad38ed02341cf4202bd5c944b39c549696a",
+  "semanticHash": "eedccd1d19f2c19a1e8ae013b81609b3e26bcb1361cc29bad8be43cea8c0f858",
+  "createdAt": "2026-06-30T20:21:07.259Z",
+  "updatedAt": "2026-06-30T20:21:07.259Z",
+  "attachments": [
+    {
+      "path": "raw/assets/wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4/wegenenverkeer.be/themes/custom/itr_theme/dist/img/layout/logo-fe697e73.svg",
+      "mimeType": "image/svg+xml",
+      "originalPath": "https://wegenenverkeer.be/themes/custom/itr_theme/dist/img/layout/logo.svg"
+    },
+    {
+      "path": "raw/assets/wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4/wegenenverkeer.be/sites/default/files/files/2025-09/banner_fietsscheldeverbinding_0-5b8efdff.png",
+      "mimeType": "image/png",
+      "originalPath": "https://wegenenverkeer.be/sites/default/files/files/2025-09/banner_fietsscheldeverbinding_0.png"
+    },
+    {
+      "path": "raw/assets/wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4/wegenenverkeer.be/sites/default/files/uploads/documenten/bannerswebsite-2fadf2ec.png",
+      "mimeType": "image/png",
+      "originalPath": "https://wegenenverkeer.be/sites/default/files/uploads/documenten/bannerswebsite.png"
+    },
+    {
+      "path": "raw/assets/wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4/wegenenverkeer.be/sites/default/files/uploads/documenten/bannerswebsite3-e42a4cc7.png",
+      "mimeType": "image/png",
+      "originalPath": "https://wegenenverkeer.be/sites/default/files/uploads/documenten/bannerswebsite3.png"
+    }
+  ]
+}

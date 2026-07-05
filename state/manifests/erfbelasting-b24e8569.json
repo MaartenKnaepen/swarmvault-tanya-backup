@@ -1,0 +1,16 @@
+{
+  "sourceId": "erfbelasting-b24e8569",
+  "title": "Erfbelasting",
+  "originType": "url",
+  "sourceKind": "markdown",
+  "url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting",
+  "storedPath": "raw/sources/erfbelasting-b24e8569.md",
+  "extractedTextPath": "state/extracts/erfbelasting-b24e8569.md",
+  "extractedMetadataPath": "state/extracts/erfbelasting-b24e8569.json",
+  "extractionHash": "be99a3f7bdcc4f8b9642e1cf4697c18505631bdc3d993f0b82534f93027870cb",
+  "mimeType": "text/markdown",
+  "contentHash": "b24e8569994fd6e36dfb9d723cde4866acc8eb59355130fb0c2935bc7ef258d5",
+  "semanticHash": "a98141e022fec13c05396570c335351d5280ea0a14b15d508fddbae5f544d67e",
+  "createdAt": "2026-06-30T10:20:45.280Z",
+  "updatedAt": "2026-06-30T10:20:45.280Z"
+}

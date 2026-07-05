@@ -1,0 +1,16 @@
+{
+  "sourceId": "www-google-com-3d8570f8",
+  "title": "www.google.com",
+  "originType": "url",
+  "sourceKind": "markdown",
+  "url": "https://www.google.com/search?q=kepler+diepenbeek+mizerikstraat+prijs+kavel&ucbcb=1",
+  "storedPath": "raw/sources/www-google-com-3d8570f8.md",
+  "extractedTextPath": "state/extracts/www-google-com-3d8570f8.md",
+  "extractedMetadataPath": "state/extracts/www-google-com-3d8570f8.json",
+  "extractionHash": "571023b11bbe289a89e57818f648ee4d5787045e0c2d1b05253cd99d917a5c80",
+  "mimeType": "text/markdown",
+  "contentHash": "3d8570f8bef9953cd37577c25909e880d74d907334128a1aa20cfad61ed8a742",
+  "semanticHash": "476afd9b4724675be5cb1e486d1dfc74cde636654b94ac91bf054375443847f6",
+  "createdAt": "2026-07-03T09:24:15.066Z",
+  "updatedAt": "2026-07-03T09:24:15.066Z"
+}

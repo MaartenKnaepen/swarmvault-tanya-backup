@@ -29,7 +29,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.076Z'
-updated_at: '2026-06-28T01:56:43.293Z'
+updated_at: '2026-07-05T02:00:36.417Z'
 compiled_from:
   - swarmvault-schema-b10ad2d9
 managed_by: system
@@ -46,14 +46,20 @@ backlinks:
   - 'entity:naming-conventions-prefer'
   - 'entity:page-structure-rules-source'
   - 'entity:categories-list'
+  - >-
+    output:what-are-the-legal-requirements-for-selling-a-rental-property-in-belgium-flander
+  - >-
+    output:what-does-the-nbb-nationale-bank-van-belgi-page-about-the-centrale-voor-krediete
   - 'output:what-is-this-vault-about'
+  - >-
+    output:highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p
 schema_hash: 00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2
 source_hashes:
   swarmvault-schema-b10ad2d9: b10ad2d95756d1e27cf48f211ebe48e05d76679916a49ab7609c52c8388b0620
 source_semantic_hashes:
   swarmvault-schema-b10ad2d9: 9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19
 decay_score: 1
-last_confirmed_at: '2026-06-28T01:56:44.477Z'
+last_confirmed_at: '2026-07-05T02:00:38.931Z'
 ---
 # SwarmVault Schema
 
@@ -101,5 +107,8 @@ SwarmVault Schema Edit this file to teach SwarmVault how this vault should be or
 
 ## Related Outputs
 
+- [[outputs/what-are-the-legal-requirements-for-selling-a-rental-property-in-belgium-flander|What are the legal requirements for selling a rental property in Belgium Flanders 2025-2026?]]
+- [[outputs/what-does-the-nbb-nationale-bank-van-belgi-page-about-the-centrale-voor-krediete|What does the NBB (Nationale Bank van België) page about the Centrale voor Kredieten aan Particulieren (CKP) say about how it works and what information it contains about consumer credit?]]
 - [[outputs/what-is-this-vault-about|What is this vault about?]]
+- [[outputs/highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p|Highway noise reduction garden Belgium Flanders practical guide noise barriers plants regulations costs dB reduction]]
 

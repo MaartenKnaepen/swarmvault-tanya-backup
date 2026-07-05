@@ -9,10 +9,10 @@
   "storedPath": "raw/sources/swarmvault-config-a48adfce.json",
   "extractedTextPath": "state/extracts/swarmvault-config-a48adfce.md",
   "extractedMetadataPath": "state/extracts/swarmvault-config-a48adfce.json",
-  "extractionHash": "1d3c5c5f6df5663e3afecd09a28702213791bda57c3160892bff4ed576bb9350",
+  "extractionHash": "71a713b4887b6e4276ec48fba2c938ac22dafe1fceea321dc703e3e987bce670",
   "mimeType": "application/json",
-  "contentHash": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1",
-  "semanticHash": "a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1",
+  "contentHash": "d990f0f9af83271b3348716bcb324a06635bb8dd79b84322aedda483365be4d9",
+  "semanticHash": "d990f0f9af83271b3348716bcb324a06635bb8dd79b84322aedda483365be4d9",
   "details": {
     "format": "json",
     "top_level_type": "object",
@@ -20,5 +20,5 @@
     "nested_depth": "4"
   },
   "createdAt": "2026-05-22T19:04:19.901Z",
-  "updatedAt": "2026-05-22T19:04:19.901Z"
+  "updatedAt": "2026-06-30T20:23:20.394Z"
 }

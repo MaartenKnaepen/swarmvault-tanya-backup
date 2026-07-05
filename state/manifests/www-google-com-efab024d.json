@@ -1,0 +1,16 @@
+{
+  "sourceId": "www-google-com-efab024d",
+  "title": "www.google.com",
+  "originType": "url",
+  "sourceKind": "markdown",
+  "url": "https://www.google.com/search?q=%22Mizerikstraat+33%22+Diepenbeek+kepler&ucbcb=1",
+  "storedPath": "raw/sources/www-google-com-efab024d.md",
+  "extractedTextPath": "state/extracts/www-google-com-efab024d.md",
+  "extractedMetadataPath": "state/extracts/www-google-com-efab024d.json",
+  "extractionHash": "2185f9bcdeeb22a2ea67576241d4e7a04b04e55473695caf0a9ae0865a9eecfe",
+  "mimeType": "text/markdown",
+  "contentHash": "efab024d76f0aa207c1465899fe9b6bf53b5015107ce28c00e9becee7e8c2273",
+  "semanticHash": "61281301b6d3cf951c0530af777c5e23f2d188e6cf78846edcdbca0b76b24fc0",
+  "createdAt": "2026-07-03T09:22:16.315Z",
+  "updatedAt": "2026-07-03T09:22:16.315Z"
+}

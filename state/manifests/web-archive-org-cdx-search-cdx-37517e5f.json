@@ -1,0 +1,13 @@
+{
+  "sourceId": "web-archive-org-cdx-search-cdx-37517e5f",
+  "title": "web.archive.org/cdx/search/cdx",
+  "originType": "url",
+  "sourceKind": "data",
+  "url": "https://web.archive.org/cdx/search/cdx?url=*immoweb.be/*Mizerik*&output=json&limit=20",
+  "storedPath": "raw/sources/web-archive-org-cdx-search-cdx-37517e5f.json",
+  "mimeType": "application/json",
+  "contentHash": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "semanticHash": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "createdAt": "2026-07-03T09:22:46.186Z",
+  "updatedAt": "2026-07-03T09:22:46.186Z"
+}

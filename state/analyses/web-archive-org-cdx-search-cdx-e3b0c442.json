@@ -1,0 +1,17 @@
+{
+  "analysisVersion": 8,
+  "sourceId": "web-archive-org-cdx-search-cdx-e3b0c442",
+  "sourceHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "semanticHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "extractionHash": "ebe63a767bce9310aea814bd258e34fa066004e77598449f2688b4d3a1934960",
+  "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+  "title": "web.archive.org/cdx/search/cdx",
+  "summary": "Imported text source. Text extraction is not yet available for this source.",
+  "concepts": [],
+  "entities": [],
+  "claims": [],
+  "questions": [],
+  "tags": [],
+  "rationales": [],
+  "producedAt": "2026-07-03T23:35:19.573Z"
+}

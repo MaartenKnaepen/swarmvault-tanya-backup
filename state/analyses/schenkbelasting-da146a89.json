@@ -1,0 +1,116 @@
+{
+  "analysisVersion": 8,
+  "sourceId": "schenkbelasting-da146a89",
+  "sourceHash": "da146a89c0491a1bd65f497f38f305c20fe6df7c9d30c8dd2bc709b212917b50",
+  "semanticHash": "69e03a7fa46084aa8608c8a9b41ce8dce4fc79a0687245fe4a8f8a7c0964506e",
+  "extractionHash": "2bc3fe43511ca4527a8f7f47191d60127b17571115c0e467a77280da534985dc",
+  "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+  "title": "Schenkbelasting",
+  "summary": "Gedaan met laden. U bevindt zich op: Schenkbelasting Als u geld of goederen schenkt, en dat in een akte laat vastleggen, is er schenkbelasting verschuldigd. Op deze pagina’s vindt u alle uitleg over wanneer schenkbelasting verschuldigd is en hoe die berekend wordt.",
+  "concepts": [
+    {
+      "id": "concept:schenkbelasting",
+      "name": "schenkbelasting",
+      "description": "Frequently referenced concept in Schenkbelasting."
+    },
+    {
+      "id": "concept:schenking",
+      "name": "schenking",
+      "description": "Frequently referenced concept in Schenkbelasting."
+    },
+    {
+      "id": "concept:genieten",
+      "name": "genieten",
+      "description": "Frequently referenced concept in Schenkbelasting."
+    },
+    {
+      "id": "concept:goederen",
+      "name": "goederen",
+      "description": "Frequently referenced concept in Schenkbelasting."
+    },
+    {
+      "id": "concept:verschuldigd",
+      "name": "verschuldigd",
+      "description": "Frequently referenced concept in Schenkbelasting."
+    },
+    {
+      "id": "concept:vindt",
+      "name": "vindt",
+      "description": "Frequently referenced concept in Schenkbelasting."
+    }
+  ],
+  "entities": [
+    {
+      "id": "entity:schenkbelasting-als",
+      "name": "Schenkbelasting Als",
+      "description": "Named entity mentioned in Schenkbelasting."
+    },
+    {
+      "id": "entity:wijziging",
+      "name": "Wijziging",
+      "description": "Named entity mentioned in Schenkbelasting."
+    },
+    {
+      "id": "entity:familiale",
+      "name": "Familiale",
+      "description": "Named entity mentioned in Schenkbelasting."
+    },
+    {
+      "id": "entity:wanneer",
+      "name": "Wanneer",
+      "description": "Named entity mentioned in Schenkbelasting."
+    },
+    {
+      "id": "entity:eigendom-van-een",
+      "name": "eigendom van een",
+      "description": "Named entity mentioned in Schenkbelasting."
+    },
+    {
+      "id": "entity:heeft-van-rijksinwoner",
+      "name": "heeft van rijksinwoner",
+      "description": "Named entity mentioned in Schenkbelasting."
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim:schenkbelasting-da146a89:1",
+      "text": "Gedaan met laden.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "schenkbelasting-da146a89"
+    },
+    {
+      "id": "claim:schenkbelasting-da146a89:2",
+      "text": "U bevindt zich op: Schenkbelasting Als u geld of goederen schenkt, en dat in een akte laat vastleggen, is er schenkbelasting verschuldigd.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "positive",
+      "citation": "schenkbelasting-da146a89"
+    },
+    {
+      "id": "claim:schenkbelasting-da146a89:3",
+      "text": "Op deze pagina’s vindt u alle uitleg over wanneer schenkbelasting verschuldigd is en hoe die berekend wordt.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "positive",
+      "citation": "schenkbelasting-da146a89"
+    },
+    {
+      "id": "claim:schenkbelasting-da146a89:4",
+      "text": "## Wijziging vrijstelling bij overdracht familiale ondernemingen en vennootschappen Familiale ondernemingen en vennootschappen genieten van een verlaagd tarief in de erfbelasting en een vrijstelling in de schenkbelasting.",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "schenkbelasting-da146a89"
+    }
+  ],
+  "questions": [
+    "How does schenkbelasting relate to Schenkbelasting?",
+    "How does schenking relate to Schenkbelasting?",
+    "How does genieten relate to Schenkbelasting?"
+  ],
+  "tags": [],
+  "rationales": [],
+  "producedAt": "2026-07-02T17:51:22.259Z"
+}

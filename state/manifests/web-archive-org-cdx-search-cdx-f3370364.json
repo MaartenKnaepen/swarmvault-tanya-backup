@@ -1,0 +1,13 @@
+{
+  "sourceId": "web-archive-org-cdx-search-cdx-f3370364",
+  "title": "web.archive.org/cdx/search/cdx",
+  "originType": "url",
+  "sourceKind": "data",
+  "url": "https://web.archive.org/cdx/search/cdx?url=*.kepler.be/*diepenbeek*&output=json&limit=50",
+  "storedPath": "raw/sources/web-archive-org-cdx-search-cdx-f3370364.json",
+  "mimeType": "application/json",
+  "contentHash": "f337036496c1a06481893d8e34eba2023f26085761e6f58bf6529e1b4cf8ced1",
+  "semanticHash": "f337036496c1a06481893d8e34eba2023f26085761e6f58bf6529e1b4cf8ced1",
+  "createdAt": "2026-07-03T09:24:28.880Z",
+  "updatedAt": "2026-07-03T09:24:28.880Z"
+}

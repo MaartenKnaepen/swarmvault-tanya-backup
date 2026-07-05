@@ -29,7 +29,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.072Z'
-updated_at: '2026-06-28T01:56:43.292Z'
+updated_at: '2026-07-05T02:00:36.416Z'
 compiled_from:
   - swarmvault-config-a48adfce
 managed_by: system
@@ -46,13 +46,15 @@ backlinks:
   - 'entity:nested'
   - 'entity:schema'
   - 'entity:preview'
+  - >-
+    output:highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p
 schema_hash: 00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2
 source_hashes:
-  swarmvault-config-a48adfce: a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1
+  swarmvault-config-a48adfce: d990f0f9af83271b3348716bcb324a06635bb8dd79b84322aedda483365be4d9
 source_semantic_hashes:
-  swarmvault-config-a48adfce: a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1
+  swarmvault-config-a48adfce: d990f0f9af83271b3348716bcb324a06635bb8dd79b84322aedda483365be4d9
 decay_score: 1
-last_confirmed_at: '2026-06-28T01:56:44.477Z'
+last_confirmed_at: '2026-07-05T02:00:38.931Z'
 ---
 # swarmvault.config
 
@@ -102,4 +104,8 @@ swarmvault.config Format: JSON Top-level: object Size: 13 Nested depth: 4 ## Sch
 - How does object relate to swarmvault.config?
 - How does keys relate to swarmvault.config?
 - How does local relate to swarmvault.config?
+
+## Related Outputs
+
+- [[outputs/highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p|Highway noise reduction garden Belgium Flanders practical guide noise barriers plants regulations costs dB reduction]]
 

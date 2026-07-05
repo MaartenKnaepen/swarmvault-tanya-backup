@@ -1,0 +1,172 @@
+{
+  "analysisVersion": 8,
+  "sourceId": "default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
+  "sourceHash": "f81e91f3e4a64f06e8847dc2b72fa5039c6167b690ee160502a4481720619774",
+  "semanticHash": "f81e91f3e4a64f06e8847dc2b72fa5039c6167b690ee160502a4481720619774",
+  "extractionHash": "b473d2d9e6ee7507ae4074985c4c9d1b92574524fa74829070794931553411cb",
+  "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+  "title": "Default to the inbox of whichever vault this script is deployed in",
+  "summary": "Default to the inbox of whichever vault this script is deployed in is a python module, defining 6 top-level symbol(s), exporting 6 symbol(s), depending on 5 external package import(s).",
+  "concepts": [],
+  "entities": [],
+  "claims": [
+    {
+      "id": "claim:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:1",
+      "text": "Default to the inbox of whichever vault this script is deployed in exports slugify, resolve_source, build_note, split_csv, and more.",
+      "confidence": 1,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3"
+    },
+    {
+      "id": "claim:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:2",
+      "text": "Default to the inbox of whichever vault this script is deployed in defines slugify, resolve_source, build_note, split_csv, parse_args, and more.",
+      "confidence": 1,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3"
+    },
+    {
+      "id": "claim:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:3",
+      "text": "Default to the inbox of whichever vault this script is deployed in imports argparse, datetime, re, sys, and more.",
+      "confidence": 1,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3"
+    }
+  ],
+  "questions": [
+    "Which downstream pages should explain how Default to the inbox of whichever vault this script is deployed in exports are consumed?",
+    "Why does Default to the inbox of whichever vault this script is deployed in depend on argparse?",
+    "What broader responsibility does Default to the inbox of whichever vault this script is deployed in serve in the codebase?"
+  ],
+  "tags": [],
+  "rationales": [],
+  "code": {
+    "moduleId": "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
+    "language": "python",
+    "moduleName": "scripts.sv_remember",
+    "imports": [
+      {
+        "specifier": "argparse",
+        "importedSymbols": [],
+        "isExternal": true,
+        "reExport": false
+      },
+      {
+        "specifier": "datetime",
+        "importedSymbols": [],
+        "namespaceImport": "dt",
+        "isExternal": true,
+        "reExport": false
+      },
+      {
+        "specifier": "re",
+        "importedSymbols": [],
+        "isExternal": true,
+        "reExport": false
+      },
+      {
+        "specifier": "sys",
+        "importedSymbols": [],
+        "isExternal": true,
+        "reExport": false
+      },
+      {
+        "specifier": "pathlib",
+        "importedSymbols": [
+          "Path"
+        ],
+        "isExternal": true,
+        "reExport": false
+      }
+    ],
+    "dependencies": [
+      "argparse",
+      "datetime",
+      "re",
+      "sys",
+      "pathlib"
+    ],
+    "symbols": [
+      {
+        "id": "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:slugify.function",
+        "name": "slugify",
+        "kind": "function",
+        "signature": "def slugify(text: str) -> str: slug = re.sub(r\"[^a-z0-9]+\", \"-\", text.lower()).strip(\"-\") return slug or \"note\"",
+        "exported": true,
+        "calls": [],
+        "extends": [],
+        "implements": []
+      },
+      {
+        "id": "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:resolve-source.function",
+        "name": "resolve_source",
+        "kind": "function",
+        "signature": "def resolve_source(raw_id: str) -> str: raw_id = raw_id.strip() kind, sep, slug = raw_id.partition(\":\") if sep and slug: directory = KIND_DIRS.get(kind, \"sources\") else: directo...",
+        "exported": true,
+        "calls": [],
+        "extends": [],
+        "implements": []
+      },
+      {
+        "id": "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:build-note.function",
+        "name": "build_note",
+        "kind": "function",
+        "signature": "def build_note(title: str, body: str, source_ids: list[str], tags: list[str], today: str) -> str: safe_title = title.replace('\"', \"'\") all_tags = [\"remembered\", \"synthesized-not...",
+        "exported": true,
+        "calls": [
+          "resolve_source"
+        ],
+        "extends": [],
+        "implements": []
+      },
+      {
+        "id": "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:split-csv.function",
+        "name": "split_csv",
+        "kind": "function",
+        "signature": "def split_csv(value: str) -> list[str]: return [item.strip() for item in value.split(\",\") if item.strip()]",
+        "exported": true,
+        "calls": [],
+        "extends": [],
+        "implements": []
+      },
+      {
+        "id": "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:parse-args.function",
+        "name": "parse_args",
+        "kind": "function",
+        "signature": "def parse_args(argv): p = argparse.ArgumentParser( prog=\"sv-remember\", description=\"File an agent-synthesized note into the SwarmVault inbox.\", ) p.add_argument(\"--title\", requi...",
+        "exported": true,
+        "calls": [],
+        "extends": [],
+        "implements": []
+      },
+      {
+        "id": "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:main.function",
+        "name": "main",
+        "kind": "function",
+        "signature": "def main(argv=None, stdin=None) -> int: args = parse_args(sys.argv[1:] if argv is None else argv) stream = sys.stdin if stdin is None else stdin body = stream.read().strip() if ...",
+        "exported": true,
+        "calls": [
+          "slugify",
+          "build_note",
+          "split_csv",
+          "parse_args",
+          "Path"
+        ],
+        "extends": [],
+        "implements": []
+      }
+    ],
+    "exports": [
+      "slugify",
+      "resolve_source",
+      "build_note",
+      "split_csv",
+      "parse_args",
+      "main"
+    ],
+    "diagnostics": []
+  },
+  "producedAt": "2026-06-30T20:23:20.437Z"
+}

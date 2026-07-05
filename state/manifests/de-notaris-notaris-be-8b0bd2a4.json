@@ -1,0 +1,108 @@
+{
+  "sourceId": "de-notaris-notaris-be-8b0bd2a4",
+  "title": "De notaris | notaris.be",
+  "originType": "url",
+  "sourceKind": "markdown",
+  "url": "https://www.notaris.be/",
+  "storedPath": "raw/sources/de-notaris-notaris-be-8b0bd2a4.md",
+  "extractedTextPath": "state/extracts/de-notaris-notaris-be-8b0bd2a4.md",
+  "extractedMetadataPath": "state/extracts/de-notaris-notaris-be-8b0bd2a4.json",
+  "extractionHash": "ae870ea096c17d7e91bf7ac2955ff6669116a354acdf97a7b2f84255c5cdef2a",
+  "mimeType": "text/markdown",
+  "contentHash": "8b0bd2a4b4207b87aed343f58869f33f5bede5fa2d9bed85c2b7014c76e4911e",
+  "semanticHash": "bfec2bbc213f9cd567eeef295b7a0e90cee83d884137e179c03030e0d96d2b14",
+  "createdAt": "2026-07-03T14:08:55.096Z",
+  "updatedAt": "2026-07-03T14:08:55.096Z",
+  "attachments": [
+    {
+      "path": "raw/assets/de-notaris-notaris-be-8b0bd2a4/www.notaris.be/themes/custom/notaris/images/logos/logo--nl-c408b581.svg",
+      "mimeType": "image/svg+xml",
+      "originalPath": "https://www.notaris.be/themes/custom/notaris/images/logos/logo--nl.svg"
+    },
+    {
+      "path": "raw/assets/de-notaris-notaris-be-8b0bd2a4/www.notaris.be/sites/default/files/styles/hero_sm/public/images/Gelukkig%20gezin%20in%20een%20veld.png-be9832a2.webp",
+      "mimeType": "image/webp",
+      "originalPath": "https://www.notaris.be/sites/default/files/styles/hero_sm/public/images/Gelukkig%20gezin%20in%20een%20veld.png.webp?itok=el04h0Bq"
+    },
+    {
+      "path": "raw/assets/de-notaris-notaris-be-8b0bd2a4/www.notaris.be/sites/default/files/styles/960w_ratio_3_4/public/images/Untitled%20%28Twitter%20Post%29%20%281%29.png-14f302d5.webp",
+      "mimeType": "image/webp",
+      "originalPath": "https://www.notaris.be/sites/default/files/styles/960w_ratio_3_4/public/images/Untitled%20%28Twitter%20Post%29%20%281%29.png.webp?itok=qmzstMfp"
+    },
+    {
+      "path": "raw/assets/de-notaris-notaris-be-8b0bd2a4/www.notaris.be/sites/default/files/styles/400w_ratio_1_1/public/images/Ondernemersbarometer%202026.png-c644c321.webp",
+      "mimeType": "image/webp",
+      "originalPath": "https://www.notaris.be/sites/default/files/styles/400w_ratio_1_1/public/images/Ondernemersbarometer%202026.png.webp?h=c86461c8&itok=c9jbTj4D"
+    },
+    {
+      "path": "raw/assets/de-notaris-notaris-be-8b0bd2a4/www.notaris.be/sites/default/files/styles/400w_ratio_1_1/public/images/Untitled%20%28Twitter%20Post%29.png-24207ca5.webp",
+      "mimeType": "image/webp",
+      "originalPath": "https://www.notaris.be/sites/default/files/styles/400w_ratio_1_1/public/images/Untitled%20%28Twitter%20Post%29.png.webp?itok=vaZJAbn0"
+    },
+    {
+      "path": "raw/assets/de-notaris-notaris-be-8b0bd2a4/www.notaris.be/sites/default/files/styles/400w_ratio_1_1/public/images/Notaris.be%20-%20Header%20image_6.png-f1747151.webp",
+      "mimeType": "image/webp",
+      "originalPath": "https://www.notaris.be/sites/default/files/styles/400w_ratio_1_1/public/images/Notaris.be%20-%20Header%20image_6.png.webp?itok=WZxOP6ur"
+    },
+    {
+      "path": "raw/assets/de-notaris-notaris-be-8b0bd2a4/www.notaris.be/sites/default/files/styles/400w_ratio_1_1/public/images/6.png-db98880c.webp",
+      "mimeType": "image/webp",
+      "originalPath": "https://www.notaris.be/sites/default/files/styles/400w_ratio_1_1/public/images/6.png.webp?h=58b3ecf5&itok=JexsQAza"
+    },
+    {
+      "path": "raw/assets/de-notaris-notaris-be-8b0bd2a4/www.notaris.be/sites/default/files/styles/400w_ratio_2_3/public/images/56%25%20%283%29.png-d5fac927.webp",
+      "mimeType": "image/webp",
+      "originalPath": "https://www.notaris.be/sites/default/files/styles/400w_ratio_2_3/public/images/56%25%20%283%29.png.webp?itok=DDhm4_yA"
+    },
+    {
+      "path": "raw/assets/de-notaris-notaris-be-8b0bd2a4/www.notaris.be/sites/default/files/styles/400w/public/images/Not-So-FAQ-header.png-77c836ee.webp",
+      "mimeType": "image/webp",
+      "originalPath": "https://www.notaris.be/sites/default/files/styles/400w/public/images/Not-So-FAQ-header.png.webp?h=920929c4&itok=V9NSizhw"
+    },
+    {
+      "path": "raw/assets/de-notaris-notaris-be-8b0bd2a4/www.notaris.be/sites/default/files/styles/400w/public/images/Een%20groep%20collegas%20die%20aan%20het%20brainstormen%20zijn.png-9e386a00.webp",
+      "mimeType": "image/webp",
+      "originalPath": "https://www.notaris.be/sites/default/files/styles/400w/public/images/Een%20groep%20collegas%20die%20aan%20het%20brainstormen%20zijn.png.webp?itok=ZjK5jWoH"
+    },
+    {
+      "path": "raw/assets/de-notaris-notaris-be-8b0bd2a4/www.notaris.be/sites/default/files/styles/400w/public/images/56%25%20%285%29.png-18aea817.webp",
+      "mimeType": "image/webp",
+      "originalPath": "https://www.notaris.be/sites/default/files/styles/400w/public/images/56%25%20%285%29.png.webp?itok=9pLrZdsN"
+    },
+    {
+      "path": "raw/assets/de-notaris-notaris-be-8b0bd2a4/www.notaris.be/sites/default/files/styles/400w/public/images/96a4e2b796c8c5d0e1d0908f3cc42c861e6bf342_0.png-9f74af1d.webp",
+      "mimeType": "image/webp",
+      "originalPath": "https://www.notaris.be/sites/default/files/styles/400w/public/images/96a4e2b796c8c5d0e1d0908f3cc42c861e6bf342_0.png.webp?itok=1FKPoQvz"
+    },
+    {
+      "path": "raw/assets/de-notaris-notaris-be-8b0bd2a4/www.notaris.be/sites/default/files/styles/400w/public/images/BIDDIT_v2.png-1dcebe38.webp",
+      "mimeType": "image/webp",
+      "originalPath": "https://www.notaris.be/sites/default/files/styles/400w/public/images/BIDDIT_v2.png.webp?itok=swMAQMOF"
+    },
+    {
+      "path": "raw/assets/de-notaris-notaris-be-8b0bd2a4/www.notaris.be/sites/default/files/styles/400w/public/images/sms-logo_nl.png-84bbe9ab.webp",
+      "mimeType": "image/webp",
+      "originalPath": "https://www.notaris.be/sites/default/files/styles/400w/public/images/sms-logo_nl.png.webp?itok=9qYg1vY3"
+    },
+    {
+      "path": "raw/assets/de-notaris-notaris-be-8b0bd2a4/www.notaris.be/sites/default/files/styles/400w/public/images/3ba5f8cca6ea6b09dda629dd29f708329abce34b.png-ddaac5c5.webp",
+      "mimeType": "image/webp",
+      "originalPath": "https://www.notaris.be/sites/default/files/styles/400w/public/images/3ba5f8cca6ea6b09dda629dd29f708329abce34b.png.webp?itok=wsFNTGe2"
+    },
+    {
+      "path": "raw/assets/de-notaris-notaris-be-8b0bd2a4/www.notaris.be/sites/default/files/styles/400w/public/images/notaris.be-vastgoedbarometer-logo-compact.png-3de953f5.webp",
+      "mimeType": "image/webp",
+      "originalPath": "https://www.notaris.be/sites/default/files/styles/400w/public/images/notaris.be-vastgoedbarometer-logo-compact.png.webp?itok=uM_PfL4e"
+    },
+    {
+      "path": "raw/assets/de-notaris-notaris-be-8b0bd2a4/www.notaris.be/sites/default/files/styles/400w/public/images/logo_immo_notaris-wide%20%28002%29.png-b780fc32.webp",
+      "mimeType": "image/webp",
+      "originalPath": "https://www.notaris.be/sites/default/files/styles/400w/public/images/logo_immo_notaris-wide%20%28002%29.png.webp?itok=NSRF3mmz"
+    },
+    {
+      "path": "raw/assets/de-notaris-notaris-be-8b0bd2a4/www.notaris.be/themes/custom/notaris/images/logos/logo--nl--white-edf79a2d.svg",
+      "mimeType": "image/svg+xml",
+      "originalPath": "https://www.notaris.be/themes/custom/notaris/images/logos/logo--nl--white.svg"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "analysisVersion": 8,
+  "sourceId": "myprivacy-dpgmedia-be-16f062da",
+  "sourceHash": "16f062dac30223340e1f0c681ed0cabd4af73c7c78afa0484bf615462a23c139",
+  "semanticHash": "10b4caa9acea4744e758c4cf68f562e4a81c29966defb99e702b4a00773a284d",
+  "extractionHash": "a879253d1a52443ab60230d380d92958a8afbce17e4b7ed3e118e6d1748e07ed",
+  "schemaHash": "00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2",
+  "title": "myprivacy.dpgmedia.be",
+  "summary": "dpg media logo",
+  "concepts": [
+    {
+      "id": "concept:logo",
+      "name": "logo",
+      "description": "Frequently referenced concept in myprivacy.dpgmedia.be."
+    },
+    {
+      "id": "concept:media",
+      "name": "media",
+      "description": "Frequently referenced concept in myprivacy.dpgmedia.be."
+    }
+  ],
+  "entities": [],
+  "claims": [
+    {
+      "id": "claim:myprivacy-dpgmedia-be-16f062da:1",
+      "text": "dpg media logo",
+      "confidence": 0.55,
+      "status": "extracted",
+      "polarity": "neutral",
+      "citation": "myprivacy-dpgmedia-be-16f062da"
+    }
+  ],
+  "questions": [
+    "How does logo relate to myprivacy.dpgmedia.be?",
+    "How does media relate to myprivacy.dpgmedia.be?"
+  ],
+  "tags": [],
+  "rationales": [],
+  "producedAt": "2026-06-29T23:56:49.904Z"
+}

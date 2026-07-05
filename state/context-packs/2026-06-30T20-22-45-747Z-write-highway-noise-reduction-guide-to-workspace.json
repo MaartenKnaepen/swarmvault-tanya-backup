@@ -1,0 +1,538 @@
+{
+  "id": "2026-06-30T20-22-45-747Z-write-highway-noise-reduction-guide-to-workspace",
+  "title": "Context Pack: Write highway noise reduction guide to workspace",
+  "goal": "Write highway noise reduction guide to workspace",
+  "createdAt": "2026-06-30T20:22:45.747Z",
+  "format": "markdown",
+  "budgetTokens": 1000,
+  "estimatedTokens": 981,
+  "artifactPath": "/mnt/data/knowledge-tanya/state/context-packs/2026-06-30T20-22-45-747Z-write-highway-noise-reduction-guide-to-workspace.json",
+  "markdownPath": "/mnt/data/knowledge-tanya/wiki/context/2026-06-30T20-22-45-747Z-write-highway-noise-reduction-guide-to-workspace.md",
+  "citations": [
+    "swarmvault-schema-b10ad2d9",
+    "projects-acb5fd10"
+  ],
+  "relatedPageIds": [
+    "source:swarmvault-schema-b10ad2d9",
+    "output:highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p",
+    "source:swarmvault-config-a48adfce",
+    "source:candidates-5d9c2771",
+    "source:insights-1398dcf3",
+    "source:projects-acb5fd10",
+    "concept:candidates",
+    "concept:pages",
+    "concept:insights",
+    "concept:authored",
+    "entity:insights",
+    "concept:should",
+    "concept:source",
+    "concept:vault",
+    "concept:claims",
+    "concept:concept",
+    "concept:domain",
+    "entity:schema-edit"
+  ],
+  "relatedNodeIds": [
+    "source:swarmvault-schema-b10ad2d9",
+    "concept:should",
+    "concept:source",
+    "concept:vault",
+    "concept:claims",
+    "concept:concept",
+    "concept:domain",
+    "entity:schema-edit",
+    "entity:swarmvault",
+    "entity:vault-purpose-describe",
+    "entity:naming-conventions-prefer",
+    "entity:page-structure-rules-source",
+    "entity:categories-list",
+    "source:projects-acb5fd10",
+    "concept:projects",
+    "concept:build",
+    "concept:compile",
+    "concept:index",
+    "concept:project",
+    "concept:rollups",
+    "entity:projects-run"
+  ],
+  "relatedSourceIds": [
+    "swarmvault-schema-b10ad2d9",
+    "projects-acb5fd10"
+  ],
+  "graphQuery": {
+    "question": "Write highway noise reduction guide to workspace",
+    "traversal": "bfs",
+    "seedNodeIds": [
+      "source:swarmvault-schema-b10ad2d9",
+      "concept:should",
+      "concept:source",
+      "concept:vault",
+      "concept:claims",
+      "concept:concept",
+      "concept:domain",
+      "entity:schema-edit",
+      "entity:swarmvault",
+      "entity:vault-purpose-describe",
+      "entity:naming-conventions-prefer",
+      "entity:page-structure-rules-source",
+      "entity:categories-list",
+      "concept:compile",
+      "concept:index",
+      "concept:object",
+      "concept:keys",
+      "concept:local",
+      "concept:false",
+      "concept:agents",
+      "concept:heuristic",
+      "entity:format",
+      "entity:top",
+      "entity:size",
+      "entity:nested",
+      "entity:schema",
+      "entity:preview",
+      "source:insights-1398dcf3",
+      "source:candidates-5d9c2771",
+      "source:projects-acb5fd10",
+      "source:swarmvault-config-a48adfce",
+      "concept:insights",
+      "concept:swarmvault",
+      "concept:candidate",
+      "concept:candidates",
+      "concept:pages",
+      "concept:stage",
+      "entity:candidates",
+      "entity:candidates-run",
+      "concept:applies",
+      "concept:authored",
+      "concept:during",
+      "entity:insights",
+      "concept:projects",
+      "concept:build",
+      "concept:project",
+      "concept:rollups",
+      "entity:projects-run"
+    ],
+    "seedPageIds": [
+      "source:swarmvault-schema-b10ad2d9",
+      "output:highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p",
+      "source:swarmvault-config-a48adfce",
+      "source:candidates-5d9c2771",
+      "source:insights-1398dcf3",
+      "source:projects-acb5fd10",
+      "concept:candidates",
+      "concept:pages",
+      "concept:insights",
+      "concept:authored",
+      "entity:insights"
+    ],
+    "visitedNodeIds": [
+      "source:swarmvault-schema-b10ad2d9",
+      "concept:should",
+      "concept:source",
+      "concept:vault",
+      "concept:claims",
+      "concept:concept",
+      "concept:domain",
+      "entity:schema-edit"
+    ],
+    "visitedEdgeIds": [
+      "similar-embed:dc892e6dedbdfc1f",
+      "swarmvault-schema-b10ad2d9->concept:should",
+      "swarmvault-schema-b10ad2d9->concept:source",
+      "swarmvault-schema-b10ad2d9->concept:vault",
+      "swarmvault-schema-b10ad2d9->concept:claims",
+      "swarmvault-schema-b10ad2d9->concept:concept",
+      "swarmvault-schema-b10ad2d9->concept:domain",
+      "swarmvault-schema-b10ad2d9->entity:schema-edit"
+    ],
+    "hyperedgeIds": [],
+    "pageIds": [
+      "source:swarmvault-schema-b10ad2d9",
+      "output:highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p",
+      "source:swarmvault-config-a48adfce",
+      "source:candidates-5d9c2771",
+      "source:insights-1398dcf3",
+      "source:projects-acb5fd10",
+      "concept:candidates",
+      "concept:pages",
+      "concept:insights",
+      "concept:authored",
+      "entity:insights",
+      "concept:should",
+      "concept:source",
+      "concept:vault",
+      "concept:claims",
+      "concept:concept",
+      "concept:domain",
+      "entity:schema-edit"
+    ],
+    "communities": [
+      "community:should-4"
+    ],
+    "matches": [
+      {
+        "type": "page",
+        "id": "output:highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p",
+        "label": "Highway noise reduction garden Belgium Flanders practical guide noise barriers plants regulations costs dB reduction",
+        "score": 54.68
+      },
+      {
+        "type": "page",
+        "id": "concept:insights",
+        "label": "insights",
+        "score": 49.55
+      },
+      {
+        "type": "page",
+        "id": "source:swarmvault-schema-b10ad2d9",
+        "label": "SwarmVault Schema",
+        "score": 47.43
+      },
+      {
+        "type": "node",
+        "id": "entity:insights",
+        "label": "Insights",
+        "score": 47.06
+      },
+      {
+        "type": "page",
+        "id": "concept:authored",
+        "label": "authored",
+        "score": 46.21
+      },
+      {
+        "type": "page",
+        "id": "entity:insights",
+        "label": "Insights",
+        "score": 45.78
+      },
+      {
+        "type": "node",
+        "id": "concept:insights",
+        "label": "insights",
+        "score": 44.79
+      },
+      {
+        "type": "node",
+        "id": "concept:authored",
+        "label": "authored",
+        "score": 43.75
+      }
+    ],
+    "topMatchPagePath": "outputs/highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p.md",
+    "summary": "Top matches: Highway noise reduction garden Belgium Flanders practical guide noise barriers plants regulations costs dB reduction (page, score 54.68, page outputs/highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p.md); insights (page, score 49.55, page concepts/insights.md); SwarmVault Schema (page, score 47.43, page sources/swarmvault-schema-b10ad2d9.md); Insights (node, score 47.06, page entities/insights.md); authored (page, score 46.21, page concepts/authored.md); Insights (page, score 45.78, page entities/insights.md); insights (node, score 44.79, page concepts/insights.md); authored (node, score 43.75, page concepts/authored.md)\nSeeds: source:swarmvault-schema-b10ad2d9, concept:should, concept:source, concept:vault, concept:claims, concept:concept, concept:domain, entity:schema-edit, entity:swarmvault, entity:vault-purpose-describe, entity:naming-conventions-prefer, entity:page-structure-rules-source, entity:categories-list, concept:compile, concept:index (+33 more)\nVisited nodes: 8\nVisited edges: 8\nTouched group patterns: 0\nCommunities: community:should-4\nPages: source:swarmvault-schema-b10ad2d9, output:highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p, source:swarmvault-config-a48adfce, source:candidates-5d9c2771, source:insights-1398dcf3, source:projects-acb5fd10, concept:candidates, concept:pages, concept:insights, concept:authored, entity:insights, concept:should, concept:source, concept:vault, concept:claims, concept:concept, concept:domain, entity:schema-edit",
+    "filterStats": {
+      "active": false,
+      "droppedEdges": 0,
+      "droppedNodes": 0,
+      "expandedRelations": []
+    }
+  },
+  "items": [
+    {
+      "id": "page:source:swarmvault-schema-b10ad2d9",
+      "kind": "page",
+      "title": "SwarmVault Schema",
+      "reason": "graph traversal page",
+      "score": 100,
+      "excerpt": "# SwarmVault Schema Source ID: `swarmvault-schema-b10ad2d9` Source Kind: `markdown` Source Path: `/mnt/data/knowledge-tanya/swarmvault.schema.md` Source Class: `first_party` ## Summary SwarmVault Schema Edit this file to teach SwarmVault how this vault should be organized and maintained. ## Vault Purpose - Describe the domain this vault covers. - Note the intended audience and the kinds of questions the vault should answer well. ## Concepts - [[concepts/should|should]]: Frequently referenced concept in SwarmVault Schema. - [[concepts/source|source]]: Frequently referenced concept in SwarmVault Schema. - [[concepts/vault|vault]]: Frequently referenced concept in SwarmVault Schema. - [[concepts/claims|claims]]: Frequently referenced concept in SwarmVault Schema. - [[concepts/concept|concept]]: Frequently referenced concept in SwarmVault Schema. - [[concepts/domain|domain]]: Frequently referenced concept in SwarmVault Schema. ## Entities - [[entities/schema-edit|Schema Edit]]: Named entity mentioned in SwarmVault Schema. - [[entities/swarmvault|SwarmVault]]: Named entity mentioned in SwarmVault Schema. - [[entities/vault-purpose-describe|Vault Purpose - Describe]]: Named entity mentioned in SwarmVault Schema. - [[entities/naming-conventions-prefer|Naming Conventions - Prefer]]: Named entity mentioned in SwarmVault Schema. - [[entities/page-structure-rules-source|Page Structure Rules - Source]]: Named entity mentioned in SwarmVault Schema. - [[entities/categories-list|Categories - List]]: Named entity mentioned in SwarmVault Schema. ## Claims - SwarmVault Schema Edit this file to teach SwarmVault how this vault should be organized and maintained. [source:swarmvault-schema-b10ad2d9] - ## Vault Purpose - Describe the domain this vault covers. [source:swarmvault-schema-b10ad2d9] - - Note the intended audience and the kinds of questions the vault should answer well. [source:swarmvault-schema-b10ad2d9] - ## Naming Conventions - Prefer stable, descriptive page titles. [source:swarmvault-schema-b10ad2d9] ## Questions - How does should relate to SwarmVault Schema? - How does source relate to SwarmVault Schema? - How does vault relate to SwarmVault Schema? ## Related Outp...",
+      "path": "sources/swarmvault-schema-b10ad2d9.md",
+      "pageId": "source:swarmvault-schema-b10ad2d9",
+      "sourceIds": [
+        "swarmvault-schema-b10ad2d9"
+      ],
+      "pageIds": [
+        "source:swarmvault-schema-b10ad2d9"
+      ],
+      "nodeIds": [
+        "source:swarmvault-schema-b10ad2d9",
+        "concept:should",
+        "concept:source",
+        "concept:vault",
+        "concept:claims",
+        "concept:concept",
+        "concept:domain",
+        "entity:schema-edit",
+        "entity:swarmvault",
+        "entity:vault-purpose-describe",
+        "entity:naming-conventions-prefer",
+        "entity:page-structure-rules-source",
+        "entity:categories-list"
+      ],
+      "edgeIds": [],
+      "freshness": "fresh",
+      "confidence": 1,
+      "estimatedTokens": 606
+    },
+    {
+      "id": "page:source:projects-acb5fd10",
+      "kind": "page",
+      "title": "Projects",
+      "reason": "graph traversal page",
+      "score": 95,
+      "excerpt": "# Projects Source ID: `projects-acb5fd10` Source Kind: `markdown` Source Path: `/mnt/data/knowledge-tanya/wiki/projects/index.md` Source Class: `first_party` ## Summary title: Projects tags: index, projects # Projects - Run swarmvault compile to build project rollups. ## Concepts - [[concepts/projects|projects]]: Frequently referenced concept in Projects. - [[concepts/build|build]]: Frequently referenced concept in Projects. - [[concepts/compile|compile]]: Frequently referenced concept in Projects. - [[concepts/index|index]]: Frequently referenced concept in Projects. - [[concepts/project|project]]: Frequently referenced concept in Projects. - [[concepts/rollups|rollups]]: Frequently referenced concept in Projects. ## Entities - [[entities/projects-run|Projects - Run]]: Named entity mentioned in Projects. ## Claims - title: Projects tags: index, projects # Projects - Run swarmvault compile to build project rollups. [source:projects-acb5fd10] ## Questions - How does projects relate to Projects? - How does build relate to Projects? - How does compile relate to Projects? ## Related Outputs - [[outputs/highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p|Highway noise reduction garden Belgium Flanders practical guide noise barriers plants regulations costs dB reduction]]",
+      "path": "sources/projects-acb5fd10.md",
+      "pageId": "source:projects-acb5fd10",
+      "sourceIds": [
+        "projects-acb5fd10"
+      ],
+      "pageIds": [
+        "source:projects-acb5fd10"
+      ],
+      "nodeIds": [
+        "source:projects-acb5fd10",
+        "concept:projects",
+        "concept:build",
+        "concept:compile",
+        "concept:index",
+        "concept:project",
+        "concept:rollups",
+        "entity:projects-run"
+      ],
+      "edgeIds": [],
+      "freshness": "fresh",
+      "confidence": 1,
+      "estimatedTokens": 375
+    }
+  ],
+  "omittedItems": [
+    {
+      "id": "page:output:highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p",
+      "kind": "page",
+      "title": "Highway noise reduction garden Belgium Flanders practical guide noise barriers plants regulations costs dB reduction",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 680
+    },
+    {
+      "id": "page:source:swarmvault-config-a48adfce",
+      "kind": "page",
+      "title": "swarmvault.config",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 606
+    },
+    {
+      "id": "page:source:candidates-5d9c2771",
+      "kind": "page",
+      "title": "Candidates",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 410
+    },
+    {
+      "id": "page:source:insights-1398dcf3",
+      "kind": "page",
+      "title": "Insights",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 468
+    },
+    {
+      "id": "page:concept:candidates",
+      "kind": "page",
+      "title": "candidates",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 173
+    },
+    {
+      "id": "page:concept:pages",
+      "kind": "page",
+      "title": "pages",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 168
+    },
+    {
+      "id": "page:concept:insights",
+      "kind": "page",
+      "title": "insights",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 162
+    },
+    {
+      "id": "page:concept:authored",
+      "kind": "page",
+      "title": "authored",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 162
+    },
+    {
+      "id": "page:entity:insights",
+      "kind": "page",
+      "title": "Insights",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 160
+    },
+    {
+      "id": "page:concept:should",
+      "kind": "page",
+      "title": "should",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 224
+    },
+    {
+      "id": "page:concept:source",
+      "kind": "page",
+      "title": "source",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 158
+    },
+    {
+      "id": "page:concept:vault",
+      "kind": "page",
+      "title": "vault",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 247
+    },
+    {
+      "id": "page:concept:claims",
+      "kind": "page",
+      "title": "claims",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 158
+    },
+    {
+      "id": "page:concept:concept",
+      "kind": "page",
+      "title": "concept",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 159
+    },
+    {
+      "id": "page:concept:domain",
+      "kind": "page",
+      "title": "domain",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 182
+    },
+    {
+      "id": "page:concept:heuristic",
+      "kind": "page",
+      "title": "heuristic",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 466
+    },
+    {
+      "id": "page:concept:false",
+      "kind": "page",
+      "title": "false",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 462
+    },
+    {
+      "id": "page:entity:schema-edit",
+      "kind": "page",
+      "title": "Schema Edit",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 196
+    },
+    {
+      "id": "node:source:swarmvault-schema-b10ad2d9",
+      "kind": "node",
+      "title": "SwarmVault Schema",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 74
+    },
+    {
+      "id": "node:concept:should",
+      "kind": "node",
+      "title": "should",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 66
+    },
+    {
+      "id": "node:concept:source",
+      "kind": "node",
+      "title": "source",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 66
+    },
+    {
+      "id": "node:concept:vault",
+      "kind": "node",
+      "title": "vault",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 65
+    },
+    {
+      "id": "node:concept:claims",
+      "kind": "node",
+      "title": "claims",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 66
+    },
+    {
+      "id": "node:concept:concept",
+      "kind": "node",
+      "title": "concept",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 67
+    },
+    {
+      "id": "node:concept:domain",
+      "kind": "node",
+      "title": "domain",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 66
+    },
+    {
+      "id": "edge:similar-embed:dc892e6dedbdfc1f",
+      "kind": "edge",
+      "title": "swarmvault.config semantically_similar_to SwarmVault Schema",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 108
+    },
+    {
+      "id": "node:entity:schema-edit",
+      "kind": "node",
+      "title": "Schema Edit",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 69
+    },
+    {
+      "id": "edge:swarmvault-schema-b10ad2d9->concept:should",
+      "kind": "edge",
+      "title": "SwarmVault Schema mentions should",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 84
+    },
+    {
+      "id": "edge:swarmvault-schema-b10ad2d9->concept:source",
+      "kind": "edge",
+      "title": "SwarmVault Schema mentions source",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 83
+    },
+    {
+      "id": "edge:swarmvault-schema-b10ad2d9->concept:vault",
+      "kind": "edge",
+      "title": "SwarmVault Schema mentions vault",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 83
+    },
+    {
+      "id": "edge:swarmvault-schema-b10ad2d9->concept:claims",
+      "kind": "edge",
+      "title": "SwarmVault Schema mentions claims",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 83
+    },
+    {
+      "id": "edge:swarmvault-schema-b10ad2d9->concept:concept",
+      "kind": "edge",
+      "title": "SwarmVault Schema mentions concept",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 84
+    },
+    {
+      "id": "edge:swarmvault-schema-b10ad2d9->concept:domain",
+      "kind": "edge",
+      "title": "SwarmVault Schema mentions domain",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 84
+    },
+    {
+      "id": "edge:swarmvault-schema-b10ad2d9->entity:schema-edit",
+      "kind": "edge",
+      "title": "SwarmVault Schema mentions Schema Edit",
+      "reason": "token_budget_exceeded",
+      "estimatedTokens": 86
+    }
+  ]
+}

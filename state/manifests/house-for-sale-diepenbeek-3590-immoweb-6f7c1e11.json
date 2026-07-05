@@ -1,0 +1,48 @@
+{
+  "sourceId": "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11",
+  "title": "House for sale - diepenbeek (3590) - Immoweb",
+  "originType": "url",
+  "sourceKind": "markdown",
+  "url": "https://web.archive.org/web/20230604004630/https://www.immoweb.be/en/search/house/for-sale/diepenbeek/3590",
+  "storedPath": "raw/sources/house-for-sale-diepenbeek-3590-immoweb-6f7c1e11.md",
+  "extractedTextPath": "state/extracts/house-for-sale-diepenbeek-3590-immoweb-6f7c1e11.md",
+  "extractedMetadataPath": "state/extracts/house-for-sale-diepenbeek-3590-immoweb-6f7c1e11.json",
+  "extractionHash": "302f8920e7db8193dcd55368eb694e995633aab4a52550f764c46b01882fcce5",
+  "mimeType": "text/markdown",
+  "contentHash": "6f7c1e114c02adfd2f7011f119cff597f2319362c4d9751ea4a6ca5bd68ff2f3",
+  "semanticHash": "d12b1daec6aa3ec63ebcf23055350a2608b22c3d83e2b36b9a0e7759dc2f48fa",
+  "createdAt": "2026-07-03T09:23:06.375Z",
+  "updatedAt": "2026-07-03T09:23:06.375Z",
+  "attachments": [
+    {
+      "path": "raw/assets/house-for-sale-diepenbeek-3590-immoweb-6f7c1e11/web.archive.org/web/20230604004630im_/https:/assets.immoweb.be/125/images/logos/brand-logo-10c68cb1.svg",
+      "mimeType": "image/svg+xml",
+      "originalPath": "https://web.archive.org/web/20230604004630im_/https://assets.immoweb.be/125/images/logos/brand-logo.svg"
+    },
+    {
+      "path": "raw/assets/house-for-sale-diepenbeek-3590-immoweb-6f7c1e11/web.archive.org/web/20230604004630im_/https:/assets.immoweb.be/125/images/artworks/errors/error-500-3703a94b.svg",
+      "mimeType": "image/svg+xml",
+      "originalPath": "https://web.archive.org/web/20230604004630im_/https://assets.immoweb.be/125/images/artworks/errors/error-500.svg"
+    },
+    {
+      "path": "raw/assets/house-for-sale-diepenbeek-3590-immoweb-6f7c1e11/web.archive.org/web/20230604004630im_/https:/static.immoweb.be/logos/3904192-5e708506.gif",
+      "mimeType": "image/gif",
+      "originalPath": "https://web.archive.org/web/20230604004630im_/https://static.immoweb.be/logos/3904192.gif?cache=2023480804177"
+    },
+    {
+      "path": "raw/assets/house-for-sale-diepenbeek-3590-immoweb-6f7c1e11/web.archive.org/web/20230604004630im_/https:/static.immoweb.be/logos/991437-e0bd389c.gif",
+      "mimeType": "image/gif",
+      "originalPath": "https://web.archive.org/web/20230604004630im_/https://static.immoweb.be/logos/991437.gif?cache=2017361202630"
+    },
+    {
+      "path": "raw/assets/house-for-sale-diepenbeek-3590-immoweb-6f7c1e11/web.archive.org/web/20230604004630im_/https:/static.immoweb.be/logos/3587131-032a1e2a.gif",
+      "mimeType": "image/gif",
+      "originalPath": "https://web.archive.org/web/20230604004630im_/https://static.immoweb.be/logos/3587131.gif?cache=2021320910103"
+    },
+    {
+      "path": "raw/assets/house-for-sale-diepenbeek-3590-immoweb-6f7c1e11/web.archive.org/web/20230604004630im_/https:/static.immoweb.be/logos/148908-d8ffba7d.gif",
+      "mimeType": "image/gif",
+      "originalPath": "https://web.archive.org/web/20230604004630im_/https://static.immoweb.be/logos/148908.gif?cache=2016051403707"
+    }
+  ]
+}

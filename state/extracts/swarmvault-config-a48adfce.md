@@ -7,8 +7,8 @@ Nested depth: 4
 ## Schema
 
 - workspace: object (5 keys)
-- providers: object (1 keys)
-- tasks: object (5 keys)
+- providers: object (2 keys)
+- tasks: object (6 keys)
 - viewer: object (1 keys)
 - profile: object (6 keys)
 - projects: object (0 keys)
@@ -41,6 +41,13 @@ Nested depth: 4
         "vision",
         "local"
       ]
+    },
+    "ollama-embed": {
+      "type": "openai",
+      "baseUrl": "http://localhost:11434/v1",
+      "apiKey": "ollama",
+      "model": "hf.co/jinaai/jina-embeddings-v5-text-small-retrieval-GGUF:Q4_K_M",
+      "capabilities": ["embeddings"]
     }
   },
   "tasks": {
@@ -48,20 +55,13 @@ Nested depth: 4
     "queryProvider": "local",
     "lintProvider": "local",
     "visionProvider": "local",
-    "imageProvider": "local"
+    "imageProvider": "local",
+    "embeddingProvider": "ollama-embed"
   },
   "viewer": {
-    "port": 4123
+    "port": 4124
   },
   "profile": {
     "presets": [],
-    "dashboardPack": "default",
-    "guidedSessionMode": "insights_only",
-    "dataviewBlocks": false,
-    "guidedIngestDefault": false,
-    "deepLintDefault": false
-  },
-  "projects": {},
-  "agents": [],
 …
 ```

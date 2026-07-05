@@ -1,0 +1,43 @@
+{
+  "sourceId": "home-kepler-938b95f3",
+  "title": "Home - Kepler",
+  "originType": "url",
+  "sourceKind": "markdown",
+  "url": "https://web.archive.org/web/20230301130610/https://kepler.be/",
+  "storedPath": "raw/sources/home-kepler-938b95f3.md",
+  "extractedTextPath": "state/extracts/home-kepler-938b95f3.md",
+  "extractedMetadataPath": "state/extracts/home-kepler-938b95f3.json",
+  "extractionHash": "d013dd955b967da061276b0c7b22c175de805aa585b1e52f41338444467845af",
+  "mimeType": "text/markdown",
+  "contentHash": "938b95f3fff37c889eb0c165b9cb53c5aca4a6579bf63296543f2e15f7ec40f6",
+  "semanticHash": "e35503d6434f23ccdcf06919fdf6a2052f0c1b11748ca25f731fc10cee87c09c",
+  "createdAt": "2026-07-03T09:29:05.100Z",
+  "updatedAt": "2026-07-03T09:29:05.100Z",
+  "attachments": [
+    {
+      "path": "raw/assets/home-kepler-938b95f3/web.archive.org/web/20230301130610im_/https:/kepler.be/wp-content/uploads/2022/12/logo-75980464.svg",
+      "mimeType": "image/svg+xml",
+      "originalPath": "https://web.archive.org/web/20230301130610im_/https://kepler.be/wp-content/uploads/2022/12/logo.svg"
+    },
+    {
+      "path": "raw/assets/home-kepler-938b95f3/web.archive.org/web/20230301130610im_/https:/kepler.be/wp-content/uploads/2022/12/6x12-Keuken_High-1200x799-e2c6f399.jpg",
+      "mimeType": "image/jpeg",
+      "originalPath": "https://web.archive.org/web/20230301130610im_/https://kepler.be/wp-content/uploads/2022/12/6x12-Keuken_High-1200x799.jpg"
+    },
+    {
+      "path": "raw/assets/home-kepler-938b95f3/web.archive.org/web/20230301130610im_/https:/kepler.be/wp-content/uploads/2022/12/6x12-Tuin_High-800x532-7f756489.jpg",
+      "mimeType": "image/jpeg",
+      "originalPath": "https://web.archive.org/web/20230301130610im_/https://kepler.be/wp-content/uploads/2022/12/6x12-Tuin_High-800x532.jpg"
+    },
+    {
+      "path": "raw/assets/home-kepler-938b95f3/web.archive.org/web/20230301130610im_/https:/kepler.be/wp-content/uploads/2022/12/6x12-Badkamer_High-800x532-fc63cc1c.jpg",
+      "mimeType": "image/jpeg",
+      "originalPath": "https://web.archive.org/web/20230301130610im_/https://kepler.be/wp-content/uploads/2022/12/6x12-Badkamer_High-800x532.jpg"
+    },
+    {
+      "path": "raw/assets/home-kepler-938b95f3/web.archive.org/web/20230301130610im_/https:/kepler.be/wp-content/uploads/2022/12/6x12-Slaapkamer_High-800x532-29b31ec4.jpg",
+      "mimeType": "image/jpeg",
+      "originalPath": "https://web.archive.org/web/20230301130610im_/https://kepler.be/wp-content/uploads/2022/12/6x12-Slaapkamer_High-800x532.jpg"
+    }
+  ]
+}

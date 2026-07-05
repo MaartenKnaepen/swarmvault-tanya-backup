@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "pending:modified:f88035415327",
+    "repoRoot": "/mnt/data/knowledge-tanya",
+    "path": "swarmvault.schema.md",
+    "changeType": "modified",
+    "detectedAt": "2026-06-30T20:23:20.402Z",
+    "sourceId": "swarmvault-schema-b10ad2d9",
+    "sourceKind": "markdown"
+  },
+  {
+    "id": "pending:removed:30508adbdddf",
+    "repoRoot": "/mnt/data/knowledge-tanya",
+    "path": "wiki/candidates/index.md",
+    "changeType": "removed",
+    "detectedAt": "2026-06-30T20:23:20.402Z",
+    "sourceId": "candidates-5d9c2771",
+    "sourceKind": "markdown"
+  },
+  {
+    "id": "pending:removed:5a826b73c039",
+    "repoRoot": "/mnt/data/knowledge-tanya",
+    "path": "wiki/insights/index.md",
+    "changeType": "removed",
+    "detectedAt": "2026-06-30T20:23:20.402Z",
+    "sourceId": "insights-1398dcf3",
+    "sourceKind": "markdown"
+  },
+  {
+    "id": "pending:removed:85581520ede7",
+    "repoRoot": "/mnt/data/knowledge-tanya",
+    "path": "wiki/projects/index.md",
+    "changeType": "removed",
+    "detectedAt": "2026-06-30T20:23:20.402Z",
+    "sourceId": "projects-acb5fd10",
+    "sourceKind": "markdown"
+  }
+]
