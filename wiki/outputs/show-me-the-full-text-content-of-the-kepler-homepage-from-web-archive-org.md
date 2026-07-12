@@ -148,7 +148,7 @@ question: Show me the full text content of the Kepler homepage from web.archive.
 output_format: markdown
 output_assets: []
 decay_score: 1
-last_confirmed_at: '2026-07-05T02:00:38.931Z'
+last_confirmed_at: '2026-07-12T02:00:45.084Z'
 ---
 # Show me the full text content of the Kepler homepage from web.archive.org
 

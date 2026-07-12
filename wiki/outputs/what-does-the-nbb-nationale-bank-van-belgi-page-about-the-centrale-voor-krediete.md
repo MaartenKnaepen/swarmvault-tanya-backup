@@ -131,7 +131,7 @@ question: >-
 output_format: markdown
 output_assets: []
 decay_score: 1
-last_confirmed_at: '2026-07-05T02:00:38.931Z'
+last_confirmed_at: '2026-07-12T02:00:45.084Z'
 ---
 # What does the NBB (Nationale Bank van België) page about the Centrale voor Kredieten aan Particulieren (CKP) say about how it works and what information it contains about consumer credit?
 

@@ -28,7 +28,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-07-02T17:51:22.290Z'
-updated_at: '2026-07-05T02:00:36.412Z'
+updated_at: '2026-07-12T02:00:42.572Z'
 compiled_from:
   - schenkbelasting-da146a89
 managed_by: system
@@ -65,7 +65,7 @@ source_hashes:
 source_semantic_hashes:
   schenkbelasting-da146a89: 69e03a7fa46084aa8608c8a9b41ce8dce4fc79a0687245fe4a8f8a7c0964506e
 decay_score: 1
-last_confirmed_at: '2026-07-05T02:00:38.931Z'
+last_confirmed_at: '2026-07-12T02:00:45.084Z'
 ---
 # Schenkbelasting
 

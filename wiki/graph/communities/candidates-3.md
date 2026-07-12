@@ -36,8 +36,8 @@ node_ids: &ref_0
 freshness: fresh
 status: active
 confidence: 1
-created_at: '2026-07-03T23:35:21.093Z'
-updated_at: '2026-07-03T23:35:21.093Z'
+created_at: '2026-07-12T02:00:44.631Z'
+updated_at: '2026-07-12T02:00:44.631Z'
 compiled_from:
   - insights-1398dcf3
   - projects-acb5fd10

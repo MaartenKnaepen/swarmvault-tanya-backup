@@ -17,7 +17,7 @@ freshness: fresh
 status: active
 confidence: 0.65
 created_at: '2026-05-22T19:04:20.085Z'
-updated_at: '2026-07-05T02:00:36.502Z'
+updated_at: '2026-07-12T02:00:42.655Z'
 compiled_from:
   - swarmvault-config-a48adfce
 managed_by: system
@@ -31,7 +31,7 @@ source_hashes:
 source_semantic_hashes:
   swarmvault-config-a48adfce: a48adfced81a10f2038f523d6b935d4e392fd752cc7fc79d6c2306d5a13470b1
 decay_score: 1
-last_confirmed_at: '2026-07-05T02:00:38.931Z'
+last_confirmed_at: '2026-07-12T02:00:45.084Z'
 ---
 # local
 
