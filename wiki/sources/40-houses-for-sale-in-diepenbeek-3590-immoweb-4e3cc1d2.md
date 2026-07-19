@@ -28,7 +28,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-07-03T23:35:19.603Z'
-updated_at: '2026-07-12T02:00:42.551Z'
+updated_at: '2026-07-19T02:01:30.770Z'
 compiled_from:
   - 40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2
 managed_by: system
@@ -51,7 +51,7 @@ source_hashes:
 source_semantic_hashes:
   40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2: 84da8c2c215fb998f2f628931b7bac2de8502b532123edddc9fd69244ce33820
 decay_score: 1
-last_confirmed_at: '2026-07-12T02:00:45.084Z'
+last_confirmed_at: '2026-07-19T02:01:33.412Z'
 ---
 # 40 HOUSES for sale in Diepenbeek (3590) - Immoweb
 

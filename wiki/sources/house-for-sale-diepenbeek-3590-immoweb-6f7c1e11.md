@@ -24,7 +24,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-07-03T23:35:19.613Z'
-updated_at: '2026-07-12T02:00:42.568Z'
+updated_at: '2026-07-19T02:01:30.789Z'
 compiled_from:
   - house-for-sale-diepenbeek-3590-immoweb-6f7c1e11
 managed_by: system
@@ -43,7 +43,7 @@ source_hashes:
 source_semantic_hashes:
   house-for-sale-diepenbeek-3590-immoweb-6f7c1e11: d12b1daec6aa3ec63ebcf23055350a2608b22c3d83e2b36b9a0e7759dc2f48fa
 decay_score: 1
-last_confirmed_at: '2026-07-12T02:00:45.084Z'
+last_confirmed_at: '2026-07-19T02:01:33.412Z'
 ---
 # House for sale - diepenbeek (3590) - Immoweb
 

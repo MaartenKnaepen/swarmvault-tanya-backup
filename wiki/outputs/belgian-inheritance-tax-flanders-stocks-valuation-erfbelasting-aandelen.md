@@ -29,7 +29,7 @@ question: Belgian inheritance tax Flanders stocks valuation erfbelasting aandele
 output_format: markdown
 output_assets: []
 decay_score: 1
-last_confirmed_at: '2026-07-12T02:00:45.084Z'
+last_confirmed_at: '2026-07-19T02:01:33.412Z'
 ---
 # Belgian inheritance tax Flanders stocks valuation erfbelasting aandelen
 

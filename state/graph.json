@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T02:00:42.758Z",
+  "generatedAt": "2026-07-19T02:01:31.005Z",
   "nodes": [
     {
       "id": "source:40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2",
@@ -10939,13 +10939,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.603Z",
-      "updatedAt": "2026-07-12T02:00:42.551Z",
+      "updatedAt": "2026-07-19T02:01:30.770Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:bouwinfo-f8d17c05",
@@ -11008,13 +11008,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.547Z",
-      "updatedAt": "2026-07-12T02:00:42.553Z",
+      "updatedAt": "2026-07-19T02:01:30.773Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:candidates-5d9c2771",
@@ -11068,13 +11068,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.070Z",
-      "updatedAt": "2026-07-12T02:00:42.554Z",
+      "updatedAt": "2026-07-19T02:01:30.775Z",
       "compiledFrom": [
         "candidates-5d9c2771"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da",
@@ -11126,13 +11126,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.727Z",
-      "updatedAt": "2026-07-12T02:00:42.556Z",
+      "updatedAt": "2026-07-19T02:01:30.777Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:de-notaris-notaris-be-8b0bd2a4",
@@ -11184,13 +11184,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.608Z",
-      "updatedAt": "2026-07-12T02:00:42.558Z",
+      "updatedAt": "2026-07-19T02:01:30.778Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
@@ -11245,13 +11245,13 @@
       ],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.549Z",
-      "updatedAt": "2026-07-12T02:00:42.559Z",
+      "updatedAt": "2026-07-19T02:01:30.780Z",
       "compiledFrom": [
         "default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
@@ -11305,13 +11305,13 @@
         "projects-acb5fd10"
       ],
       "createdAt": "2026-06-30T20:23:20.549Z",
-      "updatedAt": "2026-07-12T02:00:42.562Z",
+      "updatedAt": "2026-07-19T02:01:30.782Z",
       "compiledFrom": [
         "default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:dovendi-domain-for-sale-2d012a62",
@@ -11355,13 +11355,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.610Z",
-      "updatedAt": "2026-07-12T02:00:42.563Z",
+      "updatedAt": "2026-07-19T02:01:30.783Z",
       "compiledFrom": [
         "dovendi-domain-for-sale-2d012a62"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72",
@@ -11415,13 +11415,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.611Z",
-      "updatedAt": "2026-07-12T02:00:42.564Z",
+      "updatedAt": "2026-07-19T02:01:30.784Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:erfbelasting-b24e8569",
@@ -11490,13 +11490,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.571Z",
-      "updatedAt": "2026-07-12T02:00:42.565Z",
+      "updatedAt": "2026-07-19T02:01:30.785Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:home-kepler-7ece3282",
@@ -11550,13 +11550,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.612Z",
-      "updatedAt": "2026-07-12T02:00:42.566Z",
+      "updatedAt": "2026-07-19T02:01:30.786Z",
       "compiledFrom": [
         "home-kepler-7ece3282"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:home-kepler-938b95f3",
@@ -11610,13 +11610,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.613Z",
-      "updatedAt": "2026-07-12T02:00:42.567Z",
+      "updatedAt": "2026-07-19T02:01:30.787Z",
       "compiledFrom": [
         "home-kepler-938b95f3"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:house-for-sale-diepenbeek-3590-immoweb-6f7c1e11",
@@ -11662,13 +11662,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.613Z",
-      "updatedAt": "2026-07-12T02:00:42.568Z",
+      "updatedAt": "2026-07-19T02:01:30.789Z",
       "compiledFrom": [
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:insights-1398dcf3",
@@ -11720,13 +11720,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.071Z",
-      "updatedAt": "2026-07-12T02:00:42.569Z",
+      "updatedAt": "2026-07-19T02:01:30.790Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:myprivacy-dpgmedia-be-16f062da",
@@ -11760,13 +11760,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-29T23:56:49.926Z",
-      "updatedAt": "2026-07-12T02:00:42.570Z",
+      "updatedAt": "2026-07-19T02:01:30.790Z",
       "compiledFrom": [
         "myprivacy-dpgmedia-be-16f062da"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:projects-acb5fd10",
@@ -11818,13 +11818,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.072Z",
-      "updatedAt": "2026-07-12T02:00:42.571Z",
+      "updatedAt": "2026-07-19T02:01:30.791Z",
       "compiledFrom": [
         "projects-acb5fd10"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:schenkbelasting-da146a89",
@@ -11893,13 +11893,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.290Z",
-      "updatedAt": "2026-07-12T02:00:42.572Z",
+      "updatedAt": "2026-07-19T02:01:30.792Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:seerr-media-requests-available-ef141443",
@@ -11970,13 +11970,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.829Z",
-      "updatedAt": "2026-07-12T02:00:42.573Z",
+      "updatedAt": "2026-07-19T02:01:30.809Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:swarmvault-config-a48adfce",
@@ -12034,13 +12034,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.072Z",
-      "updatedAt": "2026-07-12T02:00:42.575Z",
+      "updatedAt": "2026-07-19T02:01:30.811Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:swarmvault-schema-b10ad2d9",
@@ -12104,13 +12104,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.076Z",
-      "updatedAt": "2026-07-12T02:00:42.576Z",
+      "updatedAt": "2026-07-19T02:01:30.812Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:web-archive-org-cdx-search-cdx-368de9df",
@@ -12139,13 +12139,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.619Z",
-      "updatedAt": "2026-07-12T02:00:42.577Z",
+      "updatedAt": "2026-07-19T02:01:30.813Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-368de9df"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:web-archive-org-cdx-search-cdx-37517e5f",
@@ -12174,13 +12174,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.619Z",
-      "updatedAt": "2026-07-12T02:00:42.577Z",
+      "updatedAt": "2026-07-19T02:01:30.814Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-37517e5f"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:web-archive-org-cdx-search-cdx-66fd206b",
@@ -12209,13 +12209,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.619Z",
-      "updatedAt": "2026-07-12T02:00:42.578Z",
+      "updatedAt": "2026-07-19T02:01:30.814Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-66fd206b"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:web-archive-org-cdx-search-cdx-81e7194d",
@@ -12244,13 +12244,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.619Z",
-      "updatedAt": "2026-07-12T02:00:42.579Z",
+      "updatedAt": "2026-07-19T02:01:30.815Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-81e7194d"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:web-archive-org-cdx-search-cdx-b75ec5c0",
@@ -12279,13 +12279,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.620Z",
-      "updatedAt": "2026-07-12T02:00:42.580Z",
+      "updatedAt": "2026-07-19T02:01:30.816Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-b75ec5c0"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:web-archive-org-cdx-search-cdx-c633b882",
@@ -12327,13 +12327,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.620Z",
-      "updatedAt": "2026-07-12T02:00:42.581Z",
+      "updatedAt": "2026-07-19T02:01:30.817Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-c633b882"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:web-archive-org-cdx-search-cdx-e3b0c442",
@@ -12362,13 +12362,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.620Z",
-      "updatedAt": "2026-07-12T02:00:42.581Z",
+      "updatedAt": "2026-07-19T02:01:30.818Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-e3b0c442"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:web-archive-org-cdx-search-cdx-eb0bd1b9",
@@ -12397,13 +12397,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.621Z",
-      "updatedAt": "2026-07-12T02:00:42.582Z",
+      "updatedAt": "2026-07-19T02:01:30.819Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-eb0bd1b9"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:web-archive-org-cdx-search-cdx-f3370364",
@@ -12432,13 +12432,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.621Z",
-      "updatedAt": "2026-07-12T02:00:42.583Z",
+      "updatedAt": "2026-07-19T02:01:30.819Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-f3370364"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4",
@@ -12492,13 +12492,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.575Z",
-      "updatedAt": "2026-07-12T02:00:42.584Z",
+      "updatedAt": "2026-07-19T02:01:30.820Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:www-google-com-30f04687",
@@ -12549,13 +12549,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.622Z",
-      "updatedAt": "2026-07-12T02:00:42.585Z",
+      "updatedAt": "2026-07-19T02:01:30.822Z",
       "compiledFrom": [
         "www-google-com-30f04687"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:www-google-com-3d8570f8",
@@ -12606,13 +12606,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.622Z",
-      "updatedAt": "2026-07-12T02:00:42.587Z",
+      "updatedAt": "2026-07-19T02:01:30.823Z",
       "compiledFrom": [
         "www-google-com-3d8570f8"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:www-google-com-8ca38364",
@@ -12663,13 +12663,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.623Z",
-      "updatedAt": "2026-07-12T02:00:42.588Z",
+      "updatedAt": "2026-07-19T02:01:30.824Z",
       "compiledFrom": [
         "www-google-com-8ca38364"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:www-google-com-a1e017e6",
@@ -12720,13 +12720,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.576Z",
-      "updatedAt": "2026-07-12T02:00:42.589Z",
+      "updatedAt": "2026-07-19T02:01:30.825Z",
       "compiledFrom": [
         "www-google-com-a1e017e6"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:www-google-com-d149a56e",
@@ -12777,13 +12777,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.624Z",
-      "updatedAt": "2026-07-12T02:00:42.590Z",
+      "updatedAt": "2026-07-19T02:01:30.826Z",
       "compiledFrom": [
         "www-google-com-d149a56e"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:www-google-com-efab024d",
@@ -12834,13 +12834,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.624Z",
-      "updatedAt": "2026-07-12T02:00:42.591Z",
+      "updatedAt": "2026-07-19T02:01:30.827Z",
       "compiledFrom": [
         "www-google-com-efab024d"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "source:zoeken-notaris-be-832736a2",
@@ -12905,13 +12905,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.738Z",
-      "updatedAt": "2026-07-12T02:00:42.592Z",
+      "updatedAt": "2026-07-19T02:01:30.829Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:diepenbeek",
@@ -12946,14 +12946,14 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.626Z",
-      "updatedAt": "2026-07-12T02:00:42.594Z",
+      "updatedAt": "2026-07-19T02:01:30.831Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2",
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:3590",
@@ -12988,14 +12988,14 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.627Z",
-      "updatedAt": "2026-07-12T02:00:42.595Z",
+      "updatedAt": "2026-07-19T02:01:30.833Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2",
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:house",
@@ -13026,13 +13026,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.627Z",
-      "updatedAt": "2026-07-12T02:00:42.596Z",
+      "updatedAt": "2026-07-19T02:01:30.834Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:hasselt",
@@ -13063,13 +13063,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.628Z",
-      "updatedAt": "2026-07-12T02:00:42.598Z",
+      "updatedAt": "2026-07-19T02:01:30.835Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:excluding",
@@ -13100,13 +13100,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.628Z",
-      "updatedAt": "2026-07-12T02:00:42.598Z",
+      "updatedAt": "2026-07-19T02:01:30.836Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:taxes",
@@ -13137,13 +13137,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.629Z",
-      "updatedAt": "2026-07-12T02:00:42.599Z",
+      "updatedAt": "2026-07-19T02:01:30.837Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:2026",
@@ -13183,13 +13183,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.576Z",
-      "updatedAt": "2026-07-12T02:00:42.600Z",
+      "updatedAt": "2026-07-19T02:01:30.838Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:bericht",
@@ -13229,13 +13229,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.576Z",
-      "updatedAt": "2026-07-12T02:00:42.601Z",
+      "updatedAt": "2026-07-19T02:01:30.839Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:berichten",
@@ -13275,13 +13275,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.577Z",
-      "updatedAt": "2026-07-12T02:00:42.602Z",
+      "updatedAt": "2026-07-19T02:01:30.840Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:categorie",
@@ -13321,13 +13321,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.577Z",
-      "updatedAt": "2026-07-12T02:00:42.603Z",
+      "updatedAt": "2026-07-19T02:01:30.841Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:door",
@@ -13367,13 +13367,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.577Z",
-      "updatedAt": "2026-07-12T02:00:42.604Z",
+      "updatedAt": "2026-07-19T02:01:30.842Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:laatste",
@@ -13413,13 +13413,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.577Z",
-      "updatedAt": "2026-07-12T02:00:42.605Z",
+      "updatedAt": "2026-07-19T02:01:30.843Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:candidates",
@@ -13454,13 +13454,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.077Z",
-      "updatedAt": "2026-07-12T02:00:42.606Z",
+      "updatedAt": "2026-07-19T02:01:30.844Z",
       "compiledFrom": [
         "candidates-5d9c2771"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:candidate",
@@ -13495,13 +13495,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.078Z",
-      "updatedAt": "2026-07-12T02:00:42.607Z",
+      "updatedAt": "2026-07-19T02:01:30.845Z",
       "compiledFrom": [
         "candidates-5d9c2771"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:compile",
@@ -13548,7 +13548,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.079Z",
-      "updatedAt": "2026-07-12T02:00:42.608Z",
+      "updatedAt": "2026-07-19T02:01:30.846Z",
       "compiledFrom": [
         "candidates-5d9c2771",
         "insights-1398dcf3",
@@ -13556,7 +13556,7 @@
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:index",
@@ -13597,14 +13597,14 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.128Z",
-      "updatedAt": "2026-07-12T02:00:42.609Z",
+      "updatedAt": "2026-07-19T02:01:30.847Z",
       "compiledFrom": [
         "candidates-5d9c2771",
         "projects-acb5fd10"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:pages",
@@ -13639,13 +13639,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.080Z",
-      "updatedAt": "2026-07-12T02:00:42.609Z",
+      "updatedAt": "2026-07-19T02:01:30.848Z",
       "compiledFrom": [
         "candidates-5d9c2771"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:stage",
@@ -13680,13 +13680,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.080Z",
-      "updatedAt": "2026-07-12T02:00:42.610Z",
+      "updatedAt": "2026-07-19T02:01:30.849Z",
       "compiledFrom": [
         "candidates-5d9c2771"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:particulieren",
@@ -13717,13 +13717,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.738Z",
-      "updatedAt": "2026-07-12T02:00:42.611Z",
+      "updatedAt": "2026-07-19T02:01:30.850Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:voor",
@@ -13766,7 +13766,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.738Z",
-      "updatedAt": "2026-07-12T02:00:42.611Z",
+      "updatedAt": "2026-07-19T02:01:30.851Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da",
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72",
@@ -13775,7 +13775,7 @@
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:kredieten",
@@ -13806,13 +13806,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.738Z",
-      "updatedAt": "2026-07-12T02:00:42.612Z",
+      "updatedAt": "2026-07-19T02:01:30.852Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:gegevens",
@@ -13843,13 +13843,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.739Z",
-      "updatedAt": "2026-07-12T02:00:42.612Z",
+      "updatedAt": "2026-07-19T02:01:30.853Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:info",
@@ -13880,13 +13880,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.739Z",
-      "updatedAt": "2026-07-12T02:00:42.613Z",
+      "updatedAt": "2026-07-19T02:01:30.854Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:informatiegerechtigden",
@@ -13917,13 +13917,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.739Z",
-      "updatedAt": "2026-07-12T02:00:42.614Z",
+      "updatedAt": "2026-07-19T02:01:30.855Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:jouw",
@@ -13962,7 +13962,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.629Z",
-      "updatedAt": "2026-07-12T02:00:42.614Z",
+      "updatedAt": "2026-07-19T02:01:30.856Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4",
         "home-kepler-7ece3282",
@@ -13970,7 +13970,7 @@
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:vragen",
@@ -14001,13 +14001,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.630Z",
-      "updatedAt": "2026-07-12T02:00:42.615Z",
+      "updatedAt": "2026-07-19T02:01:30.857Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:antwoord",
@@ -14038,13 +14038,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.630Z",
-      "updatedAt": "2026-07-12T02:00:42.615Z",
+      "updatedAt": "2026-07-19T02:01:30.858Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:campagne",
@@ -14075,13 +14075,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.630Z",
-      "updatedAt": "2026-07-12T02:00:42.616Z",
+      "updatedAt": "2026-07-19T02:01:30.858Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:onze",
@@ -14112,13 +14112,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.631Z",
-      "updatedAt": "2026-07-12T02:00:42.616Z",
+      "updatedAt": "2026-07-19T02:01:30.859Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:persoonlijke",
@@ -14149,13 +14149,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.631Z",
-      "updatedAt": "2026-07-12T02:00:42.617Z",
+      "updatedAt": "2026-07-19T02:01:30.860Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:dovendi",
@@ -14186,13 +14186,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.631Z",
-      "updatedAt": "2026-07-12T02:00:42.617Z",
+      "updatedAt": "2026-07-19T02:01:30.861Z",
       "compiledFrom": [
         "dovendi-domain-for-sale-2d012a62"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:names",
@@ -14223,13 +14223,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.632Z",
-      "updatedAt": "2026-07-12T02:00:42.618Z",
+      "updatedAt": "2026-07-19T02:01:30.861Z",
       "compiledFrom": [
         "dovendi-domain-for-sale-2d012a62"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:about",
@@ -14260,13 +14260,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.632Z",
-      "updatedAt": "2026-07-12T02:00:42.618Z",
+      "updatedAt": "2026-07-19T02:01:30.862Z",
       "compiledFrom": [
         "dovendi-domain-for-sale-2d012a62"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:achieving",
@@ -14297,13 +14297,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.632Z",
-      "updatedAt": "2026-07-12T02:00:42.620Z",
+      "updatedAt": "2026-07-19T02:01:30.863Z",
       "compiledFrom": [
         "dovendi-domain-for-sale-2d012a62"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:brings",
@@ -14334,13 +14334,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.633Z",
-      "updatedAt": "2026-07-12T02:00:42.620Z",
+      "updatedAt": "2026-07-19T02:01:30.864Z",
       "compiledFrom": [
         "dovendi-domain-for-sale-2d012a62"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:buyers",
@@ -14371,13 +14371,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.633Z",
-      "updatedAt": "2026-07-12T02:00:42.621Z",
+      "updatedAt": "2026-07-19T02:01:30.865Z",
       "compiledFrom": [
         "dovendi-domain-for-sale-2d012a62"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:kepler",
@@ -14412,14 +14412,14 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.633Z",
-      "updatedAt": "2026-07-12T02:00:42.621Z",
+      "updatedAt": "2026-07-19T02:01:30.865Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72",
         "web-archive-org-cdx-search-cdx-c633b882"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:woning",
@@ -14450,13 +14450,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.634Z",
-      "updatedAt": "2026-07-12T02:00:42.622Z",
+      "updatedAt": "2026-07-19T02:01:30.866Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:stap",
@@ -14487,13 +14487,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.635Z",
-      "updatedAt": "2026-07-12T02:00:42.622Z",
+      "updatedAt": "2026-07-19T02:01:30.867Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:wonen",
@@ -14524,13 +14524,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.635Z",
-      "updatedAt": "2026-07-12T02:00:42.623Z",
+      "updatedAt": "2026-07-19T02:01:30.868Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:niet",
@@ -14561,13 +14561,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.635Z",
-      "updatedAt": "2026-07-12T02:00:42.624Z",
+      "updatedAt": "2026-07-19T02:01:30.869Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:erfbelasting",
@@ -14605,13 +14605,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.581Z",
-      "updatedAt": "2026-07-12T02:00:42.624Z",
+      "updatedAt": "2026-07-19T02:01:30.870Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:nalatenschap",
@@ -14649,13 +14649,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.581Z",
-      "updatedAt": "2026-07-12T02:00:42.625Z",
+      "updatedAt": "2026-07-19T02:01:30.871Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:wordt",
@@ -14693,13 +14693,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.581Z",
-      "updatedAt": "2026-07-12T02:00:42.625Z",
+      "updatedAt": "2026-07-19T02:01:30.872Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:aangifte",
@@ -14737,13 +14737,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.582Z",
-      "updatedAt": "2026-07-12T02:00:42.626Z",
+      "updatedAt": "2026-07-19T02:01:30.873Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:overledene",
@@ -14781,13 +14781,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.582Z",
-      "updatedAt": "2026-07-12T02:00:42.627Z",
+      "updatedAt": "2026-07-19T02:01:30.874Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:berekend",
@@ -14825,13 +14825,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.582Z",
-      "updatedAt": "2026-07-12T02:00:42.627Z",
+      "updatedAt": "2026-07-19T02:01:30.874Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:bouwen",
@@ -14866,14 +14866,14 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.636Z",
-      "updatedAt": "2026-07-12T02:00:42.628Z",
+      "updatedAt": "2026-07-19T02:01:30.875Z",
       "compiledFrom": [
         "home-kepler-7ece3282",
         "home-kepler-938b95f3"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:naar",
@@ -14908,14 +14908,14 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.636Z",
-      "updatedAt": "2026-07-12T02:00:42.628Z",
+      "updatedAt": "2026-07-19T02:01:30.876Z",
       "compiledFrom": [
         "home-kepler-7ece3282",
         "home-kepler-938b95f3"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:nieuwe",
@@ -14950,14 +14950,14 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.636Z",
-      "updatedAt": "2026-07-12T02:00:42.629Z",
+      "updatedAt": "2026-07-19T02:01:30.877Z",
       "compiledFrom": [
         "home-kepler-7ece3282",
         "home-kepler-938b95f3"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:productieproces",
@@ -14992,14 +14992,14 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.636Z",
-      "updatedAt": "2026-07-12T02:00:42.630Z",
+      "updatedAt": "2026-07-19T02:01:30.878Z",
       "compiledFrom": [
         "home-kepler-7ece3282",
         "home-kepler-938b95f3"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:albert",
@@ -15030,13 +15030,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.637Z",
-      "updatedAt": "2026-07-12T02:00:42.630Z",
+      "updatedAt": "2026-07-19T02:01:30.879Z",
       "compiledFrom": [
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:expansion",
@@ -15067,13 +15067,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.637Z",
-      "updatedAt": "2026-07-12T02:00:42.631Z",
+      "updatedAt": "2026-07-19T02:01:30.879Z",
       "compiledFrom": [
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:floor",
@@ -15104,13 +15104,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.637Z",
-      "updatedAt": "2026-07-12T02:00:42.631Z",
+      "updatedAt": "2026-07-19T02:01:30.880Z",
       "compiledFrom": [
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:ground",
@@ -15141,13 +15141,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.637Z",
-      "updatedAt": "2026-07-12T02:00:42.632Z",
+      "updatedAt": "2026-07-19T02:01:30.881Z",
       "compiledFrom": [
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:insights",
@@ -15184,13 +15184,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.081Z",
-      "updatedAt": "2026-07-12T02:00:42.633Z",
+      "updatedAt": "2026-07-19T02:01:30.882Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:swarmvault",
@@ -15227,13 +15227,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.081Z",
-      "updatedAt": "2026-07-12T02:00:42.634Z",
+      "updatedAt": "2026-07-19T02:01:30.883Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:applies",
@@ -15270,13 +15270,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.082Z",
-      "updatedAt": "2026-07-12T02:00:42.635Z",
+      "updatedAt": "2026-07-19T02:01:30.884Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:authored",
@@ -15313,13 +15313,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.082Z",
-      "updatedAt": "2026-07-12T02:00:42.635Z",
+      "updatedAt": "2026-07-19T02:01:30.885Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:during",
@@ -15356,13 +15356,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.083Z",
-      "updatedAt": "2026-07-12T02:00:42.636Z",
+      "updatedAt": "2026-07-19T02:01:30.885Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:logo",
@@ -15393,13 +15393,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-29T23:56:49.933Z",
-      "updatedAt": "2026-07-12T02:00:42.637Z",
+      "updatedAt": "2026-07-19T02:01:30.886Z",
       "compiledFrom": [
         "myprivacy-dpgmedia-be-16f062da"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:media",
@@ -15430,13 +15430,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-29T23:56:49.934Z",
-      "updatedAt": "2026-07-12T02:00:42.638Z",
+      "updatedAt": "2026-07-19T02:01:30.887Z",
       "compiledFrom": [
         "myprivacy-dpgmedia-be-16f062da"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:projects",
@@ -15473,13 +15473,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.083Z",
-      "updatedAt": "2026-07-12T02:00:42.639Z",
+      "updatedAt": "2026-07-19T02:01:30.888Z",
       "compiledFrom": [
         "projects-acb5fd10"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:build",
@@ -15516,13 +15516,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.083Z",
-      "updatedAt": "2026-07-12T02:00:42.640Z",
+      "updatedAt": "2026-07-19T02:01:30.889Z",
       "compiledFrom": [
         "projects-acb5fd10"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:project",
@@ -15559,13 +15559,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.084Z",
-      "updatedAt": "2026-07-12T02:00:42.641Z",
+      "updatedAt": "2026-07-19T02:01:30.890Z",
       "compiledFrom": [
         "projects-acb5fd10"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:rollups",
@@ -15602,13 +15602,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.084Z",
-      "updatedAt": "2026-07-12T02:00:42.642Z",
+      "updatedAt": "2026-07-19T02:01:30.891Z",
       "compiledFrom": [
         "projects-acb5fd10"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:schenkbelasting",
@@ -15654,13 +15654,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.306Z",
-      "updatedAt": "2026-07-12T02:00:42.642Z",
+      "updatedAt": "2026-07-19T02:01:30.892Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:schenking",
@@ -15706,13 +15706,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.307Z",
-      "updatedAt": "2026-07-12T02:00:42.643Z",
+      "updatedAt": "2026-07-19T02:01:30.893Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:genieten",
@@ -15758,13 +15758,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.307Z",
-      "updatedAt": "2026-07-12T02:00:42.644Z",
+      "updatedAt": "2026-07-19T02:01:30.894Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:goederen",
@@ -15810,13 +15810,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.308Z",
-      "updatedAt": "2026-07-12T02:00:42.644Z",
+      "updatedAt": "2026-07-19T02:01:30.894Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:verschuldigd",
@@ -15862,13 +15862,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.308Z",
-      "updatedAt": "2026-07-12T02:00:42.645Z",
+      "updatedAt": "2026-07-19T02:01:30.895Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:vindt",
@@ -15914,13 +15914,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.308Z",
-      "updatedAt": "2026-07-12T02:00:42.646Z",
+      "updatedAt": "2026-07-19T02:01:30.896Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:available",
@@ -15968,13 +15968,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.865Z",
-      "updatedAt": "2026-07-12T02:00:42.647Z",
+      "updatedAt": "2026-07-19T02:01:30.897Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:download",
@@ -16022,13 +16022,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.866Z",
-      "updatedAt": "2026-07-12T02:00:42.648Z",
+      "updatedAt": "2026-07-19T02:01:30.898Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:shows",
@@ -16076,13 +16076,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.866Z",
-      "updatedAt": "2026-07-12T02:00:42.650Z",
+      "updatedAt": "2026-07-19T02:01:30.899Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:hermes",
@@ -16130,13 +16130,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.866Z",
-      "updatedAt": "2026-07-12T02:00:42.651Z",
+      "updatedAt": "2026-07-19T02:01:30.900Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:seerr",
@@ -16184,13 +16184,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.867Z",
-      "updatedAt": "2026-07-12T02:00:42.651Z",
+      "updatedAt": "2026-07-19T02:01:30.901Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:dune",
@@ -16238,13 +16238,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.867Z",
-      "updatedAt": "2026-07-12T02:00:42.653Z",
+      "updatedAt": "2026-07-19T02:01:30.902Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:object",
@@ -16279,13 +16279,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.084Z",
-      "updatedAt": "2026-07-12T02:00:42.654Z",
+      "updatedAt": "2026-07-19T02:01:30.903Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:keys",
@@ -16320,13 +16320,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.085Z",
-      "updatedAt": "2026-07-12T02:00:42.654Z",
+      "updatedAt": "2026-07-19T02:01:30.904Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:local",
@@ -16361,13 +16361,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.085Z",
-      "updatedAt": "2026-07-12T02:00:42.655Z",
+      "updatedAt": "2026-07-19T02:01:30.905Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:false",
@@ -16402,13 +16402,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.086Z",
-      "updatedAt": "2026-07-12T02:00:42.656Z",
+      "updatedAt": "2026-07-19T02:01:30.906Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:agents",
@@ -16443,13 +16443,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.086Z",
-      "updatedAt": "2026-07-12T02:00:42.657Z",
+      "updatedAt": "2026-07-19T02:01:30.907Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:heuristic",
@@ -16484,13 +16484,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.086Z",
-      "updatedAt": "2026-07-12T02:00:42.658Z",
+      "updatedAt": "2026-07-19T02:01:30.907Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:should",
@@ -16531,13 +16531,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.087Z",
-      "updatedAt": "2026-07-12T02:00:42.659Z",
+      "updatedAt": "2026-07-19T02:01:30.908Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:source",
@@ -16578,13 +16578,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.087Z",
-      "updatedAt": "2026-07-12T02:00:42.660Z",
+      "updatedAt": "2026-07-19T02:01:30.909Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:vault",
@@ -16625,13 +16625,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.088Z",
-      "updatedAt": "2026-07-12T02:00:42.661Z",
+      "updatedAt": "2026-07-19T02:01:30.909Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:claims",
@@ -16672,13 +16672,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.088Z",
-      "updatedAt": "2026-07-12T02:00:42.662Z",
+      "updatedAt": "2026-07-19T02:01:30.910Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:concept",
@@ -16719,13 +16719,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.088Z",
-      "updatedAt": "2026-07-12T02:00:42.663Z",
+      "updatedAt": "2026-07-19T02:01:30.910Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:domain",
@@ -16766,13 +16766,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.088Z",
-      "updatedAt": "2026-07-12T02:00:42.664Z",
+      "updatedAt": "2026-07-19T02:01:30.911Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:http",
@@ -16803,13 +16803,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.638Z",
-      "updatedAt": "2026-07-12T02:00:42.665Z",
+      "updatedAt": "2026-07-19T02:01:30.911Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-c633b882"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:20040904163039",
@@ -16840,13 +16840,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.638Z",
-      "updatedAt": "2026-07-12T02:00:42.666Z",
+      "updatedAt": "2026-07-19T02:01:30.912Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-c633b882"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:20040906074751",
@@ -16877,13 +16877,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.638Z",
-      "updatedAt": "2026-07-12T02:00:42.666Z",
+      "updatedAt": "2026-07-19T02:01:30.912Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-c633b882"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:20040928094111",
@@ -16914,13 +16914,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.638Z",
-      "updatedAt": "2026-07-12T02:00:42.667Z",
+      "updatedAt": "2026-07-19T02:01:30.913Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-c633b882"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:20041202021608",
@@ -16951,13 +16951,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.639Z",
-      "updatedAt": "2026-07-12T02:00:42.668Z",
+      "updatedAt": "2026-07-19T02:01:30.914Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-c633b882"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:verkeer",
@@ -16988,13 +16988,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.596Z",
-      "updatedAt": "2026-07-12T02:00:42.669Z",
+      "updatedAt": "2026-07-19T02:01:30.914Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:augustus",
@@ -17025,13 +17025,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.596Z",
-      "updatedAt": "2026-07-12T02:00:42.670Z",
+      "updatedAt": "2026-07-19T02:01:30.915Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:brug",
@@ -17062,13 +17062,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.596Z",
-      "updatedAt": "2026-07-12T02:00:42.671Z",
+      "updatedAt": "2026-07-19T02:01:30.916Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:n446",
@@ -17099,13 +17099,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.597Z",
-      "updatedAt": "2026-07-12T02:00:42.671Z",
+      "updatedAt": "2026-07-19T02:01:30.917Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:2027",
@@ -17136,13 +17136,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.597Z",
-      "updatedAt": "2026-07-12T02:00:42.672Z",
+      "updatedAt": "2026-07-19T02:01:30.917Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:durmebrug",
@@ -17173,13 +17173,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.597Z",
-      "updatedAt": "2026-07-12T02:00:42.673Z",
+      "updatedAt": "2026-07-19T02:01:30.918Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:feedback",
@@ -17235,7 +17235,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.597Z",
-      "updatedAt": "2026-07-12T02:00:42.674Z",
+      "updatedAt": "2026-07-19T02:01:30.919Z",
       "compiledFrom": [
         "www-google-com-30f04687",
         "www-google-com-3d8570f8",
@@ -17246,7 +17246,7 @@
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:google",
@@ -17302,7 +17302,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.598Z",
-      "updatedAt": "2026-07-12T02:00:42.675Z",
+      "updatedAt": "2026-07-19T02:01:30.920Z",
       "compiledFrom": [
         "www-google-com-30f04687",
         "www-google-com-3d8570f8",
@@ -17313,7 +17313,7 @@
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:hebt",
@@ -17369,7 +17369,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.598Z",
-      "updatedAt": "2026-07-12T02:00:42.677Z",
+      "updatedAt": "2026-07-19T02:01:30.922Z",
       "compiledFrom": [
         "www-google-com-30f04687",
         "www-google-com-3d8570f8",
@@ -17380,7 +17380,7 @@
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:hier",
@@ -17436,7 +17436,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.598Z",
-      "updatedAt": "2026-07-12T02:00:42.678Z",
+      "updatedAt": "2026-07-19T02:01:30.923Z",
       "compiledFrom": [
         "www-google-com-30f04687",
         "www-google-com-3d8570f8",
@@ -17447,7 +17447,7 @@
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:klikken",
@@ -17503,7 +17503,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.598Z",
-      "updatedAt": "2026-07-12T02:00:42.679Z",
+      "updatedAt": "2026-07-19T02:01:30.924Z",
       "compiledFrom": [
         "www-google-com-30f04687",
         "www-google-com-3d8570f8",
@@ -17514,7 +17514,7 @@
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:problemen",
@@ -17570,7 +17570,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.599Z",
-      "updatedAt": "2026-07-12T02:00:42.680Z",
+      "updatedAt": "2026-07-19T02:01:30.925Z",
       "compiledFrom": [
         "www-google-com-30f04687",
         "www-google-com-3d8570f8",
@@ -17581,7 +17581,7 @@
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:over",
@@ -17623,13 +17623,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.740Z",
-      "updatedAt": "2026-07-12T02:00:42.681Z",
+      "updatedAt": "2026-07-19T02:01:30.926Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:erfenis",
@@ -17671,13 +17671,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.740Z",
-      "updatedAt": "2026-07-12T02:00:42.682Z",
+      "updatedAt": "2026-07-19T02:01:30.927Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:scheiden",
@@ -17719,13 +17719,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.740Z",
-      "updatedAt": "2026-07-12T02:00:42.683Z",
+      "updatedAt": "2026-07-19T02:01:30.927Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:alles",
@@ -17767,13 +17767,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.740Z",
-      "updatedAt": "2026-07-12T02:00:42.684Z",
+      "updatedAt": "2026-07-19T02:01:30.928Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:berekenen",
@@ -17815,13 +17815,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.741Z",
-      "updatedAt": "2026-07-12T02:00:42.685Z",
+      "updatedAt": "2026-07-19T02:01:30.929Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "concept:erven",
@@ -17863,13 +17863,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.741Z",
-      "updatedAt": "2026-07-12T02:00:42.686Z",
+      "updatedAt": "2026-07-19T02:01:30.930Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:woning-immo-top-invest",
@@ -17900,13 +17900,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.679Z",
-      "updatedAt": "2026-07-12T02:00:42.687Z",
+      "updatedAt": "2026-07-19T02:01:30.931Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:house",
@@ -17937,13 +17937,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.679Z",
-      "updatedAt": "2026-07-12T02:00:42.687Z",
+      "updatedAt": "2026-07-19T02:01:30.931Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:diepenbeek-house-heylen-vastgoed-hasselt",
@@ -17974,13 +17974,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.679Z",
-      "updatedAt": "2026-07-12T02:00:42.688Z",
+      "updatedAt": "2026-07-19T02:01:30.932Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:diepenbeek-plot-heylen-vastgoed-hasselt",
@@ -18011,13 +18011,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.680Z",
-      "updatedAt": "2026-07-12T02:00:42.689Z",
+      "updatedAt": "2026-07-19T02:01:30.933Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:villa",
@@ -18048,13 +18048,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.680Z",
-      "updatedAt": "2026-07-12T02:00:42.690Z",
+      "updatedAt": "2026-07-19T02:01:30.933Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:diepenbeek-karaktervolle",
@@ -18085,13 +18085,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.680Z",
-      "updatedAt": "2026-07-12T02:00:42.691Z",
+      "updatedAt": "2026-07-19T02:01:30.934Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:verbouwen-categorie-topics-berichten-laatste",
@@ -18131,13 +18131,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.599Z",
-      "updatedAt": "2026-07-12T02:00:42.691Z",
+      "updatedAt": "2026-07-19T02:01:30.935Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:ver-bouwdagboeken-wil",
@@ -18177,13 +18177,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.599Z",
-      "updatedAt": "2026-07-12T02:00:42.692Z",
+      "updatedAt": "2026-07-19T02:01:30.935Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:dit",
@@ -18223,13 +18223,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.600Z",
-      "updatedAt": "2026-07-12T02:00:42.693Z",
+      "updatedAt": "2026-07-19T02:01:30.936Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:door",
@@ -18269,13 +18269,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.600Z",
-      "updatedAt": "2026-07-12T02:00:42.694Z",
+      "updatedAt": "2026-07-19T02:01:30.937Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:ruwbouw-categorie-topics-berichten-laatste",
@@ -18315,13 +18315,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.600Z",
-      "updatedAt": "2026-07-12T02:00:42.695Z",
+      "updatedAt": "2026-07-19T02:01:30.938Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:tuin-categorie-topics-berichten-laatste",
@@ -18361,13 +18361,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.601Z",
-      "updatedAt": "2026-07-12T02:00:42.695Z",
+      "updatedAt": "2026-07-19T02:01:30.939Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:candidates",
@@ -18402,13 +18402,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.089Z",
-      "updatedAt": "2026-07-12T02:00:42.696Z",
+      "updatedAt": "2026-07-19T02:01:30.940Z",
       "compiledFrom": [
         "candidates-5d9c2771"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:candidates-run",
@@ -18443,13 +18443,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.089Z",
-      "updatedAt": "2026-07-12T02:00:42.697Z",
+      "updatedAt": "2026-07-19T02:01:30.940Z",
       "compiledFrom": [
         "candidates-5d9c2771"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:centrale",
@@ -18480,13 +18480,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.771Z",
-      "updatedAt": "2026-07-12T02:00:42.697Z",
+      "updatedAt": "2026-07-19T02:01:30.941Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:belgi",
@@ -18517,13 +18517,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.772Z",
-      "updatedAt": "2026-07-12T02:00:42.698Z",
+      "updatedAt": "2026-07-19T02:01:30.941Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:particulieren-iedere",
@@ -18554,13 +18554,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.772Z",
-      "updatedAt": "2026-07-12T02:00:42.699Z",
+      "updatedAt": "2026-07-19T02:01:30.942Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:professionelen",
@@ -18591,13 +18591,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.772Z",
-      "updatedAt": "2026-07-12T02:00:42.700Z",
+      "updatedAt": "2026-07-19T02:01:30.943Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:een",
@@ -18632,14 +18632,14 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.772Z",
-      "updatedAt": "2026-07-12T02:00:42.700Z",
+      "updatedAt": "2026-07-19T02:01:30.944Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da",
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:onze",
@@ -18670,13 +18670,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.680Z",
-      "updatedAt": "2026-07-12T02:00:42.701Z",
+      "updatedAt": "2026-07-19T02:01:30.945Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:not",
@@ -18707,13 +18707,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.681Z",
-      "updatedAt": "2026-07-12T02:00:42.701Z",
+      "updatedAt": "2026-07-19T02:01:30.945Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:frequently-asked-questions",
@@ -18744,13 +18744,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.681Z",
-      "updatedAt": "2026-07-12T02:00:42.702Z",
+      "updatedAt": "2026-07-19T02:01:30.946Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:want",
@@ -18781,13 +18781,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.681Z",
-      "updatedAt": "2026-07-12T02:00:42.702Z",
+      "updatedAt": "2026-07-19T02:01:30.947Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:mensen",
@@ -18830,7 +18830,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.681Z",
-      "updatedAt": "2026-07-12T02:00:42.703Z",
+      "updatedAt": "2026-07-19T02:01:30.948Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4",
         "home-kepler-7ece3282",
@@ -18838,7 +18838,7 @@
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:dovendi-dovendi",
@@ -18869,13 +18869,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.681Z",
-      "updatedAt": "2026-07-12T02:00:42.703Z",
+      "updatedAt": "2026-07-19T02:01:30.948Z",
       "compiledFrom": [
         "dovendi-domain-for-sale-2d012a62"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:al-stel",
@@ -18906,13 +18906,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.682Z",
-      "updatedAt": "2026-07-12T02:00:42.704Z",
+      "updatedAt": "2026-07-19T02:01:30.949Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:norm-van-duurzaamheid",
@@ -18943,13 +18943,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.682Z",
-      "updatedAt": "2026-07-12T02:00:42.704Z",
+      "updatedAt": "2026-07-19T02:01:30.950Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:belgische",
@@ -18980,13 +18980,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.682Z",
-      "updatedAt": "2026-07-12T02:00:42.705Z",
+      "updatedAt": "2026-07-19T02:01:30.950Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:dan",
@@ -19017,13 +19017,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.682Z",
-      "updatedAt": "2026-07-12T02:00:42.705Z",
+      "updatedAt": "2026-07-19T02:01:30.951Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:klaar",
@@ -19054,13 +19054,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.683Z",
-      "updatedAt": "2026-07-12T02:00:42.706Z",
+      "updatedAt": "2026-07-19T02:01:30.951Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:erfbelasting",
@@ -19098,13 +19098,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.601Z",
-      "updatedAt": "2026-07-12T02:00:42.706Z",
+      "updatedAt": "2026-07-19T02:01:30.952Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:vlaamse",
@@ -19142,13 +19142,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.602Z",
-      "updatedAt": "2026-07-12T02:00:42.707Z",
+      "updatedAt": "2026-07-19T02:01:30.952Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:aangifte-van-nalatenschap",
@@ -19186,13 +19186,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.602Z",
-      "updatedAt": "2026-07-12T02:00:42.707Z",
+      "updatedAt": "2026-07-19T02:01:30.953Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:vlaamse-belastingdienst",
@@ -19230,13 +19230,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.602Z",
-      "updatedAt": "2026-07-12T02:00:42.708Z",
+      "updatedAt": "2026-07-19T02:01:30.953Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:wijziging",
@@ -19286,14 +19286,14 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.602Z",
-      "updatedAt": "2026-07-12T02:00:42.709Z",
+      "updatedAt": "2026-07-19T02:01:30.954Z",
       "compiledFrom": [
         "erfbelasting-b24e8569",
         "schenkbelasting-da146a89"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:familiale",
@@ -19343,14 +19343,14 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.603Z",
-      "updatedAt": "2026-07-12T02:00:42.709Z",
+      "updatedAt": "2026-07-19T02:01:30.955Z",
       "compiledFrom": [
         "erfbelasting-b24e8569",
         "schenkbelasting-da146a89"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:vlak-van-technologie",
@@ -19385,14 +19385,14 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.684Z",
-      "updatedAt": "2026-07-12T02:00:42.710Z",
+      "updatedAt": "2026-07-19T02:01:30.956Z",
       "compiledFrom": [
         "home-kepler-7ece3282",
         "home-kepler-938b95f3"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:ontdek",
@@ -19427,14 +19427,14 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.684Z",
-      "updatedAt": "2026-07-12T02:00:42.711Z",
+      "updatedAt": "2026-07-19T02:01:30.956Z",
       "compiledFrom": [
         "home-kepler-7ece3282",
         "home-kepler-938b95f3"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:hoogwaardig",
@@ -19469,14 +19469,14 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.684Z",
-      "updatedAt": "2026-07-12T02:00:42.711Z",
+      "updatedAt": "2026-07-19T02:01:30.957Z",
       "compiledFrom": [
         "home-kepler-7ece3282",
         "home-kepler-938b95f3"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:we",
@@ -19511,14 +19511,14 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.684Z",
-      "updatedAt": "2026-07-12T02:00:42.712Z",
+      "updatedAt": "2026-07-19T02:01:30.958Z",
       "compiledFrom": [
         "home-kepler-7ece3282",
         "home-kepler-938b95f3"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:diepenbeek-ground",
@@ -19549,13 +19549,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.685Z",
-      "updatedAt": "2026-07-12T02:00:42.712Z",
+      "updatedAt": "2026-07-19T02:01:30.958Z",
       "compiledFrom": [
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:albert",
@@ -19586,13 +19586,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.685Z",
-      "updatedAt": "2026-07-12T02:00:42.713Z",
+      "updatedAt": "2026-07-19T02:01:30.959Z",
       "compiledFrom": [
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:insights",
@@ -19629,13 +19629,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.090Z",
-      "updatedAt": "2026-07-12T02:00:42.713Z",
+      "updatedAt": "2026-07-19T02:01:30.959Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:projects-run",
@@ -19672,13 +19672,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.090Z",
-      "updatedAt": "2026-07-12T02:00:42.714Z",
+      "updatedAt": "2026-07-19T02:01:30.960Z",
       "compiledFrom": [
         "projects-acb5fd10"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:schenkbelasting-als",
@@ -19724,13 +19724,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.355Z",
-      "updatedAt": "2026-07-12T02:00:42.714Z",
+      "updatedAt": "2026-07-19T02:01:30.960Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:wanneer",
@@ -19776,13 +19776,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.356Z",
-      "updatedAt": "2026-07-12T02:00:42.715Z",
+      "updatedAt": "2026-07-19T02:01:30.961Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:eigendom-van-een",
@@ -19828,13 +19828,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.356Z",
-      "updatedAt": "2026-07-12T02:00:42.715Z",
+      "updatedAt": "2026-07-19T02:01:30.961Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:heeft-van-rijksinwoner",
@@ -19880,13 +19880,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.357Z",
-      "updatedAt": "2026-07-12T02:00:42.716Z",
+      "updatedAt": "2026-07-19T02:01:30.962Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:seerr-media-requests-available-seerr",
@@ -19934,13 +19934,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.880Z",
-      "updatedAt": "2026-07-12T02:00:42.717Z",
+      "updatedAt": "2026-07-19T02:01:30.963Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:hermes",
@@ -19988,13 +19988,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.880Z",
-      "updatedAt": "2026-07-12T02:00:42.717Z",
+      "updatedAt": "2026-07-19T02:01:30.963Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:how",
@@ -20042,13 +20042,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.880Z",
-      "updatedAt": "2026-07-12T02:00:42.718Z",
+      "updatedAt": "2026-07-19T02:01:30.964Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:ask-hermes",
@@ -20096,13 +20096,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.881Z",
-      "updatedAt": "2026-07-12T02:00:42.719Z",
+      "updatedAt": "2026-07-19T02:01:30.965Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:dune-hermes",
@@ -20150,13 +20150,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.881Z",
-      "updatedAt": "2026-07-12T02:00:42.719Z",
+      "updatedAt": "2026-07-19T02:01:30.966Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:seerr",
@@ -20204,13 +20204,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.881Z",
-      "updatedAt": "2026-07-12T02:00:42.720Z",
+      "updatedAt": "2026-07-19T02:01:30.967Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:format",
@@ -20245,13 +20245,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.090Z",
-      "updatedAt": "2026-07-12T02:00:42.721Z",
+      "updatedAt": "2026-07-19T02:01:30.968Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:top",
@@ -20286,13 +20286,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.090Z",
-      "updatedAt": "2026-07-12T02:00:42.721Z",
+      "updatedAt": "2026-07-19T02:01:30.969Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:size",
@@ -20327,13 +20327,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.091Z",
-      "updatedAt": "2026-07-12T02:00:42.722Z",
+      "updatedAt": "2026-07-19T02:01:30.969Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:nested",
@@ -20368,13 +20368,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.091Z",
-      "updatedAt": "2026-07-12T02:00:42.723Z",
+      "updatedAt": "2026-07-19T02:01:30.970Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:schema",
@@ -20409,13 +20409,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.091Z",
-      "updatedAt": "2026-07-12T02:00:42.723Z",
+      "updatedAt": "2026-07-19T02:01:30.971Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:preview",
@@ -20450,13 +20450,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.091Z",
-      "updatedAt": "2026-07-12T02:00:42.724Z",
+      "updatedAt": "2026-07-19T02:01:30.972Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:schema-edit",
@@ -20497,13 +20497,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.092Z",
-      "updatedAt": "2026-07-12T02:00:42.725Z",
+      "updatedAt": "2026-07-19T02:01:30.973Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:swarmvault",
@@ -20544,13 +20544,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.092Z",
-      "updatedAt": "2026-07-12T02:00:42.725Z",
+      "updatedAt": "2026-07-19T02:01:30.973Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:vault-purpose-describe",
@@ -20591,13 +20591,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.092Z",
-      "updatedAt": "2026-07-12T02:00:42.726Z",
+      "updatedAt": "2026-07-19T02:01:30.974Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:naming-conventions-prefer",
@@ -20638,13 +20638,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.092Z",
-      "updatedAt": "2026-07-12T02:00:42.726Z",
+      "updatedAt": "2026-07-19T02:01:30.974Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:page-structure-rules-source",
@@ -20685,13 +20685,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.093Z",
-      "updatedAt": "2026-07-12T02:00:42.727Z",
+      "updatedAt": "2026-07-19T02:01:30.975Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:categories-list",
@@ -20732,13 +20732,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.093Z",
-      "updatedAt": "2026-07-12T02:00:42.727Z",
+      "updatedAt": "2026-07-19T02:01:30.975Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:durmebrug",
@@ -20769,13 +20769,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.610Z",
-      "updatedAt": "2026-07-12T02:00:42.728Z",
+      "updatedAt": "2026-07-19T02:01:30.976Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:augustus-de",
@@ -20806,13 +20806,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.610Z",
-      "updatedAt": "2026-07-12T02:00:42.728Z",
+      "updatedAt": "2026-07-19T02:01:30.976Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:waasmunster",
@@ -20843,13 +20843,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.610Z",
-      "updatedAt": "2026-07-12T02:00:42.729Z",
+      "updatedAt": "2026-07-19T02:01:30.977Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:augustus-start",
@@ -20880,13 +20880,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.611Z",
-      "updatedAt": "2026-07-12T02:00:42.729Z",
+      "updatedAt": "2026-07-19T02:01:30.977Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:agentschap-wegen",
@@ -20917,13 +20917,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.611Z",
-      "updatedAt": "2026-07-12T02:00:42.730Z",
+      "updatedAt": "2026-07-19T02:01:30.978Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:verkeer",
@@ -20954,13 +20954,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.611Z",
-      "updatedAt": "2026-07-12T02:00:42.730Z",
+      "updatedAt": "2026-07-19T02:01:30.978Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:google-zoeken",
@@ -21016,7 +21016,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.611Z",
-      "updatedAt": "2026-07-12T02:00:42.731Z",
+      "updatedAt": "2026-07-19T02:01:30.979Z",
       "compiledFrom": [
         "www-google-com-30f04687",
         "www-google-com-3d8570f8",
@@ -21027,7 +21027,7 @@
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:google",
@@ -21083,7 +21083,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.612Z",
-      "updatedAt": "2026-07-12T02:00:42.732Z",
+      "updatedAt": "2026-07-19T02:01:30.979Z",
       "compiledFrom": [
         "www-google-com-30f04687",
         "www-google-com-3d8570f8",
@@ -21094,7 +21094,7 @@
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:rekenmodules-aankoopkosten-van-een",
@@ -21136,13 +21136,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.773Z",
-      "updatedAt": "2026-07-12T02:00:42.732Z",
+      "updatedAt": "2026-07-19T02:01:30.980Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:kosten",
@@ -21184,13 +21184,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.773Z",
-      "updatedAt": "2026-07-12T02:00:42.733Z",
+      "updatedAt": "2026-07-19T02:01:30.981Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:biddit-relatie",
@@ -21232,13 +21232,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.773Z",
-      "updatedAt": "2026-07-12T02:00:42.734Z",
+      "updatedAt": "2026-07-19T02:01:30.981Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:scheiden-apart",
@@ -21280,13 +21280,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.773Z",
-      "updatedAt": "2026-07-12T02:00:42.734Z",
+      "updatedAt": "2026-07-19T02:01:30.982Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:scheiden",
@@ -21328,13 +21328,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.773Z",
-      "updatedAt": "2026-07-12T02:00:42.735Z",
+      "updatedAt": "2026-07-19T02:01:30.982Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "entity:grond-van-onherstelbare",
@@ -21376,13 +21376,13 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.774Z",
-      "updatedAt": "2026-07-12T02:00:42.735Z",
+      "updatedAt": "2026-07-19T02:01:30.983Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
       "managedBy": "system",
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "output:belgian-inheritance-tax-flanders-stocks-valuation-erfbelasting-aandelen",
@@ -21411,7 +21411,7 @@
       "outputFormat": "markdown",
       "outputAssets": [],
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "output:extract-all-text-from-the-following-pages-specifically-about-parents-helping-chi",
@@ -21559,7 +21559,7 @@
       "outputFormat": "report",
       "outputAssets": [],
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "output:highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p",
@@ -21675,7 +21675,7 @@
       "outputFormat": "report",
       "outputAssets": [],
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "output:list-the-full-content-and-metadata-of-all-recently-ingested-source-files-about-d",
@@ -21837,7 +21837,7 @@
       "outputFormat": "markdown",
       "outputAssets": [],
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "output:search-the-ingested-content-for-any-results-related-to-mizerikstraat-33-diepenbe",
@@ -21976,7 +21976,7 @@
       "outputFormat": "markdown",
       "outputAssets": [],
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "output:show-me-the-full-text-content-of-the-kepler-homepage-from-web-archive-org",
@@ -22130,7 +22130,7 @@
       "outputFormat": "markdown",
       "outputAssets": [],
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "output:show-me-the-raw-content-of-the-google-search-results-for-mizerikstraat-33-diepen",
@@ -22314,7 +22314,7 @@
       "outputFormat": "markdown",
       "outputAssets": [],
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "output:what-are-the-gift-tax-schenkbelasting-rates-in-vlaanderen-for-parents-gifting-mo",
@@ -22462,7 +22462,7 @@
       "outputFormat": "report",
       "outputAssets": [],
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "output:what-are-the-legal-requirements-for-selling-a-rental-property-in-belgium-flander",
@@ -22691,7 +22691,7 @@
       "outputFormat": "markdown",
       "outputAssets": [],
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "output:what-does-the-nbb-nationale-bank-van-belgi-page-about-the-centrale-voor-krediete",
@@ -22822,7 +22822,7 @@
       "outputFormat": "markdown",
       "outputAssets": [],
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "output:what-is-this-vault-about",
@@ -22897,7 +22897,7 @@
       "outputFormat": "markdown",
       "outputAssets": [],
       "decayScore": 1,
-      "lastConfirmedAt": "2026-07-12T02:00:45.084Z"
+      "lastConfirmedAt": "2026-07-19T02:01:33.412Z"
     },
     {
       "id": "memory:2026-06-30T20-22-45-745Z-write-highway-noise-reduction-guide-to-workspace",
@@ -23123,7 +23123,7 @@
         "swarmvault-config-a48adfce"
       ],
       "createdAt": "2026-05-22T19:04:20.117Z",
-      "updatedAt": "2026-07-12T02:00:44.656Z",
+      "updatedAt": "2026-07-19T02:01:32.975Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2",
         "bouwinfo-f8d17c05",
@@ -23285,7 +23285,7 @@
         "zoeken-notaris-be-832736a2"
       ],
       "createdAt": "2026-05-22T19:04:20.119Z",
-      "updatedAt": "2026-07-12T02:00:44.658Z",
+      "updatedAt": "2026-07-19T02:01:32.977Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2",
         "bouwinfo-f8d17c05",
@@ -23441,8 +23441,8 @@
         "home-kepler-7ece3282",
         "home-kepler-938b95f3"
       ],
-      "createdAt": "2026-07-12T02:00:44.629Z",
-      "updatedAt": "2026-07-12T02:00:44.629Z",
+      "createdAt": "2026-07-17T00:01:54.269Z",
+      "updatedAt": "2026-07-17T00:01:54.269Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-c633b882",
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da",
@@ -23549,8 +23549,8 @@
         "erfbelasting-b24e8569",
         "schenkbelasting-da146a89"
       ],
-      "createdAt": "2026-07-12T02:00:44.630Z",
-      "updatedAt": "2026-07-12T02:00:44.630Z",
+      "createdAt": "2026-07-17T00:01:54.270Z",
+      "updatedAt": "2026-07-17T00:01:54.270Z",
       "compiledFrom": [
         "erfbelasting-b24e8569",
         "schenkbelasting-da146a89"
@@ -23647,8 +23647,8 @@
         "projects-acb5fd10",
         "candidates-5d9c2771"
       ],
-      "createdAt": "2026-07-12T02:00:44.631Z",
-      "updatedAt": "2026-07-12T02:00:44.631Z",
+      "createdAt": "2026-07-17T00:01:54.271Z",
+      "updatedAt": "2026-07-17T00:01:54.271Z",
       "compiledFrom": [
         "insights-1398dcf3",
         "projects-acb5fd10",
@@ -23918,8 +23918,8 @@
         "swarmvault-schema-b10ad2d9",
         "projects-acb5fd10"
       ],
-      "createdAt": "2026-07-12T02:00:44.634Z",
-      "updatedAt": "2026-07-12T02:00:44.634Z",
+      "createdAt": "2026-07-17T00:01:54.273Z",
+      "updatedAt": "2026-07-17T00:01:54.273Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9",
         "projects-acb5fd10"
@@ -23991,8 +23991,8 @@
       "relatedSourceIds": [
         "bouwinfo-f8d17c05"
       ],
-      "createdAt": "2026-07-12T02:00:44.635Z",
-      "updatedAt": "2026-07-12T02:00:44.635Z",
+      "createdAt": "2026-07-17T00:01:54.274Z",
+      "updatedAt": "2026-07-17T00:01:54.274Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
@@ -24063,8 +24063,8 @@
       "relatedSourceIds": [
         "seerr-media-requests-available-ef141443"
       ],
-      "createdAt": "2026-07-12T02:00:44.635Z",
-      "updatedAt": "2026-07-12T02:00:44.635Z",
+      "createdAt": "2026-07-17T00:01:54.274Z",
+      "updatedAt": "2026-07-17T00:01:54.274Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
@@ -24135,8 +24135,8 @@
       "relatedSourceIds": [
         "swarmvault-config-a48adfce"
       ],
-      "createdAt": "2026-07-12T02:00:44.636Z",
-      "updatedAt": "2026-07-12T02:00:44.636Z",
+      "createdAt": "2026-07-17T00:01:54.274Z",
+      "updatedAt": "2026-07-17T00:01:54.274Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -24207,8 +24207,8 @@
       "relatedSourceIds": [
         "zoeken-notaris-be-832736a2"
       ],
-      "createdAt": "2026-07-12T02:00:44.636Z",
-      "updatedAt": "2026-07-12T02:00:44.636Z",
+      "createdAt": "2026-07-17T00:01:54.275Z",
+      "updatedAt": "2026-07-17T00:01:54.275Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
@@ -24279,8 +24279,8 @@
       "relatedSourceIds": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
-      "createdAt": "2026-07-12T02:00:44.636Z",
-      "updatedAt": "2026-07-12T02:00:44.636Z",
+      "createdAt": "2026-07-17T00:01:54.275Z",
+      "updatedAt": "2026-07-17T00:01:54.275Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
@@ -24349,8 +24349,8 @@
         "www-google-com-d149a56e",
         "www-google-com-efab024d"
       ],
-      "createdAt": "2026-07-12T02:00:44.637Z",
-      "updatedAt": "2026-07-12T02:00:44.637Z",
+      "createdAt": "2026-07-17T00:01:54.275Z",
+      "updatedAt": "2026-07-17T00:01:54.275Z",
       "compiledFrom": [
         "www-google-com-30f04687",
         "www-google-com-3d8570f8",
@@ -24411,8 +24411,8 @@
       "relatedSourceIds": [
         "dovendi-domain-for-sale-2d012a62"
       ],
-      "createdAt": "2026-07-12T02:00:44.637Z",
-      "updatedAt": "2026-07-12T02:00:44.637Z",
+      "createdAt": "2026-07-17T00:01:54.276Z",
+      "updatedAt": "2026-07-17T00:01:54.276Z",
       "compiledFrom": [
         "dovendi-domain-for-sale-2d012a62"
       ],
@@ -24462,8 +24462,8 @@
       "relatedSourceIds": [
         "default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3"
       ],
-      "createdAt": "2026-07-12T02:00:44.637Z",
-      "updatedAt": "2026-07-12T02:00:44.637Z",
+      "createdAt": "2026-07-17T00:01:54.276Z",
+      "updatedAt": "2026-07-17T00:01:54.276Z",
       "compiledFrom": [
         "default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3"
       ],
@@ -24504,8 +24504,8 @@
       "relatedSourceIds": [
         "myprivacy-dpgmedia-be-16f062da"
       ],
-      "createdAt": "2026-07-12T02:00:44.638Z",
-      "updatedAt": "2026-07-12T02:00:44.638Z",
+      "createdAt": "2026-07-17T00:01:54.276Z",
+      "updatedAt": "2026-07-17T00:01:54.276Z",
       "compiledFrom": [
         "myprivacy-dpgmedia-be-16f062da"
       ],
@@ -24530,8 +24530,8 @@
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-07-12T02:00:44.665Z",
-      "updatedAt": "2026-07-12T02:00:44.665Z",
+      "createdAt": "2026-07-19T02:01:32.983Z",
+      "updatedAt": "2026-07-19T02:01:32.983Z",
       "compiledFrom": [],
       "managedBy": "system",
       "decayScore": 1
@@ -24550,15 +24550,15 @@
         "www-google-com-3d8570f8",
         "www-google-com-30f04687",
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4",
-        "web-archive-org-cdx-search-cdx-f3370364",
         "web-archive-org-cdx-search-cdx-eb0bd1b9",
-        "web-archive-org-cdx-search-cdx-c633b882",
+        "web-archive-org-cdx-search-cdx-f3370364",
         "web-archive-org-cdx-search-cdx-e3b0c442",
+        "web-archive-org-cdx-search-cdx-c633b882",
         "web-archive-org-cdx-search-cdx-b75ec5c0",
         "web-archive-org-cdx-search-cdx-81e7194d",
+        "web-archive-org-cdx-search-cdx-37517e5f",
         "web-archive-org-cdx-search-cdx-66fd206b",
         "web-archive-org-cdx-search-cdx-368de9df",
-        "web-archive-org-cdx-search-cdx-37517e5f",
         "swarmvault-schema-b10ad2d9",
         "swarmvault-config-a48adfce",
         "seerr-media-requests-available-ef141443"
@@ -24575,8 +24575,8 @@
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-07-12T02:00:44.666Z",
-      "updatedAt": "2026-07-12T02:00:44.666Z",
+      "createdAt": "2026-07-19T02:01:32.984Z",
+      "updatedAt": "2026-07-19T02:01:32.984Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2",
         "www-google-com-efab024d",
@@ -24586,15 +24586,15 @@
         "www-google-com-3d8570f8",
         "www-google-com-30f04687",
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4",
-        "web-archive-org-cdx-search-cdx-f3370364",
         "web-archive-org-cdx-search-cdx-eb0bd1b9",
-        "web-archive-org-cdx-search-cdx-c633b882",
+        "web-archive-org-cdx-search-cdx-f3370364",
         "web-archive-org-cdx-search-cdx-e3b0c442",
+        "web-archive-org-cdx-search-cdx-c633b882",
         "web-archive-org-cdx-search-cdx-b75ec5c0",
         "web-archive-org-cdx-search-cdx-81e7194d",
+        "web-archive-org-cdx-search-cdx-37517e5f",
         "web-archive-org-cdx-search-cdx-66fd206b",
         "web-archive-org-cdx-search-cdx-368de9df",
-        "web-archive-org-cdx-search-cdx-37517e5f",
         "swarmvault-schema-b10ad2d9",
         "swarmvault-config-a48adfce",
         "seerr-media-requests-available-ef141443"
@@ -24620,8 +24620,8 @@
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-07-12T02:00:44.667Z",
-      "updatedAt": "2026-07-12T02:00:44.667Z",
+      "createdAt": "2026-07-19T02:01:32.985Z",
+      "updatedAt": "2026-07-19T02:01:32.985Z",
       "compiledFrom": [],
       "managedBy": "system",
       "decayScore": 1
@@ -24644,8 +24644,8 @@
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-07-12T02:00:44.668Z",
-      "updatedAt": "2026-07-12T02:00:44.668Z",
+      "createdAt": "2026-07-19T02:01:32.986Z",
+      "updatedAt": "2026-07-19T02:01:32.986Z",
       "compiledFrom": [],
       "managedBy": "system",
       "decayScore": 1
@@ -24668,8 +24668,8 @@
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-07-12T02:00:44.668Z",
-      "updatedAt": "2026-07-12T02:00:44.668Z",
+      "createdAt": "2026-07-19T02:01:32.987Z",
+      "updatedAt": "2026-07-19T02:01:32.987Z",
       "compiledFrom": [],
       "managedBy": "system",
       "decayScore": 1
@@ -24692,8 +24692,8 @@
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-07-12T02:00:44.669Z",
-      "updatedAt": "2026-07-12T02:00:44.669Z",
+      "createdAt": "2026-07-19T02:01:32.987Z",
+      "updatedAt": "2026-07-19T02:01:32.987Z",
       "compiledFrom": [],
       "managedBy": "system",
       "decayScore": 1
@@ -24716,8 +24716,8 @@
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-07-12T02:00:44.670Z",
-      "updatedAt": "2026-07-12T02:00:44.670Z",
+      "createdAt": "2026-07-19T02:01:32.988Z",
+      "updatedAt": "2026-07-19T02:01:32.988Z",
       "compiledFrom": [],
       "managedBy": "system",
       "decayScore": 1
@@ -24740,8 +24740,8 @@
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-07-12T02:00:44.670Z",
-      "updatedAt": "2026-07-12T02:00:44.670Z",
+      "createdAt": "2026-07-19T02:01:32.989Z",
+      "updatedAt": "2026-07-19T02:01:32.989Z",
       "compiledFrom": [],
       "managedBy": "system",
       "decayScore": 1
@@ -24764,8 +24764,8 @@
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-07-12T02:00:44.671Z",
-      "updatedAt": "2026-07-12T02:00:44.671Z",
+      "createdAt": "2026-07-19T02:01:32.990Z",
+      "updatedAt": "2026-07-19T02:01:32.990Z",
       "compiledFrom": [],
       "managedBy": "system",
       "decayScore": 1

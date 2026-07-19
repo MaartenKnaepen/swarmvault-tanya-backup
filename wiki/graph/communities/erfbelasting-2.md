@@ -38,8 +38,8 @@ node_ids: &ref_0
 freshness: fresh
 status: active
 confidence: 1
-created_at: '2026-07-12T02:00:44.630Z'
-updated_at: '2026-07-12T02:00:44.630Z'
+created_at: '2026-07-17T00:01:54.270Z'
+updated_at: '2026-07-17T00:01:54.270Z'
 compiled_from:
   - erfbelasting-b24e8569
   - schenkbelasting-da146a89

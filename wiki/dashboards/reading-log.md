@@ -13,7 +13,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.123Z'
-updated_at: '2026-07-12T02:00:44.667Z'
+updated_at: '2026-07-19T02:01:32.985Z'
 compiled_from: []
 managed_by: system
 backlinks: []
@@ -24,23 +24,23 @@ profile_presets: []
 ---
 # Reading Log
 
-- 2026-07-12T02:00:42.592Z: [[sources/zoeken-notaris-be-832736a2|Zoeken | notaris.be]]
-- 2026-07-12T02:00:42.591Z: [[sources/www-google-com-efab024d|www.google.com]]
-- 2026-07-12T02:00:42.590Z: [[sources/www-google-com-d149a56e|www.google.com]]
-- 2026-07-12T02:00:42.589Z: [[sources/www-google-com-a1e017e6|www.google.com]]
-- 2026-07-12T02:00:42.588Z: [[sources/www-google-com-8ca38364|www.google.com]]
-- 2026-07-12T02:00:42.587Z: [[sources/www-google-com-3d8570f8|www.google.com]]
-- 2026-07-12T02:00:42.585Z: [[sources/www-google-com-30f04687|www.google.com]]
-- 2026-07-12T02:00:42.584Z: [[sources/wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4|Wegbeheerder van Vlaamse gewest- en snelwegen]]
-- 2026-07-12T02:00:42.583Z: [[sources/web-archive-org-cdx-search-cdx-f3370364|web.archive.org/cdx/search/cdx]]
-- 2026-07-12T02:00:42.582Z: [[sources/web-archive-org-cdx-search-cdx-eb0bd1b9|web.archive.org/cdx/search/cdx]]
-- 2026-07-12T02:00:42.581Z: [[sources/web-archive-org-cdx-search-cdx-c633b882|web.archive.org/cdx/search/cdx]]
-- 2026-07-12T02:00:42.581Z: [[sources/web-archive-org-cdx-search-cdx-e3b0c442|web.archive.org/cdx/search/cdx]]
-- 2026-07-12T02:00:42.580Z: [[sources/web-archive-org-cdx-search-cdx-b75ec5c0|web.archive.org/cdx/search/cdx]]
-- 2026-07-12T02:00:42.579Z: [[sources/web-archive-org-cdx-search-cdx-81e7194d|web.archive.org/cdx/search/cdx]]
-- 2026-07-12T02:00:42.578Z: [[sources/web-archive-org-cdx-search-cdx-66fd206b|web.archive.org/cdx/search/cdx]]
-- 2026-07-12T02:00:42.577Z: [[sources/web-archive-org-cdx-search-cdx-368de9df|web.archive.org/cdx/search/cdx]]
-- 2026-07-12T02:00:42.577Z: [[sources/web-archive-org-cdx-search-cdx-37517e5f|web.archive.org/cdx/search/cdx]]
-- 2026-07-12T02:00:42.576Z: [[sources/swarmvault-schema-b10ad2d9|SwarmVault Schema]]
-- 2026-07-12T02:00:42.575Z: [[sources/swarmvault-config-a48adfce|swarmvault.config]]
-- 2026-07-12T02:00:42.573Z: [[sources/seerr-media-requests-available-ef141443|Seerr — Media Requests Available]]
+- 2026-07-19T02:01:30.829Z: [[sources/zoeken-notaris-be-832736a2|Zoeken | notaris.be]]
+- 2026-07-19T02:01:30.827Z: [[sources/www-google-com-efab024d|www.google.com]]
+- 2026-07-19T02:01:30.826Z: [[sources/www-google-com-d149a56e|www.google.com]]
+- 2026-07-19T02:01:30.825Z: [[sources/www-google-com-a1e017e6|www.google.com]]
+- 2026-07-19T02:01:30.824Z: [[sources/www-google-com-8ca38364|www.google.com]]
+- 2026-07-19T02:01:30.823Z: [[sources/www-google-com-3d8570f8|www.google.com]]
+- 2026-07-19T02:01:30.822Z: [[sources/www-google-com-30f04687|www.google.com]]
+- 2026-07-19T02:01:30.820Z: [[sources/wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4|Wegbeheerder van Vlaamse gewest- en snelwegen]]
+- 2026-07-19T02:01:30.819Z: [[sources/web-archive-org-cdx-search-cdx-eb0bd1b9|web.archive.org/cdx/search/cdx]]
+- 2026-07-19T02:01:30.819Z: [[sources/web-archive-org-cdx-search-cdx-f3370364|web.archive.org/cdx/search/cdx]]
+- 2026-07-19T02:01:30.818Z: [[sources/web-archive-org-cdx-search-cdx-e3b0c442|web.archive.org/cdx/search/cdx]]
+- 2026-07-19T02:01:30.817Z: [[sources/web-archive-org-cdx-search-cdx-c633b882|web.archive.org/cdx/search/cdx]]
+- 2026-07-19T02:01:30.816Z: [[sources/web-archive-org-cdx-search-cdx-b75ec5c0|web.archive.org/cdx/search/cdx]]
+- 2026-07-19T02:01:30.815Z: [[sources/web-archive-org-cdx-search-cdx-81e7194d|web.archive.org/cdx/search/cdx]]
+- 2026-07-19T02:01:30.814Z: [[sources/web-archive-org-cdx-search-cdx-37517e5f|web.archive.org/cdx/search/cdx]]
+- 2026-07-19T02:01:30.814Z: [[sources/web-archive-org-cdx-search-cdx-66fd206b|web.archive.org/cdx/search/cdx]]
+- 2026-07-19T02:01:30.813Z: [[sources/web-archive-org-cdx-search-cdx-368de9df|web.archive.org/cdx/search/cdx]]
+- 2026-07-19T02:01:30.812Z: [[sources/swarmvault-schema-b10ad2d9|SwarmVault Schema]]
+- 2026-07-19T02:01:30.811Z: [[sources/swarmvault-config-a48adfce|swarmvault.config]]
+- 2026-07-19T02:01:30.809Z: [[sources/seerr-media-requests-available-ef141443|Seerr — Media Requests Available]]
