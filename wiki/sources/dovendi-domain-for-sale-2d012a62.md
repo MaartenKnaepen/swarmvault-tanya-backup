@@ -23,7 +23,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-07-03T23:35:19.610Z'
-updated_at: '2026-07-19T02:01:30.783Z'
+updated_at: '2026-07-26T02:01:09.796Z'
 compiled_from:
   - dovendi-domain-for-sale-2d012a62
 managed_by: system
@@ -41,7 +41,7 @@ source_hashes:
 source_semantic_hashes:
   dovendi-domain-for-sale-2d012a62: 0979f70eeaa4787b525071dcbea4382b89c0ef9609e35b6559cae5ba7e232116
 decay_score: 1
-last_confirmed_at: '2026-07-19T02:01:33.412Z'
+last_confirmed_at: '2026-07-26T02:01:12.209Z'
 ---
 # Dovendi - Domain for sale
 

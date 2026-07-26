@@ -24,7 +24,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-07-03T23:35:19.623Z'
-updated_at: '2026-07-19T02:01:30.824Z'
+updated_at: '2026-07-26T02:01:09.824Z'
 compiled_from:
   - www-google-com-8ca38364
 managed_by: system
@@ -47,7 +47,7 @@ source_hashes:
 source_semantic_hashes:
   www-google-com-8ca38364: 2b3e751328c3791368c48e7dbecc19601a4d0e07e37ee8ab8165d08093289a59
 decay_score: 1
-last_confirmed_at: '2026-07-19T02:01:33.412Z'
+last_confirmed_at: '2026-07-26T02:01:12.209Z'
 ---
 # www.google.com
 

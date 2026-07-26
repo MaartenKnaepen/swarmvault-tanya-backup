@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T02:01:32.971Z",
+  "generatedAt": "2026-07-26T02:01:11.802Z",
   "graphHash": "b2b2a7fd42e2ee3e73d830a5129722a9c357527039f21017612d7c4e3d95895c",
   "overview": {
     "nodes": 237,
@@ -39,7 +39,7 @@
     "Non-first-party material accounts for 76.4% of graph nodes."
   ],
   "benchmark": {
-    "generatedAt": "2026-07-19T00:06:13.569Z",
+    "generatedAt": "2026-07-26T00:05:42.533Z",
     "stale": true,
     "summary": {
       "questionCount": 3,

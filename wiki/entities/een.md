@@ -18,7 +18,7 @@ freshness: fresh
 status: active
 confidence: 0.8
 created_at: '2026-07-02T18:00:14.772Z'
-updated_at: '2026-07-19T02:01:30.944Z'
+updated_at: '2026-07-26T02:01:09.919Z'
 compiled_from:
   - >-
     centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da
@@ -36,7 +36,7 @@ source_semantic_hashes:
   centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da: 3a34dbee82e703c756cfc0f5ffd2d5759beae7d655e2dd2eebcd4d50723914c0
   een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72: eb3d4fbc940fc08335028bb7251ff40dc8b30b5fea6ed7a36fcfc682569453b2
 decay_score: 1
-last_confirmed_at: '2026-07-19T02:01:33.412Z'
+last_confirmed_at: '2026-07-26T02:01:12.209Z'
 ---
 # Een
 

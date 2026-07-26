@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-19T02:01:32.906Z",
+  "generatedAt": "2026-07-26T02:01:11.748Z",
   "providerId": "ollama-embed",
   "providerModel": "hf.co/jinaai/jina-embeddings-v5-text-small-retrieval-GGUF:Q4_K_M",
-  "graphHash": "2026-07-19T02:01:31.005Z",
+  "graphHash": "2026-07-26T02:01:09.971Z",
   "entries": [
     {
       "itemId": "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
