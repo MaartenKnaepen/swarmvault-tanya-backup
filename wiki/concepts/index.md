@@ -15,156 +15,154 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.128Z'
-updated_at: '2026-07-26T02:01:11.825Z'
+updated_at: '2026-08-02T00:09:51.983Z'
 compiled_from:
+  - web-archive-org-cdx-search-cdx-c633b882
+  - bouwinfo-f8d17c05
+  - wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4
   - 40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2
   - house-for-sale-diepenbeek-3590-immoweb-6f7c1e11
-  - bouwinfo-f8d17c05
-  - candidates-5d9c2771
+  - erfbelasting-b24e8569
+  - dovendi-domain-for-sale-2d012a62
+  - swarmvault-config-a48adfce
+  - zoeken-notaris-be-832736a2
+  - de-notaris-notaris-be-8b0bd2a4
   - insights-1398dcf3
-  - projects-acb5fd10
-  - >-
-    centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da
-  - een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72
+  - seerr-media-requests-available-ef141443
   - home-kepler-7ece3282
   - home-kepler-938b95f3
-  - de-notaris-notaris-be-8b0bd2a4
-  - dovendi-domain-for-sale-2d012a62
-  - web-archive-org-cdx-search-cdx-c633b882
-  - erfbelasting-b24e8569
-  - myprivacy-dpgmedia-be-16f062da
-  - schenkbelasting-da146a89
-  - seerr-media-requests-available-ef141443
-  - swarmvault-config-a48adfce
+  - projects-acb5fd10
+  - candidates-5d9c2771
   - swarmvault-schema-b10ad2d9
-  - wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4
   - www-google-com-30f04687
   - www-google-com-3d8570f8
   - www-google-com-8ca38364
   - www-google-com-a1e017e6
   - www-google-com-d149a56e
   - www-google-com-efab024d
-  - zoeken-notaris-be-832736a2
+  - >-
+    centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da
+  - schenkbelasting-da146a89
+  - een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72
+  - myprivacy-dpgmedia-be-16f062da
 managed_by: system
 backlinks: []
 schema_hash: 00d64cfa850a7f1b2281e664da3a51447f579da1e100ec5cb6e3b9247e3d47c2
 source_hashes: {}
 source_semantic_hashes: {}
-decay_score: 1
-last_confirmed_at: '2026-07-26T02:01:12.209Z'
 ---
 # Concepts
 
-- [[concepts/diepenbeek|diepenbeek]]
-- [[concepts/3590|3590]]
-- [[concepts/house|house]]
-- [[concepts/hasselt|hasselt]]
-- [[concepts/excluding|excluding]]
-- [[concepts/taxes|taxes]]
-- [[concepts/2026|2026]]
-- [[concepts/bericht|bericht]]
-- [[concepts/berichten|berichten]]
-- [[concepts/categorie|categorie]]
-- [[concepts/door|door]]
-- [[concepts/laatste|laatste]]
-- [[concepts/candidates|candidates]]
-- [[concepts/candidate|candidate]]
-- [[concepts/compile|compile]]
-- [[concepts/index|index]]
-- [[concepts/pages|pages]]
-- [[concepts/stage|stage]]
-- [[concepts/particulieren|particulieren]]
-- [[concepts/voor|voor]]
-- [[concepts/kredieten|kredieten]]
-- [[concepts/gegevens|gegevens]]
-- [[concepts/info|info]]
-- [[concepts/informatiegerechtigden|informatiegerechtigden]]
-- [[concepts/jouw|jouw]]
-- [[concepts/vragen|vragen]]
-- [[concepts/antwoord|antwoord]]
-- [[concepts/campagne|campagne]]
-- [[concepts/onze|onze]]
-- [[concepts/persoonlijke|persoonlijke]]
-- [[concepts/dovendi|dovendi]]
-- [[concepts/names|names]]
-- [[concepts/about|about]]
-- [[concepts/achieving|achieving]]
-- [[concepts/brings|brings]]
-- [[concepts/buyers|buyers]]
-- [[concepts/kepler|kepler]]
-- [[concepts/woning|woning]]
-- [[concepts/stap|stap]]
-- [[concepts/wonen|wonen]]
-- [[concepts/niet|niet]]
-- [[concepts/erfbelasting|erfbelasting]]
-- [[concepts/nalatenschap|nalatenschap]]
-- [[concepts/wordt|wordt]]
-- [[concepts/aangifte|aangifte]]
-- [[concepts/overledene|overledene]]
-- [[concepts/berekend|berekend]]
-- [[concepts/bouwen|bouwen]]
-- [[concepts/naar|naar]]
-- [[concepts/nieuwe|nieuwe]]
-- [[concepts/productieproces|productieproces]]
-- [[concepts/albert|albert]]
-- [[concepts/expansion|expansion]]
-- [[concepts/floor|floor]]
-- [[concepts/ground|ground]]
-- [[concepts/insights|insights]]
-- [[concepts/swarmvault|swarmvault]]
-- [[concepts/applies|applies]]
-- [[concepts/authored|authored]]
-- [[concepts/during|during]]
-- [[concepts/logo|logo]]
-- [[concepts/media|media]]
-- [[concepts/projects|projects]]
-- [[concepts/build|build]]
-- [[concepts/project|project]]
-- [[concepts/rollups|rollups]]
-- [[concepts/schenkbelasting|schenkbelasting]]
-- [[concepts/schenking|schenking]]
-- [[concepts/genieten|genieten]]
-- [[concepts/goederen|goederen]]
-- [[concepts/verschuldigd|verschuldigd]]
-- [[concepts/vindt|vindt]]
-- [[concepts/available|available]]
-- [[concepts/download|download]]
-- [[concepts/shows|shows]]
-- [[concepts/hermes|hermes]]
-- [[concepts/seerr|seerr]]
-- [[concepts/dune|dune]]
-- [[concepts/object|object]]
-- [[concepts/keys|keys]]
-- [[concepts/local|local]]
-- [[concepts/false|false]]
-- [[concepts/agents|agents]]
-- [[concepts/heuristic|heuristic]]
-- [[concepts/should|should]]
-- [[concepts/source|source]]
-- [[concepts/vault|vault]]
-- [[concepts/claims|claims]]
-- [[concepts/concept|concept]]
-- [[concepts/domain|domain]]
-- [[concepts/http|http]]
 - [[concepts/20040904163039|20040904163039]]
 - [[concepts/20040906074751|20040906074751]]
 - [[concepts/20040928094111|20040928094111]]
 - [[concepts/20041202021608|20041202021608]]
-- [[concepts/verkeer|verkeer]]
-- [[concepts/augustus|augustus]]
-- [[concepts/brug|brug]]
-- [[concepts/n446|n446]]
+- [[concepts/2026|2026]]
 - [[concepts/2027|2027]]
-- [[concepts/durmebrug|durmebrug]]
-- [[concepts/feedback|feedback]]
-- [[concepts/google|google]]
-- [[concepts/hebt|hebt]]
-- [[concepts/hier|hier]]
-- [[concepts/klikken|klikken]]
-- [[concepts/problemen|problemen]]
-- [[concepts/over|over]]
-- [[concepts/erfenis|erfenis]]
-- [[concepts/scheiden|scheiden]]
+- [[concepts/3590|3590]]
+- [[concepts/aangifte|aangifte]]
+- [[concepts/about|about]]
+- [[concepts/achieving|achieving]]
+- [[concepts/agents|agents]]
+- [[concepts/albert|albert]]
 - [[concepts/alles|alles]]
+- [[concepts/antwoord|antwoord]]
+- [[concepts/applies|applies]]
+- [[concepts/augustus|augustus]]
+- [[concepts/authored|authored]]
+- [[concepts/available|available]]
+- [[concepts/berekend|berekend]]
 - [[concepts/berekenen|berekenen]]
+- [[concepts/bericht|bericht]]
+- [[concepts/berichten|berichten]]
+- [[concepts/bouwen|bouwen]]
+- [[concepts/brings|brings]]
+- [[concepts/brug|brug]]
+- [[concepts/build|build]]
+- [[concepts/buyers|buyers]]
+- [[concepts/campagne|campagne]]
+- [[concepts/candidate|candidate]]
+- [[concepts/candidates|candidates]]
+- [[concepts/categorie|categorie]]
+- [[concepts/claims|claims]]
+- [[concepts/compile|compile]]
+- [[concepts/concept|concept]]
+- [[concepts/diepenbeek|diepenbeek]]
+- [[concepts/domain|domain]]
+- [[concepts/door|door]]
+- [[concepts/dovendi|dovendi]]
+- [[concepts/download|download]]
+- [[concepts/dune|dune]]
+- [[concepts/during|during]]
+- [[concepts/durmebrug|durmebrug]]
+- [[concepts/erfbelasting|erfbelasting]]
+- [[concepts/erfenis|erfenis]]
 - [[concepts/erven|erven]]
+- [[concepts/excluding|excluding]]
+- [[concepts/expansion|expansion]]
+- [[concepts/false|false]]
+- [[concepts/feedback|feedback]]
+- [[concepts/floor|floor]]
+- [[concepts/gegevens|gegevens]]
+- [[concepts/genieten|genieten]]
+- [[concepts/goederen|goederen]]
+- [[concepts/google|google]]
+- [[concepts/ground|ground]]
+- [[concepts/hasselt|hasselt]]
+- [[concepts/hebt|hebt]]
+- [[concepts/hermes|hermes]]
+- [[concepts/heuristic|heuristic]]
+- [[concepts/hier|hier]]
+- [[concepts/house|house]]
+- [[concepts/http|http]]
+- [[concepts/index|index]]
+- [[concepts/info|info]]
+- [[concepts/informatiegerechtigden|informatiegerechtigden]]
+- [[concepts/insights|insights]]
+- [[concepts/jouw|jouw]]
+- [[concepts/kepler|kepler]]
+- [[concepts/keys|keys]]
+- [[concepts/klikken|klikken]]
+- [[concepts/kredieten|kredieten]]
+- [[concepts/laatste|laatste]]
+- [[concepts/local|local]]
+- [[concepts/logo|logo]]
+- [[concepts/media|media]]
+- [[concepts/n446|n446]]
+- [[concepts/naar|naar]]
+- [[concepts/nalatenschap|nalatenschap]]
+- [[concepts/names|names]]
+- [[concepts/niet|niet]]
+- [[concepts/nieuwe|nieuwe]]
+- [[concepts/object|object]]
+- [[concepts/onze|onze]]
+- [[concepts/over|over]]
+- [[concepts/overledene|overledene]]
+- [[concepts/pages|pages]]
+- [[concepts/particulieren|particulieren]]
+- [[concepts/persoonlijke|persoonlijke]]
+- [[concepts/problemen|problemen]]
+- [[concepts/productieproces|productieproces]]
+- [[concepts/project|project]]
+- [[concepts/projects|projects]]
+- [[concepts/rollups|rollups]]
+- [[concepts/scheiden|scheiden]]
+- [[concepts/schenkbelasting|schenkbelasting]]
+- [[concepts/schenking|schenking]]
+- [[concepts/seerr|seerr]]
+- [[concepts/should|should]]
+- [[concepts/shows|shows]]
+- [[concepts/source|source]]
+- [[concepts/stage|stage]]
+- [[concepts/stap|stap]]
+- [[concepts/swarmvault|swarmvault]]
+- [[concepts/taxes|taxes]]
+- [[concepts/vault|vault]]
+- [[concepts/verkeer|verkeer]]
+- [[concepts/verschuldigd|verschuldigd]]
+- [[concepts/vindt|vindt]]
+- [[concepts/voor|voor]]
+- [[concepts/vragen|vragen]]
+- [[concepts/wonen|wonen]]
+- [[concepts/woning|woning]]
+- [[concepts/wordt|wordt]]

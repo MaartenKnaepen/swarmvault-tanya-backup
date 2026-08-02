@@ -28,7 +28,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-07-02T18:00:14.738Z'
-updated_at: '2026-07-26T02:01:09.827Z'
+updated_at: '2026-08-02T00:05:30.153Z'
 compiled_from:
   - zoeken-notaris-be-832736a2
 managed_by: system
@@ -61,7 +61,7 @@ source_hashes:
 source_semantic_hashes:
   zoeken-notaris-be-832736a2: aa5cb7958df88c2a01d172f22fc33e2409e3fae730135d59e74d5fe76fa43530
 decay_score: 1
-last_confirmed_at: '2026-07-26T02:01:12.209Z'
+last_confirmed_at: '2026-08-02T00:05:32.689Z'
 ---
 # Zoeken | notaris.be
 

@@ -16,7 +16,7 @@ freshness: fresh
 status: active
 confidence: 0.65
 created_at: '2026-06-30T20:23:20.577Z'
-updated_at: '2026-07-26T02:01:09.838Z'
+updated_at: '2026-08-02T00:05:30.161Z'
 compiled_from:
   - bouwinfo-f8d17c05
 managed_by: system
@@ -36,7 +36,7 @@ source_hashes:
 source_semantic_hashes:
   bouwinfo-f8d17c05: 6ae5e47ea0baf0ab91e731ea68175f8e877a947683392e4fd0dab98621da003d
 decay_score: 1
-last_confirmed_at: '2026-07-26T02:01:12.209Z'
+last_confirmed_at: '2026-08-02T00:05:32.689Z'
 ---
 # categorie
 

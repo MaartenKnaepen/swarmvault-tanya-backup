@@ -162,7 +162,7 @@ question: >-
 output_format: markdown
 output_assets: []
 decay_score: 1
-last_confirmed_at: '2026-07-26T02:01:12.209Z'
+last_confirmed_at: '2026-08-02T00:05:32.689Z'
 ---
 # List the full content and metadata of all recently ingested source files about Diepenbeek, Kepler, and bouwgrond listings from Immoweb
 

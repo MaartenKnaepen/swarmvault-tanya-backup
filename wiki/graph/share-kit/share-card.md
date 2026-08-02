@@ -1,11 +1,11 @@
 # SwarmVault Share Card
 
-> A local-first map of knowledge-tanya: 36 sources compiled into 237 graph nodes and 242 wiki pages.
+> A local-first map of knowledge-tanya: 36 sources compiled into 237 graph nodes and 251 wiki pages.
 
 ## Snapshot
 
 - Sources: 36
-- Wiki pages: 242
+- Wiki pages: 251
 - Graph nodes: 237
 - Graph edges: 359
 - Communities: 15
@@ -32,7 +32,7 @@
 ## Share Post
 
 ```text
-I scanned knowledge-tanya with SwarmVault: 36 sources -> 242 wiki pages, 237 graph nodes, 359 edges.
+I scanned knowledge-tanya with SwarmVault: 36 sources -> 251 wiki pages, 237 graph nodes, 359 edges.
 Top hubs: compile, index, and should.
 Most surprising link: Candidates semantically_similar_to Projects.
 Everything stays local. Try: npm install -g @swarmvaultai/cli && swarmvault quickstart ./your-repo

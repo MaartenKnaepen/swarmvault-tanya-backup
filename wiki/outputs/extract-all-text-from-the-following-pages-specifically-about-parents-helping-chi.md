@@ -178,7 +178,7 @@ question: >-
 output_format: report
 output_assets: []
 decay_score: 1
-last_confirmed_at: '2026-07-26T02:01:12.209Z'
+last_confirmed_at: '2026-08-02T00:05:32.689Z'
 ---
 # Report: Extract all text from the following pages specifically about parents helping children buy a house: 1) The Vlaanderen.be schenkbelasting (gift tax) page - what are the rates, exemptions, conditions for gifting money or property to children for a home purchase? 2) The notaris.be search results for "borgstelling" (suretyship/guarantee) - what does it say about parents acting as guarantor for children's mortgage? 3) The NBB Centrale voor Kredieten aan Particulieren page - what does it say about how this credit registry works, especially related to mortgages and guarantors?
 

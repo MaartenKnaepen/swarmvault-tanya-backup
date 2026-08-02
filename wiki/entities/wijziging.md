@@ -17,7 +17,7 @@ freshness: fresh
 status: active
 confidence: 0.8
 created_at: '2026-06-30T20:23:20.602Z'
-updated_at: '2026-07-26T02:01:09.927Z'
+updated_at: '2026-08-02T00:05:30.244Z'
 compiled_from:
   - erfbelasting-b24e8569
   - schenkbelasting-da146a89
@@ -47,7 +47,7 @@ source_semantic_hashes:
   erfbelasting-b24e8569: a98141e022fec13c05396570c335351d5280ea0a14b15d508fddbae5f544d67e
   schenkbelasting-da146a89: 69e03a7fa46084aa8608c8a9b41ce8dce4fc79a0687245fe4a8f8a7c0964506e
 decay_score: 1
-last_confirmed_at: '2026-07-26T02:01:12.209Z'
+last_confirmed_at: '2026-08-02T00:05:32.689Z'
 ---
 # Wijziging
 

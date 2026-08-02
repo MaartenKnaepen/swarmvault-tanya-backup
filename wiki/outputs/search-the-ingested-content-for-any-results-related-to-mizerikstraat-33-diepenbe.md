@@ -137,7 +137,7 @@ question: >-
 output_format: markdown
 output_assets: []
 decay_score: 1
-last_confirmed_at: '2026-07-26T02:01:12.209Z'
+last_confirmed_at: '2026-08-02T00:05:32.689Z'
 ---
 # Search the ingested content for any results related to Mizerikstraat 33, Diepenbeek, Kepler, bouwgrond, or kavel listings
 

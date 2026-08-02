@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-26T02:01:11.806Z",
+  "generatedAt": "2026-08-02T00:09:52.293Z",
   "vaultName": "knowledge-tanya",
-  "tagline": "A local-first map of knowledge-tanya: 36 sources compiled into 237 graph nodes and 242 wiki pages.",
+  "tagline": "A local-first map of knowledge-tanya: 36 sources compiled into 237 graph nodes and 251 wiki pages.",
   "overview": {
     "sources": 36,
     "nodes": 237,
     "edges": 359,
-    "pages": 242,
+    "pages": 251,
     "communities": 15
   },
   "firstPartyOverview": {
@@ -89,7 +89,7 @@
   "knowledgeGaps": [
     "Non-first-party material accounts for 76.4% of graph nodes."
   ],
-  "shortPost": "I scanned knowledge-tanya with SwarmVault: 36 sources -> 242 wiki pages, 237 graph nodes, 359 edges.\nTop hubs: compile, index, and should.\nMost surprising link: Candidates semantically_similar_to Projects.\nEverything stays local. Try: npm install -g @swarmvaultai/cli && swarmvault quickstart ./your-repo",
+  "shortPost": "I scanned knowledge-tanya with SwarmVault: 36 sources -> 251 wiki pages, 237 graph nodes, 359 edges.\nTop hubs: compile, index, and should.\nMost surprising link: Candidates semantically_similar_to Projects.\nEverything stays local. Try: npm install -g @swarmvaultai/cli && swarmvault quickstart ./your-repo",
   "relatedNodeIds": [
     "concept:compile",
     "concept:index",

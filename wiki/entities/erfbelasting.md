@@ -16,7 +16,7 @@ freshness: fresh
 status: active
 confidence: 0.65
 created_at: '2026-06-30T20:23:20.601Z'
-updated_at: '2026-07-26T02:01:09.925Z'
+updated_at: '2026-08-02T00:05:30.242Z'
 compiled_from:
   - erfbelasting-b24e8569
 managed_by: system
@@ -34,7 +34,7 @@ source_hashes:
 source_semantic_hashes:
   erfbelasting-b24e8569: a98141e022fec13c05396570c335351d5280ea0a14b15d508fddbae5f544d67e
 decay_score: 1
-last_confirmed_at: '2026-07-26T02:01:12.209Z'
+last_confirmed_at: '2026-08-02T00:05:32.689Z'
 ---
 # Erfbelasting
 
