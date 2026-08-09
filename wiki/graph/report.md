@@ -57,7 +57,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.117Z'
-updated_at: '2026-08-02T00:09:51.957Z'
+updated_at: '2026-08-09T00:12:50.798Z'
 compiled_from:
   - 40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2
   - bouwinfo-f8d17c05
@@ -167,7 +167,7 @@ related_source_ids: *ref_1
 
 ## Benchmark Summary
 
-- Generated At: 2026-08-02T00:09:51.886Z
+- Generated At: 2026-08-09T00:12:50.757Z
 - Status: Fresh
 - Naive Corpus Tokens: 5505
 - Final Context Tokens: 2449
@@ -179,7 +179,7 @@ related_source_ids: *ref_1
 
 | Class | Sources | Pages | Nodes | God Nodes | Naive Tokens | Guided Tokens | Reduction |
 | ----- | ------- | ----- | ----- | --------- | ------------ | ------------- | --------- |
-| First-party | 6 | 50 | 56 | 14 | 5505 | 1827 | 66.8% |
+| First-party | 6 | 50 | 56 | 14 | 5505 | 1823 | 66.9% |
 | Third-party | 0 | 0 | 0 | 0 | 0 | 0 | 0.0% |
 | Resource | 0 | 0 | 0 | 0 | 0 | 0 | 0.0% |
 | Generated | 0 | 0 | 0 | 0 | 0 | 0 | 0.0% |

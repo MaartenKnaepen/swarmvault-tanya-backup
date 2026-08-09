@@ -16,7 +16,7 @@ freshness: fresh
 status: active
 confidence: 0.65
 created_at: '2026-07-02T17:51:22.357Z'
-updated_at: '2026-08-02T00:05:30.251Z'
+updated_at: '2026-08-09T00:08:29.390Z'
 compiled_from:
   - schenkbelasting-da146a89
 managed_by: system
@@ -42,7 +42,7 @@ source_hashes:
 source_semantic_hashes:
   schenkbelasting-da146a89: 69e03a7fa46084aa8608c8a9b41ce8dce4fc79a0687245fe4a8f8a7c0964506e
 decay_score: 1
-last_confirmed_at: '2026-08-02T00:05:32.689Z'
+last_confirmed_at: '2026-08-09T00:08:31.631Z'
 ---
 # heeft van rijksinwoner
 

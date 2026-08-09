@@ -28,7 +28,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-07-03T23:35:19.613Z'
-updated_at: '2026-08-02T00:05:30.134Z'
+updated_at: '2026-08-09T00:08:29.249Z'
 compiled_from:
   - home-kepler-938b95f3
 managed_by: system
@@ -51,7 +51,7 @@ source_hashes:
 source_semantic_hashes:
   home-kepler-938b95f3: e35503d6434f23ccdcf06919fdf6a2052f0c1b11748ca25f731fc10cee87c09c
 decay_score: 1
-last_confirmed_at: '2026-08-02T00:05:32.689Z'
+last_confirmed_at: '2026-08-09T00:08:31.631Z'
 ---
 # Home - Kepler
 
