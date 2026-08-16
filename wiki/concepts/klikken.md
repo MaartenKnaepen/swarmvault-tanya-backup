@@ -21,7 +21,7 @@ freshness: fresh
 status: active
 confidence: 0.95
 created_at: '2026-06-30T20:23:20.598Z'
-updated_at: '2026-08-09T00:08:29.352Z'
+updated_at: '2026-08-16T00:10:06.187Z'
 compiled_from:
   - www-google-com-30f04687
   - www-google-com-3d8570f8
@@ -57,7 +57,7 @@ source_semantic_hashes:
   www-google-com-d149a56e: b28038d0acf7fb157380d913880960340cd5a578ef3c22b160abaee49af46368
   www-google-com-efab024d: 61281301b6d3cf951c0530af777c5e23f2d188e6cf78846edcdbca0b76b24fc0
 decay_score: 1
-last_confirmed_at: '2026-08-09T00:08:31.631Z'
+last_confirmed_at: '2026-08-16T00:10:08.658Z'
 ---
 # klikken
 

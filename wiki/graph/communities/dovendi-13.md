@@ -22,8 +22,8 @@ node_ids: &ref_0
 freshness: fresh
 status: active
 confidence: 1
-created_at: '2026-07-17T00:01:54.276Z'
-updated_at: '2026-07-17T00:01:54.276Z'
+created_at: '2026-08-13T00:07:58.534Z'
+updated_at: '2026-08-13T00:07:58.534Z'
 compiled_from:
   - dovendi-domain-for-sale-2d012a62
 managed_by: system

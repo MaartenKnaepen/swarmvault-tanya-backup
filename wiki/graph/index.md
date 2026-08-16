@@ -15,7 +15,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.130Z'
-updated_at: '2026-08-09T00:12:50.835Z'
+updated_at: '2026-08-16T00:14:32.198Z'
 compiled_from:
   - bouwinfo-f8d17c05
   - seerr-media-requests-available-ef141443

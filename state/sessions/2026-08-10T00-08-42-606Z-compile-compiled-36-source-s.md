@@ -1,0 +1,621 @@
+---
+session_id: 2026-08-10T00-08-42-606Z-compile-compiled-36-source-s
+operation: compile
+title: Compiled 36 source(s)
+started_at: '2026-08-10T00:08:42.606Z'
+finished_at: '2026-08-10T00:13:05.325Z'
+duration_ms: 262719
+provider: local
+success: true
+related_source_ids:
+  - 40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2
+  - bouwinfo-f8d17c05
+  - candidates-5d9c2771
+  - >-
+    centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da
+  - de-notaris-notaris-be-8b0bd2a4
+  - default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3
+  - dovendi-domain-for-sale-2d012a62
+  - een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72
+  - erfbelasting-b24e8569
+  - home-kepler-7ece3282
+  - home-kepler-938b95f3
+  - house-for-sale-diepenbeek-3590-immoweb-6f7c1e11
+  - insights-1398dcf3
+  - myprivacy-dpgmedia-be-16f062da
+  - projects-acb5fd10
+  - schenkbelasting-da146a89
+  - seerr-media-requests-available-ef141443
+  - swarmvault-config-a48adfce
+  - swarmvault-schema-b10ad2d9
+  - web-archive-org-cdx-search-cdx-368de9df
+  - web-archive-org-cdx-search-cdx-37517e5f
+  - web-archive-org-cdx-search-cdx-66fd206b
+  - web-archive-org-cdx-search-cdx-81e7194d
+  - web-archive-org-cdx-search-cdx-b75ec5c0
+  - web-archive-org-cdx-search-cdx-c633b882
+  - web-archive-org-cdx-search-cdx-e3b0c442
+  - web-archive-org-cdx-search-cdx-eb0bd1b9
+  - web-archive-org-cdx-search-cdx-f3370364
+  - wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4
+  - www-google-com-30f04687
+  - www-google-com-3d8570f8
+  - www-google-com-8ca38364
+  - www-google-com-a1e017e6
+  - www-google-com-d149a56e
+  - www-google-com-efab024d
+  - zoeken-notaris-be-832736a2
+related_page_ids:
+  - 'source:40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2'
+  - 'source:bouwinfo-f8d17c05'
+  - 'source:candidates-5d9c2771'
+  - >-
+    source:centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da
+  - 'source:de-notaris-notaris-be-8b0bd2a4'
+  - >-
+    source:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3
+  - >-
+    module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3
+  - 'source:dovendi-domain-for-sale-2d012a62'
+  - 'source:een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72'
+  - 'source:erfbelasting-b24e8569'
+  - 'source:home-kepler-7ece3282'
+  - 'source:home-kepler-938b95f3'
+  - 'source:house-for-sale-diepenbeek-3590-immoweb-6f7c1e11'
+  - 'source:insights-1398dcf3'
+  - 'source:myprivacy-dpgmedia-be-16f062da'
+  - 'source:projects-acb5fd10'
+  - 'source:schenkbelasting-da146a89'
+  - 'source:seerr-media-requests-available-ef141443'
+  - 'source:swarmvault-config-a48adfce'
+  - 'source:swarmvault-schema-b10ad2d9'
+  - 'source:web-archive-org-cdx-search-cdx-368de9df'
+  - 'source:web-archive-org-cdx-search-cdx-37517e5f'
+  - 'source:web-archive-org-cdx-search-cdx-66fd206b'
+  - 'source:web-archive-org-cdx-search-cdx-81e7194d'
+  - 'source:web-archive-org-cdx-search-cdx-b75ec5c0'
+  - 'source:web-archive-org-cdx-search-cdx-c633b882'
+  - 'source:web-archive-org-cdx-search-cdx-e3b0c442'
+  - 'source:web-archive-org-cdx-search-cdx-eb0bd1b9'
+  - 'source:web-archive-org-cdx-search-cdx-f3370364'
+  - 'source:wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4'
+  - 'source:www-google-com-30f04687'
+  - 'source:www-google-com-3d8570f8'
+  - 'source:www-google-com-8ca38364'
+  - 'source:www-google-com-a1e017e6'
+  - 'source:www-google-com-d149a56e'
+  - 'source:www-google-com-efab024d'
+  - 'source:zoeken-notaris-be-832736a2'
+  - 'concept:diepenbeek'
+  - 'concept:3590'
+  - 'concept:house'
+  - 'concept:hasselt'
+  - 'concept:excluding'
+  - 'concept:taxes'
+  - 'concept:2026'
+  - 'concept:bericht'
+  - 'concept:berichten'
+  - 'concept:categorie'
+  - 'concept:door'
+  - 'concept:laatste'
+  - 'concept:candidates'
+  - 'concept:candidate'
+  - 'concept:compile'
+  - 'concept:index'
+  - 'concept:pages'
+  - 'concept:stage'
+  - 'concept:particulieren'
+  - 'concept:voor'
+  - 'concept:kredieten'
+  - 'concept:gegevens'
+  - 'concept:info'
+  - 'concept:informatiegerechtigden'
+  - 'concept:jouw'
+  - 'concept:vragen'
+  - 'concept:antwoord'
+  - 'concept:campagne'
+  - 'concept:onze'
+  - 'concept:persoonlijke'
+  - 'concept:dovendi'
+  - 'concept:names'
+  - 'concept:about'
+  - 'concept:achieving'
+  - 'concept:brings'
+  - 'concept:buyers'
+  - 'concept:kepler'
+  - 'concept:woning'
+  - 'concept:stap'
+  - 'concept:wonen'
+  - 'concept:niet'
+  - 'concept:erfbelasting'
+  - 'concept:nalatenschap'
+  - 'concept:wordt'
+  - 'concept:aangifte'
+  - 'concept:overledene'
+  - 'concept:berekend'
+  - 'concept:bouwen'
+  - 'concept:naar'
+  - 'concept:nieuwe'
+  - 'concept:productieproces'
+  - 'concept:albert'
+  - 'concept:expansion'
+  - 'concept:floor'
+  - 'concept:ground'
+  - 'concept:insights'
+  - 'concept:swarmvault'
+  - 'concept:applies'
+  - 'concept:authored'
+  - 'concept:during'
+  - 'concept:logo'
+  - 'concept:media'
+  - 'concept:projects'
+  - 'concept:build'
+  - 'concept:project'
+  - 'concept:rollups'
+  - 'concept:schenkbelasting'
+  - 'concept:schenking'
+  - 'concept:genieten'
+  - 'concept:goederen'
+  - 'concept:verschuldigd'
+  - 'concept:vindt'
+  - 'concept:available'
+  - 'concept:download'
+  - 'concept:shows'
+  - 'concept:hermes'
+  - 'concept:seerr'
+  - 'concept:dune'
+  - 'concept:object'
+  - 'concept:keys'
+  - 'concept:local'
+  - 'concept:false'
+  - 'concept:agents'
+  - 'concept:heuristic'
+  - 'concept:should'
+  - 'concept:source'
+  - 'concept:vault'
+  - 'concept:claims'
+  - 'concept:concept'
+  - 'concept:domain'
+  - 'concept:http'
+  - 'concept:20040904163039'
+  - 'concept:20040906074751'
+  - 'concept:20040928094111'
+  - 'concept:20041202021608'
+  - 'concept:verkeer'
+  - 'concept:augustus'
+  - 'concept:brug'
+  - 'concept:n446'
+  - 'concept:2027'
+  - 'concept:durmebrug'
+  - 'concept:feedback'
+  - 'concept:google'
+  - 'concept:hebt'
+  - 'concept:hier'
+  - 'concept:klikken'
+  - 'concept:problemen'
+  - 'concept:over'
+  - 'concept:erfenis'
+  - 'concept:scheiden'
+  - 'concept:alles'
+  - 'concept:berekenen'
+  - 'concept:erven'
+  - 'entity:woning-immo-top-invest'
+  - 'entity:house'
+  - 'entity:diepenbeek-house-heylen-vastgoed-hasselt'
+  - 'entity:diepenbeek-plot-heylen-vastgoed-hasselt'
+  - 'entity:villa'
+  - 'entity:diepenbeek-karaktervolle'
+  - 'entity:verbouwen-categorie-topics-berichten-laatste'
+  - 'entity:ver-bouwdagboeken-wil'
+  - 'entity:dit'
+  - 'entity:door'
+  - 'entity:ruwbouw-categorie-topics-berichten-laatste'
+  - 'entity:tuin-categorie-topics-berichten-laatste'
+  - 'entity:candidates'
+  - 'entity:candidates-run'
+  - 'entity:centrale'
+  - 'entity:belgi'
+  - 'entity:particulieren-iedere'
+  - 'entity:professionelen'
+  - 'entity:een'
+  - 'entity:onze'
+  - 'entity:not'
+  - 'entity:frequently-asked-questions'
+  - 'entity:want'
+  - 'entity:mensen'
+  - 'entity:dovendi-dovendi'
+  - 'entity:al-stel'
+  - 'entity:norm-van-duurzaamheid'
+  - 'entity:belgische'
+  - 'entity:dan'
+  - 'entity:klaar'
+  - 'entity:erfbelasting'
+  - 'entity:vlaamse'
+  - 'entity:aangifte-van-nalatenschap'
+  - 'entity:vlaamse-belastingdienst'
+  - 'entity:wijziging'
+  - 'entity:familiale'
+  - 'entity:vlak-van-technologie'
+  - 'entity:ontdek'
+  - 'entity:hoogwaardig'
+  - 'entity:we'
+  - 'entity:diepenbeek-ground'
+  - 'entity:albert'
+  - 'entity:insights'
+  - 'entity:projects-run'
+  - 'entity:schenkbelasting-als'
+  - 'entity:wanneer'
+  - 'entity:eigendom-van-een'
+  - 'entity:heeft-van-rijksinwoner'
+  - 'entity:seerr-media-requests-available-seerr'
+  - 'entity:hermes'
+  - 'entity:how'
+  - 'entity:ask-hermes'
+  - 'entity:dune-hermes'
+  - 'entity:seerr'
+  - 'entity:format'
+  - 'entity:top'
+  - 'entity:size'
+  - 'entity:nested'
+  - 'entity:schema'
+  - 'entity:preview'
+  - 'entity:schema-edit'
+  - 'entity:swarmvault'
+  - 'entity:vault-purpose-describe'
+  - 'entity:naming-conventions-prefer'
+  - 'entity:page-structure-rules-source'
+  - 'entity:categories-list'
+  - 'entity:durmebrug'
+  - 'entity:augustus-de'
+  - 'entity:waasmunster'
+  - 'entity:augustus-start'
+  - 'entity:agentschap-wegen'
+  - 'entity:verkeer'
+  - 'entity:google-zoeken'
+  - 'entity:google'
+  - 'entity:rekenmodules-aankoopkosten-van-een'
+  - 'entity:kosten'
+  - 'entity:biddit-relatie'
+  - 'entity:scheiden-apart'
+  - 'entity:scheiden'
+  - 'entity:grond-van-onherstelbare'
+  - >-
+    output:belgian-inheritance-tax-flanders-stocks-valuation-erfbelasting-aandelen
+  - >-
+    output:extract-all-text-from-the-following-pages-specifically-about-parents-helping-chi
+  - >-
+    output:highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p
+  - >-
+    output:list-the-full-content-and-metadata-of-all-recently-ingested-source-files-about-d
+  - >-
+    output:search-the-ingested-content-for-any-results-related-to-mizerikstraat-33-diepenbe
+  - >-
+    output:show-me-the-full-text-content-of-the-kepler-homepage-from-web-archive-org
+  - >-
+    output:show-me-the-raw-content-of-the-google-search-results-for-mizerikstraat-33-diepen
+  - >-
+    output:what-are-the-gift-tax-schenkbelasting-rates-in-vlaanderen-for-parents-gifting-mo
+  - >-
+    output:what-are-the-legal-requirements-for-selling-a-rental-property-in-belgium-flander
+  - >-
+    output:what-does-the-nbb-nationale-bank-van-belgi-page-about-the-centrale-voor-krediete
+  - 'output:what-is-this-vault-about'
+  - >-
+    memory:2026-06-30T20-22-45-745Z-write-highway-noise-reduction-guide-to-workspace
+  - 'graph:report'
+  - 'graph:share-card'
+  - 'graph:community:particulieren-1'
+  - 'graph:community:erfbelasting-2'
+  - 'graph:community:candidates-3'
+  - 'graph:community:jouw-4'
+  - 'graph:community:diepenbeek-5'
+  - 'graph:community:should-6'
+  - 'graph:community:2026-7'
+  - 'graph:community:available-8'
+  - 'graph:community:object-9'
+  - 'graph:community:over-10'
+  - 'graph:community:verkeer-11'
+  - 'graph:community:feedback-12'
+  - 'graph:community:dovendi-13'
+  - >-
+    graph:community:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-14
+  - 'graph:community:logo-15'
+  - 'dashboard:dashboards/index'
+  - 'dashboard:dashboards/recent-sources'
+  - 'dashboard:dashboards/reading-log'
+  - 'dashboard:dashboards/timeline'
+  - 'dashboard:dashboards/source-sessions'
+  - 'dashboard:dashboards/source-guides'
+  - 'dashboard:dashboards/research-map'
+  - 'dashboard:dashboards/contradictions'
+  - 'dashboard:dashboards/open-questions'
+related_node_ids: []
+changed_pages:
+  - sources/40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2.md
+  - sources/bouwinfo-f8d17c05.md
+  - sources/candidates-5d9c2771.md
+  - >-
+    sources/centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da.md
+  - sources/de-notaris-notaris-be-8b0bd2a4.md
+  - >-
+    sources/default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3.md
+  - >-
+    code/default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3.md
+  - sources/dovendi-domain-for-sale-2d012a62.md
+  - sources/een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72.md
+  - sources/erfbelasting-b24e8569.md
+  - sources/home-kepler-7ece3282.md
+  - sources/home-kepler-938b95f3.md
+  - sources/house-for-sale-diepenbeek-3590-immoweb-6f7c1e11.md
+  - sources/insights-1398dcf3.md
+  - sources/myprivacy-dpgmedia-be-16f062da.md
+  - sources/projects-acb5fd10.md
+  - sources/schenkbelasting-da146a89.md
+  - sources/seerr-media-requests-available-ef141443.md
+  - sources/swarmvault-config-a48adfce.md
+  - sources/swarmvault-schema-b10ad2d9.md
+  - sources/web-archive-org-cdx-search-cdx-368de9df.md
+  - sources/web-archive-org-cdx-search-cdx-37517e5f.md
+  - sources/web-archive-org-cdx-search-cdx-66fd206b.md
+  - sources/web-archive-org-cdx-search-cdx-81e7194d.md
+  - sources/web-archive-org-cdx-search-cdx-b75ec5c0.md
+  - sources/web-archive-org-cdx-search-cdx-c633b882.md
+  - sources/web-archive-org-cdx-search-cdx-e3b0c442.md
+  - sources/web-archive-org-cdx-search-cdx-eb0bd1b9.md
+  - sources/web-archive-org-cdx-search-cdx-f3370364.md
+  - sources/wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4.md
+  - sources/www-google-com-30f04687.md
+  - sources/www-google-com-3d8570f8.md
+  - sources/www-google-com-8ca38364.md
+  - sources/www-google-com-a1e017e6.md
+  - sources/www-google-com-d149a56e.md
+  - sources/www-google-com-efab024d.md
+  - sources/zoeken-notaris-be-832736a2.md
+  - concepts/diepenbeek.md
+  - concepts/3590.md
+  - concepts/house.md
+  - concepts/hasselt.md
+  - concepts/excluding.md
+  - concepts/taxes.md
+  - concepts/2026.md
+  - concepts/bericht.md
+  - concepts/berichten.md
+  - concepts/categorie.md
+  - concepts/door.md
+  - concepts/laatste.md
+  - concepts/candidates.md
+  - concepts/candidate.md
+  - concepts/compile.md
+  - concepts/index.md
+  - concepts/pages.md
+  - concepts/stage.md
+  - concepts/particulieren.md
+  - concepts/voor.md
+  - concepts/kredieten.md
+  - concepts/gegevens.md
+  - concepts/info.md
+  - concepts/informatiegerechtigden.md
+  - concepts/jouw.md
+  - concepts/vragen.md
+  - concepts/antwoord.md
+  - concepts/campagne.md
+  - concepts/onze.md
+  - concepts/persoonlijke.md
+  - concepts/dovendi.md
+  - concepts/names.md
+  - concepts/about.md
+  - concepts/achieving.md
+  - concepts/brings.md
+  - concepts/buyers.md
+  - concepts/kepler.md
+  - concepts/woning.md
+  - concepts/stap.md
+  - concepts/wonen.md
+  - concepts/niet.md
+  - concepts/erfbelasting.md
+  - concepts/nalatenschap.md
+  - concepts/wordt.md
+  - concepts/aangifte.md
+  - concepts/overledene.md
+  - concepts/berekend.md
+  - concepts/bouwen.md
+  - concepts/naar.md
+  - concepts/nieuwe.md
+  - concepts/productieproces.md
+  - concepts/albert.md
+  - concepts/expansion.md
+  - concepts/floor.md
+  - concepts/ground.md
+  - concepts/insights.md
+  - concepts/swarmvault.md
+  - concepts/applies.md
+  - concepts/authored.md
+  - concepts/during.md
+  - concepts/logo.md
+  - concepts/media.md
+  - concepts/projects.md
+  - concepts/build.md
+  - concepts/project.md
+  - concepts/rollups.md
+  - concepts/schenkbelasting.md
+  - concepts/schenking.md
+  - concepts/genieten.md
+  - concepts/goederen.md
+  - concepts/verschuldigd.md
+  - concepts/vindt.md
+  - concepts/available.md
+  - concepts/download.md
+  - concepts/shows.md
+  - concepts/hermes.md
+  - concepts/seerr.md
+  - concepts/dune.md
+  - concepts/object.md
+  - concepts/keys.md
+  - concepts/local.md
+  - concepts/false.md
+  - concepts/agents.md
+  - concepts/heuristic.md
+  - concepts/should.md
+  - concepts/source.md
+  - concepts/vault.md
+  - concepts/claims.md
+  - concepts/concept.md
+  - concepts/domain.md
+  - concepts/http.md
+  - concepts/20040904163039.md
+  - concepts/20040906074751.md
+  - concepts/20040928094111.md
+  - concepts/20041202021608.md
+  - concepts/verkeer.md
+  - concepts/augustus.md
+  - concepts/brug.md
+  - concepts/n446.md
+  - concepts/2027.md
+  - concepts/durmebrug.md
+  - concepts/feedback.md
+  - concepts/google.md
+  - concepts/hebt.md
+  - concepts/hier.md
+  - concepts/klikken.md
+  - concepts/problemen.md
+  - concepts/over.md
+  - concepts/erfenis.md
+  - concepts/scheiden.md
+  - concepts/alles.md
+  - concepts/berekenen.md
+  - concepts/erven.md
+  - entities/woning-immo-top-invest.md
+  - entities/house.md
+  - entities/diepenbeek-house-heylen-vastgoed-hasselt.md
+  - entities/diepenbeek-plot-heylen-vastgoed-hasselt.md
+  - entities/villa.md
+  - entities/diepenbeek-karaktervolle.md
+  - entities/verbouwen-categorie-topics-berichten-laatste.md
+  - entities/ver-bouwdagboeken-wil.md
+  - entities/dit.md
+  - entities/door.md
+  - entities/ruwbouw-categorie-topics-berichten-laatste.md
+  - entities/tuin-categorie-topics-berichten-laatste.md
+  - entities/candidates.md
+  - entities/candidates-run.md
+  - entities/centrale.md
+  - entities/belgi.md
+  - entities/particulieren-iedere.md
+  - entities/professionelen.md
+  - entities/een.md
+  - entities/onze.md
+  - entities/not.md
+  - entities/frequently-asked-questions.md
+  - entities/want.md
+  - entities/mensen.md
+  - entities/dovendi-dovendi.md
+  - entities/al-stel.md
+  - entities/norm-van-duurzaamheid.md
+  - entities/belgische.md
+  - entities/dan.md
+  - entities/klaar.md
+  - entities/erfbelasting.md
+  - entities/vlaamse.md
+  - entities/aangifte-van-nalatenschap.md
+  - entities/vlaamse-belastingdienst.md
+  - entities/wijziging.md
+  - entities/familiale.md
+  - entities/vlak-van-technologie.md
+  - entities/ontdek.md
+  - entities/hoogwaardig.md
+  - entities/we.md
+  - entities/diepenbeek-ground.md
+  - entities/albert.md
+  - entities/insights.md
+  - entities/projects-run.md
+  - entities/schenkbelasting-als.md
+  - entities/wanneer.md
+  - entities/eigendom-van-een.md
+  - entities/heeft-van-rijksinwoner.md
+  - entities/seerr-media-requests-available-seerr.md
+  - entities/hermes.md
+  - entities/how.md
+  - entities/ask-hermes.md
+  - entities/dune-hermes.md
+  - entities/seerr.md
+  - entities/format.md
+  - entities/top.md
+  - entities/size.md
+  - entities/nested.md
+  - entities/schema.md
+  - entities/preview.md
+  - entities/schema-edit.md
+  - entities/swarmvault.md
+  - entities/vault-purpose-describe.md
+  - entities/naming-conventions-prefer.md
+  - entities/page-structure-rules-source.md
+  - entities/categories-list.md
+  - entities/durmebrug.md
+  - entities/augustus-de.md
+  - entities/waasmunster.md
+  - entities/augustus-start.md
+  - entities/agentschap-wegen.md
+  - entities/verkeer.md
+  - entities/google-zoeken.md
+  - entities/google.md
+  - entities/rekenmodules-aankoopkosten-van-een.md
+  - entities/kosten.md
+  - entities/biddit-relatie.md
+  - entities/scheiden-apart.md
+  - entities/scheiden.md
+  - entities/grond-van-onherstelbare.md
+  - graph/report.md
+  - graph/share-card.md
+  - dashboards/recent-sources.md
+  - dashboards/reading-log.md
+  - index.md
+  - entities/index.md
+  - dashboards/index.md
+  - graph/index.md
+  - >-
+    outputs/belgian-inheritance-tax-flanders-stocks-valuation-erfbelasting-aandelen.md
+  - >-
+    outputs/extract-all-text-from-the-following-pages-specifically-about-parents-helping-chi.md
+  - >-
+    outputs/highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p.md
+  - >-
+    outputs/list-the-full-content-and-metadata-of-all-recently-ingested-source-files-about-d.md
+  - >-
+    outputs/search-the-ingested-content-for-any-results-related-to-mizerikstraat-33-diepenbe.md
+  - >-
+    outputs/show-me-the-full-text-content-of-the-kepler-homepage-from-web-archive-org.md
+  - >-
+    outputs/show-me-the-raw-content-of-the-google-search-results-for-mizerikstraat-33-diepen.md
+  - >-
+    outputs/what-are-the-gift-tax-schenkbelasting-rates-in-vlaanderen-for-parents-gifting-mo.md
+  - >-
+    outputs/what-are-the-legal-requirements-for-selling-a-rental-property-in-belgium-flander.md
+  - >-
+    outputs/what-does-the-nbb-nationale-bank-van-belgi-page-about-the-centrale-voor-krediete.md
+  - outputs/what-is-this-vault-about.md
+citations: []
+---
+# Compile Session
+Title: Compiled 36 source(s)
+## Summary
+- provider=local
+- pages=268
+- dirty=0
+- clean=36
+- outputs=11
+- insights=0
+- memory=1
+- candidates=0
+- promoted=0
+- staged=false
+- postPassApproval=none
+- schema=00d64cfa850a
+- benchmark=ok
+## Related
+- Sources: 40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2, bouwinfo-f8d17c05, candidates-5d9c2771, centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da, de-notaris-notaris-be-8b0bd2a4, default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3, dovendi-domain-for-sale-2d012a62, een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72, erfbelasting-b24e8569, home-kepler-7ece3282, home-kepler-938b95f3, house-for-sale-diepenbeek-3590-immoweb-6f7c1e11, insights-1398dcf3, myprivacy-dpgmedia-be-16f062da, projects-acb5fd10, schenkbelasting-da146a89, seerr-media-requests-available-ef141443, swarmvault-config-a48adfce, swarmvault-schema-b10ad2d9, web-archive-org-cdx-search-cdx-368de9df, web-archive-org-cdx-search-cdx-37517e5f, web-archive-org-cdx-search-cdx-66fd206b, web-archive-org-cdx-search-cdx-81e7194d, web-archive-org-cdx-search-cdx-b75ec5c0, web-archive-org-cdx-search-cdx-c633b882, web-archive-org-cdx-search-cdx-e3b0c442, web-archive-org-cdx-search-cdx-eb0bd1b9, web-archive-org-cdx-search-cdx-f3370364, wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4, www-google-com-30f04687, www-google-com-3d8570f8, www-google-com-8ca38364, www-google-com-a1e017e6, www-google-com-d149a56e, www-google-com-efab024d, zoeken-notaris-be-832736a2
+- Pages: source:40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2, source:bouwinfo-f8d17c05, source:candidates-5d9c2771, source:centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da, source:de-notaris-notaris-be-8b0bd2a4, source:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3, module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3, source:dovendi-domain-for-sale-2d012a62, source:een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72, source:erfbelasting-b24e8569, source:home-kepler-7ece3282, source:home-kepler-938b95f3, source:house-for-sale-diepenbeek-3590-immoweb-6f7c1e11, source:insights-1398dcf3, source:myprivacy-dpgmedia-be-16f062da, source:projects-acb5fd10, source:schenkbelasting-da146a89, source:seerr-media-requests-available-ef141443, source:swarmvault-config-a48adfce, source:swarmvault-schema-b10ad2d9, source:web-archive-org-cdx-search-cdx-368de9df, source:web-archive-org-cdx-search-cdx-37517e5f, source:web-archive-org-cdx-search-cdx-66fd206b, source:web-archive-org-cdx-search-cdx-81e7194d, source:web-archive-org-cdx-search-cdx-b75ec5c0, source:web-archive-org-cdx-search-cdx-c633b882, source:web-archive-org-cdx-search-cdx-e3b0c442, source:web-archive-org-cdx-search-cdx-eb0bd1b9, source:web-archive-org-cdx-search-cdx-f3370364, source:wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4, source:www-google-com-30f04687, source:www-google-com-3d8570f8, source:www-google-com-8ca38364, source:www-google-com-a1e017e6, source:www-google-com-d149a56e, source:www-google-com-efab024d, source:zoeken-notaris-be-832736a2, concept:diepenbeek, concept:3590, concept:house, concept:hasselt, concept:excluding, concept:taxes, concept:2026, concept:bericht, concept:berichten, concept:categorie, concept:door, concept:laatste, concept:candidates, concept:candidate, concept:compile, concept:index, concept:pages, concept:stage, concept:particulieren, concept:voor, concept:kredieten, concept:gegevens, concept:info, concept:informatiegerechtigden, concept:jouw, concept:vragen, concept:antwoord, concept:campagne, concept:onze, concept:persoonlijke, concept:dovendi, concept:names, concept:about, concept:achieving, concept:brings, concept:buyers, concept:kepler, concept:woning, concept:stap, concept:wonen, concept:niet, concept:erfbelasting, concept:nalatenschap, concept:wordt, concept:aangifte, concept:overledene, concept:berekend, concept:bouwen, concept:naar, concept:nieuwe, concept:productieproces, concept:albert, concept:expansion, concept:floor, concept:ground, concept:insights, concept:swarmvault, concept:applies, concept:authored, concept:during, concept:logo, concept:media, concept:projects, concept:build, concept:project, concept:rollups, concept:schenkbelasting, concept:schenking, concept:genieten, concept:goederen, concept:verschuldigd, concept:vindt, concept:available, concept:download, concept:shows, concept:hermes, concept:seerr, concept:dune, concept:object, concept:keys, concept:local, concept:false, concept:agents, concept:heuristic, concept:should, concept:source, concept:vault, concept:claims, concept:concept, concept:domain, concept:http, concept:20040904163039, concept:20040906074751, concept:20040928094111, concept:20041202021608, concept:verkeer, concept:augustus, concept:brug, concept:n446, concept:2027, concept:durmebrug, concept:feedback, concept:google, concept:hebt, concept:hier, concept:klikken, concept:problemen, concept:over, concept:erfenis, concept:scheiden, concept:alles, concept:berekenen, concept:erven, entity:woning-immo-top-invest, entity:house, entity:diepenbeek-house-heylen-vastgoed-hasselt, entity:diepenbeek-plot-heylen-vastgoed-hasselt, entity:villa, entity:diepenbeek-karaktervolle, entity:verbouwen-categorie-topics-berichten-laatste, entity:ver-bouwdagboeken-wil, entity:dit, entity:door, entity:ruwbouw-categorie-topics-berichten-laatste, entity:tuin-categorie-topics-berichten-laatste, entity:candidates, entity:candidates-run, entity:centrale, entity:belgi, entity:particulieren-iedere, entity:professionelen, entity:een, entity:onze, entity:not, entity:frequently-asked-questions, entity:want, entity:mensen, entity:dovendi-dovendi, entity:al-stel, entity:norm-van-duurzaamheid, entity:belgische, entity:dan, entity:klaar, entity:erfbelasting, entity:vlaamse, entity:aangifte-van-nalatenschap, entity:vlaamse-belastingdienst, entity:wijziging, entity:familiale, entity:vlak-van-technologie, entity:ontdek, entity:hoogwaardig, entity:we, entity:diepenbeek-ground, entity:albert, entity:insights, entity:projects-run, entity:schenkbelasting-als, entity:wanneer, entity:eigendom-van-een, entity:heeft-van-rijksinwoner, entity:seerr-media-requests-available-seerr, entity:hermes, entity:how, entity:ask-hermes, entity:dune-hermes, entity:seerr, entity:format, entity:top, entity:size, entity:nested, entity:schema, entity:preview, entity:schema-edit, entity:swarmvault, entity:vault-purpose-describe, entity:naming-conventions-prefer, entity:page-structure-rules-source, entity:categories-list, entity:durmebrug, entity:augustus-de, entity:waasmunster, entity:augustus-start, entity:agentschap-wegen, entity:verkeer, entity:google-zoeken, entity:google, entity:rekenmodules-aankoopkosten-van-een, entity:kosten, entity:biddit-relatie, entity:scheiden-apart, entity:scheiden, entity:grond-van-onherstelbare, output:belgian-inheritance-tax-flanders-stocks-valuation-erfbelasting-aandelen, output:extract-all-text-from-the-following-pages-specifically-about-parents-helping-chi, output:highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p, output:list-the-full-content-and-metadata-of-all-recently-ingested-source-files-about-d, output:search-the-ingested-content-for-any-results-related-to-mizerikstraat-33-diepenbe, output:show-me-the-full-text-content-of-the-kepler-homepage-from-web-archive-org, output:show-me-the-raw-content-of-the-google-search-results-for-mizerikstraat-33-diepen, output:what-are-the-gift-tax-schenkbelasting-rates-in-vlaanderen-for-parents-gifting-mo, output:what-are-the-legal-requirements-for-selling-a-rental-property-in-belgium-flander, output:what-does-the-nbb-nationale-bank-van-belgi-page-about-the-centrale-voor-krediete, output:what-is-this-vault-about, memory:2026-06-30T20-22-45-745Z-write-highway-noise-reduction-guide-to-workspace, graph:report, graph:share-card, graph:community:particulieren-1, graph:community:erfbelasting-2, graph:community:candidates-3, graph:community:jouw-4, graph:community:diepenbeek-5, graph:community:should-6, graph:community:2026-7, graph:community:available-8, graph:community:object-9, graph:community:over-10, graph:community:verkeer-11, graph:community:feedback-12, graph:community:dovendi-13, graph:community:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-14, graph:community:logo-15, dashboard:dashboards/index, dashboard:dashboards/recent-sources, dashboard:dashboards/reading-log, dashboard:dashboards/timeline, dashboard:dashboards/source-sessions, dashboard:dashboards/source-guides, dashboard:dashboards/research-map, dashboard:dashboards/contradictions, dashboard:dashboards/open-questions
+- Nodes: none
+- Changed pages: sources/40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2.md, sources/bouwinfo-f8d17c05.md, sources/candidates-5d9c2771.md, sources/centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da.md, sources/de-notaris-notaris-be-8b0bd2a4.md, sources/default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3.md, code/default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3.md, sources/dovendi-domain-for-sale-2d012a62.md, sources/een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72.md, sources/erfbelasting-b24e8569.md, sources/home-kepler-7ece3282.md, sources/home-kepler-938b95f3.md, sources/house-for-sale-diepenbeek-3590-immoweb-6f7c1e11.md, sources/insights-1398dcf3.md, sources/myprivacy-dpgmedia-be-16f062da.md, sources/projects-acb5fd10.md, sources/schenkbelasting-da146a89.md, sources/seerr-media-requests-available-ef141443.md, sources/swarmvault-config-a48adfce.md, sources/swarmvault-schema-b10ad2d9.md, sources/web-archive-org-cdx-search-cdx-368de9df.md, sources/web-archive-org-cdx-search-cdx-37517e5f.md, sources/web-archive-org-cdx-search-cdx-66fd206b.md, sources/web-archive-org-cdx-search-cdx-81e7194d.md, sources/web-archive-org-cdx-search-cdx-b75ec5c0.md, sources/web-archive-org-cdx-search-cdx-c633b882.md, sources/web-archive-org-cdx-search-cdx-e3b0c442.md, sources/web-archive-org-cdx-search-cdx-eb0bd1b9.md, sources/web-archive-org-cdx-search-cdx-f3370364.md, sources/wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4.md, sources/www-google-com-30f04687.md, sources/www-google-com-3d8570f8.md, sources/www-google-com-8ca38364.md, sources/www-google-com-a1e017e6.md, sources/www-google-com-d149a56e.md, sources/www-google-com-efab024d.md, sources/zoeken-notaris-be-832736a2.md, concepts/diepenbeek.md, concepts/3590.md, concepts/house.md, concepts/hasselt.md, concepts/excluding.md, concepts/taxes.md, concepts/2026.md, concepts/bericht.md, concepts/berichten.md, concepts/categorie.md, concepts/door.md, concepts/laatste.md, concepts/candidates.md, concepts/candidate.md, concepts/compile.md, concepts/index.md, concepts/pages.md, concepts/stage.md, concepts/particulieren.md, concepts/voor.md, concepts/kredieten.md, concepts/gegevens.md, concepts/info.md, concepts/informatiegerechtigden.md, concepts/jouw.md, concepts/vragen.md, concepts/antwoord.md, concepts/campagne.md, concepts/onze.md, concepts/persoonlijke.md, concepts/dovendi.md, concepts/names.md, concepts/about.md, concepts/achieving.md, concepts/brings.md, concepts/buyers.md, concepts/kepler.md, concepts/woning.md, concepts/stap.md, concepts/wonen.md, concepts/niet.md, concepts/erfbelasting.md, concepts/nalatenschap.md, concepts/wordt.md, concepts/aangifte.md, concepts/overledene.md, concepts/berekend.md, concepts/bouwen.md, concepts/naar.md, concepts/nieuwe.md, concepts/productieproces.md, concepts/albert.md, concepts/expansion.md, concepts/floor.md, concepts/ground.md, concepts/insights.md, concepts/swarmvault.md, concepts/applies.md, concepts/authored.md, concepts/during.md, concepts/logo.md, concepts/media.md, concepts/projects.md, concepts/build.md, concepts/project.md, concepts/rollups.md, concepts/schenkbelasting.md, concepts/schenking.md, concepts/genieten.md, concepts/goederen.md, concepts/verschuldigd.md, concepts/vindt.md, concepts/available.md, concepts/download.md, concepts/shows.md, concepts/hermes.md, concepts/seerr.md, concepts/dune.md, concepts/object.md, concepts/keys.md, concepts/local.md, concepts/false.md, concepts/agents.md, concepts/heuristic.md, concepts/should.md, concepts/source.md, concepts/vault.md, concepts/claims.md, concepts/concept.md, concepts/domain.md, concepts/http.md, concepts/20040904163039.md, concepts/20040906074751.md, concepts/20040928094111.md, concepts/20041202021608.md, concepts/verkeer.md, concepts/augustus.md, concepts/brug.md, concepts/n446.md, concepts/2027.md, concepts/durmebrug.md, concepts/feedback.md, concepts/google.md, concepts/hebt.md, concepts/hier.md, concepts/klikken.md, concepts/problemen.md, concepts/over.md, concepts/erfenis.md, concepts/scheiden.md, concepts/alles.md, concepts/berekenen.md, concepts/erven.md, entities/woning-immo-top-invest.md, entities/house.md, entities/diepenbeek-house-heylen-vastgoed-hasselt.md, entities/diepenbeek-plot-heylen-vastgoed-hasselt.md, entities/villa.md, entities/diepenbeek-karaktervolle.md, entities/verbouwen-categorie-topics-berichten-laatste.md, entities/ver-bouwdagboeken-wil.md, entities/dit.md, entities/door.md, entities/ruwbouw-categorie-topics-berichten-laatste.md, entities/tuin-categorie-topics-berichten-laatste.md, entities/candidates.md, entities/candidates-run.md, entities/centrale.md, entities/belgi.md, entities/particulieren-iedere.md, entities/professionelen.md, entities/een.md, entities/onze.md, entities/not.md, entities/frequently-asked-questions.md, entities/want.md, entities/mensen.md, entities/dovendi-dovendi.md, entities/al-stel.md, entities/norm-van-duurzaamheid.md, entities/belgische.md, entities/dan.md, entities/klaar.md, entities/erfbelasting.md, entities/vlaamse.md, entities/aangifte-van-nalatenschap.md, entities/vlaamse-belastingdienst.md, entities/wijziging.md, entities/familiale.md, entities/vlak-van-technologie.md, entities/ontdek.md, entities/hoogwaardig.md, entities/we.md, entities/diepenbeek-ground.md, entities/albert.md, entities/insights.md, entities/projects-run.md, entities/schenkbelasting-als.md, entities/wanneer.md, entities/eigendom-van-een.md, entities/heeft-van-rijksinwoner.md, entities/seerr-media-requests-available-seerr.md, entities/hermes.md, entities/how.md, entities/ask-hermes.md, entities/dune-hermes.md, entities/seerr.md, entities/format.md, entities/top.md, entities/size.md, entities/nested.md, entities/schema.md, entities/preview.md, entities/schema-edit.md, entities/swarmvault.md, entities/vault-purpose-describe.md, entities/naming-conventions-prefer.md, entities/page-structure-rules-source.md, entities/categories-list.md, entities/durmebrug.md, entities/augustus-de.md, entities/waasmunster.md, entities/augustus-start.md, entities/agentschap-wegen.md, entities/verkeer.md, entities/google-zoeken.md, entities/google.md, entities/rekenmodules-aankoopkosten-van-een.md, entities/kosten.md, entities/biddit-relatie.md, entities/scheiden-apart.md, entities/scheiden.md, entities/grond-van-onherstelbare.md, graph/report.md, graph/share-card.md, dashboards/recent-sources.md, dashboards/reading-log.md, index.md, entities/index.md, dashboards/index.md, graph/index.md, outputs/belgian-inheritance-tax-flanders-stocks-valuation-erfbelasting-aandelen.md, outputs/extract-all-text-from-the-following-pages-specifically-about-parents-helping-chi.md, outputs/highway-noise-reduction-garden-belgium-flanders-practical-guide-noise-barriers-p.md, outputs/list-the-full-content-and-metadata-of-all-recently-ingested-source-files-about-d.md, outputs/search-the-ingested-content-for-any-results-related-to-mizerikstraat-33-diepenbe.md, outputs/show-me-the-full-text-content-of-the-kepler-homepage-from-web-archive-org.md, outputs/show-me-the-raw-content-of-the-google-search-results-for-mizerikstraat-33-diepen.md, outputs/what-are-the-gift-tax-schenkbelasting-rates-in-vlaanderen-for-parents-gifting-mo.md, outputs/what-are-the-legal-requirements-for-selling-a-rental-property-in-belgium-flander.md, outputs/what-does-the-nbb-nationale-bank-van-belgi-page-about-the-centrale-voor-krediete.md, outputs/what-is-this-vault-about.md
+- Citations: none
+- Provider: local
+- Success: true

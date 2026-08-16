@@ -18,7 +18,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-06-29T23:56:49.926Z'
-updated_at: '2026-08-09T00:08:29.252Z'
+updated_at: '2026-08-16T00:10:06.089Z'
 compiled_from:
   - myprivacy-dpgmedia-be-16f062da
 managed_by: system
@@ -31,7 +31,7 @@ source_hashes:
 source_semantic_hashes:
   myprivacy-dpgmedia-be-16f062da: 10b4caa9acea4744e758c4cf68f562e4a81c29966defb99e702b4a00773a284d
 decay_score: 1
-last_confirmed_at: '2026-08-09T00:08:31.631Z'
+last_confirmed_at: '2026-08-16T00:10:08.658Z'
 ---
 # myprivacy.dpgmedia.be
 
