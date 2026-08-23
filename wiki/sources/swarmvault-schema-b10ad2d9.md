@@ -29,7 +29,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.076Z'
-updated_at: '2026-08-16T00:10:06.094Z'
+updated_at: '2026-08-23T00:08:21.033Z'
 compiled_from:
   - swarmvault-schema-b10ad2d9
 managed_by: system
@@ -59,7 +59,7 @@ source_hashes:
 source_semantic_hashes:
   swarmvault-schema-b10ad2d9: 9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19
 decay_score: 1
-last_confirmed_at: '2026-08-16T00:10:08.658Z'
+last_confirmed_at: '2026-08-23T00:08:23.449Z'
 ---
 # SwarmVault Schema
 

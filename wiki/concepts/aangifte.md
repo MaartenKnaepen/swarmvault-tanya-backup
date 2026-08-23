@@ -16,7 +16,7 @@ freshness: fresh
 status: active
 confidence: 0.65
 created_at: '2026-06-30T20:23:20.582Z'
-updated_at: '2026-08-16T00:10:06.142Z'
+updated_at: '2026-08-23T00:08:21.077Z'
 compiled_from:
   - erfbelasting-b24e8569
 managed_by: system
@@ -34,7 +34,7 @@ source_hashes:
 source_semantic_hashes:
   erfbelasting-b24e8569: a98141e022fec13c05396570c335351d5280ea0a14b15d508fddbae5f544d67e
 decay_score: 1
-last_confirmed_at: '2026-08-16T00:10:08.658Z'
+last_confirmed_at: '2026-08-23T00:08:23.449Z'
 ---
 # aangifte
 

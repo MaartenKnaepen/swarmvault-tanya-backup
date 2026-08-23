@@ -17,7 +17,7 @@ freshness: fresh
 status: active
 confidence: 0.8
 created_at: '2026-07-03T23:35:19.633Z'
-updated_at: '2026-08-16T00:10:06.136Z'
+updated_at: '2026-08-23T00:08:21.072Z'
 compiled_from:
   - een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72
   - web-archive-org-cdx-search-cdx-c633b882
@@ -33,7 +33,7 @@ source_semantic_hashes:
   een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72: eb3d4fbc940fc08335028bb7251ff40dc8b30b5fea6ed7a36fcfc682569453b2
   web-archive-org-cdx-search-cdx-c633b882: c633b8826abb7d1e409e12ebc80ada1dd82714fab0e5293ec0aa74c94ab1d794
 decay_score: 1
-last_confirmed_at: '2026-08-16T00:10:08.658Z'
+last_confirmed_at: '2026-08-23T00:08:23.449Z'
 ---
 # kepler
 

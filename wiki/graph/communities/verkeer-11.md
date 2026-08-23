@@ -27,8 +27,8 @@ node_ids: &ref_0
 freshness: fresh
 status: active
 confidence: 1
-created_at: '2026-08-13T00:07:58.533Z'
-updated_at: '2026-08-13T00:07:58.533Z'
+created_at: '2026-08-23T00:08:23.014Z'
+updated_at: '2026-08-23T00:08:23.014Z'
 compiled_from:
   - wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4
 managed_by: system

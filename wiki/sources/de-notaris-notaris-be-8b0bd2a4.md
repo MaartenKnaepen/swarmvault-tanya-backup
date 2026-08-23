@@ -27,7 +27,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-07-03T23:35:19.608Z'
-updated_at: '2026-08-16T00:10:06.067Z'
+updated_at: '2026-08-23T00:08:21.018Z'
 compiled_from:
   - de-notaris-notaris-be-8b0bd2a4
 managed_by: system
@@ -49,7 +49,7 @@ source_hashes:
 source_semantic_hashes:
   de-notaris-notaris-be-8b0bd2a4: bfec2bbc213f9cd567eeef295b7a0e90cee83d884137e179c03030e0d96d2b14
 decay_score: 1
-last_confirmed_at: '2026-08-16T00:10:08.658Z'
+last_confirmed_at: '2026-08-23T00:08:23.449Z'
 ---
 # De notaris | notaris.be
 
