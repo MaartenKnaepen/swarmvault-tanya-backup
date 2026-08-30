@@ -1,5 +1,5 @@
 ---
-page_id: 'graph:community:erfbelasting-2'
+page_id: 'graph:community:erfbelasting-3'
 kind: community_summary
 cssclasses:
   - swarmvault
@@ -38,8 +38,8 @@ node_ids: &ref_0
 freshness: fresh
 status: active
 confidence: 1
-created_at: '2026-08-23T00:08:23.009Z'
-updated_at: '2026-08-23T00:08:23.009Z'
+created_at: '2026-08-29T00:40:17.034Z'
+updated_at: '2026-08-29T00:40:17.034Z'
 compiled_from:
   - erfbelasting-b24e8569
   - schenkbelasting-da146a89

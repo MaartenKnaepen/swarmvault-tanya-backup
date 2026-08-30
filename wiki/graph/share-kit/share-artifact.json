@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T00:12:42.261Z",
+  "generatedAt": "2026-08-29T00:44:36.300Z",
   "vaultName": "knowledge-tanya",
   "tagline": "A local-first map of knowledge-tanya: 36 sources compiled into 237 graph nodes and 251 wiki pages.",
   "overview": {
@@ -7,13 +7,13 @@
     "nodes": 237,
     "edges": 359,
     "pages": 251,
-    "communities": 15
+    "communities": 14
   },
   "firstPartyOverview": {
     "nodes": 56,
     "edges": 68,
     "pages": 50,
-    "communities": 4
+    "communities": 3
   },
   "highlights": {
     "topHubs": [
@@ -45,11 +45,6 @@
     ],
     "bridgeNodes": [
       {
-        "nodeId": "source:projects-acb5fd10",
-        "label": "Projects",
-        "bridgeScore": 2
-      },
-      {
         "nodeId": "source:candidates-5d9c2771",
         "label": "Candidates",
         "bridgeScore": 1
@@ -58,47 +53,52 @@
         "nodeId": "source:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
         "label": "Default to the inbox of whichever vault this script is deployed in",
         "bridgeScore": 1
+      },
+      {
+        "nodeId": "source:insights-1398dcf3",
+        "label": "Insights",
+        "bridgeScore": 1
       }
     ],
     "surprisingConnections": [
       {
-        "sourceLabel": "Candidates",
-        "targetLabel": "Projects",
-        "relation": "semantically_similar_to",
-        "why": "it crosses communities community:candidates-3 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.;..."
-      },
-      {
-        "sourceLabel": "Insights",
-        "targetLabel": "Projects",
-        "relation": "semantically_similar_to",
-        "why": "it crosses communities community:candidates-3 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.;..."
-      },
-      {
         "sourceLabel": "swarmvault.config",
         "targetLabel": "SwarmVault Schema",
         "relation": "semantically_similar_to",
-        "why": "it crosses communities community:object-9 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared tags."
+        "why": "it crosses communities community:object-8 and community:candidates-1; it spans different canonical pages; a bridge node is involved; This link is inferred from shared tags."
+      },
+      {
+        "sourceLabel": "Candidates",
+        "targetLabel": "Projects",
+        "relation": "semantically_similar_to",
+        "why": "it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern"
+      },
+      {
+        "sourceLabel": "Candidates",
+        "targetLabel": "Insights",
+        "relation": "semantically_similar_to",
+        "why": "it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern"
       }
     ],
     "suggestedQuestions": [
-      "Why does Projects connect multiple communities in the vault?",
       "Why does Candidates connect multiple communities in the vault?",
-      "Why does Default to the inbox of whichever vault this script is deployed in connect multiple communities in the vault?"
+      "Why does Default to the inbox of whichever vault this script is deployed in connect multiple communities in the vault?",
+      "Why does Insights connect multiple communities in the vault?"
     ]
   },
   "knowledgeGaps": [
     "Non-first-party material accounts for 76.4% of graph nodes."
   ],
-  "shortPost": "I scanned knowledge-tanya with SwarmVault: 36 sources -> 251 wiki pages, 237 graph nodes, 359 edges.\nTop hubs: compile, index, and should.\nMost surprising link: Candidates semantically_similar_to Projects.\nEverything stays local. Try: npm install -g @swarmvaultai/cli && swarmvault quickstart ./your-repo",
+  "shortPost": "I scanned knowledge-tanya with SwarmVault: 36 sources -> 251 wiki pages, 237 graph nodes, 359 edges.\nTop hubs: compile, index, and should.\nMost surprising link: swarmvault.config semantically_similar_to SwarmVault Schema.\nEverything stays local. Try: npm install -g @swarmvaultai/cli && swarmvault quickstart ./your-repo",
   "relatedNodeIds": [
     "concept:compile",
     "concept:index",
     "concept:should",
     "concept:source",
     "concept:vault",
-    "source:projects-acb5fd10",
     "source:candidates-5d9c2771",
-    "source:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3"
+    "source:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
+    "source:insights-1398dcf3"
   ],
   "relatedPageIds": [
     "concept:compile",
@@ -106,9 +106,9 @@
     "concept:should",
     "concept:source",
     "concept:vault",
-    "source:projects-acb5fd10",
     "source:candidates-5d9c2771",
-    "source:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3"
+    "source:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
+    "source:insights-1398dcf3"
   ],
   "relatedSourceIds": [
     "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2",

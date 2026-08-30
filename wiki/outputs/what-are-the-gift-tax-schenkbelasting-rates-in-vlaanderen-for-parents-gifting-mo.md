@@ -168,7 +168,7 @@ question: >-
 output_format: report
 output_assets: []
 decay_score: 1
-last_confirmed_at: '2026-08-23T00:08:23.449Z'
+last_confirmed_at: '2026-08-29T00:40:17.708Z'
 ---
 # Report: What are the gift tax (schenkbelasting) rates in Vlaanderen for parents gifting money to children for a house purchase? Include the tax rates for different amounts, the annual exemption amounts, and any specific conditions or recent changes (2024-2026).
 

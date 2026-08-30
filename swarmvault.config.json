@@ -1,73 +1,94 @@
 {
-  "workspace": {
-    "rawDir": "raw",
-    "wikiDir": "wiki",
-    "stateDir": "state",
-    "agentDir": "agent",
-    "inboxDir": "inbox"
+ "workspace": {
+  "rawDir": "raw",
+  "wikiDir": "wiki",
+  "stateDir": "state",
+  "agentDir": "agent",
+  "inboxDir": "inbox"
+ },
+ "providers": {
+  "local": {
+   "type": "heuristic",
+   "model": "heuristic-v1",
+   "capabilities": [
+    "chat",
+    "structured",
+    "vision",
+    "local"
+   ]
   },
-  "providers": {
-    "local": {
-      "type": "heuristic",
-      "model": "heuristic-v1",
-      "capabilities": [
-        "chat",
-        "structured",
-        "vision",
-        "local"
-      ]
-    },
-    "ollama-embed": {
-      "type": "openai",
-      "baseUrl": "http://localhost:11434/v1",
-      "apiKey": "ollama",
-      "model": "hf.co/jinaai/jina-embeddings-v5-text-small-retrieval-GGUF:Q4_K_M",
-      "capabilities": ["embeddings"]
-    }
+  "ollama-embed": {
+   "type": "openai",
+   "baseUrl": "http://localhost:11434/v1",
+   "apiKey": "ollama",
+   "model": "hf.co/jinaai/jina-embeddings-v5-text-small-retrieval-GGUF:Q4_K_M",
+   "capabilities": [
+    "embeddings"
+   ]
   },
-  "tasks": {
-    "compileProvider": "local",
-    "queryProvider": "local",
-    "lintProvider": "local",
-    "visionProvider": "local",
-    "imageProvider": "local",
-    "embeddingProvider": "ollama-embed"
+  "openrouter": {
+   "type": "openrouter",
+   "model": "deepseek/deepseek-v4-flash:novita",
+   "apiKeyEnv": "OPENROUTER_API_KEY",
+   "capabilities": [
+    "chat",
+    "structured"
+   ]
   },
-  "viewer": {
-    "port": 4124
-  },
-  "profile": {
-    "presets": [],
-    "dashboardPack": "default",
-    "guidedSessionMode": "insights_only",
-    "dataviewBlocks": false,
-    "guidedIngestDefault": false,
-    "deepLintDefault": false
-  },
-  "projects": {},
-  "agents": [],
-  "schedules": {},
-  "orchestration": {
-    "maxParallelRoles": 2,
-    "compilePostPass": false,
-    "roles": {}
-  },
-  "benchmark": {
-    "enabled": true,
-    "questions": [],
-    "maxQuestions": 3
-  },
-  "repoAnalysis": {
-    "classifyGlobs": {},
-    "extractClasses": [
-      "first_party"
-    ]
-  },
-  "graphSinks": {},
-  "retrieval": {
-    "backend": "sqlite",
-    "shardSize": 25000,
-    "hybrid": true,
-    "rerank": false
+  "vision": {
+   "type": "openrouter",
+   "model": "minimax/minimax-m3",
+   "apiKeyEnv": "OPENROUTER_API_KEY",
+   "capabilities": [
+    "chat",
+    "structured",
+    "vision"
+   ]
   }
+ },
+ "tasks": {
+  "compileProvider": "openrouter",
+  "queryProvider": "openrouter",
+  "lintProvider": "openrouter",
+  "visionProvider": "vision",
+  "imageProvider": "local",
+  "embeddingProvider": "ollama-embed"
+ },
+ "viewer": {
+  "port": 4124
+ },
+ "profile": {
+  "presets": [],
+  "dashboardPack": "default",
+  "guidedSessionMode": "insights_only",
+  "dataviewBlocks": false,
+  "guidedIngestDefault": false,
+  "deepLintDefault": false
+ },
+ "projects": {},
+ "agents": [],
+ "schedules": {},
+ "orchestration": {
+  "maxParallelRoles": 2,
+  "compilePostPass": false,
+  "roles": {}
+ },
+ "benchmark": {
+  "enabled": true,
+  "questions": [],
+  "maxQuestions": 3
+ },
+ "repoAnalysis": {
+  "classifyGlobs": {},
+  "extractClasses": [
+   "first_party"
+  ]
+ },
+ "graphSinks": {},
+ "retrieval": {
+  "backend": "sqlite",
+  "shardSize": 25000,
+  "hybrid": true,
+  "rerank": false
+ }
 }

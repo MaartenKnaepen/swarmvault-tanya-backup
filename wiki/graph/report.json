@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-23T00:12:42.259Z",
-  "graphHash": "7cc87cf54440dd43489fcdcaecf6ba86252a2c1eabea218498942acb7d375199",
+  "generatedAt": "2026-08-29T00:44:36.299Z",
+  "graphHash": "db0d24ebf7bbf1d467827825c2d23c43ca184327783cf9abca24b5a7ce0de84e",
   "overview": {
     "nodes": 237,
     "edges": 359,
     "pages": 251,
-    "communities": 15
+    "communities": 14
   },
   "firstPartyOverview": {
     "nodes": 56,
     "edges": 68,
     "pages": 50,
-    "communities": 4
+    "communities": 3
   },
   "sourceClassBreakdown": {
     "first_party": {
@@ -39,15 +39,15 @@
     "Non-first-party material accounts for 76.4% of graph nodes."
   ],
   "benchmark": {
-    "generatedAt": "2026-08-23T00:12:41.675Z",
+    "generatedAt": "2026-08-29T00:44:35.919Z",
     "stale": false,
     "summary": {
       "questionCount": 3,
       "uniqueVisitedNodes": 24,
-      "finalContextTokens": 2442,
+      "finalContextTokens": 2456,
       "naiveCorpusTokens": 5505,
-      "avgReduction": 0.556,
-      "reductionRatio": 0.556
+      "avgReduction": 0.554,
+      "reductionRatio": 0.554
     },
     "questionCount": 3,
     "byClass": {
@@ -56,9 +56,9 @@
         "pageCount": 50,
         "nodeCount": 56,
         "godNodeCount": 14,
-        "finalContextTokens": 1823,
+        "finalContextTokens": 1802,
         "naiveCorpusTokens": 5505,
-        "reductionRatio": 0.669
+        "reductionRatio": 0.673
       },
       "third_party": {
         "sourceCount": 0,
@@ -95,16 +95,16 @@
       "label": "compile",
       "pageId": "concept:compile",
       "degree": 22,
-      "bridgeScore": 1,
-      "surpriseReason": "degree 22, bridges 2 communities, 3.0σ above mean"
+      "bridgeScore": 0,
+      "surpriseReason": "degree 22, 3.0σ above mean"
     },
     {
       "nodeId": "concept:index",
       "label": "index",
       "pageId": "concept:index",
       "degree": 15,
-      "bridgeScore": 1,
-      "surpriseReason": "degree 15, bridges 2 communities"
+      "bridgeScore": 0,
+      "surpriseReason": "degree 15"
     },
     {
       "nodeId": "concept:should",
@@ -205,13 +205,6 @@
   ],
   "bridgeNodes": [
     {
-      "nodeId": "source:projects-acb5fd10",
-      "label": "Projects",
-      "pageId": "source:projects-acb5fd10",
-      "degree": 10,
-      "bridgeScore": 2
-    },
-    {
       "nodeId": "source:candidates-5d9c2771",
       "label": "Candidates",
       "pageId": "source:candidates-5d9c2771",
@@ -233,6 +226,13 @@
       "bridgeScore": 1
     },
     {
+      "nodeId": "source:projects-acb5fd10",
+      "label": "Projects",
+      "pageId": "source:projects-acb5fd10",
+      "degree": 10,
+      "bridgeScore": 1
+    },
+    {
       "nodeId": "source:swarmvault-config-a48adfce",
       "label": "swarmvault.config",
       "pageId": "source:swarmvault-config-a48adfce",
@@ -245,76 +245,10 @@
       "pageId": "source:swarmvault-schema-b10ad2d9",
       "degree": 14,
       "bridgeScore": 1
-    },
-    {
-      "nodeId": "concept:compile",
-      "label": "compile",
-      "pageId": "concept:compile",
-      "degree": 22,
-      "bridgeScore": 1
-    },
-    {
-      "nodeId": "concept:index",
-      "label": "index",
-      "pageId": "concept:index",
-      "degree": 15,
-      "bridgeScore": 1
     }
   ],
   "thinCommunities": [],
   "surprisingConnections": [
-    {
-      "id": "similar:ad4cb01c9cdbdeff",
-      "sourceNodeId": "source:candidates-5d9c2771",
-      "sourceLabel": "Candidates",
-      "targetNodeId": "source:projects-acb5fd10",
-      "targetLabel": "Projects",
-      "relation": "semantically_similar_to",
-      "evidenceClass": "inferred",
-      "confidence": 0.96,
-      "pathNodeIds": [
-        "source:candidates-5d9c2771",
-        "source:projects-acb5fd10"
-      ],
-      "pathEdgeIds": [
-        "similar:ad4cb01c9cdbdeff"
-      ],
-      "pathRelations": [
-        "semantically_similar_to"
-      ],
-      "pathEvidenceClasses": [
-        "inferred"
-      ],
-      "pathSummary": "Candidates -> Projects",
-      "why": "it crosses communities community:candidates-3 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern",
-      "explanation": "Candidates connects to Projects because it crosses communities community:candidates-3 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern."
-    },
-    {
-      "id": "similar:d62b10b89cd1cb6c",
-      "sourceNodeId": "source:insights-1398dcf3",
-      "sourceLabel": "Insights",
-      "targetNodeId": "source:projects-acb5fd10",
-      "targetLabel": "Projects",
-      "relation": "semantically_similar_to",
-      "evidenceClass": "inferred",
-      "confidence": 0.92,
-      "pathNodeIds": [
-        "source:insights-1398dcf3",
-        "source:projects-acb5fd10"
-      ],
-      "pathEdgeIds": [
-        "similar:d62b10b89cd1cb6c"
-      ],
-      "pathRelations": [
-        "semantically_similar_to"
-      ],
-      "pathEvidenceClasses": [
-        "inferred"
-      ],
-      "pathSummary": "Insights -> Projects",
-      "why": "it crosses communities community:candidates-3 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern",
-      "explanation": "Insights connects to Projects because it crosses communities community:candidates-3 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern."
-    },
     {
       "id": "similar-embed:dc892e6dedbdfc1f",
       "sourceNodeId": "source:swarmvault-config-a48adfce",
@@ -338,8 +272,34 @@
         "inferred"
       ],
       "pathSummary": "swarmvault.config -> SwarmVault Schema",
-      "why": "it crosses communities community:object-9 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared tags.",
-      "explanation": "swarmvault.config connects to SwarmVault Schema because it crosses communities community:object-9 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared tags.."
+      "why": "it crosses communities community:object-8 and community:candidates-1; it spans different canonical pages; a bridge node is involved; This link is inferred from shared tags.",
+      "explanation": "swarmvault.config connects to SwarmVault Schema because it crosses communities community:object-8 and community:candidates-1; it spans different canonical pages; a bridge node is involved; This link is inferred from shared tags.."
+    },
+    {
+      "id": "similar:ad4cb01c9cdbdeff",
+      "sourceNodeId": "source:candidates-5d9c2771",
+      "sourceLabel": "Candidates",
+      "targetNodeId": "source:projects-acb5fd10",
+      "targetLabel": "Projects",
+      "relation": "semantically_similar_to",
+      "evidenceClass": "inferred",
+      "confidence": 0.96,
+      "pathNodeIds": [
+        "source:candidates-5d9c2771",
+        "source:projects-acb5fd10"
+      ],
+      "pathEdgeIds": [
+        "similar:ad4cb01c9cdbdeff"
+      ],
+      "pathRelations": [
+        "semantically_similar_to"
+      ],
+      "pathEvidenceClasses": [
+        "inferred"
+      ],
+      "pathSummary": "Candidates -> Projects",
+      "why": "it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern",
+      "explanation": "Candidates connects to Projects because it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern."
     },
     {
       "id": "similar:320c5f8d7ed72f3a",
@@ -368,30 +328,30 @@
       "explanation": "Candidates connects to Insights because it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern."
     },
     {
-      "id": "projects-acb5fd10->concept:compile",
-      "sourceNodeId": "source:projects-acb5fd10",
-      "sourceLabel": "Projects",
-      "targetNodeId": "concept:compile",
-      "targetLabel": "compile",
-      "relation": "mentions",
-      "evidenceClass": "extracted",
-      "confidence": 0.55,
+      "id": "similar:d62b10b89cd1cb6c",
+      "sourceNodeId": "source:insights-1398dcf3",
+      "sourceLabel": "Insights",
+      "targetNodeId": "source:projects-acb5fd10",
+      "targetLabel": "Projects",
+      "relation": "semantically_similar_to",
+      "evidenceClass": "inferred",
+      "confidence": 0.92,
       "pathNodeIds": [
-        "source:projects-acb5fd10",
-        "concept:compile"
+        "source:insights-1398dcf3",
+        "source:projects-acb5fd10"
       ],
       "pathEdgeIds": [
-        "projects-acb5fd10->concept:compile"
+        "similar:d62b10b89cd1cb6c"
       ],
       "pathRelations": [
-        "mentions"
+        "semantically_similar_to"
       ],
       "pathEvidenceClasses": [
-        "extracted"
+        "inferred"
       ],
-      "pathSummary": "Projects -> compile",
-      "why": "it crosses communities community:should-6 and community:candidates-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved; it also appears in 1 group pattern",
-      "explanation": "Projects connects to compile because it crosses communities community:should-6 and community:candidates-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved; it also appears in 1 group pattern."
+      "pathSummary": "Insights -> Projects",
+      "why": "it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern",
+      "explanation": "Insights connects to Projects because it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern."
     },
     {
       "id": "source:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3->module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:contains_code",
@@ -420,56 +380,82 @@
       "explanation": "Default to the inbox of whichever vault this script is deployed in connects to Default to the inbox of whichever vault this script is deployed in module because it spans different canonical pages; it bridges source and module nodes; a bridge node is involved."
     },
     {
-      "id": "projects-acb5fd10->concept:build",
-      "sourceNodeId": "source:projects-acb5fd10",
-      "sourceLabel": "Projects",
-      "targetNodeId": "concept:build",
-      "targetLabel": "build",
-      "relation": "mentions",
+      "id": "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3->symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:build-note.function:defines",
+      "sourceNodeId": "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
+      "sourceLabel": "Default to the inbox of whichever vault this script is deployed in module",
+      "targetNodeId": "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:build-note.function",
+      "targetLabel": "build_note",
+      "relation": "defines",
       "evidenceClass": "extracted",
-      "confidence": 0.55,
+      "confidence": 1,
       "pathNodeIds": [
-        "source:projects-acb5fd10",
-        "concept:build"
+        "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
+        "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:build-note.function"
       ],
       "pathEdgeIds": [
-        "projects-acb5fd10->concept:build"
+        "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3->symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:build-note.function:defines"
       ],
       "pathRelations": [
-        "mentions"
+        "defines"
       ],
       "pathEvidenceClasses": [
         "extracted"
       ],
-      "pathSummary": "Projects -> build",
-      "why": "it crosses communities community:should-6 and community:candidates-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved",
-      "explanation": "Projects connects to build because it crosses communities community:should-6 and community:candidates-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved."
+      "pathSummary": "Default to the inbox of whichever vault this script is deployed in module -> build_note",
+      "why": "it bridges module and symbol nodes; it also appears in 1 group pattern",
+      "explanation": "Default to the inbox of whichever vault this script is deployed in module connects to build_note because it bridges module and symbol nodes; it also appears in 1 group pattern."
     },
     {
-      "id": "projects-acb5fd10->concept:index",
-      "sourceNodeId": "source:projects-acb5fd10",
-      "sourceLabel": "Projects",
-      "targetNodeId": "concept:index",
-      "targetLabel": "index",
-      "relation": "mentions",
+      "id": "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3->symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:build-note.function:exports",
+      "sourceNodeId": "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
+      "sourceLabel": "Default to the inbox of whichever vault this script is deployed in module",
+      "targetNodeId": "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:build-note.function",
+      "targetLabel": "build_note",
+      "relation": "exports",
       "evidenceClass": "extracted",
-      "confidence": 0.55,
+      "confidence": 1,
       "pathNodeIds": [
-        "source:projects-acb5fd10",
-        "concept:index"
+        "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
+        "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:build-note.function"
       ],
       "pathEdgeIds": [
-        "projects-acb5fd10->concept:index"
+        "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3->symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:build-note.function:defines"
       ],
       "pathRelations": [
-        "mentions"
+        "defines"
       ],
       "pathEvidenceClasses": [
         "extracted"
       ],
-      "pathSummary": "Projects -> index",
-      "why": "it crosses communities community:should-6 and community:candidates-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved",
-      "explanation": "Projects connects to index because it crosses communities community:should-6 and community:candidates-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved."
+      "pathSummary": "Default to the inbox of whichever vault this script is deployed in module -> build_note",
+      "why": "it bridges module and symbol nodes; it also appears in 1 group pattern",
+      "explanation": "Default to the inbox of whichever vault this script is deployed in module connects to build_note because it bridges module and symbol nodes; it also appears in 1 group pattern."
+    },
+    {
+      "id": "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3->symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:main.function:defines",
+      "sourceNodeId": "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
+      "sourceLabel": "Default to the inbox of whichever vault this script is deployed in module",
+      "targetNodeId": "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:main.function",
+      "targetLabel": "main",
+      "relation": "defines",
+      "evidenceClass": "extracted",
+      "confidence": 1,
+      "pathNodeIds": [
+        "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
+        "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:main.function"
+      ],
+      "pathEdgeIds": [
+        "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3->symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:main.function:defines"
+      ],
+      "pathRelations": [
+        "defines"
+      ],
+      "pathEvidenceClasses": [
+        "extracted"
+      ],
+      "pathSummary": "Default to the inbox of whichever vault this script is deployed in module -> main",
+      "why": "it bridges module and symbol nodes; it also appears in 1 group pattern",
+      "explanation": "Default to the inbox of whichever vault this script is deployed in module connects to main because it bridges module and symbol nodes; it also appears in 1 group pattern."
     }
   ],
   "groupPatterns": [
@@ -515,25 +501,25 @@
     }
   ],
   "suggestedQuestions": [
-    "Why does Projects connect multiple communities in the vault?",
     "Why does Candidates connect multiple communities in the vault?",
-    "Why does Default to the inbox of whichever vault this script is deployed in connect multiple communities in the vault?"
+    "Why does Default to the inbox of whichever vault this script is deployed in connect multiple communities in the vault?",
+    "Why does Insights connect multiple communities in the vault?"
   ],
   "communityPages": [
     {
-      "id": "graph:community:particulieren-1",
-      "path": "graph/communities/particulieren-1.md",
+      "id": "graph:community:candidates-1",
+      "path": "graph/communities/candidates-1.md",
+      "title": "Community: candidates"
+    },
+    {
+      "id": "graph:community:particulieren-2",
+      "path": "graph/communities/particulieren-2.md",
       "title": "Community: particulieren"
     },
     {
-      "id": "graph:community:erfbelasting-2",
-      "path": "graph/communities/erfbelasting-2.md",
+      "id": "graph:community:erfbelasting-3",
+      "path": "graph/communities/erfbelasting-3.md",
       "title": "Community: erfbelasting"
-    },
-    {
-      "id": "graph:community:candidates-3",
-      "path": "graph/communities/candidates-3.md",
-      "title": "Community: candidates"
     },
     {
       "id": "graph:community:jouw-4",
@@ -546,53 +532,48 @@
       "title": "Community: diepenbeek"
     },
     {
-      "id": "graph:community:should-6",
-      "path": "graph/communities/should-6.md",
-      "title": "Community: should"
-    },
-    {
-      "id": "graph:community:2026-7",
-      "path": "graph/communities/2026-7.md",
+      "id": "graph:community:2026-6",
+      "path": "graph/communities/2026-6.md",
       "title": "Community: 2026"
     },
     {
-      "id": "graph:community:available-8",
-      "path": "graph/communities/available-8.md",
+      "id": "graph:community:available-7",
+      "path": "graph/communities/available-7.md",
       "title": "Community: available"
     },
     {
-      "id": "graph:community:object-9",
-      "path": "graph/communities/object-9.md",
+      "id": "graph:community:object-8",
+      "path": "graph/communities/object-8.md",
       "title": "Community: object"
     },
     {
-      "id": "graph:community:over-10",
-      "path": "graph/communities/over-10.md",
+      "id": "graph:community:over-9",
+      "path": "graph/communities/over-9.md",
       "title": "Community: over"
     },
     {
-      "id": "graph:community:verkeer-11",
-      "path": "graph/communities/verkeer-11.md",
+      "id": "graph:community:verkeer-10",
+      "path": "graph/communities/verkeer-10.md",
       "title": "Community: verkeer"
     },
     {
-      "id": "graph:community:feedback-12",
-      "path": "graph/communities/feedback-12.md",
+      "id": "graph:community:feedback-11",
+      "path": "graph/communities/feedback-11.md",
       "title": "Community: feedback"
     },
     {
-      "id": "graph:community:dovendi-13",
-      "path": "graph/communities/dovendi-13.md",
+      "id": "graph:community:dovendi-12",
+      "path": "graph/communities/dovendi-12.md",
       "title": "Community: dovendi"
     },
     {
-      "id": "graph:community:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-14",
-      "path": "graph/communities/default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-14.md",
+      "id": "graph:community:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-13",
+      "path": "graph/communities/default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-13.md",
       "title": "Community: Default to the inbox of whichever vault this script is deployed in module"
     },
     {
-      "id": "graph:community:logo-15",
-      "path": "graph/communities/logo-15.md",
+      "id": "graph:community:logo-14",
+      "path": "graph/communities/logo-14.md",
       "title": "Community: logo"
     }
   ],
@@ -600,25 +581,19 @@
   "contradictions": [],
   "communityCohesion": [
     {
-      "id": "community:candidates-3",
+      "id": "community:candidates-1",
       "label": "candidates",
-      "nodeCount": 19,
+      "nodeCount": 31,
       "cohesion": 0
     },
     {
-      "id": "community:should-6",
-      "label": "should",
-      "nodeCount": 12,
-      "cohesion": 0
-    },
-    {
-      "id": "community:object-9",
+      "id": "community:object-8",
       "label": "object",
       "nodeCount": 12,
       "cohesion": 0
     },
     {
-      "id": "community:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-14",
+      "id": "community:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-13",
       "label": "Default to the inbox of whichever vault this script is deployed in module",
       "nodeCount": 7,
       "cohesion": 0.8095238095238095

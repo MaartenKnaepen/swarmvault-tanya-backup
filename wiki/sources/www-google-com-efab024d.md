@@ -24,7 +24,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-07-03T23:35:19.624Z'
-updated_at: '2026-08-23T00:08:21.045Z'
+updated_at: '2026-08-29T00:40:15.112Z'
 compiled_from:
   - www-google-com-efab024d
 managed_by: system
@@ -47,7 +47,7 @@ source_hashes:
 source_semantic_hashes:
   www-google-com-efab024d: 61281301b6d3cf951c0530af777c5e23f2d188e6cf78846edcdbca0b76b24fc0
 decay_score: 1
-last_confirmed_at: '2026-08-23T00:08:23.449Z'
+last_confirmed_at: '2026-08-29T00:40:17.708Z'
 ---
 # www.google.com
 

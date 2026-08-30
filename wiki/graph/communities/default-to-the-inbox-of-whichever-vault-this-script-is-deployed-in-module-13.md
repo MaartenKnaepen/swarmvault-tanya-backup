@@ -1,6 +1,6 @@
 ---
 page_id: >-
-  graph:community:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-14
+  graph:community:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-13
 kind: community_summary
 cssclasses:
   - swarmvault
@@ -32,8 +32,8 @@ node_ids: &ref_0
 freshness: fresh
 status: active
 confidence: 1
-created_at: '2026-08-23T00:08:23.015Z'
-updated_at: '2026-08-23T00:08:23.015Z'
+created_at: '2026-08-29T00:40:17.043Z'
+updated_at: '2026-08-29T00:40:17.043Z'
 compiled_from:
   - default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3
 managed_by: system
