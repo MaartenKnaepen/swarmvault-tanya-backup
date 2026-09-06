@@ -15,14 +15,13 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.130Z'
-updated_at: '2026-08-29T00:44:35.988Z'
+updated_at: '2026-09-06T00:40:19.960Z'
 compiled_from:
   - bouwinfo-f8d17c05
   - seerr-media-requests-available-ef141443
   - insights-1398dcf3
   - projects-acb5fd10
   - candidates-5d9c2771
-  - swarmvault-schema-b10ad2d9
   - default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3
   - 40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2
   - house-for-sale-diepenbeek-3590-immoweb-6f7c1e11
@@ -45,6 +44,7 @@ compiled_from:
   - >-
     centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da
   - een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72
+  - swarmvault-schema-b10ad2d9
   - wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4
   - web-archive-org-cdx-search-cdx-368de9df
   - web-archive-org-cdx-search-cdx-37517e5f
@@ -62,19 +62,20 @@ source_semantic_hashes: {}
 ---
 # Graph
 
-- [[graph/communities/2026-6|Community: 2026]]
-- [[graph/communities/available-7|Community: available]]
-- [[graph/communities/candidates-1|Community: candidates]]
-- [[graph/communities/default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-13|Community: Default to the inbox of whichever vault this script is deployed in module]]
+- [[graph/communities/2026-7|Community: 2026]]
+- [[graph/communities/available-8|Community: available]]
+- [[graph/communities/candidates-3|Community: candidates]]
+- [[graph/communities/default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-14|Community: Default to the inbox of whichever vault this script is deployed in module]]
 - [[graph/communities/diepenbeek-5|Community: diepenbeek]]
-- [[graph/communities/dovendi-12|Community: dovendi]]
-- [[graph/communities/erfbelasting-3|Community: erfbelasting]]
-- [[graph/communities/feedback-11|Community: feedback]]
+- [[graph/communities/dovendi-13|Community: dovendi]]
+- [[graph/communities/erfbelasting-2|Community: erfbelasting]]
+- [[graph/communities/feedback-12|Community: feedback]]
 - [[graph/communities/jouw-4|Community: jouw]]
-- [[graph/communities/logo-14|Community: logo]]
-- [[graph/communities/object-8|Community: object]]
-- [[graph/communities/over-9|Community: over]]
-- [[graph/communities/particulieren-2|Community: particulieren]]
-- [[graph/communities/verkeer-10|Community: verkeer]]
+- [[graph/communities/logo-15|Community: logo]]
+- [[graph/communities/object-9|Community: object]]
+- [[graph/communities/over-10|Community: over]]
+- [[graph/communities/particulieren-1|Community: particulieren]]
+- [[graph/communities/should-6|Community: should]]
+- [[graph/communities/verkeer-11|Community: verkeer]]
 - [[graph/report|Graph Report]]
 - [[graph/share-card|Share Card]]

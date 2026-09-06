@@ -28,7 +28,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-07-03T23:35:19.611Z'
-updated_at: '2026-08-29T00:40:15.091Z'
+updated_at: '2026-09-06T00:35:59.386Z'
 compiled_from:
   - een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72
 managed_by: system
@@ -51,7 +51,7 @@ source_hashes:
 source_semantic_hashes:
   een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72: eb3d4fbc940fc08335028bb7251ff40dc8b30b5fea6ed7a36fcfc682569453b2
 decay_score: 1
-last_confirmed_at: '2026-08-29T00:40:17.708Z'
+last_confirmed_at: '2026-09-06T00:36:01.884Z'
 ---
 # een woning die zijn tijd lichtjaren vooruit is.
 

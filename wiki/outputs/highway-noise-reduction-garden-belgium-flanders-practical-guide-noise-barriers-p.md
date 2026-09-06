@@ -116,7 +116,7 @@ question: >-
 output_format: report
 output_assets: []
 decay_score: 1
-last_confirmed_at: '2026-08-29T00:40:17.708Z'
+last_confirmed_at: '2026-09-06T00:36:01.884Z'
 ---
 # Report: Highway noise reduction garden Belgium Flanders practical guide noise barriers plants regulations costs dB reduction
 

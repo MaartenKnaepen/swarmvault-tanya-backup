@@ -15,7 +15,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.128Z'
-updated_at: '2026-08-29T00:44:35.984Z'
+updated_at: '2026-09-06T00:40:19.956Z'
 compiled_from:
   - erfbelasting-b24e8569
   - wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4

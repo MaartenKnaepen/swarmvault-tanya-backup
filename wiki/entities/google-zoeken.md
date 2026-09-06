@@ -21,7 +21,7 @@ freshness: fresh
 status: active
 confidence: 0.95
 created_at: '2026-06-30T20:23:20.611Z'
-updated_at: '2026-08-29T00:40:15.228Z'
+updated_at: '2026-09-06T00:35:59.514Z'
 compiled_from:
   - www-google-com-30f04687
   - www-google-com-3d8570f8
@@ -57,7 +57,7 @@ source_semantic_hashes:
   www-google-com-d149a56e: b28038d0acf7fb157380d913880960340cd5a578ef3c22b160abaee49af46368
   www-google-com-efab024d: 61281301b6d3cf951c0530af777c5e23f2d188e6cf78846edcdbca0b76b24fc0
 decay_score: 1
-last_confirmed_at: '2026-08-29T00:40:17.708Z'
+last_confirmed_at: '2026-09-06T00:36:01.884Z'
 ---
 # Google Zoeken,
 

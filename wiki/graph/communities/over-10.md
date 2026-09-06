@@ -1,5 +1,5 @@
 ---
-page_id: 'graph:community:over-9'
+page_id: 'graph:community:over-10'
 kind: community_summary
 cssclasses:
   - swarmvault
@@ -27,8 +27,8 @@ node_ids: &ref_0
 freshness: fresh
 status: active
 confidence: 1
-created_at: '2026-08-29T00:40:17.041Z'
-updated_at: '2026-08-29T00:40:17.041Z'
+created_at: '2026-09-02T00:37:18.466Z'
+updated_at: '2026-09-02T00:37:18.466Z'
 compiled_from:
   - zoeken-notaris-be-832736a2
 managed_by: system

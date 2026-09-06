@@ -1,5 +1,5 @@
 ---
-page_id: 'graph:community:verkeer-10'
+page_id: 'graph:community:verkeer-11'
 kind: community_summary
 cssclasses:
   - swarmvault
@@ -27,8 +27,8 @@ node_ids: &ref_0
 freshness: fresh
 status: active
 confidence: 1
-created_at: '2026-08-29T00:40:17.042Z'
-updated_at: '2026-08-29T00:40:17.042Z'
+created_at: '2026-09-02T00:37:18.467Z'
+updated_at: '2026-09-02T00:37:18.467Z'
 compiled_from:
   - wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4
 managed_by: system

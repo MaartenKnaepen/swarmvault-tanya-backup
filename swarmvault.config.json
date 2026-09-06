@@ -1,94 +1,103 @@
 {
- "workspace": {
-  "rawDir": "raw",
-  "wikiDir": "wiki",
-  "stateDir": "state",
-  "agentDir": "agent",
-  "inboxDir": "inbox"
- },
- "providers": {
-  "local": {
-   "type": "heuristic",
-   "model": "heuristic-v1",
-   "capabilities": [
-    "chat",
-    "structured",
-    "vision",
-    "local"
-   ]
+  "workspace": {
+    "rawDir": "raw",
+    "wikiDir": "wiki",
+    "stateDir": "state",
+    "agentDir": "agent",
+    "inboxDir": "inbox"
   },
-  "ollama-embed": {
-   "type": "openai",
-   "baseUrl": "http://localhost:11434/v1",
-   "apiKey": "ollama",
-   "model": "hf.co/jinaai/jina-embeddings-v5-text-small-retrieval-GGUF:Q4_K_M",
-   "capabilities": [
-    "embeddings"
-   ]
+  "providers": {
+    "local": {
+      "type": "heuristic",
+      "model": "heuristic-v1",
+      "capabilities": [
+        "chat",
+        "structured",
+        "vision",
+        "local"
+      ]
+    },
+    "ollama-embed": {
+      "type": "openai",
+      "baseUrl": "http://localhost:11434/v1",
+      "apiKey": "ollama",
+      "model": "hf.co/jinaai/jina-embeddings-v5-text-small-retrieval-GGUF:Q4_K_M",
+      "capabilities": [
+        "embeddings"
+      ]
+    },
+    "openrouter": {
+      "type": "openrouter",
+      "model": "deepseek/deepseek-v4-flash:novita",
+      "apiKeyEnv": "OPENROUTER_API_KEY",
+      "capabilities": [
+        "chat",
+        "structured"
+      ]
+    },
+    "vision": {
+      "type": "openrouter",
+      "model": "minimax/minimax-m3",
+      "apiKeyEnv": "OPENROUTER_API_KEY",
+      "capabilities": [
+        "chat",
+        "structured",
+        "vision"
+      ]
+    },
+    "openrouter-glm": {
+      "type": "openrouter",
+      "model": "z-ai/glm-5.3-flash",
+      "apiKeyEnv": "OPENROUTER_API_KEY",
+      "capabilities": [
+        "chat",
+        "structured"
+      ]
+    }
   },
-  "openrouter": {
-   "type": "openrouter",
-   "model": "deepseek/deepseek-v4-flash:novita",
-   "apiKeyEnv": "OPENROUTER_API_KEY",
-   "capabilities": [
-    "chat",
-    "structured"
-   ]
+  "tasks": {
+    "compileProvider": "openrouter",
+    "queryProvider": "openrouter",
+    "lintProvider": "openrouter-glm",
+    "visionProvider": "vision",
+    "imageProvider": "local",
+    "embeddingProvider": "ollama-embed"
   },
-  "vision": {
-   "type": "openrouter",
-   "model": "minimax/minimax-m3",
-   "apiKeyEnv": "OPENROUTER_API_KEY",
-   "capabilities": [
-    "chat",
-    "structured",
-    "vision"
-   ]
+  "viewer": {
+    "port": 4124
+  },
+  "profile": {
+    "presets": [],
+    "dashboardPack": "default",
+    "guidedSessionMode": "insights_only",
+    "dataviewBlocks": false,
+    "guidedIngestDefault": false,
+    "deepLintDefault": false
+  },
+  "projects": {},
+  "agents": [],
+  "schedules": {},
+  "orchestration": {
+    "maxParallelRoles": 2,
+    "compilePostPass": false,
+    "roles": {}
+  },
+  "benchmark": {
+    "enabled": true,
+    "questions": [],
+    "maxQuestions": 3
+  },
+  "repoAnalysis": {
+    "classifyGlobs": {},
+    "extractClasses": [
+      "first_party"
+    ]
+  },
+  "graphSinks": {},
+  "retrieval": {
+    "backend": "sqlite",
+    "shardSize": 25000,
+    "hybrid": true,
+    "rerank": false
   }
- },
- "tasks": {
-  "compileProvider": "openrouter",
-  "queryProvider": "openrouter",
-  "lintProvider": "openrouter",
-  "visionProvider": "vision",
-  "imageProvider": "local",
-  "embeddingProvider": "ollama-embed"
- },
- "viewer": {
-  "port": 4124
- },
- "profile": {
-  "presets": [],
-  "dashboardPack": "default",
-  "guidedSessionMode": "insights_only",
-  "dataviewBlocks": false,
-  "guidedIngestDefault": false,
-  "deepLintDefault": false
- },
- "projects": {},
- "agents": [],
- "schedules": {},
- "orchestration": {
-  "maxParallelRoles": 2,
-  "compilePostPass": false,
-  "roles": {}
- },
- "benchmark": {
-  "enabled": true,
-  "questions": [],
-  "maxQuestions": 3
- },
- "repoAnalysis": {
-  "classifyGlobs": {},
-  "extractClasses": [
-   "first_party"
-  ]
- },
- "graphSinks": {},
- "retrieval": {
-  "backend": "sqlite",
-  "shardSize": 25000,
-  "hybrid": true,
-  "rerank": false
- }
 }

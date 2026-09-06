@@ -16,7 +16,7 @@ freshness: fresh
 status: active
 confidence: 0.65
 created_at: '2026-07-03T23:35:19.638Z'
-updated_at: '2026-08-29T00:40:15.170Z'
+updated_at: '2026-09-06T00:35:59.464Z'
 compiled_from:
   - web-archive-org-cdx-search-cdx-c633b882
 managed_by: system
@@ -28,7 +28,7 @@ source_hashes:
 source_semantic_hashes:
   web-archive-org-cdx-search-cdx-c633b882: c633b8826abb7d1e409e12ebc80ada1dd82714fab0e5293ec0aa74c94ab1d794
 decay_score: 1
-last_confirmed_at: '2026-08-29T00:40:17.708Z'
+last_confirmed_at: '2026-09-06T00:36:01.884Z'
 ---
 # http
 
