@@ -20,7 +20,7 @@ freshness: fresh
 status: active
 confidence: 0.95
 created_at: '2026-07-02T18:00:14.738Z'
-updated_at: '2026-09-06T00:35:59.424Z'
+updated_at: '2026-09-13T00:36:15.706Z'
 compiled_from:
   - >-
     centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da
@@ -46,7 +46,7 @@ source_semantic_hashes:
   home-kepler-7ece3282: 665069c8e59f9196370cdb6684ee8a334190c7075c914603d3c7e9e54c59ef4e
   home-kepler-938b95f3: e35503d6434f23ccdcf06919fdf6a2052f0c1b11748ca25f731fc10cee87c09c
 decay_score: 1
-last_confirmed_at: '2026-09-06T00:36:01.884Z'
+last_confirmed_at: '2026-09-13T00:36:18.034Z'
 ---
 # voor
 

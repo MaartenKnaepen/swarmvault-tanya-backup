@@ -16,7 +16,7 @@ freshness: fresh
 status: active
 confidence: 0.65
 created_at: '2026-07-03T23:35:19.632Z'
-updated_at: '2026-09-06T00:35:59.431Z'
+updated_at: '2026-09-13T00:36:15.714Z'
 compiled_from:
   - dovendi-domain-for-sale-2d012a62
 managed_by: system
@@ -28,7 +28,7 @@ source_hashes:
 source_semantic_hashes:
   dovendi-domain-for-sale-2d012a62: 0979f70eeaa4787b525071dcbea4382b89c0ef9609e35b6559cae5ba7e232116
 decay_score: 1
-last_confirmed_at: '2026-09-06T00:36:01.884Z'
+last_confirmed_at: '2026-09-13T00:36:18.034Z'
 ---
 # about
 

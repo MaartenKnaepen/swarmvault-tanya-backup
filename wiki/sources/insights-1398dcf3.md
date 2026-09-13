@@ -24,7 +24,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.071Z'
-updated_at: '2026-09-06T00:35:59.391Z'
+updated_at: '2026-09-13T00:36:15.674Z'
 compiled_from:
   - insights-1398dcf3
 managed_by: system
@@ -48,7 +48,7 @@ source_hashes:
 source_semantic_hashes:
   insights-1398dcf3: 7ed98748976e1b249ce944a23513c98359945683c317056d0d40b761308abce6
 decay_score: 1
-last_confirmed_at: '2026-09-06T00:36:01.884Z'
+last_confirmed_at: '2026-09-13T00:36:18.034Z'
 ---
 # Insights
 

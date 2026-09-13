@@ -16,7 +16,7 @@ freshness: fresh
 status: active
 confidence: 0.65
 created_at: '2026-07-03T23:35:19.681Z'
-updated_at: '2026-09-06T00:35:59.489Z'
+updated_at: '2026-09-13T00:36:15.775Z'
 compiled_from:
   - de-notaris-notaris-be-8b0bd2a4
 managed_by: system
@@ -28,7 +28,7 @@ source_hashes:
 source_semantic_hashes:
   de-notaris-notaris-be-8b0bd2a4: bfec2bbc213f9cd567eeef295b7a0e90cee83d884137e179c03030e0d96d2b14
 decay_score: 1
-last_confirmed_at: '2026-09-06T00:36:01.884Z'
+last_confirmed_at: '2026-09-13T00:36:18.034Z'
 ---
 # Frequently Asked Questions
 

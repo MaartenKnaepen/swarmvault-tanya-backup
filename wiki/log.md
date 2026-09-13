@@ -2885,3 +2885,187 @@
 - schema=00d64cfa850a
 - benchmark=ok
 
+## [2026-09-06 02:02:00] lint | Linted 268 page(s)
+- session: `state/sessions/2026-09-06T02-02-00-593Z-lint-linted-268-page-s.md`
+- findings=26
+- deep=false
+- web=false
+- conflicts=true
+- decay=true
+
+## [2026-09-06 02:36:09] inbox_import | inbox
+- scanned=1
+- imported=0
+- attachments=0
+- skipped=1
+
+## [2026-09-06 02:36:10] compile | Compiled 36 source(s)
+- session: `state/sessions/2026-09-06T02-36-10-270Z-compile-compiled-36-source-s.md`
+- provider=openrouter
+- pages=268
+- dirty=0
+- clean=36
+- outputs=11
+- insights=0
+- memory=1
+- candidates=0
+- promoted=0
+- staged=false
+- postPassApproval=none
+- schema=00d64cfa850a
+- benchmark=ok
+
+## [2026-09-07 00:35:36] inbox_import | inbox
+- scanned=1
+- imported=0
+- attachments=0
+- skipped=1
+
+## [2026-09-07 00:35:37] compile | Compiled 36 source(s)
+- session: `state/sessions/2026-09-07T00-35-37-540Z-compile-compiled-36-source-s.md`
+- provider=openrouter
+- pages=267
+- dirty=0
+- clean=36
+- outputs=11
+- insights=0
+- memory=1
+- candidates=0
+- promoted=0
+- staged=false
+- postPassApproval=none
+- schema=00d64cfa850a
+- benchmark=ok
+
+## [2026-09-08 00:34:26] inbox_import | inbox
+- scanned=1
+- imported=0
+- attachments=0
+- skipped=1
+
+## [2026-09-08 00:34:27] compile | Compiled 36 source(s)
+- session: `state/sessions/2026-09-08T00-34-27-149Z-compile-compiled-36-source-s.md`
+- provider=openrouter
+- pages=267
+- dirty=0
+- clean=36
+- outputs=11
+- insights=0
+- memory=1
+- candidates=0
+- promoted=0
+- staged=false
+- postPassApproval=none
+- schema=00d64cfa850a
+- benchmark=ok
+
+## [2026-09-09 00:39:19] inbox_import | inbox
+- scanned=1
+- imported=0
+- attachments=0
+- skipped=1
+
+## [2026-09-09 00:39:20] compile | Compiled 36 source(s)
+- session: `state/sessions/2026-09-09T00-39-20-984Z-compile-compiled-36-source-s.md`
+- provider=openrouter
+- pages=268
+- dirty=0
+- clean=36
+- outputs=11
+- insights=0
+- memory=1
+- candidates=0
+- promoted=0
+- staged=false
+- postPassApproval=none
+- schema=00d64cfa850a
+- benchmark=ok
+
+## [2026-09-10 00:35:37] inbox_import | inbox
+- scanned=1
+- imported=0
+- attachments=0
+- skipped=1
+
+## [2026-09-10 00:35:38] compile | Compiled 36 source(s)
+- session: `state/sessions/2026-09-10T00-35-38-777Z-compile-compiled-36-source-s.md`
+- provider=openrouter
+- pages=267
+- dirty=0
+- clean=36
+- outputs=11
+- insights=0
+- memory=1
+- candidates=0
+- promoted=0
+- staged=false
+- postPassApproval=none
+- schema=00d64cfa850a
+- benchmark=ok
+
+## [2026-09-11 00:37:24] inbox_import | inbox
+- scanned=1
+- imported=0
+- attachments=0
+- skipped=1
+
+## [2026-09-11 00:37:25] compile | Compiled 36 source(s)
+- session: `state/sessions/2026-09-11T00-37-25-259Z-compile-compiled-36-source-s.md`
+- provider=openrouter
+- pages=268
+- dirty=0
+- clean=36
+- outputs=11
+- insights=0
+- memory=1
+- candidates=0
+- promoted=0
+- staged=false
+- postPassApproval=none
+- schema=00d64cfa850a
+- benchmark=ok
+
+## [2026-09-12 00:35:21] inbox_import | inbox
+- scanned=1
+- imported=0
+- attachments=0
+- skipped=1
+
+## [2026-09-12 00:35:22] compile | Compiled 36 source(s)
+- session: `state/sessions/2026-09-12T00-35-22-717Z-compile-compiled-36-source-s.md`
+- provider=openrouter
+- pages=268
+- dirty=0
+- clean=36
+- outputs=11
+- insights=0
+- memory=1
+- candidates=0
+- promoted=0
+- staged=false
+- postPassApproval=none
+- schema=00d64cfa850a
+- benchmark=ok
+
+## [2026-09-13 00:36:14] inbox_import | inbox
+- scanned=1
+- imported=0
+- attachments=0
+- skipped=1
+
+## [2026-09-13 00:36:15] compile | Compiled 36 source(s)
+- session: `state/sessions/2026-09-13T00-36-15-602Z-compile-compiled-36-source-s.md`
+- provider=openrouter
+- pages=268
+- dirty=0
+- clean=36
+- outputs=11
+- insights=0
+- memory=1
+- candidates=0
+- promoted=0
+- staged=false
+- postPassApproval=none
+- schema=00d64cfa850a
+- benchmark=ok
+

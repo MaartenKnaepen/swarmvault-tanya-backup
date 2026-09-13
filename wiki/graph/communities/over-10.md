@@ -27,8 +27,8 @@ node_ids: &ref_0
 freshness: fresh
 status: active
 confidence: 1
-created_at: '2026-09-02T00:37:18.466Z'
-updated_at: '2026-09-02T00:37:18.466Z'
+created_at: '2026-09-11T00:37:27.376Z'
+updated_at: '2026-09-11T00:37:27.376Z'
 compiled_from:
   - zoeken-notaris-be-832736a2
 managed_by: system

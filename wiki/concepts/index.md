@@ -15,7 +15,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.128Z'
-updated_at: '2026-09-06T00:40:19.954Z'
+updated_at: '2026-09-13T00:40:36.600Z'
 compiled_from:
   - web-archive-org-cdx-search-cdx-c633b882
   - bouwinfo-f8d17c05

@@ -16,7 +16,7 @@ freshness: fresh
 status: active
 confidence: 0.65
 created_at: '2026-06-30T20:23:20.596Z'
-updated_at: '2026-09-06T00:35:59.466Z'
+updated_at: '2026-09-13T00:36:15.748Z'
 compiled_from:
   - wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4
 managed_by: system
@@ -28,7 +28,7 @@ source_hashes:
 source_semantic_hashes:
   wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4: eedccd1d19f2c19a1e8ae013b81609b3e26bcb1361cc29bad8be43cea8c0f858
 decay_score: 1
-last_confirmed_at: '2026-09-06T00:36:01.884Z'
+last_confirmed_at: '2026-09-13T00:36:18.034Z'
 ---
 # augustus
 

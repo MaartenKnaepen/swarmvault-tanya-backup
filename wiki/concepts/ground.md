@@ -16,7 +16,7 @@ freshness: fresh
 status: active
 confidence: 0.65
 created_at: '2026-07-03T23:35:19.637Z'
-updated_at: '2026-09-06T00:35:59.441Z'
+updated_at: '2026-09-13T00:36:15.726Z'
 compiled_from:
   - house-for-sale-diepenbeek-3590-immoweb-6f7c1e11
 managed_by: system
@@ -28,7 +28,7 @@ source_hashes:
 source_semantic_hashes:
   house-for-sale-diepenbeek-3590-immoweb-6f7c1e11: d12b1daec6aa3ec63ebcf23055350a2608b22c3d83e2b36b9a0e7759dc2f48fa
 decay_score: 1
-last_confirmed_at: '2026-09-06T00:36:01.884Z'
+last_confirmed_at: '2026-09-13T00:36:18.034Z'
 ---
 # ground
 

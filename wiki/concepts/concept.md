@@ -17,7 +17,7 @@ freshness: fresh
 status: active
 confidence: 0.65
 created_at: '2026-05-22T19:04:20.088Z'
-updated_at: '2026-09-06T00:35:59.459Z'
+updated_at: '2026-09-13T00:36:15.744Z'
 compiled_from:
   - swarmvault-schema-b10ad2d9
 managed_by: system
@@ -36,7 +36,7 @@ source_hashes:
 source_semantic_hashes:
   swarmvault-schema-b10ad2d9: 9e93581e5ad4eb7a49309af0263d43e8304e383f93a0c606c2161d713334df19
 decay_score: 1
-last_confirmed_at: '2026-09-06T00:36:01.884Z'
+last_confirmed_at: '2026-09-13T00:36:18.034Z'
 ---
 # concept
 
