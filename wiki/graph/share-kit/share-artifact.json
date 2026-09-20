@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-13T00:40:36.919Z",
+  "generatedAt": "2026-09-20T01:10:50.556Z",
   "vaultName": "knowledge-tanya",
   "tagline": "A local-first map of knowledge-tanya: 36 sources compiled into 237 graph nodes and 251 wiki pages.",
   "overview": {
     "sources": 36,
     "nodes": 237,
-    "edges": 359,
+    "edges": 337,
     "pages": 251,
     "communities": 15
   },
   "firstPartyOverview": {
     "nodes": 56,
-    "edges": 68,
+    "edges": 67,
     "pages": 50,
     "communities": 4
   },
@@ -74,10 +74,10 @@
         "why": "it crosses communities community:candidates-3 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.;..."
       },
       {
-        "sourceLabel": "swarmvault.config",
-        "targetLabel": "SwarmVault Schema",
+        "sourceLabel": "Candidates",
+        "targetLabel": "Insights",
         "relation": "semantically_similar_to",
-        "why": "it crosses communities community:object-9 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared tags."
+        "why": "it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern"
       }
     ],
     "suggestedQuestions": [
@@ -89,7 +89,7 @@
   "knowledgeGaps": [
     "Non-first-party material accounts for 76.4% of graph nodes."
   ],
-  "shortPost": "I scanned knowledge-tanya with SwarmVault: 36 sources -> 251 wiki pages, 237 graph nodes, 359 edges.\nTop hubs: compile, index, and should.\nMost surprising link: Candidates semantically_similar_to Projects.\nEverything stays local. Try: npm install -g @swarmvaultai/cli && swarmvault quickstart ./your-repo",
+  "shortPost": "I scanned knowledge-tanya with SwarmVault: 36 sources -> 251 wiki pages, 237 graph nodes, 337 edges.\nTop hubs: compile, index, and should.\nMost surprising link: Candidates semantically_similar_to Projects.\nEverything stays local. Try: npm install -g @swarmvaultai/cli && swarmvault quickstart ./your-repo",
   "relatedNodeIds": [
     "concept:compile",
     "concept:index",

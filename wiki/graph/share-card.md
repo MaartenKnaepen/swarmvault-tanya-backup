@@ -61,7 +61,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.119Z'
-updated_at: '2026-09-13T00:40:36.577Z'
+updated_at: '2026-09-20T01:10:50.217Z'
 compiled_from:
   - 40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2
   - bouwinfo-f8d17c05
@@ -127,9 +127,9 @@ related_source_ids: *ref_1
 - Sources: 36
 - Wiki pages: 251
 - Graph nodes: 237
-- Graph edges: 359
+- Graph edges: 337
 - Communities: 15
-- First-party focus: 56 nodes, 68 edges, 50 pages
+- First-party focus: 56 nodes, 67 edges, 50 pages
 
 ## Highlights
 
@@ -137,7 +137,7 @@ related_source_ids: *ref_1
 - Bridge nodes: Projects, Candidates, and Default to the inbox of whichever vault this script is deployed in
 - Surprising link: Candidates semantically_similar_to Projects. it crosses communities community:candidates-3 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.;...
 - Surprising link: Insights semantically_similar_to Projects. it crosses communities community:candidates-3 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.;...
-- Surprising link: swarmvault.config semantically_similar_to SwarmVault Schema. it crosses communities community:object-9 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared tags.
+- Surprising link: Candidates semantically_similar_to Insights. it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern
 
 ## Gaps To Strengthen
 
@@ -152,7 +152,7 @@ related_source_ids: *ref_1
 ## Share Post
 
 ```text
-I scanned knowledge-tanya with SwarmVault: 36 sources -> 251 wiki pages, 237 graph nodes, 359 edges.
+I scanned knowledge-tanya with SwarmVault: 36 sources -> 251 wiki pages, 237 graph nodes, 337 edges.
 Top hubs: compile, index, and should.
 Most surprising link: Candidates semantically_similar_to Projects.
 Everything stays local. Try: npm install -g @swarmvaultai/cli && swarmvault quickstart ./your-repo

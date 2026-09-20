@@ -28,7 +28,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-09-11T00:37:27.375Z'
-updated_at: '2026-09-11T00:37:27.375Z'
+updated_at: '2026-09-18T07:01:54.410Z'
 compiled_from:
   - swarmvault-config-a48adfce
 managed_by: system
@@ -88,4 +88,4 @@ related_source_ids: *ref_1
 
 ## External Links
 
-- [[sources/swarmvault-config-a48adfce|swarmvault.config]] semantically_similar_to [[sources/swarmvault-schema-b10ad2d9|SwarmVault Schema]] (inferred)
+- No external links detected.

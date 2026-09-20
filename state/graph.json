@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T00:36:15.828Z",
+  "generatedAt": "2026-09-20T01:10:49.078Z",
   "nodes": [
     {
       "id": "source:40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2",
@@ -13,11 +13,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "40 houses for sale in diepenbeek (3590) - immoweb",
       "communityId": "community:diepenbeek-5",
       "degree": 13,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "40 houses for sale in diepenbeek (3590) - immoweb"
     },
     {
       "id": "source:bouwinfo-f8d17c05",
@@ -31,11 +31,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "bouwinfo",
       "communityId": "community:2026-7",
       "degree": 12,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "bouwinfo"
     },
     {
       "id": "source:candidates-5d9c2771",
@@ -50,11 +50,11 @@
       "projectIds": [],
       "sourceClass": "first_party",
       "tags": [],
-      "normLabel": "candidates",
       "communityId": "community:candidates-3",
       "degree": 10,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "candidates"
     },
     {
       "id": "source:centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da",
@@ -68,11 +68,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "centrale voor kredieten aan particulieren (ckp) | nationale bank van belgie",
       "communityId": "community:particulieren-1",
       "degree": 14,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "centrale voor kredieten aan particulieren (ckp) | nationale bank van belgie"
     },
     {
       "id": "source:de-notaris-notaris-be-8b0bd2a4",
@@ -86,11 +86,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "de notaris | notaris.be",
       "communityId": "community:jouw-4",
       "degree": 13,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "de notaris | notaris.be"
     },
     {
       "id": "source:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
@@ -106,11 +106,11 @@
       "sourceClass": "first_party",
       "language": "python",
       "tags": [],
-      "normLabel": "default to the inbox of whichever vault this script is deployed in",
       "communityId": "community:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-14",
       "degree": 1,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "default to the inbox of whichever vault this script is deployed in"
     },
     {
       "id": "source:dovendi-domain-for-sale-2d012a62",
@@ -124,11 +124,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "dovendi - domain for sale",
       "communityId": "community:dovendi-13",
       "degree": 7,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "dovendi - domain for sale"
     },
     {
       "id": "source:een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72",
@@ -142,11 +142,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "een woning die zijn tijd lichtjaren vooruit is.",
       "communityId": "community:particulieren-1",
       "degree": 16,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "een woning die zijn tijd lichtjaren vooruit is."
     },
     {
       "id": "source:erfbelasting-b24e8569",
@@ -160,11 +160,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "erfbelasting",
       "communityId": "community:erfbelasting-2",
       "degree": 13,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "erfbelasting"
     },
     {
       "id": "source:home-kepler-7ece3282",
@@ -178,11 +178,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "home - kepler",
       "communityId": "community:jouw-4",
       "degree": 15,
       "bridgeScore": 2,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "home - kepler"
     },
     {
       "id": "source:home-kepler-938b95f3",
@@ -196,11 +196,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "home - kepler",
       "communityId": "community:jouw-4",
       "degree": 15,
       "bridgeScore": 2,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "home - kepler"
     },
     {
       "id": "source:house-for-sale-diepenbeek-3590-immoweb-6f7c1e11",
@@ -214,11 +214,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "house for sale - diepenbeek (3590) - immoweb",
       "communityId": "community:diepenbeek-5",
       "degree": 9,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "house for sale - diepenbeek (3590) - immoweb"
     },
     {
       "id": "source:insights-1398dcf3",
@@ -233,11 +233,11 @@
       "projectIds": [],
       "sourceClass": "first_party",
       "tags": [],
-      "normLabel": "insights",
       "communityId": "community:candidates-3",
       "degree": 9,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "insights"
     },
     {
       "id": "source:myprivacy-dpgmedia-be-16f062da",
@@ -251,11 +251,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "myprivacy.dpgmedia.be",
       "communityId": "community:logo-15",
       "degree": 2,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "myprivacy.dpgmedia.be"
     },
     {
       "id": "source:projects-acb5fd10",
@@ -270,11 +270,11 @@
       "projectIds": [],
       "sourceClass": "first_party",
       "tags": [],
-      "normLabel": "projects",
       "communityId": "community:should-6",
       "degree": 10,
       "bridgeScore": 2,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "projects"
     },
     {
       "id": "source:schenkbelasting-da146a89",
@@ -288,11 +288,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "schenkbelasting",
       "communityId": "community:erfbelasting-2",
       "degree": 13,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "schenkbelasting"
     },
     {
       "id": "source:seerr-media-requests-available-ef141443",
@@ -306,11 +306,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "seerr — media requests available",
       "communityId": "community:available-8",
       "degree": 12,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "seerr — media requests available"
     },
     {
       "id": "source:swarmvault-config-a48adfce",
@@ -325,11 +325,11 @@
       "projectIds": [],
       "sourceClass": "first_party",
       "tags": [],
-      "normLabel": "swarmvault.config",
       "communityId": "community:object-9",
-      "degree": 13,
+      "degree": 12,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "swarmvault.config"
     },
     {
       "id": "source:swarmvault-schema-b10ad2d9",
@@ -344,11 +344,11 @@
       "projectIds": [],
       "sourceClass": "first_party",
       "tags": [],
-      "normLabel": "swarmvault schema",
       "communityId": "community:should-6",
-      "degree": 14,
+      "degree": 13,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "swarmvault schema"
     },
     {
       "id": "source:web-archive-org-cdx-search-cdx-368de9df",
@@ -362,10 +362,10 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "web.archive.org/cdx/search/cdx",
-      "degree": 3,
+      "degree": 0,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "web.archive.org/cdx/search/cdx"
     },
     {
       "id": "source:web-archive-org-cdx-search-cdx-37517e5f",
@@ -379,10 +379,10 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "web.archive.org/cdx/search/cdx",
-      "degree": 4,
+      "degree": 0,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "web.archive.org/cdx/search/cdx"
     },
     {
       "id": "source:web-archive-org-cdx-search-cdx-66fd206b",
@@ -396,10 +396,10 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "web.archive.org/cdx/search/cdx",
-      "degree": 5,
+      "degree": 0,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "web.archive.org/cdx/search/cdx"
     },
     {
       "id": "source:web-archive-org-cdx-search-cdx-81e7194d",
@@ -413,10 +413,10 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "web.archive.org/cdx/search/cdx",
-      "degree": 6,
+      "degree": 0,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "web.archive.org/cdx/search/cdx"
     },
     {
       "id": "source:web-archive-org-cdx-search-cdx-b75ec5c0",
@@ -430,10 +430,10 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "web.archive.org/cdx/search/cdx",
-      "degree": 6,
+      "degree": 0,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "web.archive.org/cdx/search/cdx"
     },
     {
       "id": "source:web-archive-org-cdx-search-cdx-c633b882",
@@ -447,11 +447,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "web.archive.org/cdx/search/cdx",
       "communityId": "community:particulieren-1",
-      "degree": 13,
+      "degree": 7,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "web.archive.org/cdx/search/cdx"
     },
     {
       "id": "source:web-archive-org-cdx-search-cdx-e3b0c442",
@@ -465,10 +465,10 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "web.archive.org/cdx/search/cdx",
-      "degree": 5,
+      "degree": 0,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "web.archive.org/cdx/search/cdx"
     },
     {
       "id": "source:web-archive-org-cdx-search-cdx-eb0bd1b9",
@@ -482,10 +482,10 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "web.archive.org/cdx/search/cdx",
-      "degree": 4,
+      "degree": 0,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "web.archive.org/cdx/search/cdx"
     },
     {
       "id": "source:web-archive-org-cdx-search-cdx-f3370364",
@@ -499,10 +499,10 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "web.archive.org/cdx/search/cdx",
-      "degree": 3,
+      "degree": 0,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "web.archive.org/cdx/search/cdx"
     },
     {
       "id": "source:wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4",
@@ -516,11 +516,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "wegbeheerder van vlaamse gewest- en snelwegen",
       "communityId": "community:verkeer-11",
       "degree": 12,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "wegbeheerder van vlaamse gewest- en snelwegen"
     },
     {
       "id": "source:www-google-com-30f04687",
@@ -534,11 +534,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "www.google.com",
       "communityId": "community:feedback-12",
       "degree": 13,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "www.google.com"
     },
     {
       "id": "source:www-google-com-3d8570f8",
@@ -552,11 +552,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "www.google.com",
       "communityId": "community:feedback-12",
       "degree": 13,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "www.google.com"
     },
     {
       "id": "source:www-google-com-8ca38364",
@@ -570,11 +570,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "www.google.com",
       "communityId": "community:feedback-12",
       "degree": 13,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "www.google.com"
     },
     {
       "id": "source:www-google-com-a1e017e6",
@@ -588,11 +588,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "www.google.com",
       "communityId": "community:feedback-12",
       "degree": 13,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "www.google.com"
     },
     {
       "id": "source:www-google-com-d149a56e",
@@ -606,11 +606,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "www.google.com",
       "communityId": "community:feedback-12",
       "degree": 13,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "www.google.com"
     },
     {
       "id": "source:www-google-com-efab024d",
@@ -624,11 +624,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "www.google.com",
       "communityId": "community:feedback-12",
       "degree": 13,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "www.google.com"
     },
     {
       "id": "source:zoeken-notaris-be-832736a2",
@@ -642,11 +642,11 @@
       ],
       "projectIds": [],
       "tags": [],
-      "normLabel": "zoeken | notaris.be",
       "communityId": "community:over-10",
       "degree": 12,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "zoeken | notaris.be"
     },
     {
       "id": "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
@@ -662,11 +662,11 @@
       "sourceClass": "first_party",
       "language": "python",
       "moduleId": "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
-      "normLabel": "default to the inbox of whichever vault this script is deployed in module",
       "communityId": "community:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-14",
       "degree": 7,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "default to the inbox of whichever vault this script is deployed in module"
     },
     {
       "id": "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:slugify.function",
@@ -683,11 +683,11 @@
       "language": "python",
       "moduleId": "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
       "symbolKind": "function",
-      "normLabel": "slugify",
       "communityId": "community:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-14",
       "degree": 6,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "slugify"
     },
     {
       "id": "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:resolve-source.function",
@@ -704,11 +704,11 @@
       "language": "python",
       "moduleId": "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
       "symbolKind": "function",
-      "normLabel": "resolve_source",
       "communityId": "community:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-14",
       "degree": 6,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "resolve_source"
     },
     {
       "id": "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:build-note.function",
@@ -725,11 +725,11 @@
       "language": "python",
       "moduleId": "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
       "symbolKind": "function",
-      "normLabel": "build_note",
       "communityId": "community:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-14",
       "degree": 6,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "build_note"
     },
     {
       "id": "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:split-csv.function",
@@ -746,11 +746,11 @@
       "language": "python",
       "moduleId": "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
       "symbolKind": "function",
-      "normLabel": "split_csv",
       "communityId": "community:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-14",
       "degree": 6,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "split_csv"
     },
     {
       "id": "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:parse-args.function",
@@ -767,11 +767,11 @@
       "language": "python",
       "moduleId": "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
       "symbolKind": "function",
-      "normLabel": "parse_args",
       "communityId": "community:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-14",
       "degree": 6,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "parse_args"
     },
     {
       "id": "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:main.function",
@@ -788,11 +788,11 @@
       "language": "python",
       "moduleId": "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
       "symbolKind": "function",
-      "normLabel": "main",
       "communityId": "community:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-module-14",
       "degree": 6,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "main"
     },
     {
       "id": "concept:diepenbeek",
@@ -806,12 +806,12 @@
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
       "projectIds": [],
-      "normLabel": "diepenbeek",
       "communityId": "community:diepenbeek-5",
       "degree": 19,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 19, 2.1σ above mean"
+      "surpriseReason": "degree 19, 2.1σ above mean",
+      "normLabel": "diepenbeek"
     },
     {
       "id": "concept:3590",
@@ -825,12 +825,12 @@
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
       "projectIds": [],
-      "normLabel": "3590",
       "communityId": "community:diepenbeek-5",
       "degree": 19,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 19, 2.1σ above mean"
+      "surpriseReason": "degree 19, 2.1σ above mean",
+      "normLabel": "3590"
     },
     {
       "id": "concept:house",
@@ -843,11 +843,11 @@
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "projectIds": [],
-      "normLabel": "house",
       "communityId": "community:diepenbeek-5",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "house"
     },
     {
       "id": "concept:hasselt",
@@ -860,11 +860,11 @@
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "projectIds": [],
-      "normLabel": "hasselt",
       "communityId": "community:diepenbeek-5",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "hasselt"
     },
     {
       "id": "concept:excluding",
@@ -877,11 +877,11 @@
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "projectIds": [],
-      "normLabel": "excluding",
       "communityId": "community:diepenbeek-5",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "excluding"
     },
     {
       "id": "concept:taxes",
@@ -894,11 +894,11 @@
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "projectIds": [],
-      "normLabel": "taxes",
       "communityId": "community:diepenbeek-5",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "taxes"
     },
     {
       "id": "concept:2026",
@@ -911,11 +911,11 @@
         "bouwinfo-f8d17c05"
       ],
       "projectIds": [],
-      "normLabel": "2026",
       "communityId": "community:2026-7",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "2026"
     },
     {
       "id": "concept:bericht",
@@ -928,11 +928,11 @@
         "bouwinfo-f8d17c05"
       ],
       "projectIds": [],
-      "normLabel": "bericht",
       "communityId": "community:2026-7",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "bericht"
     },
     {
       "id": "concept:berichten",
@@ -945,11 +945,11 @@
         "bouwinfo-f8d17c05"
       ],
       "projectIds": [],
-      "normLabel": "berichten",
       "communityId": "community:2026-7",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "berichten"
     },
     {
       "id": "concept:categorie",
@@ -962,11 +962,11 @@
         "bouwinfo-f8d17c05"
       ],
       "projectIds": [],
-      "normLabel": "categorie",
       "communityId": "community:2026-7",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "categorie"
     },
     {
       "id": "concept:door",
@@ -979,11 +979,11 @@
         "bouwinfo-f8d17c05"
       ],
       "projectIds": [],
-      "normLabel": "door",
       "communityId": "community:2026-7",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "door"
     },
     {
       "id": "concept:laatste",
@@ -996,11 +996,11 @@
         "bouwinfo-f8d17c05"
       ],
       "projectIds": [],
-      "normLabel": "laatste",
       "communityId": "community:2026-7",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "laatste"
     },
     {
       "id": "concept:candidates",
@@ -1014,11 +1014,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "candidates",
       "communityId": "community:candidates-3",
       "degree": 8,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "candidates"
     },
     {
       "id": "concept:candidate",
@@ -1032,11 +1032,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "candidate",
       "communityId": "community:candidates-3",
       "degree": 8,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "candidate"
     },
     {
       "id": "concept:compile",
@@ -1052,12 +1052,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "compile",
       "communityId": "community:candidates-3",
       "degree": 22,
       "bridgeScore": 1,
       "isGodNode": true,
-      "surpriseReason": "degree 22, bridges 2 communities, 3.0σ above mean"
+      "surpriseReason": "degree 22, bridges 2 communities, 3.0σ above mean",
+      "normLabel": "compile"
     },
     {
       "id": "concept:index",
@@ -1072,12 +1072,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "index",
       "communityId": "community:candidates-3",
       "degree": 15,
       "bridgeScore": 1,
       "isGodNode": true,
-      "surpriseReason": "degree 15, bridges 2 communities"
+      "surpriseReason": "degree 15, bridges 2 communities",
+      "normLabel": "index"
     },
     {
       "id": "concept:pages",
@@ -1091,11 +1091,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "pages",
       "communityId": "community:candidates-3",
       "degree": 8,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "pages"
     },
     {
       "id": "concept:stage",
@@ -1109,11 +1109,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "stage",
       "communityId": "community:candidates-3",
       "degree": 8,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "stage"
     },
     {
       "id": "concept:particulieren",
@@ -1126,11 +1126,11 @@
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
       "projectIds": [],
-      "normLabel": "particulieren",
       "communityId": "community:particulieren-1",
       "degree": 11,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "particulieren"
     },
     {
       "id": "concept:voor",
@@ -1146,12 +1146,12 @@
         "home-kepler-938b95f3"
       ],
       "projectIds": [],
-      "normLabel": "voor",
       "communityId": "community:particulieren-1",
       "degree": 34,
       "bridgeScore": 1,
       "isGodNode": true,
-      "surpriseReason": "degree 34, bridges 2 communities, 6.3σ above mean"
+      "surpriseReason": "degree 34, bridges 2 communities, 6.3σ above mean",
+      "normLabel": "voor"
     },
     {
       "id": "concept:kredieten",
@@ -1164,11 +1164,11 @@
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
       "projectIds": [],
-      "normLabel": "kredieten",
       "communityId": "community:particulieren-1",
       "degree": 11,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "kredieten"
     },
     {
       "id": "concept:gegevens",
@@ -1181,11 +1181,11 @@
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
       "projectIds": [],
-      "normLabel": "gegevens",
       "communityId": "community:particulieren-1",
       "degree": 11,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "gegevens"
     },
     {
       "id": "concept:info",
@@ -1198,11 +1198,11 @@
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
       "projectIds": [],
-      "normLabel": "info",
       "communityId": "community:particulieren-1",
       "degree": 11,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "info"
     },
     {
       "id": "concept:informatiegerechtigden",
@@ -1215,11 +1215,11 @@
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
       "projectIds": [],
-      "normLabel": "informatiegerechtigden",
       "communityId": "community:particulieren-1",
       "degree": 11,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "informatiegerechtigden"
     },
     {
       "id": "concept:jouw",
@@ -1234,12 +1234,12 @@
         "home-kepler-938b95f3"
       ],
       "projectIds": [],
-      "normLabel": "jouw",
       "communityId": "community:jouw-4",
       "degree": 22,
       "bridgeScore": 1,
       "isGodNode": true,
-      "surpriseReason": "degree 22, bridges 2 communities, 3.0σ above mean"
+      "surpriseReason": "degree 22, bridges 2 communities, 3.0σ above mean",
+      "normLabel": "jouw"
     },
     {
       "id": "concept:vragen",
@@ -1252,11 +1252,11 @@
         "de-notaris-notaris-be-8b0bd2a4"
       ],
       "projectIds": [],
-      "normLabel": "vragen",
       "communityId": "community:jouw-4",
       "degree": 11,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "vragen"
     },
     {
       "id": "concept:antwoord",
@@ -1269,11 +1269,11 @@
         "de-notaris-notaris-be-8b0bd2a4"
       ],
       "projectIds": [],
-      "normLabel": "antwoord",
       "communityId": "community:jouw-4",
       "degree": 11,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "antwoord"
     },
     {
       "id": "concept:campagne",
@@ -1286,11 +1286,11 @@
         "de-notaris-notaris-be-8b0bd2a4"
       ],
       "projectIds": [],
-      "normLabel": "campagne",
       "communityId": "community:jouw-4",
       "degree": 11,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "campagne"
     },
     {
       "id": "concept:onze",
@@ -1303,11 +1303,11 @@
         "de-notaris-notaris-be-8b0bd2a4"
       ],
       "projectIds": [],
-      "normLabel": "onze",
       "communityId": "community:jouw-4",
       "degree": 11,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "onze"
     },
     {
       "id": "concept:persoonlijke",
@@ -1320,11 +1320,11 @@
         "de-notaris-notaris-be-8b0bd2a4"
       ],
       "projectIds": [],
-      "normLabel": "persoonlijke",
       "communityId": "community:jouw-4",
       "degree": 11,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "persoonlijke"
     },
     {
       "id": "concept:dovendi",
@@ -1337,11 +1337,11 @@
         "dovendi-domain-for-sale-2d012a62"
       ],
       "projectIds": [],
-      "normLabel": "dovendi",
       "communityId": "community:dovendi-13",
       "degree": 7,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "dovendi"
     },
     {
       "id": "concept:names",
@@ -1354,11 +1354,11 @@
         "dovendi-domain-for-sale-2d012a62"
       ],
       "projectIds": [],
-      "normLabel": "names",
       "communityId": "community:dovendi-13",
       "degree": 7,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "names"
     },
     {
       "id": "concept:about",
@@ -1371,11 +1371,11 @@
         "dovendi-domain-for-sale-2d012a62"
       ],
       "projectIds": [],
-      "normLabel": "about",
       "communityId": "community:dovendi-13",
       "degree": 7,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "about"
     },
     {
       "id": "concept:achieving",
@@ -1388,11 +1388,11 @@
         "dovendi-domain-for-sale-2d012a62"
       ],
       "projectIds": [],
-      "normLabel": "achieving",
       "communityId": "community:dovendi-13",
       "degree": 7,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "achieving"
     },
     {
       "id": "concept:brings",
@@ -1405,11 +1405,11 @@
         "dovendi-domain-for-sale-2d012a62"
       ],
       "projectIds": [],
-      "normLabel": "brings",
       "communityId": "community:dovendi-13",
       "degree": 7,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "brings"
     },
     {
       "id": "concept:buyers",
@@ -1422,11 +1422,11 @@
         "dovendi-domain-for-sale-2d012a62"
       ],
       "projectIds": [],
-      "normLabel": "buyers",
       "communityId": "community:dovendi-13",
       "degree": 7,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "buyers"
     },
     {
       "id": "concept:kepler",
@@ -1440,12 +1440,12 @@
         "web-archive-org-cdx-search-cdx-c633b882"
       ],
       "projectIds": [],
-      "normLabel": "kepler",
       "communityId": "community:particulieren-1",
       "degree": 18,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 18, 1.8σ above mean"
+      "surpriseReason": "degree 18, 1.8σ above mean",
+      "normLabel": "kepler"
     },
     {
       "id": "concept:woning",
@@ -1458,11 +1458,11 @@
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "projectIds": [],
-      "normLabel": "woning",
       "communityId": "community:particulieren-1",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "woning"
     },
     {
       "id": "concept:stap",
@@ -1475,11 +1475,11 @@
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "projectIds": [],
-      "normLabel": "stap",
       "communityId": "community:particulieren-1",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "stap"
     },
     {
       "id": "concept:wonen",
@@ -1492,11 +1492,11 @@
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "projectIds": [],
-      "normLabel": "wonen",
       "communityId": "community:particulieren-1",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "wonen"
     },
     {
       "id": "concept:niet",
@@ -1509,11 +1509,11 @@
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "projectIds": [],
-      "normLabel": "niet",
       "communityId": "community:particulieren-1",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "niet"
     },
     {
       "id": "concept:erfbelasting",
@@ -1526,11 +1526,11 @@
         "erfbelasting-b24e8569"
       ],
       "projectIds": [],
-      "normLabel": "erfbelasting",
       "communityId": "community:erfbelasting-2",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "erfbelasting"
     },
     {
       "id": "concept:nalatenschap",
@@ -1543,11 +1543,11 @@
         "erfbelasting-b24e8569"
       ],
       "projectIds": [],
-      "normLabel": "nalatenschap",
       "communityId": "community:erfbelasting-2",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "nalatenschap"
     },
     {
       "id": "concept:wordt",
@@ -1560,11 +1560,11 @@
         "erfbelasting-b24e8569"
       ],
       "projectIds": [],
-      "normLabel": "wordt",
       "communityId": "community:erfbelasting-2",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "wordt"
     },
     {
       "id": "concept:aangifte",
@@ -1577,11 +1577,11 @@
         "erfbelasting-b24e8569"
       ],
       "projectIds": [],
-      "normLabel": "aangifte",
       "communityId": "community:erfbelasting-2",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "aangifte"
     },
     {
       "id": "concept:overledene",
@@ -1594,11 +1594,11 @@
         "erfbelasting-b24e8569"
       ],
       "projectIds": [],
-      "normLabel": "overledene",
       "communityId": "community:erfbelasting-2",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "overledene"
     },
     {
       "id": "concept:berekend",
@@ -1611,11 +1611,11 @@
         "erfbelasting-b24e8569"
       ],
       "projectIds": [],
-      "normLabel": "berekend",
       "communityId": "community:erfbelasting-2",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "berekend"
     },
     {
       "id": "concept:bouwen",
@@ -1629,11 +1629,11 @@
         "home-kepler-938b95f3"
       ],
       "projectIds": [],
-      "normLabel": "bouwen",
       "communityId": "community:jouw-4",
       "degree": 12,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "bouwen"
     },
     {
       "id": "concept:naar",
@@ -1647,11 +1647,11 @@
         "home-kepler-938b95f3"
       ],
       "projectIds": [],
-      "normLabel": "naar",
       "communityId": "community:jouw-4",
       "degree": 12,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "naar"
     },
     {
       "id": "concept:nieuwe",
@@ -1665,11 +1665,11 @@
         "home-kepler-938b95f3"
       ],
       "projectIds": [],
-      "normLabel": "nieuwe",
       "communityId": "community:jouw-4",
       "degree": 12,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "nieuwe"
     },
     {
       "id": "concept:productieproces",
@@ -1683,11 +1683,11 @@
         "home-kepler-938b95f3"
       ],
       "projectIds": [],
-      "normLabel": "productieproces",
       "communityId": "community:jouw-4",
       "degree": 12,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "productieproces"
     },
     {
       "id": "concept:albert",
@@ -1700,11 +1700,11 @@
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
       "projectIds": [],
-      "normLabel": "albert",
       "communityId": "community:diepenbeek-5",
       "degree": 8,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "albert"
     },
     {
       "id": "concept:expansion",
@@ -1717,11 +1717,11 @@
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
       "projectIds": [],
-      "normLabel": "expansion",
       "communityId": "community:diepenbeek-5",
       "degree": 8,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "expansion"
     },
     {
       "id": "concept:floor",
@@ -1734,11 +1734,11 @@
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
       "projectIds": [],
-      "normLabel": "floor",
       "communityId": "community:diepenbeek-5",
       "degree": 8,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "floor"
     },
     {
       "id": "concept:ground",
@@ -1751,11 +1751,11 @@
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
       "projectIds": [],
-      "normLabel": "ground",
       "communityId": "community:diepenbeek-5",
       "degree": 8,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "ground"
     },
     {
       "id": "concept:insights",
@@ -1769,11 +1769,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "insights",
       "communityId": "community:candidates-3",
       "degree": 7,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "insights"
     },
     {
       "id": "concept:swarmvault",
@@ -1787,11 +1787,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "swarmvault",
       "communityId": "community:candidates-3",
       "degree": 7,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "swarmvault"
     },
     {
       "id": "concept:applies",
@@ -1805,11 +1805,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "applies",
       "communityId": "community:candidates-3",
       "degree": 7,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "applies"
     },
     {
       "id": "concept:authored",
@@ -1823,11 +1823,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "authored",
       "communityId": "community:candidates-3",
       "degree": 7,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "authored"
     },
     {
       "id": "concept:during",
@@ -1841,11 +1841,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "during",
       "communityId": "community:candidates-3",
       "degree": 7,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "during"
     },
     {
       "id": "concept:logo",
@@ -1858,11 +1858,11 @@
         "myprivacy-dpgmedia-be-16f062da"
       ],
       "projectIds": [],
-      "normLabel": "logo",
       "communityId": "community:logo-15",
       "degree": 2,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "logo"
     },
     {
       "id": "concept:media",
@@ -1875,11 +1875,11 @@
         "myprivacy-dpgmedia-be-16f062da"
       ],
       "projectIds": [],
-      "normLabel": "media",
       "communityId": "community:logo-15",
       "degree": 2,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "media"
     },
     {
       "id": "concept:projects",
@@ -1893,11 +1893,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "projects",
       "communityId": "community:candidates-3",
       "degree": 8,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "projects"
     },
     {
       "id": "concept:build",
@@ -1911,11 +1911,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "build",
       "communityId": "community:candidates-3",
       "degree": 8,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "build"
     },
     {
       "id": "concept:project",
@@ -1929,11 +1929,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "project",
       "communityId": "community:candidates-3",
       "degree": 8,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "project"
     },
     {
       "id": "concept:rollups",
@@ -1947,11 +1947,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "rollups",
       "communityId": "community:candidates-3",
       "degree": 8,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "rollups"
     },
     {
       "id": "concept:schenkbelasting",
@@ -1964,11 +1964,11 @@
         "schenkbelasting-da146a89"
       ],
       "projectIds": [],
-      "normLabel": "schenkbelasting",
       "communityId": "community:erfbelasting-2",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "schenkbelasting"
     },
     {
       "id": "concept:schenking",
@@ -1981,11 +1981,11 @@
         "schenkbelasting-da146a89"
       ],
       "projectIds": [],
-      "normLabel": "schenking",
       "communityId": "community:erfbelasting-2",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "schenking"
     },
     {
       "id": "concept:genieten",
@@ -1998,11 +1998,11 @@
         "schenkbelasting-da146a89"
       ],
       "projectIds": [],
-      "normLabel": "genieten",
       "communityId": "community:erfbelasting-2",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "genieten"
     },
     {
       "id": "concept:goederen",
@@ -2015,11 +2015,11 @@
         "schenkbelasting-da146a89"
       ],
       "projectIds": [],
-      "normLabel": "goederen",
       "communityId": "community:erfbelasting-2",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "goederen"
     },
     {
       "id": "concept:verschuldigd",
@@ -2032,11 +2032,11 @@
         "schenkbelasting-da146a89"
       ],
       "projectIds": [],
-      "normLabel": "verschuldigd",
       "communityId": "community:erfbelasting-2",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "verschuldigd"
     },
     {
       "id": "concept:vindt",
@@ -2049,11 +2049,11 @@
         "schenkbelasting-da146a89"
       ],
       "projectIds": [],
-      "normLabel": "vindt",
       "communityId": "community:erfbelasting-2",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "vindt"
     },
     {
       "id": "concept:available",
@@ -2066,11 +2066,11 @@
         "seerr-media-requests-available-ef141443"
       ],
       "projectIds": [],
-      "normLabel": "available",
       "communityId": "community:available-8",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "available"
     },
     {
       "id": "concept:download",
@@ -2083,11 +2083,11 @@
         "seerr-media-requests-available-ef141443"
       ],
       "projectIds": [],
-      "normLabel": "download",
       "communityId": "community:available-8",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "download"
     },
     {
       "id": "concept:shows",
@@ -2100,11 +2100,11 @@
         "seerr-media-requests-available-ef141443"
       ],
       "projectIds": [],
-      "normLabel": "shows",
       "communityId": "community:available-8",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "shows"
     },
     {
       "id": "concept:hermes",
@@ -2117,11 +2117,11 @@
         "seerr-media-requests-available-ef141443"
       ],
       "projectIds": [],
-      "normLabel": "hermes",
       "communityId": "community:available-8",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "hermes"
     },
     {
       "id": "concept:seerr",
@@ -2134,11 +2134,11 @@
         "seerr-media-requests-available-ef141443"
       ],
       "projectIds": [],
-      "normLabel": "seerr",
       "communityId": "community:available-8",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "seerr"
     },
     {
       "id": "concept:dune",
@@ -2151,11 +2151,11 @@
         "seerr-media-requests-available-ef141443"
       ],
       "projectIds": [],
-      "normLabel": "dune",
       "communityId": "community:available-8",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "dune"
     },
     {
       "id": "concept:object",
@@ -2169,11 +2169,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "object",
       "communityId": "community:object-9",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "object"
     },
     {
       "id": "concept:keys",
@@ -2187,11 +2187,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "keys",
       "communityId": "community:object-9",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "keys"
     },
     {
       "id": "concept:local",
@@ -2205,11 +2205,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "local",
       "communityId": "community:object-9",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "local"
     },
     {
       "id": "concept:false",
@@ -2223,11 +2223,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "false",
       "communityId": "community:object-9",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "false"
     },
     {
       "id": "concept:agents",
@@ -2241,11 +2241,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "agents",
       "communityId": "community:object-9",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "agents"
     },
     {
       "id": "concept:heuristic",
@@ -2259,11 +2259,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "heuristic",
       "communityId": "community:object-9",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "heuristic"
     },
     {
       "id": "concept:should",
@@ -2277,12 +2277,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "should",
       "communityId": "community:should-6",
       "degree": 13,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 13"
+      "surpriseReason": "degree 13",
+      "normLabel": "should"
     },
     {
       "id": "concept:source",
@@ -2296,12 +2296,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "source",
       "communityId": "community:should-6",
       "degree": 13,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 13"
+      "surpriseReason": "degree 13",
+      "normLabel": "source"
     },
     {
       "id": "concept:vault",
@@ -2315,12 +2315,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "vault",
       "communityId": "community:should-6",
       "degree": 13,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 13"
+      "surpriseReason": "degree 13",
+      "normLabel": "vault"
     },
     {
       "id": "concept:claims",
@@ -2334,12 +2334,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "claims",
       "communityId": "community:should-6",
       "degree": 13,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 13"
+      "surpriseReason": "degree 13",
+      "normLabel": "claims"
     },
     {
       "id": "concept:concept",
@@ -2353,12 +2353,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "concept",
       "communityId": "community:should-6",
       "degree": 13,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 13"
+      "surpriseReason": "degree 13",
+      "normLabel": "concept"
     },
     {
       "id": "concept:domain",
@@ -2372,12 +2372,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "domain",
       "communityId": "community:should-6",
       "degree": 13,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 13"
+      "surpriseReason": "degree 13",
+      "normLabel": "domain"
     },
     {
       "id": "concept:http",
@@ -2390,11 +2390,11 @@
         "web-archive-org-cdx-search-cdx-c633b882"
       ],
       "projectIds": [],
-      "normLabel": "http",
       "communityId": "community:particulieren-1",
       "degree": 6,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "http"
     },
     {
       "id": "concept:20040904163039",
@@ -2407,11 +2407,11 @@
         "web-archive-org-cdx-search-cdx-c633b882"
       ],
       "projectIds": [],
-      "normLabel": "20040904163039",
       "communityId": "community:particulieren-1",
       "degree": 6,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "20040904163039"
     },
     {
       "id": "concept:20040906074751",
@@ -2424,11 +2424,11 @@
         "web-archive-org-cdx-search-cdx-c633b882"
       ],
       "projectIds": [],
-      "normLabel": "20040906074751",
       "communityId": "community:particulieren-1",
       "degree": 6,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "20040906074751"
     },
     {
       "id": "concept:20040928094111",
@@ -2441,11 +2441,11 @@
         "web-archive-org-cdx-search-cdx-c633b882"
       ],
       "projectIds": [],
-      "normLabel": "20040928094111",
       "communityId": "community:particulieren-1",
       "degree": 6,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "20040928094111"
     },
     {
       "id": "concept:20041202021608",
@@ -2458,11 +2458,11 @@
         "web-archive-org-cdx-search-cdx-c633b882"
       ],
       "projectIds": [],
-      "normLabel": "20041202021608",
       "communityId": "community:particulieren-1",
       "degree": 6,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "20041202021608"
     },
     {
       "id": "concept:verkeer",
@@ -2475,11 +2475,11 @@
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "projectIds": [],
-      "normLabel": "verkeer",
       "communityId": "community:verkeer-11",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "verkeer"
     },
     {
       "id": "concept:augustus",
@@ -2492,11 +2492,11 @@
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "projectIds": [],
-      "normLabel": "augustus",
       "communityId": "community:verkeer-11",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "augustus"
     },
     {
       "id": "concept:brug",
@@ -2509,11 +2509,11 @@
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "projectIds": [],
-      "normLabel": "brug",
       "communityId": "community:verkeer-11",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "brug"
     },
     {
       "id": "concept:n446",
@@ -2526,11 +2526,11 @@
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "projectIds": [],
-      "normLabel": "n446",
       "communityId": "community:verkeer-11",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "n446"
     },
     {
       "id": "concept:2027",
@@ -2543,11 +2543,11 @@
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "projectIds": [],
-      "normLabel": "2027",
       "communityId": "community:verkeer-11",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "2027"
     },
     {
       "id": "concept:durmebrug",
@@ -2560,11 +2560,11 @@
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "projectIds": [],
-      "normLabel": "durmebrug",
       "communityId": "community:verkeer-11",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "durmebrug"
     },
     {
       "id": "concept:feedback",
@@ -2582,12 +2582,12 @@
         "www-google-com-efab024d"
       ],
       "projectIds": [],
-      "normLabel": "feedback",
       "communityId": "community:feedback-12",
       "degree": 13,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 13"
+      "surpriseReason": "degree 13",
+      "normLabel": "feedback"
     },
     {
       "id": "concept:google",
@@ -2605,12 +2605,12 @@
         "www-google-com-efab024d"
       ],
       "projectIds": [],
-      "normLabel": "google",
       "communityId": "community:feedback-12",
       "degree": 13,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 13"
+      "surpriseReason": "degree 13",
+      "normLabel": "google"
     },
     {
       "id": "concept:hebt",
@@ -2628,12 +2628,12 @@
         "www-google-com-efab024d"
       ],
       "projectIds": [],
-      "normLabel": "hebt",
       "communityId": "community:feedback-12",
       "degree": 13,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 13"
+      "surpriseReason": "degree 13",
+      "normLabel": "hebt"
     },
     {
       "id": "concept:hier",
@@ -2651,12 +2651,12 @@
         "www-google-com-efab024d"
       ],
       "projectIds": [],
-      "normLabel": "hier",
       "communityId": "community:feedback-12",
       "degree": 13,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 13"
+      "surpriseReason": "degree 13",
+      "normLabel": "hier"
     },
     {
       "id": "concept:klikken",
@@ -2674,12 +2674,12 @@
         "www-google-com-efab024d"
       ],
       "projectIds": [],
-      "normLabel": "klikken",
       "communityId": "community:feedback-12",
       "degree": 13,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 13"
+      "surpriseReason": "degree 13",
+      "normLabel": "klikken"
     },
     {
       "id": "concept:problemen",
@@ -2697,12 +2697,12 @@
         "www-google-com-efab024d"
       ],
       "projectIds": [],
-      "normLabel": "problemen",
       "communityId": "community:feedback-12",
       "degree": 13,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 13"
+      "surpriseReason": "degree 13",
+      "normLabel": "problemen"
     },
     {
       "id": "concept:over",
@@ -2715,11 +2715,11 @@
         "zoeken-notaris-be-832736a2"
       ],
       "projectIds": [],
-      "normLabel": "over",
       "communityId": "community:over-10",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "over"
     },
     {
       "id": "concept:erfenis",
@@ -2732,11 +2732,11 @@
         "zoeken-notaris-be-832736a2"
       ],
       "projectIds": [],
-      "normLabel": "erfenis",
       "communityId": "community:over-10",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "erfenis"
     },
     {
       "id": "concept:scheiden",
@@ -2749,11 +2749,11 @@
         "zoeken-notaris-be-832736a2"
       ],
       "projectIds": [],
-      "normLabel": "scheiden",
       "communityId": "community:over-10",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "scheiden"
     },
     {
       "id": "concept:alles",
@@ -2766,11 +2766,11 @@
         "zoeken-notaris-be-832736a2"
       ],
       "projectIds": [],
-      "normLabel": "alles",
       "communityId": "community:over-10",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "alles"
     },
     {
       "id": "concept:berekenen",
@@ -2783,11 +2783,11 @@
         "zoeken-notaris-be-832736a2"
       ],
       "projectIds": [],
-      "normLabel": "berekenen",
       "communityId": "community:over-10",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "berekenen"
     },
     {
       "id": "concept:erven",
@@ -2800,11 +2800,11 @@
         "zoeken-notaris-be-832736a2"
       ],
       "projectIds": [],
-      "normLabel": "erven",
       "communityId": "community:over-10",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "erven"
     },
     {
       "id": "entity:woning-immo-top-invest",
@@ -2817,11 +2817,11 @@
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "projectIds": [],
-      "normLabel": "woning immo top invest",
       "communityId": "community:diepenbeek-5",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "woning immo top invest"
     },
     {
       "id": "entity:house",
@@ -2834,11 +2834,11 @@
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "projectIds": [],
-      "normLabel": "house",
       "communityId": "community:diepenbeek-5",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "house"
     },
     {
       "id": "entity:diepenbeek-house-heylen-vastgoed-hasselt",
@@ -2851,11 +2851,11 @@
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "projectIds": [],
-      "normLabel": "diepenbeek house heylen vastgoed hasselt",
       "communityId": "community:diepenbeek-5",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "diepenbeek house heylen vastgoed hasselt"
     },
     {
       "id": "entity:diepenbeek-plot-heylen-vastgoed-hasselt",
@@ -2868,11 +2868,11 @@
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "projectIds": [],
-      "normLabel": "diepenbeek plot heylen vastgoed hasselt",
       "communityId": "community:diepenbeek-5",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "diepenbeek plot heylen vastgoed hasselt"
     },
     {
       "id": "entity:villa",
@@ -2885,11 +2885,11 @@
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "projectIds": [],
-      "normLabel": "villa",
       "communityId": "community:diepenbeek-5",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "villa"
     },
     {
       "id": "entity:diepenbeek-karaktervolle",
@@ -2902,11 +2902,11 @@
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
       "projectIds": [],
-      "normLabel": "diepenbeek karaktervolle",
       "communityId": "community:diepenbeek-5",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "diepenbeek karaktervolle"
     },
     {
       "id": "entity:verbouwen-categorie-topics-berichten-laatste",
@@ -2919,11 +2919,11 @@
         "bouwinfo-f8d17c05"
       ],
       "projectIds": [],
-      "normLabel": "verbouwen categorie topics berichten laatste",
       "communityId": "community:2026-7",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "verbouwen categorie topics berichten laatste"
     },
     {
       "id": "entity:ver-bouwdagboeken-wil",
@@ -2936,11 +2936,11 @@
         "bouwinfo-f8d17c05"
       ],
       "projectIds": [],
-      "normLabel": "(ver)bouwdagboeken wil",
       "communityId": "community:2026-7",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "(ver)bouwdagboeken wil"
     },
     {
       "id": "entity:dit",
@@ -2953,11 +2953,11 @@
         "bouwinfo-f8d17c05"
       ],
       "projectIds": [],
-      "normLabel": "dit",
       "communityId": "community:2026-7",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "dit"
     },
     {
       "id": "entity:door",
@@ -2970,11 +2970,11 @@
         "bouwinfo-f8d17c05"
       ],
       "projectIds": [],
-      "normLabel": "door",
       "communityId": "community:2026-7",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "door"
     },
     {
       "id": "entity:ruwbouw-categorie-topics-berichten-laatste",
@@ -2987,11 +2987,11 @@
         "bouwinfo-f8d17c05"
       ],
       "projectIds": [],
-      "normLabel": "ruwbouw categorie topics berichten laatste",
       "communityId": "community:2026-7",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "ruwbouw categorie topics berichten laatste"
     },
     {
       "id": "entity:tuin-categorie-topics-berichten-laatste",
@@ -3004,11 +3004,11 @@
         "bouwinfo-f8d17c05"
       ],
       "projectIds": [],
-      "normLabel": "tuin categorie topics berichten laatste",
       "communityId": "community:2026-7",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "tuin categorie topics berichten laatste"
     },
     {
       "id": "entity:candidates",
@@ -3022,11 +3022,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "candidates",
       "communityId": "community:candidates-3",
       "degree": 8,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "candidates"
     },
     {
       "id": "entity:candidates-run",
@@ -3040,11 +3040,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "candidates - run",
       "communityId": "community:candidates-3",
       "degree": 8,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "candidates - run"
     },
     {
       "id": "entity:centrale",
@@ -3057,11 +3057,11 @@
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
       "projectIds": [],
-      "normLabel": "centrale",
       "communityId": "community:particulieren-1",
       "degree": 11,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "centrale"
     },
     {
       "id": "entity:belgi",
@@ -3074,11 +3074,11 @@
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
       "projectIds": [],
-      "normLabel": "belgie",
       "communityId": "community:particulieren-1",
       "degree": 11,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "belgie"
     },
     {
       "id": "entity:particulieren-iedere",
@@ -3091,11 +3091,11 @@
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
       "projectIds": [],
-      "normLabel": "particulieren iedere",
       "communityId": "community:particulieren-1",
       "degree": 11,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "particulieren iedere"
     },
     {
       "id": "entity:professionelen",
@@ -3108,11 +3108,11 @@
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
       "projectIds": [],
-      "normLabel": "professionelen -",
       "communityId": "community:particulieren-1",
       "degree": 11,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "professionelen -"
     },
     {
       "id": "entity:een",
@@ -3126,12 +3126,12 @@
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "projectIds": [],
-      "normLabel": "een",
       "communityId": "community:particulieren-1",
       "degree": 22,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 22, 3.0σ above mean"
+      "surpriseReason": "degree 22, 3.0σ above mean",
+      "normLabel": "een"
     },
     {
       "id": "entity:onze",
@@ -3144,11 +3144,11 @@
         "de-notaris-notaris-be-8b0bd2a4"
       ],
       "projectIds": [],
-      "normLabel": "onze",
       "communityId": "community:jouw-4",
       "degree": 11,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "onze"
     },
     {
       "id": "entity:not",
@@ -3161,11 +3161,11 @@
         "de-notaris-notaris-be-8b0bd2a4"
       ],
       "projectIds": [],
-      "normLabel": "not",
       "communityId": "community:jouw-4",
       "degree": 11,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "not"
     },
     {
       "id": "entity:frequently-asked-questions",
@@ -3178,11 +3178,11 @@
         "de-notaris-notaris-be-8b0bd2a4"
       ],
       "projectIds": [],
-      "normLabel": "frequently asked questions",
       "communityId": "community:jouw-4",
       "degree": 11,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "frequently asked questions"
     },
     {
       "id": "entity:want",
@@ -3195,11 +3195,11 @@
         "de-notaris-notaris-be-8b0bd2a4"
       ],
       "projectIds": [],
-      "normLabel": "want",
       "communityId": "community:jouw-4",
       "degree": 11,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "want"
     },
     {
       "id": "entity:mensen",
@@ -3214,12 +3214,12 @@
         "home-kepler-938b95f3"
       ],
       "projectIds": [],
-      "normLabel": "mensen.",
       "communityId": "community:jouw-4",
       "degree": 22,
       "bridgeScore": 1,
       "isGodNode": true,
-      "surpriseReason": "degree 22, bridges 2 communities, 3.0σ above mean"
+      "surpriseReason": "degree 22, bridges 2 communities, 3.0σ above mean",
+      "normLabel": "mensen."
     },
     {
       "id": "entity:dovendi-dovendi",
@@ -3232,11 +3232,11 @@
         "dovendi-domain-for-sale-2d012a62"
       ],
       "projectIds": [],
-      "normLabel": "dovendi dovendi",
       "communityId": "community:dovendi-13",
       "degree": 7,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "dovendi dovendi"
     },
     {
       "id": "entity:al-stel",
@@ -3249,11 +3249,11 @@
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "projectIds": [],
-      "normLabel": "al. stel",
       "communityId": "community:particulieren-1",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "al. stel"
     },
     {
       "id": "entity:norm-van-duurzaamheid",
@@ -3266,11 +3266,11 @@
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "projectIds": [],
-      "normLabel": "norm van duurzaamheid –",
       "communityId": "community:particulieren-1",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "norm van duurzaamheid –"
     },
     {
       "id": "entity:belgische",
@@ -3283,11 +3283,11 @@
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "projectIds": [],
-      "normLabel": "belgische",
       "communityId": "community:particulieren-1",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "belgische"
     },
     {
       "id": "entity:dan",
@@ -3300,11 +3300,11 @@
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "projectIds": [],
-      "normLabel": "dan",
       "communityId": "community:particulieren-1",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "dan"
     },
     {
       "id": "entity:klaar",
@@ -3317,11 +3317,11 @@
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
       "projectIds": [],
-      "normLabel": "klaar",
       "communityId": "community:particulieren-1",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "klaar"
     },
     {
       "id": "entity:erfbelasting",
@@ -3334,11 +3334,11 @@
         "erfbelasting-b24e8569"
       ],
       "projectIds": [],
-      "normLabel": "erfbelasting",
       "communityId": "community:erfbelasting-2",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "erfbelasting"
     },
     {
       "id": "entity:vlaamse",
@@ -3351,11 +3351,11 @@
         "erfbelasting-b24e8569"
       ],
       "projectIds": [],
-      "normLabel": "vlaamse",
       "communityId": "community:erfbelasting-2",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "vlaamse"
     },
     {
       "id": "entity:aangifte-van-nalatenschap",
@@ -3368,11 +3368,11 @@
         "erfbelasting-b24e8569"
       ],
       "projectIds": [],
-      "normLabel": "aangifte van nalatenschap",
       "communityId": "community:erfbelasting-2",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "aangifte van nalatenschap"
     },
     {
       "id": "entity:vlaamse-belastingdienst",
@@ -3385,11 +3385,11 @@
         "erfbelasting-b24e8569"
       ],
       "projectIds": [],
-      "normLabel": "vlaamse belastingdienst",
       "communityId": "community:erfbelasting-2",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "vlaamse belastingdienst"
     },
     {
       "id": "entity:wijziging",
@@ -3403,12 +3403,12 @@
         "schenkbelasting-da146a89"
       ],
       "projectIds": [],
-      "normLabel": "wijziging",
       "communityId": "community:erfbelasting-2",
       "degree": 23,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 23, 3.2σ above mean"
+      "surpriseReason": "degree 23, 3.2σ above mean",
+      "normLabel": "wijziging"
     },
     {
       "id": "entity:familiale",
@@ -3422,12 +3422,12 @@
         "schenkbelasting-da146a89"
       ],
       "projectIds": [],
-      "normLabel": "familiale",
       "communityId": "community:erfbelasting-2",
       "degree": 23,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 23, 3.2σ above mean"
+      "surpriseReason": "degree 23, 3.2σ above mean",
+      "normLabel": "familiale"
     },
     {
       "id": "entity:vlak-van-technologie",
@@ -3441,11 +3441,11 @@
         "home-kepler-938b95f3"
       ],
       "projectIds": [],
-      "normLabel": "vlak van technologie",
       "communityId": "community:jouw-4",
       "degree": 12,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "vlak van technologie"
     },
     {
       "id": "entity:ontdek",
@@ -3459,11 +3459,11 @@
         "home-kepler-938b95f3"
       ],
       "projectIds": [],
-      "normLabel": "ontdek",
       "communityId": "community:jouw-4",
       "degree": 12,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "ontdek"
     },
     {
       "id": "entity:hoogwaardig",
@@ -3477,11 +3477,11 @@
         "home-kepler-938b95f3"
       ],
       "projectIds": [],
-      "normLabel": "hoogwaardig",
       "communityId": "community:jouw-4",
       "degree": 12,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "hoogwaardig"
     },
     {
       "id": "entity:we",
@@ -3495,11 +3495,11 @@
         "home-kepler-938b95f3"
       ],
       "projectIds": [],
-      "normLabel": "we",
       "communityId": "community:jouw-4",
       "degree": 12,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "we"
     },
     {
       "id": "entity:diepenbeek-ground",
@@ -3512,11 +3512,11 @@
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
       "projectIds": [],
-      "normLabel": "diepenbeek ground",
       "communityId": "community:diepenbeek-5",
       "degree": 8,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "diepenbeek ground"
     },
     {
       "id": "entity:albert",
@@ -3529,11 +3529,11 @@
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
       "projectIds": [],
-      "normLabel": "albert",
       "communityId": "community:diepenbeek-5",
       "degree": 8,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "albert"
     },
     {
       "id": "entity:insights",
@@ -3547,11 +3547,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "insights",
       "communityId": "community:candidates-3",
       "degree": 7,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "insights"
     },
     {
       "id": "entity:projects-run",
@@ -3565,11 +3565,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "projects - run",
       "communityId": "community:candidates-3",
       "degree": 8,
       "bridgeScore": 1,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "projects - run"
     },
     {
       "id": "entity:schenkbelasting-als",
@@ -3582,11 +3582,11 @@
         "schenkbelasting-da146a89"
       ],
       "projectIds": [],
-      "normLabel": "schenkbelasting als",
       "communityId": "community:erfbelasting-2",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "schenkbelasting als"
     },
     {
       "id": "entity:wanneer",
@@ -3599,11 +3599,11 @@
         "schenkbelasting-da146a89"
       ],
       "projectIds": [],
-      "normLabel": "wanneer",
       "communityId": "community:erfbelasting-2",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "wanneer"
     },
     {
       "id": "entity:eigendom-van-een",
@@ -3616,11 +3616,11 @@
         "schenkbelasting-da146a89"
       ],
       "projectIds": [],
-      "normLabel": "eigendom van een",
       "communityId": "community:erfbelasting-2",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "eigendom van een"
     },
     {
       "id": "entity:heeft-van-rijksinwoner",
@@ -3633,11 +3633,11 @@
         "schenkbelasting-da146a89"
       ],
       "projectIds": [],
-      "normLabel": "heeft van rijksinwoner",
       "communityId": "community:erfbelasting-2",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "heeft van rijksinwoner"
     },
     {
       "id": "entity:seerr-media-requests-available-seerr",
@@ -3650,11 +3650,11 @@
         "seerr-media-requests-available-ef141443"
       ],
       "projectIds": [],
-      "normLabel": "seerr — media requests available seerr",
       "communityId": "community:available-8",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "seerr — media requests available seerr"
     },
     {
       "id": "entity:hermes",
@@ -3667,11 +3667,11 @@
         "seerr-media-requests-available-ef141443"
       ],
       "projectIds": [],
-      "normLabel": "hermes",
       "communityId": "community:available-8",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "hermes"
     },
     {
       "id": "entity:how",
@@ -3684,11 +3684,11 @@
         "seerr-media-requests-available-ef141443"
       ],
       "projectIds": [],
-      "normLabel": "how",
       "communityId": "community:available-8",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "how"
     },
     {
       "id": "entity:ask-hermes",
@@ -3701,11 +3701,11 @@
         "seerr-media-requests-available-ef141443"
       ],
       "projectIds": [],
-      "normLabel": "ask hermes",
       "communityId": "community:available-8",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "ask hermes"
     },
     {
       "id": "entity:dune-hermes",
@@ -3718,11 +3718,11 @@
         "seerr-media-requests-available-ef141443"
       ],
       "projectIds": [],
-      "normLabel": "dune\") - hermes",
       "communityId": "community:available-8",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "dune\") - hermes"
     },
     {
       "id": "entity:seerr",
@@ -3735,11 +3735,11 @@
         "seerr-media-requests-available-ef141443"
       ],
       "projectIds": [],
-      "normLabel": "seerr",
       "communityId": "community:available-8",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "seerr"
     },
     {
       "id": "entity:format",
@@ -3753,11 +3753,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "format:",
       "communityId": "community:object-9",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "format:"
     },
     {
       "id": "entity:top",
@@ -3771,11 +3771,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "top-",
       "communityId": "community:object-9",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "top-"
     },
     {
       "id": "entity:size",
@@ -3789,11 +3789,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "size:",
       "communityId": "community:object-9",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "size:"
     },
     {
       "id": "entity:nested",
@@ -3807,11 +3807,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "nested",
       "communityId": "community:object-9",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "nested"
     },
     {
       "id": "entity:schema",
@@ -3825,11 +3825,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "schema -",
       "communityId": "community:object-9",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "schema -"
     },
     {
       "id": "entity:preview",
@@ -3843,11 +3843,11 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "preview",
       "communityId": "community:object-9",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "preview"
     },
     {
       "id": "entity:schema-edit",
@@ -3861,12 +3861,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "schema edit",
       "communityId": "community:should-6",
       "degree": 13,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 13"
+      "surpriseReason": "degree 13",
+      "normLabel": "schema edit"
     },
     {
       "id": "entity:swarmvault",
@@ -3880,12 +3880,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "swarmvault",
       "communityId": "community:should-6",
       "degree": 13,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 13"
+      "surpriseReason": "degree 13",
+      "normLabel": "swarmvault"
     },
     {
       "id": "entity:vault-purpose-describe",
@@ -3899,12 +3899,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "vault purpose - describe",
       "communityId": "community:should-6",
       "degree": 13,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 13"
+      "surpriseReason": "degree 13",
+      "normLabel": "vault purpose - describe"
     },
     {
       "id": "entity:naming-conventions-prefer",
@@ -3918,12 +3918,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "naming conventions - prefer",
       "communityId": "community:should-6",
       "degree": 13,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 13"
+      "surpriseReason": "degree 13",
+      "normLabel": "naming conventions - prefer"
     },
     {
       "id": "entity:page-structure-rules-source",
@@ -3937,12 +3937,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "page structure rules - source",
       "communityId": "community:should-6",
       "degree": 13,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 13"
+      "surpriseReason": "degree 13",
+      "normLabel": "page structure rules - source"
     },
     {
       "id": "entity:categories-list",
@@ -3956,12 +3956,12 @@
       ],
       "projectIds": [],
       "sourceClass": "first_party",
-      "normLabel": "categories - list",
       "communityId": "community:should-6",
       "degree": 13,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 13"
+      "surpriseReason": "degree 13",
+      "normLabel": "categories - list"
     },
     {
       "id": "entity:durmebrug",
@@ -3974,11 +3974,11 @@
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "projectIds": [],
-      "normLabel": "durmebrug",
       "communityId": "community:verkeer-11",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "durmebrug"
     },
     {
       "id": "entity:augustus-de",
@@ -3991,11 +3991,11 @@
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "projectIds": [],
-      "normLabel": "augustus de",
       "communityId": "community:verkeer-11",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "augustus de"
     },
     {
       "id": "entity:waasmunster",
@@ -4008,11 +4008,11 @@
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "projectIds": [],
-      "normLabel": "waasmunster,",
       "communityId": "community:verkeer-11",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "waasmunster,"
     },
     {
       "id": "entity:augustus-start",
@@ -4025,11 +4025,11 @@
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "projectIds": [],
-      "normLabel": "augustus start",
       "communityId": "community:verkeer-11",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "augustus start"
     },
     {
       "id": "entity:agentschap-wegen",
@@ -4042,11 +4042,11 @@
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "projectIds": [],
-      "normLabel": "agentschap wegen",
       "communityId": "community:verkeer-11",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "agentschap wegen"
     },
     {
       "id": "entity:verkeer",
@@ -4059,11 +4059,11 @@
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
       "projectIds": [],
-      "normLabel": "verkeer",
       "communityId": "community:verkeer-11",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "verkeer"
     },
     {
       "id": "entity:google-zoeken",
@@ -4081,12 +4081,12 @@
         "www-google-com-efab024d"
       ],
       "projectIds": [],
-      "normLabel": "google zoeken,",
       "communityId": "community:feedback-12",
       "degree": 13,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 13"
+      "surpriseReason": "degree 13",
+      "normLabel": "google zoeken,"
     },
     {
       "id": "entity:google",
@@ -4104,12 +4104,12 @@
         "www-google-com-efab024d"
       ],
       "projectIds": [],
-      "normLabel": "google",
       "communityId": "community:feedback-12",
       "degree": 13,
       "bridgeScore": 0,
       "isGodNode": true,
-      "surpriseReason": "degree 13"
+      "surpriseReason": "degree 13",
+      "normLabel": "google"
     },
     {
       "id": "entity:rekenmodules-aankoopkosten-van-een",
@@ -4122,11 +4122,11 @@
         "zoeken-notaris-be-832736a2"
       ],
       "projectIds": [],
-      "normLabel": "rekenmodules * aankoopkosten van een",
       "communityId": "community:over-10",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "rekenmodules * aankoopkosten van een"
     },
     {
       "id": "entity:kosten",
@@ -4139,11 +4139,11 @@
         "zoeken-notaris-be-832736a2"
       ],
       "projectIds": [],
-      "normLabel": "kosten",
       "communityId": "community:over-10",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "kosten"
     },
     {
       "id": "entity:biddit-relatie",
@@ -4156,11 +4156,11 @@
         "zoeken-notaris-be-832736a2"
       ],
       "projectIds": [],
-      "normLabel": "(biddit) * relatie",
       "communityId": "community:over-10",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "(biddit) * relatie"
     },
     {
       "id": "entity:scheiden-apart",
@@ -4173,11 +4173,11 @@
         "zoeken-notaris-be-832736a2"
       ],
       "projectIds": [],
-      "normLabel": "scheiden * apart",
       "communityId": "community:over-10",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "scheiden * apart"
     },
     {
       "id": "entity:scheiden",
@@ -4190,11 +4190,11 @@
         "zoeken-notaris-be-832736a2"
       ],
       "projectIds": [],
-      "normLabel": "scheiden",
       "communityId": "community:over-10",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "scheiden"
     },
     {
       "id": "entity:grond-van-onherstelbare",
@@ -4207,11 +4207,11 @@
         "zoeken-notaris-be-832736a2"
       ],
       "projectIds": [],
-      "normLabel": "grond van onherstelbare",
       "communityId": "community:over-10",
       "degree": 12,
       "bridgeScore": 0,
-      "isGodNode": false
+      "isGodNode": false,
+      "normLabel": "grond van onherstelbare"
     },
     {
       "id": "memory:2026-06-30T20-22-45-745Z-write-highway-noise-reduction-guide-to-workspace",
@@ -4230,12 +4230,12 @@
         "agent-memory",
         "status/completed"
       ],
-      "normLabel": "memory task: write highway noise reduction guide to workspace",
       "communityId": "community:should-6",
       "degree": 21,
       "bridgeScore": 1,
       "isGodNode": true,
-      "surpriseReason": "degree 21, bridges 2 communities, 2.7σ above mean"
+      "surpriseReason": "degree 21, bridges 2 communities, 2.7σ above mean",
+      "normLabel": "memory task: write highway noise reduction guide to workspace"
     }
   ],
   "edges": [
@@ -6638,380 +6638,6 @@
       "provenance": [
         "seerr-media-requests-available-ef141443"
       ]
-    },
-    {
-      "id": "similar-embed:07c33967066c3cc0",
-      "source": "source:web-archive-org-cdx-search-cdx-eb0bd1b9",
-      "target": "source:web-archive-org-cdx-search-cdx-f3370364",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-eb0bd1b9",
-        "web-archive-org-cdx-search-cdx-f3370364"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:0c68d63e6d39065a",
-      "source": "source:web-archive-org-cdx-search-cdx-368de9df",
-      "target": "source:web-archive-org-cdx-search-cdx-66fd206b",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-368de9df",
-        "web-archive-org-cdx-search-cdx-66fd206b"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:2919da46db8f0e80",
-      "source": "source:web-archive-org-cdx-search-cdx-81e7194d",
-      "target": "source:web-archive-org-cdx-search-cdx-e3b0c442",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-81e7194d",
-        "web-archive-org-cdx-search-cdx-e3b0c442"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:2a8f14df6de2b07a",
-      "source": "source:web-archive-org-cdx-search-cdx-c633b882",
-      "target": "source:web-archive-org-cdx-search-cdx-e3b0c442",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-c633b882",
-        "web-archive-org-cdx-search-cdx-e3b0c442"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:2ee70cd556f0c395",
-      "source": "source:web-archive-org-cdx-search-cdx-66fd206b",
-      "target": "source:web-archive-org-cdx-search-cdx-b75ec5c0",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-66fd206b",
-        "web-archive-org-cdx-search-cdx-b75ec5c0"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:2f088afba9657889",
-      "source": "source:web-archive-org-cdx-search-cdx-81e7194d",
-      "target": "source:web-archive-org-cdx-search-cdx-c633b882",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-81e7194d",
-        "web-archive-org-cdx-search-cdx-c633b882"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:2f26c8b50c2ae169",
-      "source": "source:web-archive-org-cdx-search-cdx-c633b882",
-      "target": "source:web-archive-org-cdx-search-cdx-eb0bd1b9",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-c633b882",
-        "web-archive-org-cdx-search-cdx-eb0bd1b9"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:30d8bc6bbc700fea",
-      "source": "source:web-archive-org-cdx-search-cdx-66fd206b",
-      "target": "source:web-archive-org-cdx-search-cdx-c633b882",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-66fd206b",
-        "web-archive-org-cdx-search-cdx-c633b882"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:3512939317f59b50",
-      "source": "source:web-archive-org-cdx-search-cdx-368de9df",
-      "target": "source:web-archive-org-cdx-search-cdx-81e7194d",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-368de9df",
-        "web-archive-org-cdx-search-cdx-81e7194d"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:4f908424bd9d3d70",
-      "source": "source:web-archive-org-cdx-search-cdx-e3b0c442",
-      "target": "source:web-archive-org-cdx-search-cdx-eb0bd1b9",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-e3b0c442",
-        "web-archive-org-cdx-search-cdx-eb0bd1b9"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:6c73311f92a6afb8",
-      "source": "source:web-archive-org-cdx-search-cdx-37517e5f",
-      "target": "source:web-archive-org-cdx-search-cdx-66fd206b",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-37517e5f",
-        "web-archive-org-cdx-search-cdx-66fd206b"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:6edead74e121c2ab",
-      "source": "source:web-archive-org-cdx-search-cdx-66fd206b",
-      "target": "source:web-archive-org-cdx-search-cdx-81e7194d",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-66fd206b",
-        "web-archive-org-cdx-search-cdx-81e7194d"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:860619c5e444189d",
-      "source": "source:web-archive-org-cdx-search-cdx-b75ec5c0",
-      "target": "source:web-archive-org-cdx-search-cdx-eb0bd1b9",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-b75ec5c0",
-        "web-archive-org-cdx-search-cdx-eb0bd1b9"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:9291cd3011017cd1",
-      "source": "source:web-archive-org-cdx-search-cdx-b75ec5c0",
-      "target": "source:web-archive-org-cdx-search-cdx-e3b0c442",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-b75ec5c0",
-        "web-archive-org-cdx-search-cdx-e3b0c442"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:96c0088d5ac212ad",
-      "source": "source:web-archive-org-cdx-search-cdx-81e7194d",
-      "target": "source:web-archive-org-cdx-search-cdx-b75ec5c0",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-81e7194d",
-        "web-archive-org-cdx-search-cdx-b75ec5c0"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:c6e29e15726f9ff0",
-      "source": "source:web-archive-org-cdx-search-cdx-c633b882",
-      "target": "source:web-archive-org-cdx-search-cdx-f3370364",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-c633b882",
-        "web-archive-org-cdx-search-cdx-f3370364"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:dc892e6dedbdfc1f",
-      "source": "source:swarmvault-config-a48adfce",
-      "target": "source:swarmvault-schema-b10ad2d9",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 0.834,
-      "provenance": [
-        "swarmvault-config-a48adfce",
-        "swarmvault-schema-b10ad2d9"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:ddce994524cb4566",
-      "source": "source:web-archive-org-cdx-search-cdx-b75ec5c0",
-      "target": "source:web-archive-org-cdx-search-cdx-c633b882",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-b75ec5c0",
-        "web-archive-org-cdx-search-cdx-c633b882"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:e081020dd47cdaad",
-      "source": "source:web-archive-org-cdx-search-cdx-37517e5f",
-      "target": "source:web-archive-org-cdx-search-cdx-81e7194d",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-37517e5f",
-        "web-archive-org-cdx-search-cdx-81e7194d"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:e0e7e1a3656fbf06",
-      "source": "source:web-archive-org-cdx-search-cdx-368de9df",
-      "target": "source:web-archive-org-cdx-search-cdx-37517e5f",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-368de9df",
-        "web-archive-org-cdx-search-cdx-37517e5f"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:f2d92660f13d75d2",
-      "source": "source:web-archive-org-cdx-search-cdx-e3b0c442",
-      "target": "source:web-archive-org-cdx-search-cdx-f3370364",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-e3b0c442",
-        "web-archive-org-cdx-search-cdx-f3370364"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
-    },
-    {
-      "id": "similar-embed:f7d0c40de340f447",
-      "source": "source:web-archive-org-cdx-search-cdx-37517e5f",
-      "target": "source:web-archive-org-cdx-search-cdx-b75ec5c0",
-      "relation": "semantically_similar_to",
-      "status": "inferred",
-      "evidenceClass": "inferred",
-      "confidence": 1,
-      "provenance": [
-        "web-archive-org-cdx-search-cdx-37517e5f",
-        "web-archive-org-cdx-search-cdx-b75ec5c0"
-      ],
-      "similarityReasons": [
-        "shared_tag"
-      ],
-      "similarityBasis": "embeddings"
     },
     {
       "id": "similar:084f509afb38d10e",
@@ -10939,7 +10565,7 @@
         "projects-acb5fd10"
       ],
       "createdAt": "2026-06-30T20:23:20.549Z",
-      "updatedAt": "2026-09-13T00:36:15.662Z",
+      "updatedAt": "2026-09-20T01:10:48.911Z",
       "compiledFrom": [
         "default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3"
       ],
@@ -10974,7 +10600,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.638Z",
-      "updatedAt": "2026-09-13T00:36:15.745Z",
+      "updatedAt": "2026-09-20T01:10:48.997Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-c633b882"
       ],
@@ -11009,7 +10635,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.638Z",
-      "updatedAt": "2026-09-13T00:36:15.746Z",
+      "updatedAt": "2026-09-20T01:10:48.998Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-c633b882"
       ],
@@ -11044,7 +10670,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.638Z",
-      "updatedAt": "2026-09-13T00:36:15.746Z",
+      "updatedAt": "2026-09-20T01:10:48.998Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-c633b882"
       ],
@@ -11079,7 +10705,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.639Z",
-      "updatedAt": "2026-09-13T00:36:15.747Z",
+      "updatedAt": "2026-09-20T01:10:48.999Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-c633b882"
       ],
@@ -11123,7 +10749,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.576Z",
-      "updatedAt": "2026-09-13T00:36:15.698Z",
+      "updatedAt": "2026-09-20T01:10:48.946Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
@@ -11158,7 +10784,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.597Z",
-      "updatedAt": "2026-09-13T00:36:15.749Z",
+      "updatedAt": "2026-09-20T01:10:49.001Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
@@ -11197,7 +10823,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.627Z",
-      "updatedAt": "2026-09-13T00:36:15.694Z",
+      "updatedAt": "2026-09-20T01:10:48.942Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2",
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
@@ -11240,7 +10866,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.582Z",
-      "updatedAt": "2026-09-13T00:36:15.720Z",
+      "updatedAt": "2026-09-20T01:10:48.971Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
@@ -11275,7 +10901,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.632Z",
-      "updatedAt": "2026-09-13T00:36:15.714Z",
+      "updatedAt": "2026-09-20T01:10:48.964Z",
       "compiledFrom": [
         "dovendi-domain-for-sale-2d012a62"
       ],
@@ -11310,7 +10936,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.632Z",
-      "updatedAt": "2026-09-13T00:36:15.714Z",
+      "updatedAt": "2026-09-20T01:10:48.965Z",
       "compiledFrom": [
         "dovendi-domain-for-sale-2d012a62"
       ],
@@ -11349,7 +10975,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.086Z",
-      "updatedAt": "2026-09-13T00:36:15.741Z",
+      "updatedAt": "2026-09-20T01:10:48.993Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -11384,7 +11010,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.637Z",
-      "updatedAt": "2026-09-13T00:36:15.724Z",
+      "updatedAt": "2026-09-20T01:10:48.975Z",
       "compiledFrom": [
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
@@ -11430,7 +11056,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.740Z",
-      "updatedAt": "2026-09-13T00:36:15.760Z",
+      "updatedAt": "2026-09-20T01:10:49.009Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
@@ -11465,7 +11091,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.630Z",
-      "updatedAt": "2026-09-13T00:36:15.711Z",
+      "updatedAt": "2026-09-20T01:10:48.959Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4"
       ],
@@ -11506,7 +11132,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.082Z",
-      "updatedAt": "2026-09-13T00:36:15.727Z",
+      "updatedAt": "2026-09-20T01:10:48.978Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
@@ -11541,7 +11167,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.596Z",
-      "updatedAt": "2026-09-13T00:36:15.748Z",
+      "updatedAt": "2026-09-20T01:10:49.000Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
@@ -11582,7 +11208,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.082Z",
-      "updatedAt": "2026-09-13T00:36:15.728Z",
+      "updatedAt": "2026-09-20T01:10:48.979Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
@@ -11634,7 +11260,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.865Z",
-      "updatedAt": "2026-09-13T00:36:15.735Z",
+      "updatedAt": "2026-09-20T01:10:48.987Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
@@ -11676,7 +11302,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.582Z",
-      "updatedAt": "2026-09-13T00:36:15.721Z",
+      "updatedAt": "2026-09-20T01:10:48.972Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
@@ -11722,7 +11348,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.741Z",
-      "updatedAt": "2026-09-13T00:36:15.760Z",
+      "updatedAt": "2026-09-20T01:10:49.010Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
@@ -11766,7 +11392,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.576Z",
-      "updatedAt": "2026-09-13T00:36:15.699Z",
+      "updatedAt": "2026-09-20T01:10:48.947Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
@@ -11810,7 +11436,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.577Z",
-      "updatedAt": "2026-09-13T00:36:15.699Z",
+      "updatedAt": "2026-09-20T01:10:48.947Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
@@ -11849,7 +11475,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.636Z",
-      "updatedAt": "2026-09-13T00:36:15.722Z",
+      "updatedAt": "2026-09-20T01:10:48.972Z",
       "compiledFrom": [
         "home-kepler-7ece3282",
         "home-kepler-938b95f3"
@@ -11885,7 +11511,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.633Z",
-      "updatedAt": "2026-09-13T00:36:15.715Z",
+      "updatedAt": "2026-09-20T01:10:48.965Z",
       "compiledFrom": [
         "dovendi-domain-for-sale-2d012a62"
       ],
@@ -11920,7 +11546,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.596Z",
-      "updatedAt": "2026-09-13T00:36:15.748Z",
+      "updatedAt": "2026-09-20T01:10:49.000Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
@@ -11961,7 +11587,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.083Z",
-      "updatedAt": "2026-09-13T00:36:15.730Z",
+      "updatedAt": "2026-09-20T01:10:48.982Z",
       "compiledFrom": [
         "projects-acb5fd10"
       ],
@@ -11996,7 +11622,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.633Z",
-      "updatedAt": "2026-09-13T00:36:15.715Z",
+      "updatedAt": "2026-09-20T01:10:48.966Z",
       "compiledFrom": [
         "dovendi-domain-for-sale-2d012a62"
       ],
@@ -12031,7 +11657,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.630Z",
-      "updatedAt": "2026-09-13T00:36:15.711Z",
+      "updatedAt": "2026-09-20T01:10:48.960Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4"
       ],
@@ -12070,7 +11696,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.078Z",
-      "updatedAt": "2026-09-13T00:36:15.703Z",
+      "updatedAt": "2026-09-20T01:10:48.951Z",
       "compiledFrom": [
         "candidates-5d9c2771"
       ],
@@ -12109,7 +11735,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.077Z",
-      "updatedAt": "2026-09-13T00:36:15.702Z",
+      "updatedAt": "2026-09-20T01:10:48.950Z",
       "compiledFrom": [
         "candidates-5d9c2771"
       ],
@@ -12153,7 +11779,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.577Z",
-      "updatedAt": "2026-09-13T00:36:15.700Z",
+      "updatedAt": "2026-09-20T01:10:48.948Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
@@ -12198,7 +11824,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.088Z",
-      "updatedAt": "2026-09-13T00:36:15.743Z",
+      "updatedAt": "2026-09-20T01:10:48.995Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
@@ -12249,7 +11875,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.079Z",
-      "updatedAt": "2026-09-13T00:36:15.703Z",
+      "updatedAt": "2026-09-20T01:10:48.952Z",
       "compiledFrom": [
         "candidates-5d9c2771",
         "insights-1398dcf3",
@@ -12296,7 +11922,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.088Z",
-      "updatedAt": "2026-09-13T00:36:15.744Z",
+      "updatedAt": "2026-09-20T01:10:48.996Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
@@ -12335,7 +11961,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.626Z",
-      "updatedAt": "2026-09-13T00:36:15.694Z",
+      "updatedAt": "2026-09-20T01:10:48.942Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2",
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
@@ -12381,7 +12007,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.088Z",
-      "updatedAt": "2026-09-13T00:36:15.744Z",
+      "updatedAt": "2026-09-20T01:10:48.996Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
@@ -12425,7 +12051,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.577Z",
-      "updatedAt": "2026-09-13T00:36:15.701Z",
+      "updatedAt": "2026-09-20T01:10:48.949Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
@@ -12460,7 +12086,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.631Z",
-      "updatedAt": "2026-09-13T00:36:15.713Z",
+      "updatedAt": "2026-09-20T01:10:48.962Z",
       "compiledFrom": [
         "dovendi-domain-for-sale-2d012a62"
       ],
@@ -12512,7 +12138,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.866Z",
-      "updatedAt": "2026-09-13T00:36:15.736Z",
+      "updatedAt": "2026-09-20T01:10:48.987Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
@@ -12564,7 +12190,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.867Z",
-      "updatedAt": "2026-09-13T00:36:15.738Z",
+      "updatedAt": "2026-09-20T01:10:48.990Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
@@ -12605,7 +12231,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.083Z",
-      "updatedAt": "2026-09-13T00:36:15.728Z",
+      "updatedAt": "2026-09-20T01:10:48.979Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
@@ -12640,7 +12266,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.597Z",
-      "updatedAt": "2026-09-13T00:36:15.749Z",
+      "updatedAt": "2026-09-20T01:10:49.002Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
@@ -12682,7 +12308,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.581Z",
-      "updatedAt": "2026-09-13T00:36:15.719Z",
+      "updatedAt": "2026-09-20T01:10:48.969Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
@@ -12728,7 +12354,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.740Z",
-      "updatedAt": "2026-09-13T00:36:15.754Z",
+      "updatedAt": "2026-09-20T01:10:49.008Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
@@ -12774,7 +12400,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.741Z",
-      "updatedAt": "2026-09-13T00:36:15.761Z",
+      "updatedAt": "2026-09-20T01:10:49.010Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
@@ -12809,7 +12435,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.628Z",
-      "updatedAt": "2026-09-13T00:36:15.697Z",
+      "updatedAt": "2026-09-20T01:10:48.945Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
@@ -12844,7 +12470,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.637Z",
-      "updatedAt": "2026-09-13T00:36:15.725Z",
+      "updatedAt": "2026-09-20T01:10:48.975Z",
       "compiledFrom": [
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
@@ -12883,7 +12509,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.086Z",
-      "updatedAt": "2026-09-13T00:36:15.740Z",
+      "updatedAt": "2026-09-20T01:10:48.992Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -12943,7 +12569,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.597Z",
-      "updatedAt": "2026-09-13T00:36:15.750Z",
+      "updatedAt": "2026-09-20T01:10:49.002Z",
       "compiledFrom": [
         "www-google-com-30f04687",
         "www-google-com-3d8570f8",
@@ -12983,7 +12609,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.637Z",
-      "updatedAt": "2026-09-13T00:36:15.725Z",
+      "updatedAt": "2026-09-20T01:10:48.976Z",
       "compiledFrom": [
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
@@ -13018,7 +12644,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.739Z",
-      "updatedAt": "2026-09-13T00:36:15.708Z",
+      "updatedAt": "2026-09-20T01:10:48.956Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
@@ -13068,7 +12694,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.307Z",
-      "updatedAt": "2026-09-13T00:36:15.733Z",
+      "updatedAt": "2026-09-20T01:10:48.984Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
@@ -13118,7 +12744,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.308Z",
-      "updatedAt": "2026-09-13T00:36:15.733Z",
+      "updatedAt": "2026-09-20T01:10:48.985Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
@@ -13178,7 +12804,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.598Z",
-      "updatedAt": "2026-09-13T00:36:15.751Z",
+      "updatedAt": "2026-09-20T01:10:49.003Z",
       "compiledFrom": [
         "www-google-com-30f04687",
         "www-google-com-3d8570f8",
@@ -13218,7 +12844,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.637Z",
-      "updatedAt": "2026-09-13T00:36:15.726Z",
+      "updatedAt": "2026-09-20T01:10:48.976Z",
       "compiledFrom": [
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
@@ -13253,7 +12879,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.628Z",
-      "updatedAt": "2026-09-13T00:36:15.696Z",
+      "updatedAt": "2026-09-20T01:10:48.944Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
@@ -13313,7 +12939,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.598Z",
-      "updatedAt": "2026-09-13T00:36:15.751Z",
+      "updatedAt": "2026-09-20T01:10:49.004Z",
       "compiledFrom": [
         "www-google-com-30f04687",
         "www-google-com-3d8570f8",
@@ -13370,7 +12996,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.866Z",
-      "updatedAt": "2026-09-13T00:36:15.737Z",
+      "updatedAt": "2026-09-20T01:10:48.989Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
@@ -13409,7 +13035,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.086Z",
-      "updatedAt": "2026-09-13T00:36:15.741Z",
+      "updatedAt": "2026-09-20T01:10:48.993Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -13469,7 +13095,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.598Z",
-      "updatedAt": "2026-09-13T00:36:15.752Z",
+      "updatedAt": "2026-09-20T01:10:49.005Z",
       "compiledFrom": [
         "www-google-com-30f04687",
         "www-google-com-3d8570f8",
@@ -13509,7 +13135,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.627Z",
-      "updatedAt": "2026-09-13T00:36:15.695Z",
+      "updatedAt": "2026-09-20T01:10:48.943Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
@@ -13544,7 +13170,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.638Z",
-      "updatedAt": "2026-09-13T00:36:15.745Z",
+      "updatedAt": "2026-09-20T01:10:48.997Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-c633b882"
       ],
@@ -13589,7 +13215,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.128Z",
-      "updatedAt": "2026-09-13T00:36:15.704Z",
+      "updatedAt": "2026-09-20T01:10:48.952Z",
       "compiledFrom": [
         "candidates-5d9c2771",
         "projects-acb5fd10"
@@ -13625,7 +13251,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.739Z",
-      "updatedAt": "2026-09-13T00:36:15.708Z",
+      "updatedAt": "2026-09-20T01:10:48.957Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
@@ -13660,7 +13286,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.739Z",
-      "updatedAt": "2026-09-13T00:36:15.709Z",
+      "updatedAt": "2026-09-20T01:10:48.957Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
@@ -13701,7 +13327,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.081Z",
-      "updatedAt": "2026-09-13T00:36:15.726Z",
+      "updatedAt": "2026-09-20T01:10:48.977Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
@@ -13744,7 +13370,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.629Z",
-      "updatedAt": "2026-09-13T00:36:15.710Z",
+      "updatedAt": "2026-09-20T01:10:48.958Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4",
         "home-kepler-7ece3282",
@@ -13785,7 +13411,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.633Z",
-      "updatedAt": "2026-09-13T00:36:15.716Z",
+      "updatedAt": "2026-09-20T01:10:48.966Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72",
         "web-archive-org-cdx-search-cdx-c633b882"
@@ -13825,7 +13451,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.085Z",
-      "updatedAt": "2026-09-13T00:36:15.739Z",
+      "updatedAt": "2026-09-20T01:10:48.991Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -13885,7 +13511,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.598Z",
-      "updatedAt": "2026-09-13T00:36:15.752Z",
+      "updatedAt": "2026-09-20T01:10:49.005Z",
       "compiledFrom": [
         "www-google-com-30f04687",
         "www-google-com-3d8570f8",
@@ -13925,7 +13551,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.738Z",
-      "updatedAt": "2026-09-13T00:36:15.707Z",
+      "updatedAt": "2026-09-20T01:10:48.955Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
@@ -13969,7 +13595,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.577Z",
-      "updatedAt": "2026-09-13T00:36:15.701Z",
+      "updatedAt": "2026-09-20T01:10:48.949Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
@@ -14008,7 +13634,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.085Z",
-      "updatedAt": "2026-09-13T00:36:15.740Z",
+      "updatedAt": "2026-09-20T01:10:48.992Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -14043,7 +13669,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-29T23:56:49.933Z",
-      "updatedAt": "2026-09-13T00:36:15.729Z",
+      "updatedAt": "2026-09-20T01:10:48.980Z",
       "compiledFrom": [
         "myprivacy-dpgmedia-be-16f062da"
       ],
@@ -14078,7 +13704,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-29T23:56:49.934Z",
-      "updatedAt": "2026-09-13T00:36:15.729Z",
+      "updatedAt": "2026-09-20T01:10:48.980Z",
       "compiledFrom": [
         "myprivacy-dpgmedia-be-16f062da"
       ],
@@ -14113,7 +13739,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.597Z",
-      "updatedAt": "2026-09-13T00:36:15.748Z",
+      "updatedAt": "2026-09-20T01:10:49.001Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
@@ -14152,7 +13778,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.636Z",
-      "updatedAt": "2026-09-13T00:36:15.723Z",
+      "updatedAt": "2026-09-20T01:10:48.973Z",
       "compiledFrom": [
         "home-kepler-7ece3282",
         "home-kepler-938b95f3"
@@ -14195,7 +13821,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.581Z",
-      "updatedAt": "2026-09-13T00:36:15.719Z",
+      "updatedAt": "2026-09-20T01:10:48.969Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
@@ -14230,7 +13856,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.632Z",
-      "updatedAt": "2026-09-13T00:36:15.713Z",
+      "updatedAt": "2026-09-20T01:10:48.963Z",
       "compiledFrom": [
         "dovendi-domain-for-sale-2d012a62"
       ],
@@ -14265,7 +13891,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.635Z",
-      "updatedAt": "2026-09-13T00:36:15.718Z",
+      "updatedAt": "2026-09-20T01:10:48.968Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
@@ -14304,7 +13930,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.636Z",
-      "updatedAt": "2026-09-13T00:36:15.723Z",
+      "updatedAt": "2026-09-20T01:10:48.974Z",
       "compiledFrom": [
         "home-kepler-7ece3282",
         "home-kepler-938b95f3"
@@ -14344,7 +13970,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.084Z",
-      "updatedAt": "2026-09-13T00:36:15.739Z",
+      "updatedAt": "2026-09-20T01:10:48.991Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -14379,7 +14005,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.631Z",
-      "updatedAt": "2026-09-13T00:36:15.712Z",
+      "updatedAt": "2026-09-20T01:10:48.961Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4"
       ],
@@ -14425,7 +14051,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.740Z",
-      "updatedAt": "2026-09-13T00:36:15.754Z",
+      "updatedAt": "2026-09-20T01:10:49.007Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
@@ -14467,7 +14093,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.582Z",
-      "updatedAt": "2026-09-13T00:36:15.721Z",
+      "updatedAt": "2026-09-20T01:10:48.971Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
@@ -14506,7 +14132,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.080Z",
-      "updatedAt": "2026-09-13T00:36:15.705Z",
+      "updatedAt": "2026-09-20T01:10:48.953Z",
       "compiledFrom": [
         "candidates-5d9c2771"
       ],
@@ -14541,7 +14167,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.738Z",
-      "updatedAt": "2026-09-13T00:36:15.706Z",
+      "updatedAt": "2026-09-20T01:10:48.954Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
@@ -14576,7 +14202,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.631Z",
-      "updatedAt": "2026-09-13T00:36:15.712Z",
+      "updatedAt": "2026-09-20T01:10:48.962Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4"
       ],
@@ -14636,7 +14262,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.599Z",
-      "updatedAt": "2026-09-13T00:36:15.753Z",
+      "updatedAt": "2026-09-20T01:10:49.006Z",
       "compiledFrom": [
         "www-google-com-30f04687",
         "www-google-com-3d8570f8",
@@ -14680,7 +14306,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.636Z",
-      "updatedAt": "2026-09-13T00:36:15.724Z",
+      "updatedAt": "2026-09-20T01:10:48.974Z",
       "compiledFrom": [
         "home-kepler-7ece3282",
         "home-kepler-938b95f3"
@@ -14722,7 +14348,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.084Z",
-      "updatedAt": "2026-09-13T00:36:15.731Z",
+      "updatedAt": "2026-09-20T01:10:48.982Z",
       "compiledFrom": [
         "projects-acb5fd10"
       ],
@@ -14763,7 +14389,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.083Z",
-      "updatedAt": "2026-09-13T00:36:15.730Z",
+      "updatedAt": "2026-09-20T01:10:48.981Z",
       "compiledFrom": [
         "projects-acb5fd10"
       ],
@@ -14804,7 +14430,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.084Z",
-      "updatedAt": "2026-09-13T00:36:15.731Z",
+      "updatedAt": "2026-09-20T01:10:48.983Z",
       "compiledFrom": [
         "projects-acb5fd10"
       ],
@@ -14850,7 +14476,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.740Z",
-      "updatedAt": "2026-09-13T00:36:15.759Z",
+      "updatedAt": "2026-09-20T01:10:49.008Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
@@ -14900,7 +14526,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.306Z",
-      "updatedAt": "2026-09-13T00:36:15.732Z",
+      "updatedAt": "2026-09-20T01:10:48.983Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
@@ -14950,7 +14576,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.307Z",
-      "updatedAt": "2026-09-13T00:36:15.732Z",
+      "updatedAt": "2026-09-20T01:10:48.984Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
@@ -15002,7 +14628,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.867Z",
-      "updatedAt": "2026-09-13T00:36:15.737Z",
+      "updatedAt": "2026-09-20T01:10:48.989Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
@@ -15047,7 +14673,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.087Z",
-      "updatedAt": "2026-09-13T00:36:15.742Z",
+      "updatedAt": "2026-09-20T01:10:48.994Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
@@ -15099,7 +14725,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.866Z",
-      "updatedAt": "2026-09-13T00:36:15.736Z",
+      "updatedAt": "2026-09-20T01:10:48.988Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
@@ -15144,7 +14770,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.087Z",
-      "updatedAt": "2026-09-13T00:36:15.742Z",
+      "updatedAt": "2026-09-20T01:10:48.994Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
@@ -15183,7 +14809,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.080Z",
-      "updatedAt": "2026-09-13T00:36:15.705Z",
+      "updatedAt": "2026-09-20T01:10:48.953Z",
       "compiledFrom": [
         "candidates-5d9c2771"
       ],
@@ -15218,7 +14844,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.635Z",
-      "updatedAt": "2026-09-13T00:36:15.717Z",
+      "updatedAt": "2026-09-20T01:10:48.968Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
@@ -15259,7 +14885,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.081Z",
-      "updatedAt": "2026-09-13T00:36:15.727Z",
+      "updatedAt": "2026-09-20T01:10:48.978Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
@@ -15294,7 +14920,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.629Z",
-      "updatedAt": "2026-09-13T00:36:15.697Z",
+      "updatedAt": "2026-09-20T01:10:48.945Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
@@ -15339,7 +14965,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.088Z",
-      "updatedAt": "2026-09-13T00:36:15.743Z",
+      "updatedAt": "2026-09-20T01:10:48.995Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
@@ -15374,7 +15000,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.596Z",
-      "updatedAt": "2026-09-13T00:36:15.747Z",
+      "updatedAt": "2026-09-20T01:10:48.999Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
@@ -15424,7 +15050,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.308Z",
-      "updatedAt": "2026-09-13T00:36:15.734Z",
+      "updatedAt": "2026-09-20T01:10:48.986Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
@@ -15474,7 +15100,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.308Z",
-      "updatedAt": "2026-09-13T00:36:15.734Z",
+      "updatedAt": "2026-09-20T01:10:48.986Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
@@ -15521,7 +15147,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.738Z",
-      "updatedAt": "2026-09-13T00:36:15.706Z",
+      "updatedAt": "2026-09-20T01:10:48.955Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da",
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72",
@@ -15559,7 +15185,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.630Z",
-      "updatedAt": "2026-09-13T00:36:15.710Z",
+      "updatedAt": "2026-09-20T01:10:48.958Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4"
       ],
@@ -15594,7 +15220,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.635Z",
-      "updatedAt": "2026-09-13T00:36:15.717Z",
+      "updatedAt": "2026-09-20T01:10:48.968Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
@@ -15629,7 +15255,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.634Z",
-      "updatedAt": "2026-09-13T00:36:15.716Z",
+      "updatedAt": "2026-09-20T01:10:48.967Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
@@ -15671,7 +15297,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.581Z",
-      "updatedAt": "2026-09-13T00:36:15.720Z",
+      "updatedAt": "2026-09-20T01:10:48.970Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
@@ -15695,8 +15321,8 @@
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-09-13T00:40:36.927Z",
-      "updatedAt": "2026-09-13T00:40:36.927Z",
+      "createdAt": "2026-09-20T01:10:50.563Z",
+      "updatedAt": "2026-09-20T01:10:50.563Z",
       "compiledFrom": [],
       "managedBy": "system"
     },
@@ -15718,8 +15344,8 @@
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-09-13T00:40:36.923Z",
-      "updatedAt": "2026-09-13T00:40:36.923Z",
+      "createdAt": "2026-09-20T01:10:50.560Z",
+      "updatedAt": "2026-09-20T01:10:50.560Z",
       "compiledFrom": [],
       "managedBy": "system"
     },
@@ -15741,8 +15367,8 @@
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-09-13T00:40:36.927Z",
-      "updatedAt": "2026-09-13T00:40:36.927Z",
+      "createdAt": "2026-09-20T01:10:50.563Z",
+      "updatedAt": "2026-09-20T01:10:50.563Z",
       "compiledFrom": [],
       "managedBy": "system"
     },
@@ -15764,8 +15390,8 @@
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-09-13T00:40:36.925Z",
-      "updatedAt": "2026-09-13T00:40:36.925Z",
+      "createdAt": "2026-09-20T01:10:50.561Z",
+      "updatedAt": "2026-09-20T01:10:50.561Z",
       "compiledFrom": [],
       "managedBy": "system"
     },
@@ -15777,21 +15403,21 @@
       "sourceIds": [
         "zoeken-notaris-be-832736a2",
         "www-google-com-efab024d",
-        "www-google-com-a1e017e6",
         "www-google-com-d149a56e",
         "www-google-com-8ca38364",
+        "www-google-com-a1e017e6",
         "www-google-com-3d8570f8",
-        "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4",
         "www-google-com-30f04687",
+        "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4",
         "web-archive-org-cdx-search-cdx-eb0bd1b9",
         "web-archive-org-cdx-search-cdx-f3370364",
         "web-archive-org-cdx-search-cdx-c633b882",
         "web-archive-org-cdx-search-cdx-e3b0c442",
-        "web-archive-org-cdx-search-cdx-81e7194d",
         "web-archive-org-cdx-search-cdx-b75ec5c0",
         "web-archive-org-cdx-search-cdx-66fd206b",
-        "web-archive-org-cdx-search-cdx-37517e5f",
+        "web-archive-org-cdx-search-cdx-81e7194d",
         "web-archive-org-cdx-search-cdx-368de9df",
+        "web-archive-org-cdx-search-cdx-37517e5f",
         "swarmvault-schema-b10ad2d9",
         "swarmvault-config-a48adfce",
         "seerr-media-requests-available-ef141443"
@@ -15808,26 +15434,26 @@
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-09-13T00:40:36.924Z",
-      "updatedAt": "2026-09-13T00:40:36.924Z",
+      "createdAt": "2026-09-20T01:10:50.560Z",
+      "updatedAt": "2026-09-20T01:10:50.560Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2",
         "www-google-com-efab024d",
-        "www-google-com-a1e017e6",
         "www-google-com-d149a56e",
         "www-google-com-8ca38364",
+        "www-google-com-a1e017e6",
         "www-google-com-3d8570f8",
-        "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4",
         "www-google-com-30f04687",
+        "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4",
         "web-archive-org-cdx-search-cdx-eb0bd1b9",
         "web-archive-org-cdx-search-cdx-f3370364",
         "web-archive-org-cdx-search-cdx-c633b882",
         "web-archive-org-cdx-search-cdx-e3b0c442",
-        "web-archive-org-cdx-search-cdx-81e7194d",
         "web-archive-org-cdx-search-cdx-b75ec5c0",
         "web-archive-org-cdx-search-cdx-66fd206b",
-        "web-archive-org-cdx-search-cdx-37517e5f",
+        "web-archive-org-cdx-search-cdx-81e7194d",
         "web-archive-org-cdx-search-cdx-368de9df",
+        "web-archive-org-cdx-search-cdx-37517e5f",
         "swarmvault-schema-b10ad2d9",
         "swarmvault-config-a48adfce",
         "seerr-media-requests-available-ef141443"
@@ -15852,8 +15478,8 @@
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-09-13T00:40:36.927Z",
-      "updatedAt": "2026-09-13T00:40:36.927Z",
+      "createdAt": "2026-09-20T01:10:50.562Z",
+      "updatedAt": "2026-09-20T01:10:50.562Z",
       "compiledFrom": [],
       "managedBy": "system"
     },
@@ -15875,8 +15501,8 @@
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-09-13T00:40:36.926Z",
-      "updatedAt": "2026-09-13T00:40:36.926Z",
+      "createdAt": "2026-09-20T01:10:50.562Z",
+      "updatedAt": "2026-09-20T01:10:50.562Z",
       "compiledFrom": [],
       "managedBy": "system"
     },
@@ -15898,8 +15524,8 @@
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-09-13T00:40:36.926Z",
-      "updatedAt": "2026-09-13T00:40:36.926Z",
+      "createdAt": "2026-09-20T01:10:50.562Z",
+      "updatedAt": "2026-09-20T01:10:50.562Z",
       "compiledFrom": [],
       "managedBy": "system"
     },
@@ -15921,8 +15547,8 @@
       "relatedPageIds": [],
       "relatedNodeIds": [],
       "relatedSourceIds": [],
-      "createdAt": "2026-09-13T00:40:36.925Z",
-      "updatedAt": "2026-09-13T00:40:36.925Z",
+      "createdAt": "2026-09-20T01:10:50.561Z",
+      "updatedAt": "2026-09-20T01:10:50.561Z",
       "compiledFrom": [],
       "managedBy": "system"
     },
@@ -15962,7 +15588,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.602Z",
-      "updatedAt": "2026-09-13T00:36:15.781Z",
+      "updatedAt": "2026-09-20T01:10:49.033Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
@@ -15997,7 +15623,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.611Z",
-      "updatedAt": "2026-09-13T00:36:15.804Z",
+      "updatedAt": "2026-09-20T01:10:49.055Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
@@ -16032,7 +15658,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.682Z",
-      "updatedAt": "2026-09-13T00:36:15.777Z",
+      "updatedAt": "2026-09-20T01:10:49.029Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
@@ -16067,7 +15693,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.685Z",
-      "updatedAt": "2026-09-13T00:36:15.786Z",
+      "updatedAt": "2026-09-20T01:10:49.038Z",
       "compiledFrom": [
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
@@ -16119,7 +15745,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.881Z",
-      "updatedAt": "2026-09-13T00:36:15.792Z",
+      "updatedAt": "2026-09-20T01:10:49.044Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
@@ -16154,7 +15780,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.610Z",
-      "updatedAt": "2026-09-13T00:36:15.803Z",
+      "updatedAt": "2026-09-20T01:10:49.053Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
@@ -16189,7 +15815,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.611Z",
-      "updatedAt": "2026-09-13T00:36:15.804Z",
+      "updatedAt": "2026-09-20T01:10:49.054Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
@@ -16224,7 +15850,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.772Z",
-      "updatedAt": "2026-09-13T00:36:15.771Z",
+      "updatedAt": "2026-09-20T01:10:49.023Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
@@ -16259,7 +15885,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.682Z",
-      "updatedAt": "2026-09-13T00:36:15.778Z",
+      "updatedAt": "2026-09-20T01:10:49.030Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
@@ -16305,7 +15931,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.773Z",
-      "updatedAt": "2026-09-13T00:36:15.808Z",
+      "updatedAt": "2026-09-20T01:10:49.058Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
@@ -16344,7 +15970,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.089Z",
-      "updatedAt": "2026-09-13T00:36:15.770Z",
+      "updatedAt": "2026-09-20T01:10:49.022Z",
       "compiledFrom": [
         "candidates-5d9c2771"
       ],
@@ -16383,7 +16009,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.089Z",
-      "updatedAt": "2026-09-13T00:36:15.769Z",
+      "updatedAt": "2026-09-20T01:10:49.021Z",
       "compiledFrom": [
         "candidates-5d9c2771"
       ],
@@ -16428,7 +16054,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.093Z",
-      "updatedAt": "2026-09-13T00:36:15.802Z",
+      "updatedAt": "2026-09-20T01:10:49.052Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
@@ -16463,7 +16089,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.771Z",
-      "updatedAt": "2026-09-13T00:36:15.771Z",
+      "updatedAt": "2026-09-20T01:10:49.023Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
@@ -16498,7 +16124,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.682Z",
-      "updatedAt": "2026-09-13T00:36:15.779Z",
+      "updatedAt": "2026-09-20T01:10:49.030Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
@@ -16533,7 +16159,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.685Z",
-      "updatedAt": "2026-09-13T00:36:15.785Z",
+      "updatedAt": "2026-09-20T01:10:49.037Z",
       "compiledFrom": [
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
@@ -16568,7 +16194,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.679Z",
-      "updatedAt": "2026-09-13T00:36:15.763Z",
+      "updatedAt": "2026-09-20T01:10:49.016Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
@@ -16603,7 +16229,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.680Z",
-      "updatedAt": "2026-09-13T00:36:15.765Z",
+      "updatedAt": "2026-09-20T01:10:49.017Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
@@ -16638,7 +16264,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.680Z",
-      "updatedAt": "2026-09-13T00:36:15.764Z",
+      "updatedAt": "2026-09-20T01:10:49.016Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
@@ -16682,7 +16308,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.600Z",
-      "updatedAt": "2026-09-13T00:36:15.767Z",
+      "updatedAt": "2026-09-20T01:10:49.019Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
@@ -16726,7 +16352,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.600Z",
-      "updatedAt": "2026-09-13T00:36:15.767Z",
+      "updatedAt": "2026-09-20T01:10:49.020Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
@@ -16761,7 +16387,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.681Z",
-      "updatedAt": "2026-09-13T00:36:15.776Z",
+      "updatedAt": "2026-09-20T01:10:49.028Z",
       "compiledFrom": [
         "dovendi-domain-for-sale-2d012a62"
       ],
@@ -16813,7 +16439,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.881Z",
-      "updatedAt": "2026-09-13T00:36:15.793Z",
+      "updatedAt": "2026-09-20T01:10:49.045Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
@@ -16848,7 +16474,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.610Z",
-      "updatedAt": "2026-09-13T00:36:15.802Z",
+      "updatedAt": "2026-09-20T01:10:49.053Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
@@ -16887,7 +16513,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.772Z",
-      "updatedAt": "2026-09-13T00:36:15.773Z",
+      "updatedAt": "2026-09-20T01:10:49.025Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da",
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
@@ -16938,7 +16564,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.356Z",
-      "updatedAt": "2026-09-13T00:36:15.789Z",
+      "updatedAt": "2026-09-20T01:10:49.041Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
@@ -16980,7 +16606,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.601Z",
-      "updatedAt": "2026-09-13T00:36:15.780Z",
+      "updatedAt": "2026-09-20T01:10:49.031Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
@@ -17034,7 +16660,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.603Z",
-      "updatedAt": "2026-09-13T00:36:15.783Z",
+      "updatedAt": "2026-09-20T01:10:49.034Z",
       "compiledFrom": [
         "erfbelasting-b24e8569",
         "schenkbelasting-da146a89"
@@ -17074,7 +16700,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.090Z",
-      "updatedAt": "2026-09-13T00:36:15.795Z",
+      "updatedAt": "2026-09-20T01:10:49.046Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -17109,7 +16735,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.681Z",
-      "updatedAt": "2026-09-13T00:36:15.775Z",
+      "updatedAt": "2026-09-20T01:10:49.027Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4"
       ],
@@ -17169,7 +16795,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.611Z",
-      "updatedAt": "2026-09-13T00:36:15.805Z",
+      "updatedAt": "2026-09-20T01:10:49.056Z",
       "compiledFrom": [
         "www-google-com-30f04687",
         "www-google-com-3d8570f8",
@@ -17234,7 +16860,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.612Z",
-      "updatedAt": "2026-09-13T00:36:15.806Z",
+      "updatedAt": "2026-09-20T01:10:49.056Z",
       "compiledFrom": [
         "www-google-com-30f04687",
         "www-google-com-3d8570f8",
@@ -17285,7 +16911,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.774Z",
-      "updatedAt": "2026-09-13T00:36:15.810Z",
+      "updatedAt": "2026-09-20T01:10:49.059Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
@@ -17335,7 +16961,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.357Z",
-      "updatedAt": "2026-09-13T00:36:15.790Z",
+      "updatedAt": "2026-09-20T01:10:49.042Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
@@ -17387,7 +17013,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.880Z",
-      "updatedAt": "2026-09-13T00:36:15.791Z",
+      "updatedAt": "2026-09-20T01:10:49.043Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
@@ -17426,7 +17052,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.684Z",
-      "updatedAt": "2026-09-13T00:36:15.784Z",
+      "updatedAt": "2026-09-20T01:10:49.036Z",
       "compiledFrom": [
         "home-kepler-7ece3282",
         "home-kepler-938b95f3"
@@ -17462,7 +17088,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.679Z",
-      "updatedAt": "2026-09-13T00:36:15.762Z",
+      "updatedAt": "2026-09-20T01:10:49.015Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
@@ -17514,7 +17140,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.880Z",
-      "updatedAt": "2026-09-13T00:36:15.792Z",
+      "updatedAt": "2026-09-20T01:10:49.044Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
@@ -17555,7 +17181,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.090Z",
-      "updatedAt": "2026-09-13T00:36:15.786Z",
+      "updatedAt": "2026-09-20T01:10:49.038Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
@@ -17590,7 +17216,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.683Z",
-      "updatedAt": "2026-09-13T00:36:15.779Z",
+      "updatedAt": "2026-09-20T01:10:49.031Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
@@ -17636,7 +17262,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.773Z",
-      "updatedAt": "2026-09-13T00:36:15.807Z",
+      "updatedAt": "2026-09-20T01:10:49.057Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
@@ -17683,7 +17309,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.681Z",
-      "updatedAt": "2026-09-13T00:36:15.776Z",
+      "updatedAt": "2026-09-20T01:10:49.028Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4",
         "home-kepler-7ece3282",
@@ -17730,7 +17356,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.092Z",
-      "updatedAt": "2026-09-13T00:36:15.800Z",
+      "updatedAt": "2026-09-20T01:10:49.051Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
@@ -17769,7 +17395,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.091Z",
-      "updatedAt": "2026-09-13T00:36:15.796Z",
+      "updatedAt": "2026-09-20T01:10:49.048Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -17804,7 +17430,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.682Z",
-      "updatedAt": "2026-09-13T00:36:15.778Z",
+      "updatedAt": "2026-09-20T01:10:49.029Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
@@ -17839,7 +17465,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.681Z",
-      "updatedAt": "2026-09-13T00:36:15.774Z",
+      "updatedAt": "2026-09-20T01:10:49.026Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4"
       ],
@@ -17878,7 +17504,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.684Z",
-      "updatedAt": "2026-09-13T00:36:15.784Z",
+      "updatedAt": "2026-09-20T01:10:49.035Z",
       "compiledFrom": [
         "home-kepler-7ece3282",
         "home-kepler-938b95f3"
@@ -17914,7 +17540,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.680Z",
-      "updatedAt": "2026-09-13T00:36:15.774Z",
+      "updatedAt": "2026-09-20T01:10:49.026Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4"
       ],
@@ -17959,7 +17585,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.093Z",
-      "updatedAt": "2026-09-13T00:36:15.801Z",
+      "updatedAt": "2026-09-20T01:10:49.052Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
@@ -17994,7 +17620,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.772Z",
-      "updatedAt": "2026-09-13T00:36:15.772Z",
+      "updatedAt": "2026-09-20T01:10:49.024Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
@@ -18033,7 +17659,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.091Z",
-      "updatedAt": "2026-09-13T00:36:15.798Z",
+      "updatedAt": "2026-09-20T01:10:49.049Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -18068,7 +17694,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.772Z",
-      "updatedAt": "2026-09-13T00:36:15.772Z",
+      "updatedAt": "2026-09-20T01:10:49.025Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
@@ -18109,7 +17735,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.090Z",
-      "updatedAt": "2026-09-13T00:36:15.787Z",
+      "updatedAt": "2026-09-20T01:10:49.039Z",
       "compiledFrom": [
         "projects-acb5fd10"
       ],
@@ -18155,7 +17781,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.773Z",
-      "updatedAt": "2026-09-13T00:36:15.807Z",
+      "updatedAt": "2026-09-20T01:10:49.057Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
@@ -18199,7 +17825,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.600Z",
-      "updatedAt": "2026-09-13T00:36:15.768Z",
+      "updatedAt": "2026-09-20T01:10:49.020Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
@@ -18245,7 +17871,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.773Z",
-      "updatedAt": "2026-09-13T00:36:15.808Z",
+      "updatedAt": "2026-09-20T01:10:49.058Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
@@ -18291,7 +17917,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.773Z",
-      "updatedAt": "2026-09-13T00:36:15.809Z",
+      "updatedAt": "2026-09-20T01:10:49.059Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],
@@ -18336,7 +17962,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.092Z",
-      "updatedAt": "2026-09-13T00:36:15.799Z",
+      "updatedAt": "2026-09-20T01:10:49.050Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
@@ -18375,7 +18001,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.091Z",
-      "updatedAt": "2026-09-13T00:36:15.797Z",
+      "updatedAt": "2026-09-20T01:10:49.049Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -18425,7 +18051,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.355Z",
-      "updatedAt": "2026-09-13T00:36:15.788Z",
+      "updatedAt": "2026-09-20T01:10:49.040Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
@@ -18477,7 +18103,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.880Z",
-      "updatedAt": "2026-09-13T00:36:15.790Z",
+      "updatedAt": "2026-09-20T01:10:49.042Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
@@ -18529,7 +18155,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.881Z",
-      "updatedAt": "2026-09-13T00:36:15.794Z",
+      "updatedAt": "2026-09-20T01:10:49.045Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
@@ -18568,7 +18194,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.091Z",
-      "updatedAt": "2026-09-13T00:36:15.796Z",
+      "updatedAt": "2026-09-20T01:10:49.047Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -18613,7 +18239,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.092Z",
-      "updatedAt": "2026-09-13T00:36:15.799Z",
+      "updatedAt": "2026-09-20T01:10:49.050Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
@@ -18652,7 +18278,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.090Z",
-      "updatedAt": "2026-09-13T00:36:15.795Z",
+      "updatedAt": "2026-09-20T01:10:49.047Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -18696,7 +18322,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.601Z",
-      "updatedAt": "2026-09-13T00:36:15.769Z",
+      "updatedAt": "2026-09-20T01:10:49.021Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
@@ -18741,7 +18367,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.092Z",
-      "updatedAt": "2026-09-13T00:36:15.800Z",
+      "updatedAt": "2026-09-20T01:10:49.051Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
@@ -18785,7 +18411,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.599Z",
-      "updatedAt": "2026-09-13T00:36:15.766Z",
+      "updatedAt": "2026-09-20T01:10:49.019Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
@@ -18829,7 +18455,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.599Z",
-      "updatedAt": "2026-09-13T00:36:15.766Z",
+      "updatedAt": "2026-09-20T01:10:49.018Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
@@ -18864,7 +18490,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.611Z",
-      "updatedAt": "2026-09-13T00:36:15.805Z",
+      "updatedAt": "2026-09-20T01:10:49.055Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
@@ -18899,7 +18525,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.680Z",
-      "updatedAt": "2026-09-13T00:36:15.764Z",
+      "updatedAt": "2026-09-20T01:10:49.017Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
@@ -18941,7 +18567,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.602Z",
-      "updatedAt": "2026-09-13T00:36:15.781Z",
+      "updatedAt": "2026-09-20T01:10:49.033Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
@@ -18983,7 +18609,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.602Z",
-      "updatedAt": "2026-09-13T00:36:15.780Z",
+      "updatedAt": "2026-09-20T01:10:49.032Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
@@ -19022,7 +18648,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.684Z",
-      "updatedAt": "2026-09-13T00:36:15.783Z",
+      "updatedAt": "2026-09-20T01:10:49.035Z",
       "compiledFrom": [
         "home-kepler-7ece3282",
         "home-kepler-938b95f3"
@@ -19058,7 +18684,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.610Z",
-      "updatedAt": "2026-09-13T00:36:15.803Z",
+      "updatedAt": "2026-09-20T01:10:49.054Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
@@ -19108,7 +18734,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.356Z",
-      "updatedAt": "2026-09-13T00:36:15.788Z",
+      "updatedAt": "2026-09-20T01:10:49.040Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
@@ -19143,7 +18769,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.681Z",
-      "updatedAt": "2026-09-13T00:36:15.775Z",
+      "updatedAt": "2026-09-20T01:10:49.027Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4"
       ],
@@ -19182,7 +18808,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.684Z",
-      "updatedAt": "2026-09-13T00:36:15.785Z",
+      "updatedAt": "2026-09-20T01:10:49.036Z",
       "compiledFrom": [
         "home-kepler-7ece3282",
         "home-kepler-938b95f3"
@@ -19237,7 +18863,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.602Z",
-      "updatedAt": "2026-09-13T00:36:15.782Z",
+      "updatedAt": "2026-09-20T01:10:49.034Z",
       "compiledFrom": [
         "erfbelasting-b24e8569",
         "schenkbelasting-da146a89"
@@ -19273,7 +18899,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.679Z",
-      "updatedAt": "2026-09-13T00:36:15.762Z",
+      "updatedAt": "2026-09-20T01:10:49.014Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
@@ -20099,7 +19725,7 @@
         "swarmvault-config-a48adfce"
       ],
       "createdAt": "2026-09-11T00:37:27.375Z",
-      "updatedAt": "2026-09-11T00:37:27.375Z",
+      "updatedAt": "2026-09-18T07:01:54.410Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -20486,6 +20112,7 @@
         "source:swarmvault-schema-b10ad2d9",
         "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
         "concept:build",
+        "concept:project",
         "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:build-note.function",
         "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:main.function",
         "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:parse-args.function",
@@ -20561,6 +20188,7 @@
         "source:swarmvault-schema-b10ad2d9",
         "module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3",
         "concept:build",
+        "concept:project",
         "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:build-note.function",
         "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:main.function",
         "symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:parse-args.function",
@@ -20577,7 +20205,7 @@
         "swarmvault-config-a48adfce"
       ],
       "createdAt": "2026-05-22T19:04:20.117Z",
-      "updatedAt": "2026-09-13T00:40:36.574Z",
+      "updatedAt": "2026-09-20T01:10:50.215Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2",
         "bouwinfo-f8d17c05",
@@ -20738,7 +20366,7 @@
         "zoeken-notaris-be-832736a2"
       ],
       "createdAt": "2026-05-22T19:04:20.119Z",
-      "updatedAt": "2026-09-13T00:40:36.577Z",
+      "updatedAt": "2026-09-20T01:10:50.217Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2",
         "bouwinfo-f8d17c05",
@@ -22419,7 +22047,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.603Z",
-      "updatedAt": "2026-09-13T00:36:15.653Z",
+      "updatedAt": "2026-09-20T01:10:48.902Z",
       "compiledFrom": [
         "40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2"
       ],
@@ -22486,7 +22114,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.547Z",
-      "updatedAt": "2026-09-13T00:36:15.655Z",
+      "updatedAt": "2026-09-20T01:10:48.904Z",
       "compiledFrom": [
         "bouwinfo-f8d17c05"
       ],
@@ -22544,7 +22172,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.070Z",
-      "updatedAt": "2026-09-13T00:36:15.656Z",
+      "updatedAt": "2026-09-20T01:10:48.905Z",
       "compiledFrom": [
         "candidates-5d9c2771"
       ],
@@ -22600,7 +22228,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.727Z",
-      "updatedAt": "2026-09-13T00:36:15.658Z",
+      "updatedAt": "2026-09-20T01:10:48.907Z",
       "compiledFrom": [
         "centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da"
       ],
@@ -22656,7 +22284,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.608Z",
-      "updatedAt": "2026-09-13T00:36:15.659Z",
+      "updatedAt": "2026-09-20T01:10:48.908Z",
       "compiledFrom": [
         "de-notaris-notaris-be-8b0bd2a4"
       ],
@@ -22715,7 +22343,7 @@
       ],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.549Z",
-      "updatedAt": "2026-09-13T00:36:15.660Z",
+      "updatedAt": "2026-09-20T01:10:48.909Z",
       "compiledFrom": [
         "default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3"
       ],
@@ -22763,7 +22391,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.610Z",
-      "updatedAt": "2026-09-13T00:36:15.663Z",
+      "updatedAt": "2026-09-20T01:10:48.912Z",
       "compiledFrom": [
         "dovendi-domain-for-sale-2d012a62"
       ],
@@ -22821,7 +22449,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.611Z",
-      "updatedAt": "2026-09-13T00:36:15.664Z",
+      "updatedAt": "2026-09-20T01:10:48.913Z",
       "compiledFrom": [
         "een-woning-die-zijn-tijd-lichtjaren-vooruit-is-182f7a72"
       ],
@@ -22894,7 +22522,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.571Z",
-      "updatedAt": "2026-09-13T00:36:15.665Z",
+      "updatedAt": "2026-09-20T01:10:48.913Z",
       "compiledFrom": [
         "erfbelasting-b24e8569"
       ],
@@ -22952,7 +22580,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.612Z",
-      "updatedAt": "2026-09-13T00:36:15.666Z",
+      "updatedAt": "2026-09-20T01:10:48.914Z",
       "compiledFrom": [
         "home-kepler-7ece3282"
       ],
@@ -23010,7 +22638,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.613Z",
-      "updatedAt": "2026-09-13T00:36:15.667Z",
+      "updatedAt": "2026-09-20T01:10:48.915Z",
       "compiledFrom": [
         "home-kepler-938b95f3"
       ],
@@ -23060,7 +22688,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.613Z",
-      "updatedAt": "2026-09-13T00:36:15.673Z",
+      "updatedAt": "2026-09-20T01:10:48.916Z",
       "compiledFrom": [
         "house-for-sale-diepenbeek-3590-immoweb-6f7c1e11"
       ],
@@ -23116,7 +22744,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.071Z",
-      "updatedAt": "2026-09-13T00:36:15.674Z",
+      "updatedAt": "2026-09-20T01:10:48.916Z",
       "compiledFrom": [
         "insights-1398dcf3"
       ],
@@ -23154,7 +22782,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-29T23:56:49.926Z",
-      "updatedAt": "2026-09-13T00:36:15.675Z",
+      "updatedAt": "2026-09-20T01:10:48.917Z",
       "compiledFrom": [
         "myprivacy-dpgmedia-be-16f062da"
       ],
@@ -23210,7 +22838,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.072Z",
-      "updatedAt": "2026-09-13T00:36:15.676Z",
+      "updatedAt": "2026-09-20T01:10:48.918Z",
       "compiledFrom": [
         "projects-acb5fd10"
       ],
@@ -23283,7 +22911,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T17:51:22.290Z",
-      "updatedAt": "2026-09-13T00:36:15.677Z",
+      "updatedAt": "2026-09-20T01:10:48.924Z",
       "compiledFrom": [
         "schenkbelasting-da146a89"
       ],
@@ -23358,7 +22986,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-25T19:18:17.829Z",
-      "updatedAt": "2026-09-13T00:36:15.678Z",
+      "updatedAt": "2026-09-20T01:10:48.926Z",
       "compiledFrom": [
         "seerr-media-requests-available-ef141443"
       ],
@@ -23420,7 +23048,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.072Z",
-      "updatedAt": "2026-09-13T00:36:15.679Z",
+      "updatedAt": "2026-09-20T01:10:48.927Z",
       "compiledFrom": [
         "swarmvault-config-a48adfce"
       ],
@@ -23488,7 +23116,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-05-22T19:04:20.076Z",
-      "updatedAt": "2026-09-13T00:36:15.680Z",
+      "updatedAt": "2026-09-20T01:10:48.928Z",
       "compiledFrom": [
         "swarmvault-schema-b10ad2d9"
       ],
@@ -23521,7 +23149,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.619Z",
-      "updatedAt": "2026-09-13T00:36:15.681Z",
+      "updatedAt": "2026-09-20T01:10:48.929Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-368de9df"
       ],
@@ -23554,7 +23182,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.619Z",
-      "updatedAt": "2026-09-13T00:36:15.682Z",
+      "updatedAt": "2026-09-20T01:10:48.929Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-37517e5f"
       ],
@@ -23587,7 +23215,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.619Z",
-      "updatedAt": "2026-09-13T00:36:15.683Z",
+      "updatedAt": "2026-09-20T01:10:48.930Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-66fd206b"
       ],
@@ -23620,7 +23248,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.619Z",
-      "updatedAt": "2026-09-13T00:36:15.684Z",
+      "updatedAt": "2026-09-20T01:10:48.930Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-81e7194d"
       ],
@@ -23653,7 +23281,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.620Z",
-      "updatedAt": "2026-09-13T00:36:15.684Z",
+      "updatedAt": "2026-09-20T01:10:48.931Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-b75ec5c0"
       ],
@@ -23699,7 +23327,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.620Z",
-      "updatedAt": "2026-09-13T00:36:15.685Z",
+      "updatedAt": "2026-09-20T01:10:48.932Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-c633b882"
       ],
@@ -23732,7 +23360,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.620Z",
-      "updatedAt": "2026-09-13T00:36:15.685Z",
+      "updatedAt": "2026-09-20T01:10:48.932Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-e3b0c442"
       ],
@@ -23765,7 +23393,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.621Z",
-      "updatedAt": "2026-09-13T00:36:15.686Z",
+      "updatedAt": "2026-09-20T01:10:48.933Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-eb0bd1b9"
       ],
@@ -23798,7 +23426,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.621Z",
-      "updatedAt": "2026-09-13T00:36:15.686Z",
+      "updatedAt": "2026-09-20T01:10:48.933Z",
       "compiledFrom": [
         "web-archive-org-cdx-search-cdx-f3370364"
       ],
@@ -23856,7 +23484,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.575Z",
-      "updatedAt": "2026-09-13T00:36:15.687Z",
+      "updatedAt": "2026-09-20T01:10:48.934Z",
       "compiledFrom": [
         "wegbeheerder-van-vlaamse-gewest-en-snelwegen-a003e9d4"
       ],
@@ -23911,7 +23539,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.622Z",
-      "updatedAt": "2026-09-13T00:36:15.687Z",
+      "updatedAt": "2026-09-20T01:10:48.935Z",
       "compiledFrom": [
         "www-google-com-30f04687"
       ],
@@ -23966,7 +23594,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.622Z",
-      "updatedAt": "2026-09-13T00:36:15.688Z",
+      "updatedAt": "2026-09-20T01:10:48.936Z",
       "compiledFrom": [
         "www-google-com-3d8570f8"
       ],
@@ -24021,7 +23649,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.623Z",
-      "updatedAt": "2026-09-13T00:36:15.689Z",
+      "updatedAt": "2026-09-20T01:10:48.937Z",
       "compiledFrom": [
         "www-google-com-8ca38364"
       ],
@@ -24076,7 +23704,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-06-30T20:23:20.576Z",
-      "updatedAt": "2026-09-13T00:36:15.690Z",
+      "updatedAt": "2026-09-20T01:10:48.937Z",
       "compiledFrom": [
         "www-google-com-a1e017e6"
       ],
@@ -24131,7 +23759,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.624Z",
-      "updatedAt": "2026-09-13T00:36:15.690Z",
+      "updatedAt": "2026-09-20T01:10:48.938Z",
       "compiledFrom": [
         "www-google-com-d149a56e"
       ],
@@ -24186,7 +23814,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-03T23:35:19.624Z",
-      "updatedAt": "2026-09-13T00:36:15.691Z",
+      "updatedAt": "2026-09-20T01:10:48.939Z",
       "compiledFrom": [
         "www-google-com-efab024d"
       ],
@@ -24255,7 +23883,7 @@
       "relatedNodeIds": [],
       "relatedSourceIds": [],
       "createdAt": "2026-07-02T18:00:14.738Z",
-      "updatedAt": "2026-09-13T00:36:15.692Z",
+      "updatedAt": "2026-09-20T01:10:48.940Z",
       "compiledFrom": [
         "zoeken-notaris-be-832736a2"
       ],

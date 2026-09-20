@@ -41,6 +41,7 @@ node_ids: &ref_0
   - >-
     module:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3
   - 'concept:build'
+  - 'concept:project'
   - >-
     symbol:default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3:build-note.function
   - >-
@@ -57,7 +58,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.117Z'
-updated_at: '2026-09-13T00:40:36.574Z'
+updated_at: '2026-09-20T01:10:50.215Z'
 compiled_from:
   - 40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2
   - bouwinfo-f8d17c05
@@ -149,10 +150,10 @@ related_source_ids: *ref_1
 ## Overview
 
 - Nodes: 237
-- Edges: 359
+- Edges: 337
 - Pages: 251
 - Communities: 15
-- Default Focus: First-party nodes/pages (56 nodes, 68 edges, 50 pages).
+- Default Focus: First-party nodes/pages (56 nodes, 67 edges, 50 pages).
 
 ## Repo Quality Warnings
 
@@ -167,19 +168,19 @@ related_source_ids: *ref_1
 
 ## Benchmark Summary
 
-- Generated At: 2026-09-13T00:40:36.535Z
+- Generated At: 2026-09-20T01:10:50.187Z
 - Status: Fresh
 - Naive Corpus Tokens: 5505
-- Final Context Tokens: 2449
+- Final Context Tokens: 2387
 - Unique Nodes Considered: 24
-- Reduction Ratio: 55.5%
+- Reduction Ratio: 56.6%
 - Questions: 3
 
 ### Benchmark By Source Class
 
 | Class | Sources | Pages | Nodes | God Nodes | Naive Tokens | Guided Tokens | Reduction |
 | ----- | ------- | ----- | ----- | --------- | ------------ | ------------- | --------- |
-| First-party | 6 | 50 | 56 | 14 | 5505 | 1823 | 66.9% |
+| First-party | 6 | 50 | 56 | 14 | 5505 | 1631 | 70.4% |
 | Third-party | 0 | 0 | 0 | 0 | 0 | 0 | 0.0% |
 | Resource | 0 | 0 | 0 | 0 | 0 | 0 | 0.0% |
 | Generated | 0 | 0 | 0 | 0 | 0 | 0 | 0.0% |
@@ -207,8 +208,8 @@ related_source_ids: *ref_1
 - [[sources/candidates-5d9c2771|Candidates]] (source, degree=10, bridge=1)
 - [[sources/default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3|Default to the inbox of whichever vault this script is deployed in]] (source, degree=1, bridge=1)
 - [[sources/insights-1398dcf3|Insights]] (source, degree=9, bridge=1)
-- [[sources/swarmvault-config-a48adfce|swarmvault.config]] (source, degree=13, bridge=1)
-- [[sources/swarmvault-schema-b10ad2d9|SwarmVault Schema]] (source, degree=14, bridge=1)
+- [[sources/swarmvault-config-a48adfce|swarmvault.config]] (source, degree=12, bridge=1)
+- [[sources/swarmvault-schema-b10ad2d9|SwarmVault Schema]] (source, degree=13, bridge=1)
 - [[concepts/compile|compile]] (concept, degree=22, bridge=1)
 - [[concepts/index|index]] (concept, degree=15, bridge=1)
 
@@ -238,12 +239,12 @@ related_source_ids: *ref_1
 
 - [[sources/candidates-5d9c2771|Candidates]] semantically_similar_to [[sources/projects-acb5fd10|Projects]] (inferred, 0.96). Why: it crosses communities community:candidates-3 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern. Candidates connects to Projects because it crosses communities community:candidates-3 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern. Path: Candidates -> Projects.
 - [[sources/insights-1398dcf3|Insights]] semantically_similar_to [[sources/projects-acb5fd10|Projects]] (inferred, 0.92). Why: it crosses communities community:candidates-3 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern. Insights connects to Projects because it crosses communities community:candidates-3 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern. Path: Insights -> Projects.
-- [[sources/swarmvault-config-a48adfce|swarmvault.config]] semantically_similar_to [[sources/swarmvault-schema-b10ad2d9|SwarmVault Schema]] (inferred, 0.83). Why: it crosses communities community:object-9 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared tags.. swarmvault.config connects to SwarmVault Schema because it crosses communities community:object-9 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared tags.. Path: swarmvault.config -> SwarmVault Schema.
 - [[sources/candidates-5d9c2771|Candidates]] semantically_similar_to [[sources/insights-1398dcf3|Insights]] (inferred, 0.92). Why: it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern. Candidates connects to Insights because it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern. Path: Candidates -> Insights.
 - [[sources/projects-acb5fd10|Projects]] mentions [[concepts/compile|compile]] (extracted, 0.55). Why: it crosses communities community:should-6 and community:candidates-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved; it also appears in 1 group pattern. Projects connects to compile because it crosses communities community:should-6 and community:candidates-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved; it also appears in 1 group pattern. Path: Projects -> compile.
 - [[sources/default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3|Default to the inbox of whichever vault this script is deployed in]] contains_code [[code/default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3|Default to the inbox of whichever vault this script is deployed in module]] (extracted, 1.00). Why: it spans different canonical pages; it bridges source and module nodes; a bridge node is involved. Default to the inbox of whichever vault this script is deployed in connects to Default to the inbox of whichever vault this script is deployed in module because it spans different canonical pages; it bridges source and module nodes; a bridge node is involved. Path: Default to the inbox of whichever vault this script is deployed in -> Default to the inbox of whichever vault this script is deployed in module.
 - [[sources/projects-acb5fd10|Projects]] mentions [[concepts/build|build]] (extracted, 0.55). Why: it crosses communities community:should-6 and community:candidates-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved. Projects connects to build because it crosses communities community:should-6 and community:candidates-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved. Path: Projects -> build.
 - [[sources/projects-acb5fd10|Projects]] mentions [[concepts/index|index]] (extracted, 0.55). Why: it crosses communities community:should-6 and community:candidates-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved. Projects connects to index because it crosses communities community:should-6 and community:candidates-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved. Path: Projects -> index.
+- [[sources/projects-acb5fd10|Projects]] mentions [[concepts/project|project]] (extracted, 0.55). Why: it crosses communities community:should-6 and community:candidates-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved. Projects connects to project because it crosses communities community:should-6 and community:candidates-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved. Path: Projects -> project.
 
 ## Contradictions
 

@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-13T00:40:36.915Z",
-  "graphHash": "7cc87cf54440dd43489fcdcaecf6ba86252a2c1eabea218498942acb7d375199",
+  "generatedAt": "2026-09-20T01:10:50.554Z",
+  "graphHash": "03e10acf7912f4e1c540782692707d847dc3dddf159c3025c14915d0f670290b",
   "overview": {
     "nodes": 237,
-    "edges": 359,
+    "edges": 337,
     "pages": 251,
     "communities": 15
   },
   "firstPartyOverview": {
     "nodes": 56,
-    "edges": 68,
+    "edges": 67,
     "pages": 50,
     "communities": 4
   },
@@ -39,15 +39,15 @@
     "Non-first-party material accounts for 76.4% of graph nodes."
   ],
   "benchmark": {
-    "generatedAt": "2026-09-13T00:40:36.535Z",
+    "generatedAt": "2026-09-20T01:10:50.187Z",
     "stale": false,
     "summary": {
       "questionCount": 3,
       "uniqueVisitedNodes": 24,
-      "finalContextTokens": 2449,
+      "finalContextTokens": 2387,
       "naiveCorpusTokens": 5505,
-      "avgReduction": 0.555,
-      "reductionRatio": 0.555
+      "avgReduction": 0.566,
+      "reductionRatio": 0.566
     },
     "questionCount": 3,
     "byClass": {
@@ -56,9 +56,9 @@
         "pageCount": 50,
         "nodeCount": 56,
         "godNodeCount": 14,
-        "finalContextTokens": 1823,
+        "finalContextTokens": 1631,
         "naiveCorpusTokens": 5505,
-        "reductionRatio": 0.669
+        "reductionRatio": 0.704
       },
       "third_party": {
         "sourceCount": 0,
@@ -236,14 +236,14 @@
       "nodeId": "source:swarmvault-config-a48adfce",
       "label": "swarmvault.config",
       "pageId": "source:swarmvault-config-a48adfce",
-      "degree": 13,
+      "degree": 12,
       "bridgeScore": 1
     },
     {
       "nodeId": "source:swarmvault-schema-b10ad2d9",
       "label": "SwarmVault Schema",
       "pageId": "source:swarmvault-schema-b10ad2d9",
-      "degree": 14,
+      "degree": 13,
       "bridgeScore": 1
     },
     {
@@ -314,32 +314,6 @@
       "pathSummary": "Insights -> Projects",
       "why": "it crosses communities community:candidates-3 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern",
       "explanation": "Insights connects to Projects because it crosses communities community:candidates-3 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared concepts.; it also appears in 1 group pattern."
-    },
-    {
-      "id": "similar-embed:dc892e6dedbdfc1f",
-      "sourceNodeId": "source:swarmvault-config-a48adfce",
-      "sourceLabel": "swarmvault.config",
-      "targetNodeId": "source:swarmvault-schema-b10ad2d9",
-      "targetLabel": "SwarmVault Schema",
-      "relation": "semantically_similar_to",
-      "evidenceClass": "inferred",
-      "confidence": 0.834,
-      "pathNodeIds": [
-        "source:swarmvault-config-a48adfce",
-        "source:swarmvault-schema-b10ad2d9"
-      ],
-      "pathEdgeIds": [
-        "similar-embed:dc892e6dedbdfc1f"
-      ],
-      "pathRelations": [
-        "semantically_similar_to"
-      ],
-      "pathEvidenceClasses": [
-        "inferred"
-      ],
-      "pathSummary": "swarmvault.config -> SwarmVault Schema",
-      "why": "it crosses communities community:object-9 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared tags.",
-      "explanation": "swarmvault.config connects to SwarmVault Schema because it crosses communities community:object-9 and community:should-6; it spans different canonical pages; a bridge node is involved; This link is inferred from shared tags.."
     },
     {
       "id": "similar:320c5f8d7ed72f3a",
@@ -470,6 +444,32 @@
       "pathSummary": "Projects -> index",
       "why": "it crosses communities community:should-6 and community:candidates-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved",
       "explanation": "Projects connects to index because it crosses communities community:should-6 and community:candidates-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved."
+    },
+    {
+      "id": "projects-acb5fd10->concept:project",
+      "sourceNodeId": "source:projects-acb5fd10",
+      "sourceLabel": "Projects",
+      "targetNodeId": "concept:project",
+      "targetLabel": "project",
+      "relation": "mentions",
+      "evidenceClass": "extracted",
+      "confidence": 0.55,
+      "pathNodeIds": [
+        "source:projects-acb5fd10",
+        "concept:project"
+      ],
+      "pathEdgeIds": [
+        "projects-acb5fd10->concept:project"
+      ],
+      "pathRelations": [
+        "mentions"
+      ],
+      "pathEvidenceClasses": [
+        "extracted"
+      ],
+      "pathSummary": "Projects -> project",
+      "why": "it crosses communities community:should-6 and community:candidates-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved",
+      "explanation": "Projects connects to project because it crosses communities community:should-6 and community:candidates-3; it spans different canonical pages; it bridges source and concept nodes; a bridge node is involved."
     }
   ],
   "groupPatterns": [
