@@ -32,8 +32,8 @@ node_ids: &ref_0
 freshness: fresh
 status: active
 confidence: 1
-created_at: '2026-09-11T00:37:27.378Z'
-updated_at: '2026-09-11T00:37:27.378Z'
+created_at: '2026-09-22T23:10:38.725Z'
+updated_at: '2026-09-22T23:10:38.725Z'
 compiled_from:
   - default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3
 managed_by: system

@@ -19,7 +19,7 @@ freshness: fresh
 status: active
 confidence: 0.95
 created_at: '2026-05-22T19:04:20.079Z'
-updated_at: '2026-09-20T01:10:48.952Z'
+updated_at: '2026-09-26T18:03:24.136Z'
 compiled_from:
   - candidates-5d9c2771
   - insights-1398dcf3
@@ -45,7 +45,7 @@ source_semantic_hashes:
   insights-1398dcf3: 7ed98748976e1b249ce944a23513c98359945683c317056d0d40b761308abce6
   projects-acb5fd10: c17f3824f10f7496c534034df6643e9aab08bdb9431f5d9bfa9f2ac000bf6187
 decay_score: 1
-last_confirmed_at: '2026-09-20T01:10:49.595Z'
+last_confirmed_at: '2026-09-26T18:03:24.990Z'
 ---
 # compile
 

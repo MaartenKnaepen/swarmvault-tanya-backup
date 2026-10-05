@@ -248,7 +248,7 @@ question: >-
 output_format: markdown
 output_assets: []
 decay_score: 1
-last_confirmed_at: '2026-09-20T01:10:49.595Z'
+last_confirmed_at: '2026-09-26T18:03:24.990Z'
 ---
 # What are the legal requirements for selling a rental property in Belgium Flanders 2025-2026?
 

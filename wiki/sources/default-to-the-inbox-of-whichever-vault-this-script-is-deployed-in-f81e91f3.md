@@ -34,7 +34,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-06-30T20:23:20.549Z'
-updated_at: '2026-09-20T01:10:48.909Z'
+updated_at: '2026-09-26T18:03:24.082Z'
 compiled_from:
   - default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3
 managed_by: system
@@ -53,7 +53,7 @@ source_hashes:
 source_semantic_hashes:
   default-to-the-inbox-of-whichever-vault-this-script-is-deployed-in-f81e91f3: f81e91f3e4a64f06e8847dc2b72fa5039c6167b690ee160502a4481720619774
 decay_score: 1
-last_confirmed_at: '2026-09-20T01:10:49.595Z'
+last_confirmed_at: '2026-09-26T18:03:24.990Z'
 ---
 # Default to the inbox of whichever vault this script is deployed in
 

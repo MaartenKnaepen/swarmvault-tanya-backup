@@ -61,7 +61,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.119Z'
-updated_at: '2026-09-20T01:10:50.217Z'
+updated_at: '2026-09-26T18:03:25.605Z'
 compiled_from:
   - 40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2
   - bouwinfo-f8d17c05

@@ -30,7 +30,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-07-02T18:00:14.727Z'
-updated_at: '2026-09-20T01:10:48.907Z'
+updated_at: '2026-09-26T18:03:24.079Z'
 compiled_from:
   - >-
     centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da
@@ -53,7 +53,7 @@ source_hashes:
 source_semantic_hashes:
   centrale-voor-kredieten-aan-particulieren-ckp-nationale-bank-van-belgi-139f25da: 3a34dbee82e703c756cfc0f5ffd2d5759beae7d655e2dd2eebcd4d50723914c0
 decay_score: 1
-last_confirmed_at: '2026-09-20T01:10:49.595Z'
+last_confirmed_at: '2026-09-26T18:03:24.990Z'
 ---
 # Centrale voor kredieten aan particulieren (CKP) | Nationale Bank van België
 
