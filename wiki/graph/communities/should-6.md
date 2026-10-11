@@ -30,8 +30,8 @@ node_ids: &ref_0
 freshness: fresh
 status: active
 confidence: 1
-created_at: '2026-09-22T23:10:38.722Z'
-updated_at: '2026-09-22T23:10:38.722Z'
+created_at: '2026-10-08T02:36:52.665Z'
+updated_at: '2026-10-08T02:36:52.665Z'
 compiled_from:
   - swarmvault-schema-b10ad2d9
   - projects-acb5fd10

@@ -16,7 +16,7 @@ freshness: fresh
 status: active
 confidence: 0.65
 created_at: '2026-06-30T20:23:20.582Z'
-updated_at: '2026-09-26T18:03:24.160Z'
+updated_at: '2026-10-11T00:18:54.503Z'
 compiled_from:
   - erfbelasting-b24e8569
 managed_by: system
@@ -34,7 +34,7 @@ source_hashes:
 source_semantic_hashes:
   erfbelasting-b24e8569: a98141e022fec13c05396570c335351d5280ea0a14b15d508fddbae5f544d67e
 decay_score: 1
-last_confirmed_at: '2026-09-26T18:03:24.990Z'
+last_confirmed_at: '2026-10-11T00:18:55.081Z'
 ---
 # overledene
 

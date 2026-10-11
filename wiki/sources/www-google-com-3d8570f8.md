@@ -24,7 +24,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-07-03T23:35:19.622Z'
-updated_at: '2026-09-26T18:03:24.116Z'
+updated_at: '2026-10-11T00:18:54.466Z'
 compiled_from:
   - www-google-com-3d8570f8
 managed_by: system
@@ -47,7 +47,7 @@ source_hashes:
 source_semantic_hashes:
   www-google-com-3d8570f8: 476afd9b4724675be5cb1e486d1dfc74cde636654b94ac91bf054375443847f6
 decay_score: 1
-last_confirmed_at: '2026-09-26T18:03:24.990Z'
+last_confirmed_at: '2026-10-11T00:18:55.081Z'
 ---
 # www.google.com
 

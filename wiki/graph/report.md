@@ -58,7 +58,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-05-22T19:04:20.117Z'
-updated_at: '2026-09-26T18:03:25.603Z'
+updated_at: '2026-10-11T00:18:55.692Z'
 compiled_from:
   - 40-houses-for-sale-in-diepenbeek-3590-immoweb-4e3cc1d2
   - bouwinfo-f8d17c05
@@ -168,7 +168,7 @@ related_source_ids: *ref_1
 
 ## Benchmark Summary
 
-- Generated At: 2026-09-26T18:03:25.574Z
+- Generated At: 2026-10-11T00:18:55.662Z
 - Status: Fresh
 - Naive Corpus Tokens: 5505
 - Final Context Tokens: 2387

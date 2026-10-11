@@ -16,7 +16,7 @@ freshness: fresh
 status: active
 confidence: 0.65
 created_at: '2026-06-30T20:23:20.601Z'
-updated_at: '2026-09-26T18:03:24.224Z'
+updated_at: '2026-10-11T00:18:54.556Z'
 compiled_from:
   - bouwinfo-f8d17c05
 managed_by: system
@@ -36,7 +36,7 @@ source_hashes:
 source_semantic_hashes:
   bouwinfo-f8d17c05: 6ae5e47ea0baf0ab91e731ea68175f8e877a947683392e4fd0dab98621da003d
 decay_score: 1
-last_confirmed_at: '2026-09-26T18:03:24.990Z'
+last_confirmed_at: '2026-10-11T00:18:55.081Z'
 ---
 # Tuin Categorie Topics Berichten Laatste
 

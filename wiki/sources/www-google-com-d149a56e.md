@@ -24,7 +24,7 @@ freshness: fresh
 status: active
 confidence: 1
 created_at: '2026-07-03T23:35:19.624Z'
-updated_at: '2026-09-26T18:03:24.119Z'
+updated_at: '2026-10-11T00:18:54.468Z'
 compiled_from:
   - www-google-com-d149a56e
 managed_by: system
@@ -47,7 +47,7 @@ source_hashes:
 source_semantic_hashes:
   www-google-com-d149a56e: b28038d0acf7fb157380d913880960340cd5a578ef3c22b160abaee49af46368
 decay_score: 1
-last_confirmed_at: '2026-09-26T18:03:24.990Z'
+last_confirmed_at: '2026-10-11T00:18:55.081Z'
 ---
 # www.google.com
 
